@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/qed-artifacts/dictionary-of-quality-content/blob/main/schemas/catalog.v1.schema.json",
+  "title": "Dictionary of Quality released glossary catalog",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema", "entries"],
+  "properties": {
+    "schema": {"const": "qed-glossary-public-catalog-v1"},
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["object_id", "revision_id", "path"],
+        "properties": {
+          "object_id": {"type": "string", "pattern": "^glossary\\.[a-z0-9]+([.-][a-z0-9]+)*$"},
+          "revision_id": {"type": "string", "pattern": "^revision\\.glossary\\.[a-f0-9]{24}$"},
+          "path": {"type": "string", "pattern": "^entries/[a-z0-9-]+/[a-z0-9-]+/revision\\.glossary\\.[a-f0-9]{24}\\.json$"}
+        }
+      }
+    }
+  }
+}
