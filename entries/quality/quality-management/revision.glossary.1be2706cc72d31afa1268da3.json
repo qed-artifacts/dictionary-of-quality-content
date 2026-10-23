@@ -1,0 +1,32 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality.quality-management",
+  "revision_id": "revision.glossary.1be2706cc72d31afa1268da3",
+  "headword": "Quality",
+  "scope_label": "quality management",
+  "definition": "Quality is how well an object’s relevant characteristics fulfill the requirements used to judge it.",
+  "explanation": [
+    "Here, relevant characteristics are inherent characteristics of the object that bear on the applicable requirements. An attribute merely assigned to the object is outside this definition of quality.",
+    "In quality management, object can mean a product, service, process, organization, or other subject of assessment.",
+    "Requirements may be stated, generally implied, or obligatory; they are not limited to written specifications."
+  ],
+  "references": [
+    {
+      "reference": "International Organization for Standardization. (2026). ISO 9000:2026, Quality management — Fundamentals and vocabulary (5th ed.).",
+      "url": "https://www.iso.org/obp/ui?_escaped_fragment_=iso:std:iso:9000:ed-5:v1:en",
+      "locators": [
+        "§3.5.1",
+        "§3.5.2",
+        "§3.5.3"
+      ]
+    }
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
