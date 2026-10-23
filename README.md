@@ -18,4 +18,4 @@ Original glossary prose is dedicated to the public domain under [CC0 1.0](LICENS
 
 Run node scripts/validate.mjs before proposing a release. A public object records its stable ID, source-linked revision ID, bounded scope, original text, bibliographic references, license scope, and actual review labels. Publication on GitHub is verified against the private release manifest and merged Git commit. No independent external review is implied by owner or internal validation.
 
-There are no released glossary objects yet. The first proposed object, Quality in the quality-management sense, remains in private review.
+The catalog is the authority for which objects are currently released. Drafts and pending review objects remain in the private publication store.
