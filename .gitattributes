@@ -1,0 +1,5 @@
+*.json text eol=lf
+*.md text eol=lf
+*.mjs text eol=lf
+LICENSE text eol=lf
+LICENSE-CODE text eol=lf
