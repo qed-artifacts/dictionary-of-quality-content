@@ -1,4 +1,10 @@
 {
   "schema": "qed-glossary-public-catalog-v1",
-  "entries": []
+  "entries": [
+    {
+      "object_id": "glossary.quality.quality-management",
+      "revision_id": "revision.glossary.1be2706cc72d31afa1268da3",
+      "path": "entries/quality/quality-management/revision.glossary.1be2706cc72d31afa1268da3.json"
+    }
+  ]
 }
