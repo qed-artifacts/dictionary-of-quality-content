@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-audit.quality-management",
+  "revision_id": "revision.glossary.18216bdadc03a1ec3986aca9",
+  "headword": "Quality audit",
+  "scope_label": "systematic quality-related audit against stated criteria",
+  "definition": "A quality audit is a systematic, documented, and independent assessment of a quality-related product, process, or system against stated audit criteria.",
+  "explanation": [
+    "It uses relevant, verifiable evidence to determine where the criteria are met and where findings require attention. The scope and criteria must be named before a finding can be interpreted.",
+    "An audit may examine a product, a process, or a management system. Inspection of an output can contribute evidence, but an audit also considers the wider questions set by its scope."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
