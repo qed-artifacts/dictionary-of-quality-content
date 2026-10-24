@@ -22,6 +22,11 @@
       "path": "entries/characteristic/descriptive-feature-of-an-object/revision.glossary.aca3b6a3e0f323a5c349110e.json"
     },
     {
+      "object_id": "glossary.conformance.requirements",
+      "revision_id": "revision.glossary.10b2067d2e8a622a2a451f6e",
+      "path": "entries/conformance/meeting-stated-requirements/revision.glossary.10b2067d2e8a622a2a451f6e.json"
+    },
+    {
       "object_id": "glossary.criterion.evaluative",
       "revision_id": "revision.glossary.a8e93785e84cad52415a19a9",
       "path": "entries/criterion/evaluative-basis-or-consideration/revision.glossary.a8e93785e84cad52415a19a9.json"
