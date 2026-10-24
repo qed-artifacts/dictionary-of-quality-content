@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.continuous-improvement.recurring-change",
+  "revision_id": "revision.glossary.4d8b5a4158d53319bbc59f9a",
+  "headword": "Continuous improvement",
+  "scope_label": "recurring evidence-guided improvement work",
+  "definition": "Continuous improvement is recurring, organized work to improve how a process or system meets its aims.",
+  "explanation": [
+    "It starts with a stated need and a proposed change, then checks what actually happened. An unsuccessful test can still produce useful learning.",
+    "Effective changes should become part of routine practice and remain open to later review. Continuous does not mean that performance rises without interruption or that every change is beneficial."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
