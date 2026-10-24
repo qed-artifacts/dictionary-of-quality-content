@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-profile.multidimensional",
+  "revision_id": "revision.glossary.9da218dd0cb422b7c0a87912",
+  "headword": "Quality profile",
+  "scope_label": "structured multi-aspect representation",
+  "definition": "A quality profile is a structured view of how an object fares across specified aspects of quality.",
+  "explanation": [
+    "It identifies the object and the aspects represented, with observations, assessments, or values for each. A profile can preserve differences that a single overall score would conceal.",
+    "In data and information quality, profiles can be computed at the level of an item, flow, process, or organization. Extending the term beyond that domain requires a stated framework and evidence."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
