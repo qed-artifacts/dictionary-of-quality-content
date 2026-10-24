@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.source.evidence-origin",
+  "revision_id": "revision.glossary.172606d37365ddb64a193cf3",
+  "headword": "Source",
+  "scope_label": "origin of information used for a claim",
+  "definition": "In an inquiry, a source is a person, record, dataset, or other origin from which information relevant to a claim is obtained.",
+  "explanation": [
+    "Identify the particular source and the version or location used so someone can inspect the same material. Testimony, documents, and other records can play different evidential roles.",
+    "A citation identifies where information came from; it does not by itself show that the source is accurate or that it supports the claim made from it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
