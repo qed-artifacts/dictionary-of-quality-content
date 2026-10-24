@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-judgment.evaluative",
+  "revision_id": "revision.glossary.29dd77c42f034e9cc44e0591",
+  "headword": "Quality judgment",
+  "scope_label": "cross-domain evaluative conclusion",
+  "definition": "A quality judgment is a reasoned conclusion about how well an object meets relevant requirements or evaluative criteria.",
+  "explanation": [
+    "It identifies the object and the basis for judging it, interprets pertinent evidence, and states the resulting appraisal.",
+    "The conclusion may be qualified when evidence is incomplete or criteria conflict."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
