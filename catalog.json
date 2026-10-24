@@ -242,6 +242,11 @@
       "path": "entries/process-capability/stable-process-fit-to-specification-limits/revision.glossary.26e1b8c406d691dd3ceaa1bb.json"
     },
     {
+      "object_id": "glossary.process-quality.work-performance",
+      "revision_id": "revision.glossary.8e6d4cc6e8a645bdc371cb47",
+      "path": "entries/process-quality/quality-of-an-operational-process/revision.glossary.8e6d4cc6e8a645bdc371cb47.json"
+    },
+    {
       "object_id": "glossary.quality-assessment.evidence-examination",
       "revision_id": "revision.glossary.ac5299ba6343086ddf088526",
       "path": "entries/quality-assessment/examination-of-quality-against-a-stated-basis/revision.glossary.ac5299ba6343086ddf088526.json"
