@@ -347,6 +347,11 @@
       "path": "entries/inspection/determining-conformity-to-specified-requirements/revision.glossary.b38c7b254c48662e25788d8e.json"
     },
     {
+      "object_id": "glossary.internal-failure-cost.pre-delivery-nonconformity",
+      "revision_id": "revision.glossary.d0edc500b7831c3c4726895e",
+      "path": "entries/internal-failure-cost/cost-arising-from-defects-discovered-before-delivery/revision.glossary.d0edc500b7831c3c4726895e.json"
+    },
+    {
       "object_id": "glossary.judgment.reasoned-conclusion",
       "revision_id": "revision.glossary.dcd4d62dbe787344eb6ebc76",
       "path": "entries/judgment/conclusion-drawn-from-information/revision.glossary.dcd4d62dbe787344eb6ebc76.json"
