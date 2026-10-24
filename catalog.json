@@ -127,6 +127,11 @@
       "path": "entries/goodness/cross-domain-evaluative-sense/revision.glossary.07e706622cccd8a1477c1ce5.json"
     },
     {
+      "object_id": "glossary.harm.adverse-effect",
+      "revision_id": "revision.glossary.fd225afa74fdde4f8ffd6a3b",
+      "path": "entries/harm/adverse-effect-on-a-person-or-valued-subject/revision.glossary.fd225afa74fdde4f8ffd6a3b.json"
+    },
+    {
       "object_id": "glossary.healthcare-quality.care-delivery",
       "revision_id": "revision.glossary.5e0e1a17caba7e01c76b8ed7",
       "path": "entries/healthcare-quality/quality-of-care-and-its-delivery/revision.glossary.5e0e1a17caba7e01c76b8ed7.json"
