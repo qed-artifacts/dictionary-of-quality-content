@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.critical-to-quality.consequential-characteristic",
+  "revision_id": "revision.glossary.0cb44f33217090bdb3309ff7",
+  "headword": "Critical to quality (CTQ)",
+  "scope_label": "assessable characteristic consequential to a customer need",
+  "definition": "A critical-to-quality (CTQ) characteristic is an assessable feature of a product, service, or process whose performance matters materially to meeting a customer need.",
+  "explanation": [
+    "CTQ work translates a broad need into characteristics and requirements that can be checked. The link between the need and the characteristic should be made explicit.",
+    "Calling a characteristic “critical” does not make every available measure relevant. Its priority and acceptable performance must be justified for the particular customer and use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
