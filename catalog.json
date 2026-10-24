@@ -32,6 +32,11 @@
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
     },
     {
+      "object_id": "glossary.calibration.indication-reference-relation",
+      "revision_id": "revision.glossary.dd9aa40a09f8e58a0fc29676",
+      "path": "entries/calibration/metrological-relation-between-reference-values-and-indications/revision.glossary.dd9aa40a09f8e58a0fc29676.json"
+    },
+    {
       "object_id": "glossary.change-control.governed-change",
       "revision_id": "revision.glossary.2dde3fb5c128f8fc2a07eb08",
       "path": "entries/change-control/governed-change-to-a-controlled-product-process-or-system/revision.glossary.2dde3fb5c128f8fc2a07eb08.json"
