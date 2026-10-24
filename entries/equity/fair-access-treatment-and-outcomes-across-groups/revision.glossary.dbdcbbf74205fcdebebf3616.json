@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.equity.fair-opportunity",
+  "revision_id": "revision.glossary.dbdcbbf74205fcdebebf3616",
+  "headword": "Equity",
+  "scope_label": "fair access, treatment and outcomes across groups",
+  "definition": "Equity concerns whether people or groups have fair access, treatment, and opportunities in light of relevant needs and barriers.",
+  "explanation": [
+    "Identical treatment can leave unjustified differences in opportunity intact when starting conditions differ. An equity claim should say which population, benefit, barrier, and standard of fairness are at issue.",
+    "In health care, equity includes avoiding differences in care quality attributable to personal or social characteristics that should not determine care. In education, it can concern persistent barriers to access and attainment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
