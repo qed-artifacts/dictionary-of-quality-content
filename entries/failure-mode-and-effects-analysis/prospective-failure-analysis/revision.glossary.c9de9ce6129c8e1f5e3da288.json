@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.failure-mode-and-effects-analysis.prospective-risk",
+  "revision_id": "revision.glossary.c9de9ce6129c8e1f5e3da288",
+  "headword": "Failure mode and effects analysis (FMEA)",
+  "scope_label": "prospective failure analysis",
+  "definition": "Failure mode and effects analysis (FMEA) is a structured, prospective examination of how a product, process, or system might fail, what could cause each failure, and what its effects would be.",
+  "explanation": [
+    "The analysis helps a team choose actions that reduce the likelihood or consequences of significant failures. It should be revisited when the design, process, or evidence changes.",
+    "Severity, occurrence, and detectability ratings may help organize priorities, but a combined score does not replace judgment about context, especially when consequences differ sharply."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

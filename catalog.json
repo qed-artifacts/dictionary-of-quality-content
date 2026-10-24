@@ -122,6 +122,11 @@
       "path": "entries/excellence/cross-domain-elevated-appraisal/revision.glossary.2c23e8cec17dc552fd751691.json"
     },
     {
+      "object_id": "glossary.failure-mode-and-effects-analysis.prospective-risk",
+      "revision_id": "revision.glossary.c9de9ce6129c8e1f5e3da288",
+      "path": "entries/failure-mode-and-effects-analysis/prospective-failure-analysis/revision.glossary.c9de9ce6129c8e1f5e3da288.json"
+    },
+    {
       "object_id": "glossary.fairness.justified-treatment",
       "revision_id": "revision.glossary.4413a753b238a6649bdd357f",
       "path": "entries/fairness/justifiability-of-treatment-process-or-outcome/revision.glossary.4413a753b238a6649bdd357f.json"
