@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.risk.adverse-outcome",
+  "revision_id": "revision.glossary.1b9756f977ad5670009a81ca",
+  "headword": "Risk",
+  "scope_label": "common adverse-outcome sense",
+  "definition": "Risk is the possibility of an unwanted event or outcome under uncertainty, considered in light of its consequences.",
+  "explanation": [
+    "A useful risk statement says what could happen, what would be affected, and which conditions make the outcome more or less likely. Probability and severity can help analysis, but a single score need not capture the whole concern.",
+    "Uses of risk differ across fields. This entry names the common adverse-outcome sense; frameworks that include favorable departures require an explicitly broader sense."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

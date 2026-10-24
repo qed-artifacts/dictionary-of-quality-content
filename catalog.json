@@ -307,6 +307,11 @@
       "path": "entries/requirement/quality-management-and-technical-specifications/revision.glossary.62d5505c354c23c8f91e5065.json"
     },
     {
+      "object_id": "glossary.risk.adverse-outcome",
+      "revision_id": "revision.glossary.1b9756f977ad5670009a81ca",
+      "path": "entries/risk/common-adverse-outcome-sense/revision.glossary.1b9756f977ad5670009a81ca.json"
+    },
+    {
       "object_id": "glossary.service-quality.customer-experience",
       "revision_id": "revision.glossary.115bb7802c3a2ebf10e88fdf",
       "path": "entries/service-quality/service-performance-and-user-experience/revision.glossary.115bb7802c3a2ebf10e88fdf.json"
