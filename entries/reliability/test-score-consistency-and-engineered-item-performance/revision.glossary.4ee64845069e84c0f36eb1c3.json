@@ -1,0 +1,21 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.reliability.cross-domain",
+  "revision_id": "revision.glossary.4ee64845069e84c0f36eb1c3",
+  "headword": "Reliability",
+  "scope_label": "test-score consistency and engineered-item performance",
+  "definition": "Reliability concerns whether a specified result or required performance holds consistently under the conditions that matter.",
+  "explanation": [
+    "Its technical meaning depends on what is expected to remain dependable:",
+    "For test scores, reliability or precision concerns consistency across appropriate repetitions of the measurement procedure. The repetitions, population, sources of error, and intended score use must be specified.",
+    "For an engineered item or system, reliability concerns performing as required without failure over a specified interval and under stated conditions. When modeled probabilistically, R(t) is the probability that the item survives beyond time t."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
