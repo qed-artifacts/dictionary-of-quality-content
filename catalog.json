@@ -237,6 +237,11 @@
       "path": "entries/excellence/cross-domain-elevated-appraisal/revision.glossary.2c23e8cec17dc552fd751691.json"
     },
     {
+      "object_id": "glossary.failure-cost.consequence-of-nonconformity",
+      "revision_id": "revision.glossary.1438879b0d327bed49c24419",
+      "path": "entries/failure-cost/costs-arising-from-defects-or-nonconformity/revision.glossary.1438879b0d327bed49c24419.json"
+    },
+    {
       "object_id": "glossary.failure-mode-and-effects-analysis.prospective-risk",
       "revision_id": "revision.glossary.c9de9ce6129c8e1f5e3da288",
       "path": "entries/failure-mode-and-effects-analysis/prospective-failure-analysis/revision.glossary.c9de9ce6129c8e1f5e3da288.json"
