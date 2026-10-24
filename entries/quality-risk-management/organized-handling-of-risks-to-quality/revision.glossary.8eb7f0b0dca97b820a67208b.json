@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-risk-management.quality-threat-response",
+  "revision_id": "revision.glossary.8eb7f0b0dca97b820a67208b",
+  "headword": "Quality risk management",
+  "scope_label": "organized handling of risks to quality",
+  "definition": "Quality risk management is the organized assessment, control, communication, and review of risks that could affect quality.",
+  "explanation": [
+    "It starts with a clear risk question, considers possible harms and their likelihood or uncertainty, chooses proportionate controls, and revisits the judgment when evidence or conditions change.",
+    "The formal term is established in pharmaceutical guidance, where protecting patients and maintaining product quality are central. Applying the same pattern elsewhere requires stating the object, applicable requirements, and who could be affected."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
