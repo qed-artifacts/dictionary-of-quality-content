@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.audit-finding.evidence-against-criteria",
+  "revision_id": "revision.glossary.10786603b33284f7e06697f8",
+  "headword": "Audit finding",
+  "scope_label": "result of evidence evaluation against audit criteria",
+  "definition": "An audit finding is a result of comparing collected audit evidence with the audit criteria.",
+  "explanation": [
+    "A finding can record that a requirement is met or identify a gap; it is not synonymous with a defect.",
+    "Findings inform the audit conclusion, which considers the audit’s objectives and the findings together."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
