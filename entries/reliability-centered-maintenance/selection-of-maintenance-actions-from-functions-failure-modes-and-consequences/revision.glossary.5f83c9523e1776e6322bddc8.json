@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.reliability-centered-maintenance.failure-informed-action-selection",
+  "revision_id": "revision.glossary.5f83c9523e1776e6322bddc8",
+  "headword": "Reliability-centered maintenance",
+  "scope_label": "selection of maintenance actions from functions, failure modes and consequences",
+  "definition": "Reliability-centered maintenance is a structured way to choose maintenance actions by examining what an asset must do, how it can fail, and the consequences of those failures.",
+  "explanation": [
+    "The operating context, available ways to detect deterioration, and safety and economic consequences shape the choice. An action may be condition-based, scheduled, or another justified response.",
+    "It does not mean maintaining every component as often as possible; some failure modes call for redesign or a decision to let a low-consequence item run to failure."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
