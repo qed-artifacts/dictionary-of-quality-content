@@ -282,6 +282,11 @@
       "path": "entries/factor/input-or-condition-studied-in-a-designed-experiment/revision.glossary.59acd3c2ebecb4fa23dc34e8.json"
     },
     {
+      "object_id": "glossary.failure-consequence.rcm-system-impact",
+      "revision_id": "revision.glossary.760d6eec5b33df905a315ebe",
+      "path": "entries/failure-consequence/system-level-impact-considered-in-reliability-centered-maintenance/revision.glossary.760d6eec5b33df905a315ebe.json"
+    },
+    {
       "object_id": "glossary.failure-cost.consequence-of-nonconformity",
       "revision_id": "revision.glossary.1438879b0d327bed49c24419",
       "path": "entries/failure-cost/costs-arising-from-defects-or-nonconformity/revision.glossary.1438879b0d327bed49c24419.json"
