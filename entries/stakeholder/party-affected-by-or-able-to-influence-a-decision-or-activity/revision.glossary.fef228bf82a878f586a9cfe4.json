@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.stakeholder.affected-or-influencing-party",
+  "revision_id": "revision.glossary.fef228bf82a878f586a9cfe4",
+  "headword": "Stakeholder",
+  "scope_label": "party affected by or able to influence a decision or activity",
+  "definition": "A stakeholder is a person, group, or organization that can affect, be affected by, or reasonably see itself as affected by a decision or activity.",
+  "explanation": [
+    "Stakeholders may include users, workers, suppliers, regulators, and others beyond the immediate customer. Which ones matter for a particular judgment depends on the decision and its likely effects.",
+    "Identify whose interests are at stake and how they may be affected. Being a stakeholder does not mean having the same role, authority, or claim as every other stakeholder."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
