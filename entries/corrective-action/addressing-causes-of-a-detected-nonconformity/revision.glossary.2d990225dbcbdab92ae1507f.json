@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.corrective-action.recurrence-prevention",
+  "revision_id": "revision.glossary.2d990225dbcbdab92ae1507f",
+  "headword": "Corrective action",
+  "scope_label": "addressing causes of a detected nonconformity",
+  "definition": "Corrective action addresses the cause of a detected nonconformity or other unwanted situation so it does not recur.",
+  "explanation": [
+    "Repairing or replacing one affected item corrects that case. Corrective action changes the condition that produced it; the two may both be needed.",
+    "The action should follow an investigation proportionate to the problem. Its effectiveness must be checked against later evidence rather than assumed from implementation alone."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
