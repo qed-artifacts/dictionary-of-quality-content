@@ -72,6 +72,11 @@
       "path": "entries/correlation-matrix/technical-interaction-roof-in-a-house-of-quality/revision.glossary.98db1a90aa54f057f042d0ce.json"
     },
     {
+      "object_id": "glossary.cost-of-quality.prevention-and-failure",
+      "revision_id": "revision.glossary.bc597a94a3cb8d4e04d8e7d8",
+      "path": "entries/cost-of-quality/costs-of-achieving-and-failing-to-achieve-quality/revision.glossary.bc597a94a3cb8d4e04d8e7d8.json"
+    },
+    {
       "object_id": "glossary.criterion.evaluative",
       "revision_id": "revision.glossary.a8e93785e84cad52415a19a9",
       "path": "entries/criterion/evaluative-basis-or-consideration/revision.glossary.a8e93785e84cad52415a19a9.json"
