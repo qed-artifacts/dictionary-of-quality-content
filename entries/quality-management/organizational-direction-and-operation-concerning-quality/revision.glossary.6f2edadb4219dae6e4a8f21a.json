@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-management.organization",
+  "revision_id": "revision.glossary.6f2edadb4219dae6e4a8f21a",
+  "headword": "Quality management",
+  "scope_label": "organizational direction and operation concerning quality",
+  "definition": "Quality management is the coordinated work by which an organization sets quality aims and directs its activities toward meeting and improving them.",
+  "explanation": [
+    "It connects policies and objectives with responsibilities, processes, resources, and evidence about results. Planning, assurance, control, and improvement are related functions within this work.",
+    "Managing quality does not itself mean that every output is good. Its effectiveness must be judged by relevant results and needs."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
