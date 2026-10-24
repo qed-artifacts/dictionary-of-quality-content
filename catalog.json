@@ -62,6 +62,11 @@
       "path": "entries/measure/program-evaluation-evidence-specification/revision.glossary.1650402b8d4d151c5bd0f98a.json"
     },
     {
+      "object_id": "glossary.quality-attribute.quality-model",
+      "revision_id": "revision.glossary.1b974814c141bb10f1102c92",
+      "path": "entries/quality-attribute/quality-model-feature/revision.glossary.1b974814c141bb10f1102c92.json"
+    },
+    {
       "object_id": "glossary.quality-characteristic.quality-management",
       "revision_id": "revision.glossary.004af21739048327f19558a6",
       "path": "entries/quality-characteristic/quality-management/revision.glossary.004af21739048327f19558a6.json"

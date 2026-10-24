@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-attribute.quality-model",
+  "revision_id": "revision.glossary.1b974814c141bb10f1102c92",
+  "headword": "Quality attribute",
+  "scope_label": "quality-model feature",
+  "definition": "A quality attribute is a named feature of an object treated as relevant to an account of its quality.",
+  "explanation": [
+    "In systems and software work, a model may organize attributes such as reliability or performance efficiency into narrower attributes and connect them to measures.",
+    "Naming an attribute does not give its measured value or decide whether performance is good. The term overlaps with quality characteristic in some fields; specify the model and sense being used."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
