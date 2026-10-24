@@ -422,6 +422,11 @@
       "path": "entries/quality-requirement/quality-management/revision.glossary.a8a06df340b242937453faba.json"
     },
     {
+      "object_id": "glossary.quality-risk-management.quality-threat-response",
+      "revision_id": "revision.glossary.8eb7f0b0dca97b820a67208b",
+      "path": "entries/quality-risk-management/organized-handling-of-risks-to-quality/revision.glossary.8eb7f0b0dca97b820a67208b.json"
+    },
+    {
       "object_id": "glossary.quality-standard.documented-reference",
       "revision_id": "revision.glossary.de6eb3dd7a9afdbf76fc8ba2",
       "path": "entries/quality-standard/documented-quality-reference-within-a-stated-scope/revision.glossary.de6eb3dd7a9afdbf76fc8ba2.json"
