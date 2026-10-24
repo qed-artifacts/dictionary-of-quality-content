@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.rubric.criteria-and-performance-guide",
+  "revision_id": "revision.glossary.35c52eb5f14d506b49a9ee40",
+  "headword": "Rubric",
+  "scope_label": "structured guide for evaluating specified work or performance",
+  "definition": "A rubric is a structured guide for judging a specified kind of work or performance against stated criteria.",
+  "explanation": [
+    "It may describe levels of performance, give examples, assign points, or set out scoring rules. These details help reviewers apply the criteria and make the basis of a judgment visible.",
+    "A rubric organizes judgment; it does not establish that the criteria are appropriate or that different reviewers will apply them consistently. Those questions require separate justification and checking."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
