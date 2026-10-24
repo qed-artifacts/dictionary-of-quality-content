@@ -42,6 +42,11 @@
       "path": "entries/corrective-action/addressing-causes-of-a-detected-nonconformity/revision.glossary.2d990225dbcbdab92ae1507f.json"
     },
     {
+      "object_id": "glossary.corrective-and-preventive-action.capa-process",
+      "revision_id": "revision.glossary.e4d75b84593dd68b0835ad17",
+      "path": "entries/corrective-and-preventive-action/capa-approach-to-actual-and-potential-quality-problems/revision.glossary.e4d75b84593dd68b0835ad17.json"
+    },
+    {
       "object_id": "glossary.criterion.evaluative",
       "revision_id": "revision.glossary.a8e93785e84cad52415a19a9",
       "path": "entries/criterion/evaluative-basis-or-consideration/revision.glossary.a8e93785e84cad52415a19a9.json"
