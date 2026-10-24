@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.inspection.requirement-check",
+  "revision_id": "revision.glossary.b38c7b254c48662e25788d8e",
+  "headword": "Inspection",
+  "scope_label": "determining conformity to specified requirements",
+  "definition": "Inspection is an examination used to determine whether an object meets specified requirements.",
+  "explanation": [
+    "The object, requirements, and inspection method determine what the result establishes. A passing sample does not by itself establish that every item or future output will conform.",
+    "Inspection can supply evidence for quality control or assurance. It does not by itself settle whether the requirements are suitable for the object’s intended use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
