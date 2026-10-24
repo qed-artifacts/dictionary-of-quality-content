@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.process-capability.specification-fit",
+  "revision_id": "revision.glossary.26e1b8c406d691dd3ceaa1bb",
+  "headword": "Process capability",
+  "scope_label": "stable-process fit to specification limits",
+  "definition": "Process capability concerns how well a stable process can produce outputs within specified limits, given its typical variation and location.",
+  "explanation": [
+    "Capability analysis compares the process distribution with the applicable specification limits. It should first establish that the process is sufficiently stable for the comparison to be meaningful.",
+    "Indices such as Cp and Cpk summarize different aspects of that comparison under stated assumptions. A favorable index is an estimate, not a guarantee that every future output will conform."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
