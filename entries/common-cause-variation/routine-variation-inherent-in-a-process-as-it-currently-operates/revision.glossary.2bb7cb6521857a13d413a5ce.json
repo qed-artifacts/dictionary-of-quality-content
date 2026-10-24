@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.common-cause-variation.recurring-process-influences",
+  "revision_id": "revision.glossary.2bb7cb6521857a13d413a5ce",
+  "headword": "Common-cause variation",
+  "scope_label": "routine variation inherent in a process as it currently operates",
+  "definition": "Common-cause variation is the ongoing variation produced by the recurring influences within a process as it currently operates.",
+  "explanation": [
+    "When those influences remain sufficiently stable, results vary within a pattern that can be estimated from process data. A single high or low result within that pattern does not by itself identify a new cause.",
+    "Reducing this variation generally requires changing the process or its conditions, rather than reacting separately to each observation."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
