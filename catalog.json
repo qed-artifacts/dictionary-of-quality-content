@@ -272,6 +272,11 @@
       "path": "entries/provenance/traceable-origin-and-history-of-an-item/revision.glossary.5d2cb2b2df149b3f9c67c517.json"
     },
     {
+      "object_id": "glossary.purpose.intended-end",
+      "revision_id": "revision.glossary.8073ec08fc4233a45dfbe157",
+      "path": "entries/purpose/intended-end-or-use-guiding-an-activity-or-judgment/revision.glossary.8073ec08fc4233a45dfbe157.json"
+    },
+    {
       "object_id": "glossary.quality-assessment.evidence-examination",
       "revision_id": "revision.glossary.ac5299ba6343086ddf088526",
       "path": "entries/quality-assessment/examination-of-quality-against-a-stated-basis/revision.glossary.ac5299ba6343086ddf088526.json"
