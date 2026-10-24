@@ -2,6 +2,11 @@
   "schema": "qed-glossary-public-catalog-v1",
   "entries": [
     {
+      "object_id": "glossary.evaluand.evaluation-role",
+      "revision_id": "revision.glossary.d6bb707892bb32c1c2b78827",
+      "path": "entries/evaluand/evaluation-terminology/revision.glossary.d6bb707892bb32c1c2b78827.json"
+    },
+    {
       "object_id": "glossary.excellence.evaluative",
       "revision_id": "revision.glossary.2c23e8cec17dc552fd751691",
       "path": "entries/excellence/cross-domain-elevated-appraisal/revision.glossary.2c23e8cec17dc552fd751691.json"
