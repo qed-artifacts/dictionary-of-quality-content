@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.signal.process-control-investigation",
+  "revision_id": "revision.glossary.a5b3084f45e8a23246cbb241",
+  "headword": "Signal",
+  "scope_label": "control-chart indication for process investigation",
+  "definition": "In statistical process control, a signal is a chart result or pattern that meets a stated rule for investigating a possible change in the process.",
+  "explanation": [
+    "A point beyond a control limit is one example; patterns among plotted points can also be assessed under the chart’s rules.",
+    "A signal calls for investigation. It does not prove a particular cause, and even a stable process can occasionally produce a false alarm."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
