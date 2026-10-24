@@ -57,6 +57,11 @@
       "path": "entries/conformance/meeting-stated-requirements/revision.glossary.10b2067d2e8a622a2a451f6e.json"
     },
     {
+      "object_id": "glossary.conformity-assessment.requirement-demonstration",
+      "revision_id": "revision.glossary.55c7fc2e87c57072f65ec5b7",
+      "path": "entries/conformity-assessment/determining-whether-relevant-requirements-are-fulfilled/revision.glossary.55c7fc2e87c57072f65ec5b7.json"
+    },
+    {
       "object_id": "glossary.conformity.requirement",
       "revision_id": "revision.glossary.ad0eec23858c9da95c86ced3",
       "path": "entries/conformity/fulfillment-of-an-applicable-requirement/revision.glossary.ad0eec23858c9da95c86ced3.json"
