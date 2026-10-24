@@ -27,6 +27,11 @@
       "path": "entries/conformance/meeting-stated-requirements/revision.glossary.10b2067d2e8a622a2a451f6e.json"
     },
     {
+      "object_id": "glossary.conformity.requirement",
+      "revision_id": "revision.glossary.ad0eec23858c9da95c86ced3",
+      "path": "entries/conformity/fulfillment-of-an-applicable-requirement/revision.glossary.ad0eec23858c9da95c86ced3.json"
+    },
+    {
       "object_id": "glossary.criterion.evaluative",
       "revision_id": "revision.glossary.a8e93785e84cad52415a19a9",
       "path": "entries/criterion/evaluative-basis-or-consideration/revision.glossary.a8e93785e84cad52415a19a9.json"

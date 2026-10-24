@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.conformity.requirement",
+  "revision_id": "revision.glossary.ad0eec23858c9da95c86ced3",
+  "headword": "Conformity",
+  "scope_label": "fulfillment of an applicable requirement",
+  "definition": "Conformity is the condition of meeting an applicable requirement.",
+  "explanation": [
+    "A claim of conformity should say which object and requirement are involved. When several requirements apply, identify the set covered by the claim and how fulfillment was established.",
+    "Conformity to a requirement does not guarantee suitability for every use. In many contexts, conformance names the same relationship."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
