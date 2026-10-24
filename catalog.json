@@ -352,6 +352,11 @@
       "path": "entries/inspection/determining-conformity-to-specified-requirements/revision.glossary.b38c7b254c48662e25788d8e.json"
     },
     {
+      "object_id": "glossary.interaction.factor-dependent-effect",
+      "revision_id": "revision.glossary.b8137ef5c682e1eb3d7ce80e",
+      "path": "entries/interaction/factor-dependent-effect-in-a-designed-experiment/revision.glossary.b8137ef5c682e1eb3d7ce80e.json"
+    },
+    {
       "object_id": "glossary.internal-failure-cost.pre-delivery-nonconformity",
       "revision_id": "revision.glossary.d0edc500b7831c3c4726895e",
       "path": "entries/internal-failure-cost/cost-arising-from-defects-discovered-before-delivery/revision.glossary.d0edc500b7831c3c4726895e.json"
