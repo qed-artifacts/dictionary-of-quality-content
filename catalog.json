@@ -37,6 +37,11 @@
       "path": "entries/conformity/fulfillment-of-an-applicable-requirement/revision.glossary.ad0eec23858c9da95c86ced3.json"
     },
     {
+      "object_id": "glossary.corrective-action.recurrence-prevention",
+      "revision_id": "revision.glossary.2d990225dbcbdab92ae1507f",
+      "path": "entries/corrective-action/addressing-causes-of-a-detected-nonconformity/revision.glossary.2d990225dbcbdab92ae1507f.json"
+    },
+    {
       "object_id": "glossary.criterion.evaluative",
       "revision_id": "revision.glossary.a8e93785e84cad52415a19a9",
       "path": "entries/criterion/evaluative-basis-or-consideration/revision.glossary.a8e93785e84cad52415a19a9.json"
