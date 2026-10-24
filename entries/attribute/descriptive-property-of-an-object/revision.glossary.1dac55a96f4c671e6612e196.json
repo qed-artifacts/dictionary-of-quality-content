@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.attribute.descriptive-property",
+  "revision_id": "revision.glossary.1dac55a96f4c671e6612e196",
+  "headword": "Attribute",
+  "scope_label": "descriptive property of an object",
+  "definition": "An attribute is a feature or property ascribed to, observed in, or recorded for an object.",
+  "explanation": [
+    "An attribute can be described by a category, a number, or words. Its recorded state is different from the attribute itself.",
+    "The label alone does not show that the feature is inherent, quality-relevant, or favorable. State the object and the role the attribute plays in the assessment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -7,6 +7,11 @@
       "path": "entries/acceptance-criterion/specified-acceptance-decision/revision.glossary.09c8e7feaf5a1ea6793202bc.json"
     },
     {
+      "object_id": "glossary.attribute.descriptive-property",
+      "revision_id": "revision.glossary.1dac55a96f4c671e6612e196",
+      "path": "entries/attribute/descriptive-property-of-an-object/revision.glossary.1dac55a96f4c671e6612e196.json"
+    },
+    {
       "object_id": "glossary.benchmark.evaluation-comparison",
       "revision_id": "revision.glossary.31db9589c3bffd0e1996238d",
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
