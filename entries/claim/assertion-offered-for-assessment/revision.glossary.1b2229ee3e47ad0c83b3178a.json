@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.claim.supportable-assertion",
+  "revision_id": "revision.glossary.1b2229ee3e47ad0c83b3178a",
+  "headword": "Claim",
+  "scope_label": "assertion offered for assessment",
+  "definition": "A claim is a statement put forward for acceptance that can be supported, qualified, or challenged.",
+  "explanation": [
+    "Claims can concern facts, values, or proposed actions. State the specific assertion and its scope so the evidence needed to assess it can be identified.",
+    "A claim is distinct from the evidence offered for it. Finding similar words in a source does not show that the source supports the same assertion."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
