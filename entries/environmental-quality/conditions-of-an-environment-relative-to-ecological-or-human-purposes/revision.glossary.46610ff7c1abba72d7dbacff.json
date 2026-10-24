@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.environmental-quality.conditions-for-specified-purposes",
+  "revision_id": "revision.glossary.46610ff7c1abba72d7dbacff",
+  "headword": "Environmental quality",
+  "scope_label": "conditions of an environment relative to ecological or human purposes",
+  "definition": "Environmental quality is how favorable the conditions of a specified environment are for relevant ecological or human purposes.",
+  "explanation": [
+    "A judgment identifies the place, time, affected living systems or people, and criteria. Air, water, and soil conditions can each matter, but no single indicator describes the whole environment.",
+    "An acceptable limit for one pollutant answers a narrower question than whether the environment is good overall. The assessment also depends on the chosen reference condition, exposure, and intended use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
