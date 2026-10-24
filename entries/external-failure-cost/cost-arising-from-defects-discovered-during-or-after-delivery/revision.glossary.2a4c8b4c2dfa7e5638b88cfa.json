@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.external-failure-cost.delivery-stage-nonconformity",
+  "revision_id": "revision.glossary.2a4c8b4c2dfa7e5638b88cfa",
+  "headword": "External failure cost",
+  "scope_label": "cost arising from defects discovered during or after delivery",
+  "definition": "An external failure cost is a cost arising from a defect or nonconformity found during or after delivery of a product or service.",
+  "explanation": [
+    "Examples include returns, warranty work, complaint handling, and repairs after the customer receives the offering. The cost belongs to the failure category because the problem has occurred.",
+    "A cost estimate should state what delivery boundary and consequences it includes. Possible losses of trust or future sales may be relevant, but their monetary attribution needs separate support."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
