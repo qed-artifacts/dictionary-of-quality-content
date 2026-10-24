@@ -257,6 +257,11 @@
       "path": "entries/quality-model/organized-representation-of-quality-aspects/revision.glossary.7f5440261cfcb4f49a17beef.json"
     },
     {
+      "object_id": "glossary.quality-of-life.lived-appraisal",
+      "revision_id": "revision.glossary.c851f057c1250c090b6d3a69",
+      "path": "entries/quality-of-life/person-centered-appraisal-of-life-circumstances/revision.glossary.c851f057c1250c090b6d3a69.json"
+    },
+    {
       "object_id": "glossary.quality-planning.arrangements",
       "revision_id": "revision.glossary.66e3b519c766cb728240c7b4",
       "path": "entries/quality-planning/arrangements-for-quality-objectives/revision.glossary.66e3b519c766cb728240c7b4.json"

@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-of-life.lived-appraisal",
+  "revision_id": "revision.glossary.c851f057c1250c090b6d3a69",
+  "headword": "Quality of life",
+  "scope_label": "person-centered appraisal of life circumstances",
+  "definition": "Quality of life is a person’s appraisal of how life is going in the circumstances and values that matter to them.",
+  "explanation": [
+    "Health and functioning may matter, alongside relationships, psychological experience, and features of the surrounding environment. The relevant mix can differ across people and settings.",
+    "A clinical measure or an income figure can inform this appraisal, but neither alone stands for the whole of a person’s quality of life."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
