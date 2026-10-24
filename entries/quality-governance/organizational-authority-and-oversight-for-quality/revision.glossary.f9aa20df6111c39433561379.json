@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-governance.accountability-oversight",
+  "revision_id": "revision.glossary.f9aa20df6111c39433561379",
+  "headword": "Quality governance",
+  "scope_label": "organizational authority and oversight for quality",
+  "definition": "Quality governance is the arrangement of authority, accountability, oversight, and decision-making through which an organization directs and checks its work on quality.",
+  "explanation": [
+    "It identifies who sets direction, who can escalate concerns, who reviews performance, and who decides on action and resources. These responsibilities may be distributed across leaders, functions, and governing bodies.",
+    "Management review is one governance mechanism. Governance also depends on whether decisions are carried out and their effects examined; a reporting structure alone does not establish effective oversight."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
