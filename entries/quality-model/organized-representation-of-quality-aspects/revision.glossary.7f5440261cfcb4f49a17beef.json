@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-model.quality-framework",
+  "revision_id": "revision.glossary.7f5440261cfcb4f49a17beef",
+  "headword": "Quality model",
+  "scope_label": "organized representation of quality aspects",
+  "definition": "A quality model is an explicit scheme for organizing the aspects of quality considered for a class of objects.",
+  "explanation": [
+    "It may define characteristics, narrower subcharacteristics, and their relationships to measures. Its categories and boundaries depend on the objects and use for which it was made.",
+    "A model helps select what to examine; it does not itself set a requirement or establish that a particular object is good. Software and systems quality models are one domain example."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
