@@ -482,6 +482,11 @@
       "path": "entries/pdca-cycle/plan-do-check-act-improvement-loop/revision.glossary.b84e12c60a74801a6318e928.json"
     },
     {
+      "object_id": "glossary.perceived-quality.user-appraisal",
+      "revision_id": "revision.glossary.0cbd37f2acc3d6f2af482b56",
+      "path": "entries/perceived-quality/person-s-appraisal-of-product-or-service-quality/revision.glossary.0cbd37f2acc3d6f2af482b56.json"
+    },
+    {
       "object_id": "glossary.performance-level.rubric-category",
       "revision_id": "revision.glossary.1afc181128877218ac1e685e",
       "path": "entries/performance-level/degree-of-demonstrated-performance-in-a-rubric/revision.glossary.1afc181128877218ac1e685e.json"
