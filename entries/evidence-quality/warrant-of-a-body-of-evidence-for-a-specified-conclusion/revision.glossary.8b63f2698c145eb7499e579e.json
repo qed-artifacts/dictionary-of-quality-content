@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.evidence-quality.claim-warrant",
+  "revision_id": "revision.glossary.8b63f2698c145eb7499e579e",
+  "headword": "Evidence quality",
+  "scope_label": "warrant of a body of evidence for a specified conclusion",
+  "definition": "Evidence quality is the degree of confidence a body of evidence warrants for a specified question or conclusion.",
+  "explanation": [
+    "Relevant concerns include how the evidence was produced, whether findings agree, how directly they address the question, and how precise they are. A strong individual study does not automatically make the whole body of evidence strong.",
+    "The quality of evidence and the strength of a recommendation are separate judgments: a decision also depends on benefits, harms, values, and context."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
