@@ -142,6 +142,11 @@
       "path": "entries/criterion/evaluative-basis-or-consideration/revision.glossary.a8e93785e84cad52415a19a9.json"
     },
     {
+      "object_id": "glossary.critical-limit.haccp-hazard-boundary",
+      "revision_id": "revision.glossary.0853dfd5cc4b0d4d5bdbc9e1",
+      "path": "entries/critical-limit/hazard-control-boundary-at-a-food-safety-haccp-critical-control-point/revision.glossary.0853dfd5cc4b0d4d5bdbc9e1.json"
+    },
+    {
       "object_id": "glossary.critical-to-quality.consequential-characteristic",
       "revision_id": "revision.glossary.0cb44f33217090bdb3309ff7",
       "path": "entries/critical-to-quality/assessable-characteristic-consequential-to-a-customer-need/revision.glossary.0cb44f33217090bdb3309ff7.json"
