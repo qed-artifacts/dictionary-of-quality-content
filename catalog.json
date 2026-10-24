@@ -2,6 +2,11 @@
   "schema": "qed-glossary-public-catalog-v1",
   "entries": [
     {
+      "object_id": "glossary.excellence.evaluative",
+      "revision_id": "revision.glossary.2c23e8cec17dc552fd751691",
+      "path": "entries/excellence/cross-domain-elevated-appraisal/revision.glossary.2c23e8cec17dc552fd751691.json"
+    },
+    {
       "object_id": "glossary.goodness.evaluative",
       "revision_id": "revision.glossary.07e706622cccd8a1477c1ce5",
       "path": "entries/goodness/cross-domain-evaluative-sense/revision.glossary.07e706622cccd8a1477c1ce5.json"
