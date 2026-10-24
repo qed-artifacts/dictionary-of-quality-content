@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.decision-rule.evidence-to-disposition",
+  "revision_id": "revision.glossary.14709f37fad35484d55580a1",
+  "headword": "Decision rule",
+  "scope_label": "stated procedure turning evidence and criteria into a disposition",
+  "definition": "A decision rule specifies how stated evidence and criteria lead to a selection, classification, acceptance, rejection, or other disposition.",
+  "explanation": [
+    "A rule may use cutoffs, an order of priorities, a weighted combination, or a treatment of uncertainty. The relevant inputs and conditions must be clear enough to apply it consistently.",
+    "Different defensible rules can produce different outcomes from the same evidence. The rule and its authority should therefore be stated before treating a result as a decision."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

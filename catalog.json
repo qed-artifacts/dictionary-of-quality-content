@@ -147,6 +147,11 @@
       "path": "entries/decision-quality/appraisal-of-a-choice-under-uncertainty/revision.glossary.419516573f24b8a421d36354.json"
     },
     {
+      "object_id": "glossary.decision-rule.evidence-to-disposition",
+      "revision_id": "revision.glossary.14709f37fad35484d55580a1",
+      "path": "entries/decision-rule/stated-procedure-turning-evidence-and-criteria-into-a-disposition/revision.glossary.14709f37fad35484d55580a1.json"
+    },
+    {
       "object_id": "glossary.decision.choice-among-options",
       "revision_id": "revision.glossary.4f7326c4c33b093820f235fe",
       "path": "entries/decision/choice-of-a-course-of-action/revision.glossary.4f7326c4c33b093820f235fe.json"
