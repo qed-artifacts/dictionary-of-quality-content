@@ -47,6 +47,11 @@
       "path": "entries/quality-judgment/cross-domain-evaluative-conclusion/revision.glossary.29dd77c42f034e9cc44e0591.json"
     },
     {
+      "object_id": "glossary.quality-measure.quality-assessment",
+      "revision_id": "revision.glossary.586805af4185c67d08483974",
+      "path": "entries/quality-measure/specified-quality-assessment-across-services/revision.glossary.586805af4185c67d08483974.json"
+    },
+    {
       "object_id": "glossary.quality.quality-management",
       "revision_id": "revision.glossary.1be2706cc72d31afa1268da3",
       "path": "entries/quality/quality-management/revision.glossary.1be2706cc72d31afa1268da3.json"
