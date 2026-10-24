@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.nonconformity.unmet-requirement",
+  "revision_id": "revision.glossary.617397708409669dc921b1f5",
+  "headword": "Nonconformity",
+  "scope_label": "failure to fulfill an applicable requirement",
+  "definition": "A nonconformity is a failure to fulfill an applicable requirement.",
+  "explanation": [
+    "A useful finding identifies the object, the requirement, and the evidence of the departure. It should not treat a preference or an unstated expectation as a violated requirement without establishing its status.",
+    "A nonconformity may call for correction of the current case, investigation of a cause, or both. It is a defect in the narrower technical sense when the unmet requirement relates to an intended or specified use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
