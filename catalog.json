@@ -577,6 +577,11 @@
       "path": "entries/relationship-matrix/customer-to-technical-grid-in-a-house-of-quality/revision.glossary.f85dc2b887068ef8c68292a4.json"
     },
     {
+      "object_id": "glossary.reliability-centered-maintenance.failure-informed-action-selection",
+      "revision_id": "revision.glossary.5f83c9523e1776e6322bddc8",
+      "path": "entries/reliability-centered-maintenance/selection-of-maintenance-actions-from-functions-failure-modes-and-consequences/revision.glossary.5f83c9523e1776e6322bddc8.json"
+    },
+    {
       "object_id": "glossary.reliability.cross-domain",
       "revision_id": "revision.glossary.4ee64845069e84c0f36eb1c3",
       "path": "entries/reliability/test-score-consistency-and-engineered-item-performance/revision.glossary.4ee64845069e84c0f36eb1c3.json"
