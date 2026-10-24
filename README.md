@@ -6,7 +6,7 @@ The private Dictionary of Quality publication store holds drafts, source review,
 
 ## Rights
 
-Original glossary prose is dedicated to the public domain under [CC0 1.0](LICENSE). Bibliographic references link to third-party works; their text and figures are **not** covered by this dedication. Any generator or validator code in this repository is under [Apache-2.0](LICENSE-CODE). Do not upload source PDFs, copied standard passages, private review records, local paths, credentials, or confidential material.
+Original glossary prose is dedicated to the public domain under [CC0 1.0](LICENSE). Public entries do not include citations, reference lists, source URLs, locators, or source attributions. The private publication store retains the evidence and claim-to-source links. Any generator or validator code in this repository is under [Apache-2.0](LICENSE-CODE). Do not upload source PDFs, copied standard passages, private review records, local paths, credentials, or confidential material.
 
 ## Structure
 
@@ -16,6 +16,6 @@ Original glossary prose is dedicated to the public domain under [CC0 1.0](LICENS
 - schemas/: public data contracts.
 - scripts/validate.mjs: checks public catalog and entry consistency.
 
-Run node scripts/validate.mjs before proposing a release. A public object records its stable ID, source-linked revision ID, bounded scope, original text, bibliographic references, license scope, and actual review labels. Publication on GitHub is verified against the private release manifest and merged Git commit. No independent external review is implied by owner or internal validation.
+Run node scripts/validate.mjs before proposing a release. A public object records its stable ID, revision ID, bounded scope, original reader text, license scope, and actual review labels. Publication on GitHub is verified against the private release manifest and merged Git commit. No independent external review is implied by owner or internal validation.
 
 The catalog is the authority for which objects are currently released. Drafts and pending review objects remain in the private publication store.

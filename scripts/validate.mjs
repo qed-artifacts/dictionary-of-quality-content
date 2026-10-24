@@ -34,17 +34,14 @@ async function walk(directory) {
     if (!/^entries\/[a-z0-9-]+\/[a-z0-9-]+\/revision\.glossary\.[a-f0-9]{24}\.json$/.test(relative)) fail("Unrecognized entry path: " + relative);
     const value = await read(relative);
     if (!exactKeys(value, ["schema", "object_id", "revision_id", "headword", "scope_label", "definition",
-      "explanation", "references", "content_license", "review"]) ||
+      "explanation", "content_license", "review"]) ||
       value.schema !== "qed-glossary-public-object-v1" || value.content_license !== "CC0-1.0" ||
       !/^glossary\.[a-z0-9]+(?:[.-][a-z0-9]+)*$/.test(value.object_id) ||
       value.revision_id + ".json" !== item.name ||
       !value.headword?.trim() || !value.scope_label?.trim() || !value.definition?.trim() ||
       !Array.isArray(value.explanation) || !value.explanation.length ||
       value.explanation.some((part) => typeof part !== "string" || !part.trim()) ||
-      !Array.isArray(value.references) || !value.references.length ||
-      value.references.some((source) => !exactKeys(source, ["reference", "url", "locators"]) ||
-        !source.reference?.trim() || !/^https:\/\//.test(source.url) ||
-        !Array.isArray(source.locators) || !source.locators.length) ||
+      /https?:\/\/|\bdoi\s*:\s*10\.|§\s*\d|\b(?:ISO(?:\/IEC)?|CDC|CMS|ASQ|NIST|OECD|Baldrige)\b|\([^)]{0,80}\b(?:19|20)\d{2}\b[^)]*\)/i.test([value.definition, ...value.explanation].join("\n")) ||
       !exactKeys(value.review, ["owner_editorial", "owner_source_attestation", "internal_validation",
         "owner_release_authorization", "independent_external_review"]) ||
       !value.review?.owner_editorial || !value.review?.owner_source_attestation ||
@@ -55,7 +52,7 @@ async function walk(directory) {
     const markdown = full.slice(0, -5) + ".md";
     const prose = await fs.readFile(markdown, "utf8");
     if (!prose.includes(value.definition) || !prose.includes("CC0 1.0") ||
-      /(?:[A-Z]:\\Users\\|\/Users\/|OneDrive|source_path|literal_passage)/i.test(prose)) {
+      /## References|https?:\/\/|§\s*\d|(?:[A-Z]:\\Users\\|\/Users\/|OneDrive|source_path|literal_passage)/i.test(prose)) {
       fail("Markdown does not match the public object or contains a private locator: " + relative);
     }
     count += 1;
