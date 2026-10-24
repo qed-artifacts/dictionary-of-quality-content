@@ -737,6 +737,11 @@
       "path": "entries/total-quality-management/organization-wide-quality-management-approach/revision.glossary.89b2af8b628ac8207b54e3ee.json"
     },
     {
+      "object_id": "glossary.traceability-matrix.linked-requirements-and-evidence",
+      "revision_id": "revision.glossary.7eaec5b4b6788ba4cb81a97b",
+      "path": "entries/traceability-matrix/tabular-map-between-requirements-and-related-design-or-verification-records/revision.glossary.7eaec5b4b6788ba4cb81a97b.json"
+    },
+    {
       "object_id": "glossary.trade-off.competing-outcomes",
       "revision_id": "revision.glossary.c6eda63dd2bba216803ff62e",
       "path": "entries/trade-off/choice-among-competing-design-outcomes/revision.glossary.c6eda63dd2bba216803ff62e.json"

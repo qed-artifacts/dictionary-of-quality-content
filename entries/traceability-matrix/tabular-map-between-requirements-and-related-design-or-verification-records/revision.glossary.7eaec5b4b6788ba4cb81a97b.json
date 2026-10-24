@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.traceability-matrix.linked-requirements-and-evidence",
+  "revision_id": "revision.glossary.7eaec5b4b6788ba4cb81a97b",
+  "headword": "Traceability matrix",
+  "scope_label": "tabular map between requirements and related design or verification records",
+  "definition": "A traceability matrix is a table that records links between requirements and the design, implementation, tests, or other records that address them.",
+  "explanation": [
+    "It helps a team check coverage and see what may need review when a requirement or related artifact changes. The rows and columns should identify the linked items and the nature of each link.",
+    "A filled cell shows a recorded relationship; it does not by itself prove that the requirement was met. The supporting design or test evidence still needs examination."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
