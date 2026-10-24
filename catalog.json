@@ -452,6 +452,11 @@
       "path": "entries/process-capability/stable-process-fit-to-specification-limits/revision.glossary.26e1b8c406d691dd3ceaa1bb.json"
     },
     {
+      "object_id": "glossary.process-monitoring.performance-observation",
+      "revision_id": "revision.glossary.53f3781633789190e4586345",
+      "path": "entries/process-monitoring/repeated-observation-of-a-quality-management-process/revision.glossary.53f3781633789190e4586345.json"
+    },
+    {
       "object_id": "glossary.process-quality.work-performance",
       "revision_id": "revision.glossary.8e6d4cc6e8a645bdc371cb47",
       "path": "entries/process-quality/quality-of-an-operational-process/revision.glossary.8e6d4cc6e8a645bdc371cb47.json"
