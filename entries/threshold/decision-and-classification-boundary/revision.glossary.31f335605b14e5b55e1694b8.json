@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.threshold.decision-boundary",
+  "revision_id": "revision.glossary.31f335605b14e5b55e1694b8",
+  "headword": "Threshold",
+  "scope_label": "decision and classification boundary",
+  "definition": "A threshold separates regions to which different interpretations or rules apply.",
+  "explanation": [
+    "Its meaning is incomplete until the relevant variable, direction of comparison, boundary value, and consequence of crossing it are specified."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
