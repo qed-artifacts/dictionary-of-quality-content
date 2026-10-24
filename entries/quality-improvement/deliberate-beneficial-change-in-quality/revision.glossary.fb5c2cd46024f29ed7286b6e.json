@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-improvement.beneficial-change",
+  "revision_id": "revision.glossary.fb5c2cd46024f29ed7286b6e",
+  "headword": "Quality improvement",
+  "scope_label": "deliberate beneficial change in quality",
+  "definition": "Quality improvement is deliberate change aimed at making an object, process, or system better at meeting relevant quality needs or requirements.",
+  "explanation": [
+    "An improvement effort should identify what is to change, the desired result, and evidence that could show whether the change helped. A revised procedure alone does not show that performance improved.",
+    "Improvement can address recurring failures, strengthen a process, or add capabilities that meet changing needs. Evidence of the resulting effect distinguishes an achieved improvement from an intended one."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
