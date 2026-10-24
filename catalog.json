@@ -92,6 +92,11 @@
       "path": "entries/data-quality/suitability-of-data-for-a-specified-use/revision.glossary.20822f46d856544c0ef487ee.json"
     },
     {
+      "object_id": "glossary.decision-quality.choice-process",
+      "revision_id": "revision.glossary.419516573f24b8a421d36354",
+      "path": "entries/decision-quality/appraisal-of-a-choice-under-uncertainty/revision.glossary.419516573f24b8a421d36354.json"
+    },
+    {
       "object_id": "glossary.decision.choice-among-options",
       "revision_id": "revision.glossary.4f7326c4c33b093820f235fe",
       "path": "entries/decision/choice-of-a-course-of-action/revision.glossary.4f7326c4c33b093820f235fe.json"
