@@ -1,0 +1,22 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.standard.evaluative-reference",
+  "revision_id": "revision.glossary.6dd7e4c6e4bc3eab5e293e43",
+  "headword": "Standard",
+  "scope_label": "evaluative reference; documentary and measurement uses distinguished",
+  "definition": "In an evaluative use, a standard is a reference or expected level used to judge performance or acceptability in a stated context.",
+  "explanation": [
+    "A criterion identifies a consideration for judgment, while a standard can specify the level or condition expected for it; the terms overlap in some fields.",
+    "An indicator supplies an observable or assessable sign relevant to the judgment, but its result alone does not establish that the chosen standard is appropriate.",
+    "A standard can be communicated through descriptions, exemplars, or numerical limits; a defensible judgment names whose standard applies and what decision it governs.",
+    "The word also has other uses: a documentary standard may specify terminology, procedures, tests, or requirements, while a measurement standard is a reference for quantity values."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
