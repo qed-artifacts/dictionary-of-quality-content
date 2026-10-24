@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.indicator.evaluation-monitoring",
+  "revision_id": "revision.glossary.11aeca0f349b53fd964aa6e7",
+  "headword": "Indicator",
+  "scope_label": "evaluation and monitoring",
+  "definition": "An indicator is an observable or assessable factor used to track something of interest.",
+  "explanation": [
+    "It helps answer an evaluation question, but its value requires interpretation: even an accurately assessed indicator is an approximation of the condition or change of interest.",
+    "Indicators can be qualitative or quantitative."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
