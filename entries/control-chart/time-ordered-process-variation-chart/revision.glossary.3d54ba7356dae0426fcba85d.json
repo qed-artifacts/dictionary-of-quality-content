@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.control-chart.process-signal",
+  "revision_id": "revision.glossary.3d54ba7356dae0426fcba85d",
+  "headword": "Control chart",
+  "scope_label": "time-ordered process variation chart",
+  "definition": "A control chart is a time-ordered display of a process measure with a centerline and statistically derived control limits, used to detect signals of process change.",
+  "explanation": [
+    "Points beyond a limit or certain nonrandom patterns can prompt investigation of a special cause. Chart type, sampling plan, and signal rules must fit the data and process.",
+    "Control limits describe expected process behavior under the chart model. They are different from specification limits, which state what an output is required to meet."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
