@@ -462,6 +462,11 @@
       "path": "entries/threshold/decision-and-classification-boundary/revision.glossary.31f335605b14e5b55e1694b8.json"
     },
     {
+      "object_id": "glossary.total-quality-management.organizational-approach",
+      "revision_id": "revision.glossary.89b2af8b628ac8207b54e3ee",
+      "path": "entries/total-quality-management/organization-wide-quality-management-approach/revision.glossary.89b2af8b628ac8207b54e3ee.json"
+    },
+    {
       "object_id": "glossary.trade-off.competing-outcomes",
       "revision_id": "revision.glossary.c6eda63dd2bba216803ff62e",
       "path": "entries/trade-off/choice-among-competing-design-outcomes/revision.glossary.c6eda63dd2bba216803ff62e.json"

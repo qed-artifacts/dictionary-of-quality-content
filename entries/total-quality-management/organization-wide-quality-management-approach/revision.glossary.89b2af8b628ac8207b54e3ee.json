@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.total-quality-management.organizational-approach",
+  "revision_id": "revision.glossary.89b2af8b628ac8207b54e3ee",
+  "headword": "Total quality management (TQM)",
+  "scope_label": "organization-wide quality management approach",
+  "definition": "Total quality management (TQM) is an organization-wide approach that makes meeting customer needs and improving work processes a shared, continuing responsibility.",
+  "explanation": [
+    "It joins leadership, participation across roles, evidence about performance, and repeated problem solving. Statistical tools can help, but no single tool constitutes TQM.",
+    "Calling a program TQM describes an intended approach. Whether it works depends on how its practices are carried out and what results they produce in the organization’s setting."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
