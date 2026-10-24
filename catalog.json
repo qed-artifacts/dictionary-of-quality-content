@@ -147,6 +147,11 @@
       "path": "entries/cost-of-quality/costs-of-achieving-and-failing-to-achieve-quality/revision.glossary.bc597a94a3cb8d4e04d8e7d8.json"
     },
     {
+      "object_id": "glossary.coverage.requirement-traceability",
+      "revision_id": "revision.glossary.e1f1a6b434b21ed6d481974d",
+      "path": "entries/coverage/requirement-traceability-coverage-in-a-defined-design-set/revision.glossary.e1f1a6b434b21ed6d481974d.json"
+    },
+    {
       "object_id": "glossary.criterion.evaluative",
       "revision_id": "revision.glossary.a8e93785e84cad52415a19a9",
       "path": "entries/criterion/evaluative-basis-or-consideration/revision.glossary.a8e93785e84cad52415a19a9.json"
