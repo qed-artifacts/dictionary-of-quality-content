@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.process-monitoring.performance-observation",
+  "revision_id": "revision.glossary.53f3781633789190e4586345",
+  "headword": "Process monitoring",
+  "scope_label": "repeated observation of a quality-management process",
+  "definition": "Process monitoring is the repeated observation or measurement of selected process conditions and results to see how a process is behaving over time.",
+  "explanation": [
+    "Useful indicators relate to the process’s objectives and have a stated collection method and frequency. Trends or departures can prompt investigation and action.",
+    "Monitoring supplies evidence for decisions; it does not by itself control the process or prove that every output conforms."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
