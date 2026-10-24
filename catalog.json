@@ -47,6 +47,11 @@
       "path": "entries/evaluand/evaluation-terminology/revision.glossary.d6bb707892bb32c1c2b78827.json"
     },
     {
+      "object_id": "glossary.evaluation.value-appraisal",
+      "revision_id": "revision.glossary.0eb7bd85ec9db86c23fdc290",
+      "path": "entries/evaluation/reasoned-appraisal-of-a-subject/revision.glossary.0eb7bd85ec9db86c23fdc290.json"
+    },
+    {
       "object_id": "glossary.evidence.cross-domain",
       "revision_id": "revision.glossary.62a56e557104b7265180cc66",
       "path": "entries/evidence/cross-domain-claim-bearing-evidence/revision.glossary.62a56e557104b7265180cc66.json"
