@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-loss-function.target-deviation-model",
+  "revision_id": "revision.glossary.dfbdfe6eff764f7aa5f2c5da",
+  "headword": "Quality loss function",
+  "scope_label": "modeled loss associated with a quality characteristic departing from a target",
+  "definition": "A quality loss function relates the value of a quality characteristic to the loss associated with its departure from a stated target.",
+  "explanation": [
+    "It makes the target and the assumed consequence of deviation explicit. Under a continuous loss model, a result can impose some loss even while it remains inside specification limits.",
+    "The shape and scale of the function are assumptions to justify for the particular use; a familiar quadratic model is one possible choice, not a universal law of quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
