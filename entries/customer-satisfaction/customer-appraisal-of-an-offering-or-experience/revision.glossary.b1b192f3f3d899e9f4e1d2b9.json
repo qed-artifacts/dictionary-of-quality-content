@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.customer-satisfaction.customer-appraisal",
+  "revision_id": "revision.glossary.b1b192f3f3d899e9f4e1d2b9",
+  "headword": "Customer satisfaction",
+  "scope_label": "customer appraisal of an offering or experience",
+  "definition": "Customer satisfaction is a customer’s appraisal of how well a product, service, or experience meets relevant needs and expectations.",
+  "explanation": [
+    "It is tied to a particular customer, offering, and time. Expectations and perceptions can change, so a satisfaction result should state who was asked and what experience they judged.",
+    "Satisfaction is informative about the customer’s view, but it does not by itself establish conformity to every requirement or the absence of harm to others."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
