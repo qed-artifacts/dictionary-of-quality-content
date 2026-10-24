@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.supplier-quality.outputs-and-performance",
+  "revision_id": "revision.glossary.1f3ce90cf86f07eb6eb18411",
+  "headword": "Supplier quality",
+  "scope_label": "supplier outputs, controls and performance for an intended relationship",
+  "definition": "Supplier quality is how well a supplier’s outputs and relevant processes meet the requirements of an intended customer relationship.",
+  "explanation": [
+    "Assessment may consider delivered conformity, consistency, process controls, timeliness, and response when problems occur. The importance of each depends on the purchased item or service and the consequences of failure.",
+    "A single delivery score cannot establish the quality of every supplier activity. State the requirements, period, and evidence behind the judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
