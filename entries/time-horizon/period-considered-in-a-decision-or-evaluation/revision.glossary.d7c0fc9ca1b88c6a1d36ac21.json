@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.time-horizon.period-of-concern",
+  "revision_id": "revision.glossary.d7c0fc9ca1b88c6a1d36ac21",
+  "headword": "Time horizon",
+  "scope_label": "period considered in a decision or evaluation",
+  "definition": "A time horizon is the span of time over which a decision, forecast, or evaluation considers outcomes.",
+  "explanation": [
+    "State when the period begins and ends, or how long it lasts. A short horizon may reveal immediate costs and benefits while missing effects that emerge later.",
+    "The time horizon is part of the question being asked. It is not the same as a deadline for making the decision or finishing the work."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
