@@ -357,6 +357,11 @@
       "path": "entries/risk/common-adverse-outcome-sense/revision.glossary.1b9756f977ad5670009a81ca.json"
     },
     {
+      "object_id": "glossary.root-cause-analysis.verified-cause",
+      "revision_id": "revision.glossary.bb31940c93d316920791aa7d",
+      "path": "entries/root-cause-analysis/investigating-causes-of-a-quality-problem/revision.glossary.bb31940c93d316920791aa7d.json"
+    },
+    {
       "object_id": "glossary.safety.harm-prevention",
       "revision_id": "revision.glossary.4242336dbec5ad6f087659df",
       "path": "entries/safety/control-of-harmful-consequences-under-stated-conditions/revision.glossary.4242336dbec5ad6f087659df.json"
