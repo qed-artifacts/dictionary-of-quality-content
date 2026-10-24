@@ -192,6 +192,11 @@
       "path": "entries/harm/adverse-effect-on-a-person-or-valued-subject/revision.glossary.fd225afa74fdde4f8ffd6a3b.json"
     },
     {
+      "object_id": "glossary.hazard-analysis-and-critical-control-points.food-safety-system",
+      "revision_id": "revision.glossary.44cfad379573813c561237de",
+      "path": "entries/hazard-analysis-and-critical-control-points/preventive-food-safety-control-system/revision.glossary.44cfad379573813c561237de.json"
+    },
+    {
       "object_id": "glossary.healthcare-quality.care-delivery",
       "revision_id": "revision.glossary.5e0e1a17caba7e01c76b8ed7",
       "path": "entries/healthcare-quality/quality-of-care-and-its-delivery/revision.glossary.5e0e1a17caba7e01c76b8ed7.json"
