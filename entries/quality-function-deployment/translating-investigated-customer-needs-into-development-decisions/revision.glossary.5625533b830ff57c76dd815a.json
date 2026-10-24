@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-function-deployment.customer-to-design",
+  "revision_id": "revision.glossary.5625533b830ff57c76dd815a",
+  "headword": "Quality function deployment",
+  "scope_label": "translating investigated customer needs into development decisions",
+  "definition": "Quality function deployment (QFD) is a structured method for translating investigated customer needs into product or service design and subsequent development decisions across organizational functions.",
+  "explanation": [
+    "It makes proposed links between what customers need and what a team plans to design, build, and control. The links and priorities should be reasoned through rather than treated as facts merely because they occupy cells in a chart.",
+    "The House of Quality is a familiar planning matrix within QFD. QFD can continue into further design and process decisions; completing one matrix does not show that the finished offering meets customer needs."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

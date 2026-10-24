@@ -177,6 +177,11 @@
       "path": "entries/quality-evaluation/appraisal-of-an-object-s-quality/revision.glossary.237f09171d6e7c9139c1ddd9.json"
     },
     {
+      "object_id": "glossary.quality-function-deployment.customer-to-design",
+      "revision_id": "revision.glossary.5625533b830ff57c76dd815a",
+      "path": "entries/quality-function-deployment/translating-investigated-customer-needs-into-development-decisions/revision.glossary.5625533b830ff57c76dd815a.json"
+    },
+    {
       "object_id": "glossary.quality-improvement.beneficial-change",
       "revision_id": "revision.glossary.fb5c2cd46024f29ed7286b6e",
       "path": "entries/quality-improvement/deliberate-beneficial-change-in-quality/revision.glossary.fb5c2cd46024f29ed7286b6e.json"
