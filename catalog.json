@@ -822,6 +822,11 @@
       "path": "entries/sustainability/maintaining-valued-activity-within-enduring-limits/revision.glossary.42012b4784b0015fb593986a.json"
     },
     {
+      "object_id": "glossary.tampering.common-cause-overadjustment",
+      "revision_id": "revision.glossary.a1959c2c71c290271191679e",
+      "path": "entries/tampering/overadjustment-of-a-stable-process-in-statistical-process-control/revision.glossary.a1959c2c71c290271191679e.json"
+    },
+    {
       "object_id": "glossary.target.results-monitoring",
       "revision_id": "revision.glossary.f7cffe9d77d8f7a6e5b7793a",
       "path": "entries/target/results-monitoring-and-evaluation/revision.glossary.f7cffe9d77d8f7a6e5b7793a.json"
