@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.change-control.governed-change",
+  "revision_id": "revision.glossary.2dde3fb5c128f8fc2a07eb08",
+  "headword": "Change control",
+  "scope_label": "governed change to a controlled product, process or system",
+  "definition": "Change control is a process for identifying a proposed change, assessing its effects, authorizing it, and recording what was done and the resulting state.",
+  "explanation": [
+    "The depth of review should fit the change and its potential effects on quality, safety, compliance, and operation. Implementation may require updated procedures, records, or renewed validation.",
+    "A record that something changed is not enough: control also requires a decision about whether and how the change may proceed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
