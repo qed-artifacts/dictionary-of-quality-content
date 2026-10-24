@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.critical-limit.haccp-hazard-boundary",
+  "revision_id": "revision.glossary.0853dfd5cc4b0d4d5bdbc9e1",
+  "headword": "Critical limit",
+  "scope_label": "hazard-control boundary at a food-safety HACCP critical control point",
+  "definition": "In a food-safety HACCP plan, a critical limit is a stated boundary for a monitored parameter at a critical control point, chosen to control a specified hazard.",
+  "explanation": [
+    "The limit identifies the parameter, direction, and value or observable condition. It needs a justified basis for the food, process, and hazard.",
+    "Monitoring checks whether the limit is met. A deviation triggers the plan’s corrective-action procedure; it does not by itself establish that every affected product is unsafe. A critical limit differs from an operating target set only for efficiency or product quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
