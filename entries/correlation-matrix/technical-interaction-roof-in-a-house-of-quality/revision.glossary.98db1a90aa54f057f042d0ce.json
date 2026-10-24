@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.correlation-matrix.hoq-roof",
+  "revision_id": "revision.glossary.98db1a90aa54f057f042d0ce",
+  "headword": "Correlation matrix",
+  "scope_label": "technical-interaction roof in a House of Quality",
+  "definition": "In a House of Quality, the correlation matrix is a roof-shaped grid for assessing how proposed technical characteristics interact with one another.",
+  "explanation": [
+    "A positive mark suggests that changes may reinforce one another; a negative mark flags a possible conflict or trade-off. The meaning of each mark depends on the method and evidence used.",
+    "In this use, “correlation” need not mean a calculated statistical correlation coefficient. The roof records design judgments unless a separate analysis establishes measured relationships."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
