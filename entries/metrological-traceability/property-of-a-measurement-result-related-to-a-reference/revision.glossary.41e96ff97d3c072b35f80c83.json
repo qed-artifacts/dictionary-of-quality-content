@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.metrological-traceability.measurement-result-chain",
+  "revision_id": "revision.glossary.41e96ff97d3c072b35f80c83",
+  "headword": "Metrological traceability",
+  "scope_label": "property of a measurement result related to a reference",
+  "definition": "Metrological traceability is the property of a measurement result that lets it be related to a reference through a documented, unbroken chain of calibrations, each contributing to measurement uncertainty.",
+  "explanation": [
+    "The chain identifies how the result connects to the reference and where uncertainty enters. It belongs to a particular result and measurement process, rather than merely to an instrument label.",
+    "Traceability makes the basis for comparison inspectable. It does not by itself prove that the result is accurate enough for a particular decision; that requires an uncertainty and fitness-for-use judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
