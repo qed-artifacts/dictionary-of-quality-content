@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.preventive-action.potential-problem",
+  "revision_id": "revision.glossary.310e7733961a96039f2c5c8a",
+  "headword": "Preventive action",
+  "scope_label": "addressing causes of a potential nonconformity",
+  "definition": "Preventive action addresses a cause of a potential nonconformity or other unwanted situation before it occurs.",
+  "explanation": [
+    "It responds to an identified risk, whereas corrective action responds to a detected problem and seeks to prevent recurrence. The proposed action should match the plausible cause and the consequence at stake.",
+    "Some management systems incorporate prevention into risk-based planning rather than a separately named preventive-action step. The label does not, by itself, show that a risk was identified or reduced."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
