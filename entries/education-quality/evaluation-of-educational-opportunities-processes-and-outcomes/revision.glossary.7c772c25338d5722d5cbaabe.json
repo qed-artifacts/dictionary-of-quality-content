@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.education-quality.aims-opportunities-outcomes",
+  "revision_id": "revision.glossary.7c772c25338d5722d5cbaabe",
+  "headword": "Education quality",
+  "scope_label": "evaluation of educational opportunities, processes and outcomes",
+  "definition": "Education quality is how well educational opportunities, processes, and outcomes serve justified learning aims and the needs of learners in a stated context.",
+  "explanation": [
+    "A judgment may consider what learners gain, the teaching and support they receive, access, fairness, and the resources that make learning possible. Which considerations matter depends on the learners, institution, and purpose of the evaluation.",
+    "A test score or institutional rating is evidence about selected aspects, not a complete judgment of education quality by itself."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
