@@ -627,6 +627,11 @@
       "path": "entries/validation/evidence-based-confirmation-for-intended-use/revision.glossary.158d26cb343bbb186df526c2.json"
     },
     {
+      "object_id": "glossary.validity-argument.score-use-justification",
+      "revision_id": "revision.glossary.d43fabc768a3494b6cfdbcd0",
+      "path": "entries/validity-argument/justification-for-a-specified-test-score-interpretation-and-use/revision.glossary.d43fabc768a3494b6cfdbcd0.json"
+    },
+    {
       "object_id": "glossary.validity.cross-domain",
       "revision_id": "revision.glossary.973b73539a32cd68c90217b9",
       "path": "entries/validity/deductive-logic-test-score-interpretation-and-empirical-research/revision.glossary.973b73539a32cd68c90217b9.json"
