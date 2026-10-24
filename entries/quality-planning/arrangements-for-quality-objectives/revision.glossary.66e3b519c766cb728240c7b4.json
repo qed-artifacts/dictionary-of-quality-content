@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-planning.arrangements",
+  "revision_id": "revision.glossary.66e3b519c766cb728240c7b4",
+  "headword": "Quality planning",
+  "scope_label": "arrangements for quality objectives",
+  "definition": "Quality planning is the work of setting quality objectives and arranging what is needed to achieve them.",
+  "explanation": [
+    "The arrangements may identify applicable requirements, processes, responsibilities, resources, checks, and responses to foreseeable failure. A quality plan records such arrangements for a particular product, service, or project.",
+    "Planning specifies intended work and criteria; later control, assurance, and evaluation show what was done and what the evidence supports."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
