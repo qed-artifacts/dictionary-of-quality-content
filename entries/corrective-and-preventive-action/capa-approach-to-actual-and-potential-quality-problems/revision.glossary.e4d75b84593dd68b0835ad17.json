@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.corrective-and-preventive-action.capa-process",
+  "revision_id": "revision.glossary.e4d75b84593dd68b0835ad17",
+  "headword": "Corrective and preventive action",
+  "scope_label": "CAPA approach to actual and potential quality problems",
+  "definition": "Corrective and preventive action, or CAPA, is a structured approach to addressing actual and potential quality problems through the actions appropriate to each case.",
+  "explanation": [
+    "It distinguishes correcting a detected case, addressing a cause of recurrence, and addressing a cause of a potential problem. These are different tasks; a case does not automatically require every kind of action.",
+    "A CAPA record can connect investigation, planned actions, implementation, and an effectiveness check. Its purpose is to show that the response fits the problem and that the intended change occurred."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
