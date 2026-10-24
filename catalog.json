@@ -252,6 +252,11 @@
       "path": "entries/quality/quality-management/revision.glossary.1be2706cc72d31afa1268da3.json"
     },
     {
+      "object_id": "glossary.relationship-matrix.hoq-body",
+      "revision_id": "revision.glossary.f85dc2b887068ef8c68292a4",
+      "path": "entries/relationship-matrix/customer-to-technical-grid-in-a-house-of-quality/revision.glossary.f85dc2b887068ef8c68292a4.json"
+    },
+    {
       "object_id": "glossary.reliability.cross-domain",
       "revision_id": "revision.glossary.4ee64845069e84c0f36eb1c3",
       "path": "entries/reliability/test-score-consistency-and-engineered-item-performance/revision.glossary.4ee64845069e84c0f36eb1c3.json"
