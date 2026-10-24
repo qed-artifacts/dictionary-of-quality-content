@@ -1,0 +1,22 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.benchmark.evaluation-comparison",
+  "revision_id": "revision.glossary.31db9589c3bffd0e1996238d",
+  "headword": "Benchmark",
+  "scope_label": "evaluation comparison reference",
+  "definition": "A benchmark is a reference for comparison.",
+  "explanation": [
+    "In evaluation, it helps answer “How does this result compare with what a relevant peer has achieved, or with what appears achievable under similar conditions?”",
+    "A relevant comparison may use recent performance by similar organizations or a reasoned estimate of what is achievable under similar conditions.",
+    "In some uses, a benchmark specifically represents leading practice or performance.",
+    "Thus, a benchmark need not mean “the best” in every field."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
