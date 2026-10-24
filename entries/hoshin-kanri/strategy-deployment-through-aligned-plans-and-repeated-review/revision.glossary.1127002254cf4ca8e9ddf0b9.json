@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.hoshin-kanri.strategy-deployment",
+  "revision_id": "revision.glossary.1127002254cf4ca8e9ddf0b9",
+  "headword": "Hoshin kanri",
+  "scope_label": "strategy deployment through aligned plans and repeated review",
+  "definition": "Hoshin kanri is a method for turning an organization’s strategic priorities into aligned objectives and action plans across its levels.",
+  "explanation": [
+    "Plans are developed and adjusted through dialogue among the people responsible for carrying them out. Responsibilities, resources, and measures make the priorities actionable.",
+    "Regular review connects results and lessons back to the next planning cycle. A statement of priorities alone is not a deployed plan."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

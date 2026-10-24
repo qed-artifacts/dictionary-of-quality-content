@@ -282,6 +282,11 @@
       "path": "entries/healthcare-quality/quality-of-care-and-its-delivery/revision.glossary.5e0e1a17caba7e01c76b8ed7.json"
     },
     {
+      "object_id": "glossary.hoshin-kanri.strategy-deployment",
+      "revision_id": "revision.glossary.1127002254cf4ca8e9ddf0b9",
+      "path": "entries/hoshin-kanri/strategy-deployment-through-aligned-plans-and-repeated-review/revision.glossary.1127002254cf4ca8e9ddf0b9.json"
+    },
+    {
       "object_id": "glossary.house-of-quality.planning-matrix",
       "revision_id": "revision.glossary.763d052416375fa13b6cfd2a",
       "path": "entries/house-of-quality/customer-to-design-planning-matrix-used-in-qfd/revision.glossary.763d052416375fa13b6cfd2a.json"
