@@ -267,6 +267,11 @@
       "path": "entries/measurement-uncertainty/metrological-uncertainty-associated-with-a-measured-quantity/revision.glossary.c9a295b262bf1cdcd5cc9103.json"
     },
     {
+      "object_id": "glossary.multi-criteria-decision-analysis.alternative-comparison",
+      "revision_id": "revision.glossary.c198ee4b3a61835aa9d35a09",
+      "path": "entries/multi-criteria-decision-analysis/structured-comparison-using-multiple-relevant-criteria/revision.glossary.c198ee4b3a61835aa9d35a09.json"
+    },
+    {
       "object_id": "glossary.nonconformity.unmet-requirement",
       "revision_id": "revision.glossary.617397708409669dc921b1f5",
       "path": "entries/nonconformity/failure-to-fulfill-an-applicable-requirement/revision.glossary.617397708409669dc921b1f5.json"

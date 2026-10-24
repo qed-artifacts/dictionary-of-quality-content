@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.multi-criteria-decision-analysis.alternative-comparison",
+  "revision_id": "revision.glossary.c198ee4b3a61835aa9d35a09",
+  "headword": "Multi-criteria decision analysis (MCDA)",
+  "scope_label": "structured comparison using multiple relevant criteria",
+  "definition": "Multi-criteria decision analysis (MCDA) is a family of methods for comparing options against several relevant criteria when no single measure settles the choice.",
+  "explanation": [
+    "An analysis states the options, criteria, evidence about each option, and how tradeoffs are handled. Some methods use weights and an aggregate score; others compare options without reducing them to one number.",
+    "The result depends on these modeling choices. Checking how the recommendation changes under plausible assumptions helps show how robust it is."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
