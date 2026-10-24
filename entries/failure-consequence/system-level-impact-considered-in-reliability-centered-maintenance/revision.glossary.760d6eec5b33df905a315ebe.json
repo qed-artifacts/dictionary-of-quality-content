@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.failure-consequence.rcm-system-impact",
+  "revision_id": "revision.glossary.760d6eec5b33df905a315ebe",
+  "headword": "Failure consequence",
+  "scope_label": "system-level impact considered in reliability-centered maintenance",
+  "definition": "In reliability-centered maintenance, a failure consequence is what a failure would mean for the system and affected people beyond the immediate physical effect on a part.",
+  "explanation": [
+    "Consequences may include injury, loss of operation, degraded capability, or cost. Their seriousness helps determine which failures call for preventive action.",
+    "A failure effect describes what happens; its consequence expresses why that effect matters for use, safety, or other objectives."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
