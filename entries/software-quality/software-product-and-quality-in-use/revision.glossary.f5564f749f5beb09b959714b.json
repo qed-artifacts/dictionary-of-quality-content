@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.software-quality.product-and-use",
+  "revision_id": "revision.glossary.f5564f749f5beb09b959714b",
+  "headword": "Software quality",
+  "scope_label": "software product and quality in use",
+  "definition": "Software quality is how well a software product satisfies relevant stakeholder needs and requirements in its intended contexts of use.",
+  "explanation": [
+    "Product properties can include functional suitability, reliability, security, usability, and maintainability. Which properties matter, and to whom, should be specified for the system being judged.",
+    "Quality in use concerns the outcomes of interaction in a particular context. It is related to, but distinct from, a list of product properties or the quality of the development process."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
