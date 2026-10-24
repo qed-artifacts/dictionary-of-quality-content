@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.top-event.fault-tree-outcome",
+  "revision_id": "revision.glossary.b5e38110737042b070c7afb5",
+  "headword": "Top event",
+  "scope_label": "specified unwanted outcome in fault tree analysis",
+  "definition": "In fault tree analysis, a top event is the specified unwanted system state or event that the analysis seeks to explain.",
+  "explanation": [
+    "It heads the tree; lower events and logic gates show combinations that could bring it about.",
+    "Choosing it sets the question and boundary for the analysis. A top event is the outcome under study, not itself an identified root cause."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
