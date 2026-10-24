@@ -52,6 +52,11 @@
       "path": "entries/target/results-monitoring-and-evaluation/revision.glossary.f7cffe9d77d8f7a6e5b7793a.json"
     },
     {
+      "object_id": "glossary.threshold.decision-boundary",
+      "revision_id": "revision.glossary.31f335605b14e5b55e1694b8",
+      "path": "entries/threshold/decision-and-classification-boundary/revision.glossary.31f335605b14e5b55e1694b8.json"
+    },
+    {
       "object_id": "glossary.value.evaluative",
       "revision_id": "revision.glossary.4449b40656b512a828644237",
       "path": "entries/value/evaluative-sense/revision.glossary.4449b40656b512a828644237.json"
