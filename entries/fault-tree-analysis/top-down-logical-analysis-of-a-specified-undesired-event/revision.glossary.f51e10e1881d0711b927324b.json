@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.fault-tree-analysis.top-event-logic-model",
+  "revision_id": "revision.glossary.f51e10e1881d0711b927324b",
+  "headword": "Fault tree analysis (FTA)",
+  "scope_label": "top-down logical analysis of a specified undesired event",
+  "definition": "Fault tree analysis (FTA) is a top-down method for showing how combinations of lower-level events could produce a specified unwanted event.",
+  "explanation": [
+    "A tree starts with that top event and connects contributing events through logical gates, such as “and” or “or.” The structure helps identify combinations worth investigating or controlling.",
+    "The tree can support qualitative analysis; estimating event likelihoods also requires defensible event data and model assumptions. A diagram alone does not establish that its listed events are the actual causes of an occurrence."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
