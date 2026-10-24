@@ -1,0 +1,21 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.measure.program-evaluation",
+  "revision_id": "revision.glossary.1650402b8d4d151c5bd0f98a",
+  "headword": "Measure",
+  "scope_label": "program evaluation evidence specification",
+  "definition": "In program evaluation, a measure is a specified observation or calculation used to produce evidence about an indicator.",
+  "explanation": [
+    "It tells an evaluator what to record or compute.",
+    "A measure may be quantitative or qualitative; an indicator identifies what the measure bears on.",
+    "In metrology, measurement names the process, while measurement result names its output; measure is therefore too ambiguous to substitute for either term in a technical record."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
