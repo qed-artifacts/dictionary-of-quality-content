@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.conformity-assessment.requirement-demonstration",
+  "revision_id": "revision.glossary.55c7fc2e87c57072f65ec5b7",
+  "headword": "Conformity assessment",
+  "scope_label": "determining whether relevant requirements are fulfilled",
+  "definition": "Conformity assessment is the determination of whether an object fulfills relevant specified requirements.",
+  "explanation": [
+    "The object, requirements, assessment method, and scope must be clear. Depending on the case, assessment may use testing, inspection, or certification.",
+    "A conformity result addresses the requirements actually assessed; it does not, by itself, establish overall excellence or fitness for every use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
