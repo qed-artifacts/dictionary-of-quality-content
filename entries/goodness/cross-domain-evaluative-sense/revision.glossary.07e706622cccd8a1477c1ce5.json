@@ -1,0 +1,21 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.goodness.evaluative",
+  "revision_id": "revision.glossary.07e706622cccd8a1477c1ce5",
+  "headword": "Goodness",
+  "scope_label": "cross-domain evaluative sense",
+  "definition": "Goodness is favorable evaluative standing.",
+  "explanation": [
+    "To understand a particular claim of goodness, ask: What is good, in what respect, for whom if anyone, and by which standards?",
+    "This is a usable cross-domain definition, rather than a claim that philosophy has settled on one analysis of every use of good.",
+    "The logical status of “good” remains disputed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
