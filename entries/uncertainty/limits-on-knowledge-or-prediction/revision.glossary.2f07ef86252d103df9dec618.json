@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.uncertainty.limits-of-knowledge",
+  "revision_id": "revision.glossary.2f07ef86252d103df9dec618",
+  "headword": "Uncertainty",
+  "scope_label": "limits on knowledge or prediction",
+  "definition": "Uncertainty is a limit on what can be known or predicted about a specified state, claim, quantity, or outcome.",
+  "explanation": [
+    "It can arise from incomplete observations, variability, assumptions, or limits in a model. State what is uncertain and why; uncertainty about a measurement differs from uncertainty about the consequences of a decision.",
+    "A probability or range can express some uncertainties, but neither is always available or sufficient. The limits should travel with the claim or recommendation they affect."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
