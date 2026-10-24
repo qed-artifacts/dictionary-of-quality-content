@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.fitness-for-use.user-context",
+  "revision_id": "revision.glossary.8443f1fb951a8ab07aad0d12",
+  "headword": "Fitness for use",
+  "scope_label": "suitability in a user’s context",
+  "definition": "Fitness for use is how suitable an object is for a user’s intended activity under the conditions in which it will be used.",
+  "explanation": [
+    "The judgment depends on the user, task, setting, and consequences of failure. An object can meet its written specification yet be unsuitable for the intended use if the specification missed a relevant need.",
+    "Fitness for use and fitness for purpose overlap. This wording emphasizes the conditions of actual or intended use, without assigning the phrases mutually exclusive meanings."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

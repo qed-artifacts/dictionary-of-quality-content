@@ -57,6 +57,11 @@
       "path": "entries/excellence/cross-domain-elevated-appraisal/revision.glossary.2c23e8cec17dc552fd751691.json"
     },
     {
+      "object_id": "glossary.fitness-for-use.user-context",
+      "revision_id": "revision.glossary.8443f1fb951a8ab07aad0d12",
+      "path": "entries/fitness-for-use/suitability-in-a-user-s-context/revision.glossary.8443f1fb951a8ab07aad0d12.json"
+    },
+    {
       "object_id": "glossary.goodness.evaluative",
       "revision_id": "revision.glossary.07e706622cccd8a1477c1ce5",
       "path": "entries/goodness/cross-domain-evaluative-sense/revision.glossary.07e706622cccd8a1477c1ce5.json"
