@@ -247,6 +247,11 @@
       "path": "entries/failure-cost/costs-arising-from-defects-or-nonconformity/revision.glossary.1438879b0d327bed49c24419.json"
     },
     {
+      "object_id": "glossary.failure-effect.fmea-consequence",
+      "revision_id": "revision.glossary.23af096e5f1f3101400abe78",
+      "path": "entries/failure-effect/consequence-of-a-specified-failure-mode-for-a-function-or-affected-party/revision.glossary.23af096e5f1f3101400abe78.json"
+    },
+    {
       "object_id": "glossary.failure-mode-and-effects-analysis.prospective-risk",
       "revision_id": "revision.glossary.c9de9ce6129c8e1f5e3da288",
       "path": "entries/failure-mode-and-effects-analysis/prospective-failure-analysis/revision.glossary.c9de9ce6129c8e1f5e3da288.json"
