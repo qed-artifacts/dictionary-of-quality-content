@@ -262,6 +262,11 @@
       "path": "entries/fault-tree-analysis/top-down-logical-analysis-of-a-specified-undesired-event/revision.glossary.f51e10e1881d0711b927324b.json"
     },
     {
+      "object_id": "glossary.first-pass-yield.no-rework-stage-yield",
+      "revision_id": "revision.glossary.15180a2b4e2aec5f6aa6bcf8",
+      "path": "entries/first-pass-yield/share-of-units-passing-a-defined-process-on-their-first-attempt/revision.glossary.15180a2b4e2aec5f6aa6bcf8.json"
+    },
+    {
       "object_id": "glossary.fitness-for-purpose.stated-aim",
       "revision_id": "revision.glossary.06183caa2a67fb5fbf416f94",
       "path": "entries/fitness-for-purpose/suitability-for-a-stated-aim/revision.glossary.06183caa2a67fb5fbf416f94.json"
