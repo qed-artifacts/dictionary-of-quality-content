@@ -277,6 +277,11 @@
       "path": "entries/target/results-monitoring-and-evaluation/revision.glossary.f7cffe9d77d8f7a6e5b7793a.json"
     },
     {
+      "object_id": "glossary.technical-characteristic.hoq-design-response",
+      "revision_id": "revision.glossary.22e2330b3c3c0207713dbb3d",
+      "path": "entries/technical-characteristic/design-side-response-in-a-house-of-quality/revision.glossary.22e2330b3c3c0207713dbb3d.json"
+    },
+    {
       "object_id": "glossary.threshold.decision-boundary",
       "revision_id": "revision.glossary.31f335605b14e5b55e1694b8",
       "path": "entries/threshold/decision-and-classification-boundary/revision.glossary.31f335605b14e5b55e1694b8.json"
