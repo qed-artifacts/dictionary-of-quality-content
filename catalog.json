@@ -92,6 +92,11 @@
       "path": "entries/indicator/evaluation-and-monitoring/revision.glossary.11aeca0f349b53fd964aa6e7.json"
     },
     {
+      "object_id": "glossary.inference.reasoning-transition",
+      "revision_id": "revision.glossary.67341c573137dbcd4fe45436",
+      "path": "entries/inference/reasoning-from-grounds-to-a-conclusion/revision.glossary.67341c573137dbcd4fe45436.json"
+    },
+    {
       "object_id": "glossary.judgment.reasoned-conclusion",
       "revision_id": "revision.glossary.dcd4d62dbe787344eb6ebc76",
       "path": "entries/judgment/conclusion-drawn-from-information/revision.glossary.dcd4d62dbe787344eb6ebc76.json"

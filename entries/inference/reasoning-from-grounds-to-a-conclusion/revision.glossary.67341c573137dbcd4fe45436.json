@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.inference.reasoning-transition",
+  "revision_id": "revision.glossary.67341c573137dbcd4fe45436",
+  "headword": "Inference",
+  "scope_label": "reasoning from grounds to a conclusion",
+  "definition": "An inference is a move in reasoning from premises, observations, or other information to a further conclusion.",
+  "explanation": [
+    "The relation between the grounds and conclusion may be deductive, statistical, causal, or another form. The conclusion is warranted only to the extent that the grounds and the inferential connection support it.",
+    "An inference can be made explicit so others can test its assumptions and limits. It is distinct from the observations that start it and the decision that may follow."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
