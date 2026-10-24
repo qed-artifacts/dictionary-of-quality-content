@@ -352,6 +352,11 @@
       "path": "entries/quality-objective/organizational-intended-quality-result/revision.glossary.8666532d13f8a2f687bfa152.json"
     },
     {
+      "object_id": "glossary.quality-of-care.health-services",
+      "revision_id": "revision.glossary.94d6fb2fcceec7fa5a092c44",
+      "path": "entries/quality-of-care/evaluation-of-health-care-services/revision.glossary.94d6fb2fcceec7fa5a092c44.json"
+    },
+    {
       "object_id": "glossary.quality-of-life.lived-appraisal",
       "revision_id": "revision.glossary.c851f057c1250c090b6d3a69",
       "path": "entries/quality-of-life/person-centered-appraisal-of-life-circumstances/revision.glossary.c851f057c1250c090b6d3a69.json"
