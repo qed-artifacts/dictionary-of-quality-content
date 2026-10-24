@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-by-design.pharmaceutical-development",
+  "revision_id": "revision.glossary.041884368f626a00c0dd876e",
+  "headword": "Quality by design",
+  "scope_label": "pharmaceutical product and process development",
+  "definition": "In pharmaceutical development, quality by design is a systematic approach that starts with intended product quality and uses product and process understanding to build and control that quality.",
+  "explanation": [
+    "It sets a target product profile, identifies critical quality attributes, and studies the material and process variables that affect them. Those relationships guide development and the controls needed to produce the intended result.",
+    "Testing a finished product can check what was produced; quality by design also asks how development and manufacturing choices make the desired quality likely and controllable. Uses of the phrase outside pharmaceuticals require their own scope and evidence."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

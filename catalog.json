@@ -157,6 +157,11 @@
       "path": "entries/quality-audit/systematic-quality-related-audit-against-stated-criteria/revision.glossary.18216bdadc03a1ec3986aca9.json"
     },
     {
+      "object_id": "glossary.quality-by-design.pharmaceutical-development",
+      "revision_id": "revision.glossary.041884368f626a00c0dd876e",
+      "path": "entries/quality-by-design/pharmaceutical-product-and-process-development/revision.glossary.041884368f626a00c0dd876e.json"
+    },
+    {
       "object_id": "glossary.quality-characteristic.quality-management",
       "revision_id": "revision.glossary.004af21739048327f19558a6",
       "path": "entries/quality-characteristic/quality-management/revision.glossary.004af21739048327f19558a6.json"
