@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.performance-level.rubric-category",
+  "revision_id": "revision.glossary.1afc181128877218ac1e685e",
+  "headword": "Performance level",
+  "scope_label": "degree of demonstrated performance in a rubric",
+  "definition": "In a rubric, a performance level is a named or numbered category describing a degree of demonstrated performance on a criterion.",
+  "explanation": [
+    "Descriptions identify features associated with each level; example responses can help raters apply the categories consistently.",
+    "Assigning a score or rating places a particular response at a level. The level itself is the category, not the evidence that a particular person attained it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
