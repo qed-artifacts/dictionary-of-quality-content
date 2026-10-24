@@ -132,6 +132,11 @@
       "path": "entries/requirement/quality-management-and-technical-specifications/revision.glossary.62d5505c354c23c8f91e5065.json"
     },
     {
+      "object_id": "glossary.specification.requirements-document",
+      "revision_id": "revision.glossary.af811b0f53d934737cbb61b9",
+      "path": "entries/specification/documented-technical-requirements/revision.glossary.af811b0f53d934737cbb61b9.json"
+    },
+    {
       "object_id": "glossary.standard.evaluative-reference",
       "revision_id": "revision.glossary.6dd7e4c6e4bc3eab5e293e43",
       "path": "entries/standard/evaluative-reference-documentary-and-measurement-uses-distinguished/revision.glossary.6dd7e4c6e4bc3eab5e293e43.json"
