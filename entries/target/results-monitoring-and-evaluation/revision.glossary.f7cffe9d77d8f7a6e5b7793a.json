@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.target.results-monitoring",
+  "revision_id": "revision.glossary.f7cffe9d77d8f7a6e5b7793a",
+  "headword": "Target",
+  "scope_label": "results monitoring and evaluation",
+  "definition": "A target states the result sought on a specified indicator, for a specified population or scope, by a specified time.",
+  "explanation": [
+    "It helps people plan and later assess progress.",
+    "Its value should be justified by the objective, starting conditions, context, and resources; the word target supplies no universal cutoff."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
