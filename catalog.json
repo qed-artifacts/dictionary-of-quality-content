@@ -232,6 +232,11 @@
       "path": "entries/failure-mode-and-effects-analysis/prospective-failure-analysis/revision.glossary.c9de9ce6129c8e1f5e3da288.json"
     },
     {
+      "object_id": "glossary.failure-mode.observable-way-of-failure",
+      "revision_id": "revision.glossary.56fe111c7eec1c0d75a2f7b3",
+      "path": "entries/failure-mode/specified-way-an-item-or-process-fails/revision.glossary.56fe111c7eec1c0d75a2f7b3.json"
+    },
+    {
       "object_id": "glossary.fairness.justified-treatment",
       "revision_id": "revision.glossary.4413a753b238a6649bdd357f",
       "path": "entries/fairness/justifiability-of-treatment-process-or-outcome/revision.glossary.4413a753b238a6649bdd357f.json"
