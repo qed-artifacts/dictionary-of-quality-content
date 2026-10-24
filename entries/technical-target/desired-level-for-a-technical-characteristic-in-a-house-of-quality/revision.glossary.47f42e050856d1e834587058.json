@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.technical-target.hoq-desired-level",
+  "revision_id": "revision.glossary.47f42e050856d1e834587058",
+  "headword": "Technical target",
+  "scope_label": "desired level for a technical characteristic in a House of Quality",
+  "definition": "In a House of Quality, a technical target is a specified desired value, range, or level for a technical characteristic in a proposed design.",
+  "explanation": [
+    "It answers “how much” of that characteristic the design should achieve. A useful target names its measure or scale, units where applicable, and the relevant conditions.",
+    "Customer needs, feasibility, and comparisons may inform the choice of target. The target is a design aim; a later measurement is needed to determine whether the delivered offering reaches it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
