@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.rolled-throughput-yield.multistep-first-pass-success",
+  "revision_id": "revision.glossary.c7fcc47033748af94b8d0489",
+  "headword": "Rolled throughput yield",
+  "scope_label": "share or estimated probability of passing all process steps without defects or rework",
+  "definition": "Rolled throughput yield is the proportion, or estimated probability, of units that pass every step of a defined process flow without a defect or rework.",
+  "explanation": [
+    "For consistently defined step-level first-pass yields, multiply the step yields to estimate the chance of first-pass success through the full flow. State the steps and counting rules.",
+    "This differs from final yield: a process can deliver many acceptable units after repair while having a much lower rolled throughput yield."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
