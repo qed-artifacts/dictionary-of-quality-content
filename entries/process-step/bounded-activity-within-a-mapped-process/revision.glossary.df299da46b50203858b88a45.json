@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.process-step.bounded-activity",
+  "revision_id": "revision.glossary.df299da46b50203858b88a45",
+  "headword": "Process step",
+  "scope_label": "bounded activity within a mapped process",
+  "definition": "A process step is a bounded activity in a process that moves work toward an output.",
+  "explanation": [
+    "A map names the step and its place between the process’s start and end points; the useful level of detail depends on the question being asked.",
+    "Step-level yield can show where defects or rework arise, while overall yield reflects the linked process."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
