@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.variance.statistical-dispersion",
+  "revision_id": "revision.glossary.892cafc7f8237fe4183b6854",
+  "headword": "Variance",
+  "scope_label": "statistical dispersion around a mean",
+  "definition": "Variance is a measure of numerical dispersion based on squared deviations from a mean.",
+  "explanation": [
+    "For a population, it divides the sum of those squared deviations by the population size. The usual sample variance used to estimate population variance divides by the sample size minus one.",
+    "Variance has squared units; standard deviation is its positive square root and uses the original unit. The population or sample basis should be stated when reporting a value."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

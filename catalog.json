@@ -872,6 +872,11 @@
       "path": "entries/value/evaluative-sense/revision.glossary.4449b40656b512a828644237.json"
     },
     {
+      "object_id": "glossary.variance.statistical-dispersion",
+      "revision_id": "revision.glossary.892cafc7f8237fe4183b6854",
+      "path": "entries/variance/statistical-dispersion-around-a-mean/revision.glossary.892cafc7f8237fe4183b6854.json"
+    },
+    {
       "object_id": "glossary.verification.requirement-fulfillment",
       "revision_id": "revision.glossary.f4256935a998618672e280b0",
       "path": "entries/verification/evidence-based-confirmation-of-specified-requirements/revision.glossary.f4256935a998618672e280b0.json"
