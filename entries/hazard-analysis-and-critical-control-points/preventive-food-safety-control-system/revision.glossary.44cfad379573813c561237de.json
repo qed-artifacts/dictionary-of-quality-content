@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.hazard-analysis-and-critical-control-points.food-safety-system",
+  "revision_id": "revision.glossary.44cfad379573813c561237de",
+  "headword": "Hazard analysis and critical control points (HACCP)",
+  "scope_label": "preventive food-safety control system",
+  "definition": "Hazard analysis and critical control points (HACCP) is a preventive food-safety system that identifies significant hazards and controls them at specified steps in a process.",
+  "explanation": [
+    "A HACCP plan identifies critical control points, sets critical limits, monitors them, specifies corrective action, and records and verifies how the controls work. Prerequisite programs provide basic conditions for the plan.",
+    "A critical control point is a step where control can prevent, eliminate, or reduce a food-safety hazard to an acceptable level. HACCP does not mean that testing a finished product alone is sufficient to control the process."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
