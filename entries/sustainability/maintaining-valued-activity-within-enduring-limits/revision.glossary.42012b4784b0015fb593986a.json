@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.sustainability.conditions-over-time",
+  "revision_id": "revision.glossary.42012b4784b0015fb593986a",
+  "headword": "Sustainability",
+  "scope_label": "maintaining valued activity within enduring limits",
+  "definition": "Sustainability is the capacity of an activity or system to continue over time without undermining the conditions on which it and others depend.",
+  "explanation": [
+    "An assessment should identify what is to continue, over what time horizon, and which ecological, social, or other limits and affected people matter.",
+    "Sustainable development asks how present needs can be met while preserving the possibility of meeting future needs. Sustainability claims can be contested when they conceal unequal burdens or treat a single resource measure as the whole judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
