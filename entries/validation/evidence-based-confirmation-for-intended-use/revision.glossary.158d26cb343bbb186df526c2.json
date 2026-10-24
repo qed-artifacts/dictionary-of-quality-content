@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.validation.intended-use",
+  "revision_id": "revision.glossary.158d26cb343bbb186df526c2",
+  "headword": "Validation",
+  "scope_label": "evidence-based confirmation for intended use",
+  "definition": "Validation is confirmation, using objective evidence, that requirements for a specified intended use or application have been fulfilled.",
+  "explanation": [
+    "It asks whether the object is suitable for that use under the conditions being considered. The intended use, users, and relevant conditions should therefore be explicit.",
+    "A system can meet its written specification and still fail validation if that specification misses what the intended use requires. Verification and validation need not have the same result."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
