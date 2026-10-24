@@ -122,6 +122,11 @@
       "path": "entries/quality-attribute/quality-model-feature/revision.glossary.1b974814c141bb10f1102c92.json"
     },
     {
+      "object_id": "glossary.quality-audit.quality-management",
+      "revision_id": "revision.glossary.18216bdadc03a1ec3986aca9",
+      "path": "entries/quality-audit/systematic-quality-related-audit-against-stated-criteria/revision.glossary.18216bdadc03a1ec3986aca9.json"
+    },
+    {
       "object_id": "glossary.quality-characteristic.quality-management",
       "revision_id": "revision.glossary.004af21739048327f19558a6",
       "path": "entries/quality-characteristic/quality-management/revision.glossary.004af21739048327f19558a6.json"
