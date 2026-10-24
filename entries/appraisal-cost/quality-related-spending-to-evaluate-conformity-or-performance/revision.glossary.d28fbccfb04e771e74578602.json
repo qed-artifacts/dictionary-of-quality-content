@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.appraisal-cost.assessing-conformity",
+  "revision_id": "revision.glossary.d28fbccfb04e771e74578602",
+  "headword": "Appraisal cost",
+  "scope_label": "quality-related spending to evaluate conformity or performance",
+  "definition": "An appraisal cost is a cost incurred to measure, inspect, test, or audit whether products, services, or processes meet relevant quality requirements.",
+  "explanation": [
+    "It pays for obtaining and evaluating evidence of conformity, such as a product inspection or process audit. Finding a defect is not the same as preventing it.",
+    "In cost-of-quality accounting, appraisal is distinct from prevention and from the costs of correcting failures. Where one activity serves several purposes, the accounting boundary should be stated."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
