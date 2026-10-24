@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.process-validation.consistent-output",
+  "revision_id": "revision.glossary.c6c3c7eb7f07e425dd9bd99c",
+  "headword": "Process validation",
+  "scope_label": "evidence that a specified process can repeatedly produce required output",
+  "definition": "Process validation is the documented evaluation of whether a specified process can consistently produce output meeting its predetermined requirements.",
+  "explanation": [
+    "It examines the process, its operating conditions, and evidence from its results. In regulated manufacturing, the evidence is developed and maintained across the process life cycle.",
+    "Testing a finished item alone cannot establish that the process will continue to perform as intended; the process and its controls also need examination."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
