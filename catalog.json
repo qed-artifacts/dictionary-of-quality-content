@@ -547,6 +547,11 @@
       "path": "entries/risk/common-adverse-outcome-sense/revision.glossary.1b9756f977ad5670009a81ca.json"
     },
     {
+      "object_id": "glossary.robust-design.performance-under-variation",
+      "revision_id": "revision.glossary.f0cdb0e3b75fec61d3745c83",
+      "path": "entries/robust-design/design-choices-that-reduce-sensitivity-to-anticipated-variation/revision.glossary.f0cdb0e3b75fec61d3745c83.json"
+    },
+    {
       "object_id": "glossary.root-cause-analysis.verified-cause",
       "revision_id": "revision.glossary.bb31940c93d316920791aa7d",
       "path": "entries/root-cause-analysis/investigating-causes-of-a-quality-problem/revision.glossary.bb31940c93d316920791aa7d.json"
