@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.trade-off.competing-outcomes",
+  "revision_id": "revision.glossary.c6eda63dd2bba216803ff62e",
+  "headword": "Trade-off",
+  "scope_label": "choice among competing design outcomes",
+  "definition": "A trade-off is a choice in which improving one valued outcome involves giving up some attainable level of another under specified constraints.",
+  "explanation": [
+    "In a House of Quality, a negative interaction between proposed characteristics can signal a possible trade-off. The mark is a reason to investigate the design choices, not proof that no better combination is possible.",
+    "A defensible trade-off states the alternatives, the outcomes affected, and the reasons for accepting one balance over another. A compromise is justified by its context, not by a universal matrix score."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
