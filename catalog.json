@@ -82,6 +82,11 @@
       "path": "entries/threshold/decision-and-classification-boundary/revision.glossary.31f335605b14e5b55e1694b8.json"
     },
     {
+      "object_id": "glossary.validity.cross-domain",
+      "revision_id": "revision.glossary.973b73539a32cd68c90217b9",
+      "path": "entries/validity/deductive-logic-test-score-interpretation-and-empirical-research/revision.glossary.973b73539a32cd68c90217b9.json"
+    },
+    {
       "object_id": "glossary.value.evaluative",
       "revision_id": "revision.glossary.4449b40656b512a828644237",
       "path": "entries/value/evaluative-sense/revision.glossary.4449b40656b512a828644237.json"
