@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.noise-factor.robust-design-variation",
+  "revision_id": "revision.glossary.7c95d30ee9b20981dcca9802",
+  "headword": "Noise factor",
+  "scope_label": "nonroutine-controlled variation considered in robust design",
+  "definition": "In robust design, a noise factor is an input or operating condition whose variation affects a product or process response but is not routinely held at one fixed value.",
+  "explanation": [
+    "Examples include ambient conditions, material differences, and wear during use. Designers may vary such factors deliberately in experiments to find settings that keep performance stable.",
+    "Noise here means an influence that can disturb performance, not necessarily sound or random measurement error."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

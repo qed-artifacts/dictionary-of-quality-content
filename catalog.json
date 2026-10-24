@@ -427,6 +427,11 @@
       "path": "entries/multi-criteria-decision-analysis/structured-comparison-using-multiple-relevant-criteria/revision.glossary.c198ee4b3a61835aa9d35a09.json"
     },
     {
+      "object_id": "glossary.noise-factor.robust-design-variation",
+      "revision_id": "revision.glossary.7c95d30ee9b20981dcca9802",
+      "path": "entries/noise-factor/nonroutine-controlled-variation-considered-in-robust-design/revision.glossary.7c95d30ee9b20981dcca9802.json"
+    },
+    {
       "object_id": "glossary.nonconformity.unmet-requirement",
       "revision_id": "revision.glossary.617397708409669dc921b1f5",
       "path": "entries/nonconformity/failure-to-fulfill-an-applicable-requirement/revision.glossary.617397708409669dc921b1f5.json"
