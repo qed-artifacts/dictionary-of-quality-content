@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.proxy.indirect-measurement-stand-in",
+  "revision_id": "revision.glossary.e2d840a1a5d23ee8590c9f24",
+  "headword": "Proxy",
+  "scope_label": "observable stand-in for a less accessible evaluative construct",
+  "definition": "In evaluation and measurement, a proxy is an observable measure used as a stand-in for a condition or construct that cannot be observed directly or readily.",
+  "explanation": [
+    "Its usefulness depends on how well the measure tracks the intended target in the population and setting where it is used.",
+    "A change in the proxy need not equal the same change in the target; other influences and measurement error may affect the observed value."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
