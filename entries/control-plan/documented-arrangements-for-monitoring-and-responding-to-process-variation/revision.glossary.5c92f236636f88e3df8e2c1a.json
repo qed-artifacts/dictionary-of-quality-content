@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.control-plan.process-monitoring-and-response",
+  "revision_id": "revision.glossary.5c92f236636f88e3df8e2c1a",
+  "headword": "Control plan",
+  "scope_label": "documented arrangements for monitoring and responding to process variation",
+  "definition": "A control plan is a document specifying how a defined process and its important characteristics will be monitored and what action follows when results depart from stated conditions.",
+  "explanation": [
+    "It commonly names what to check, the method and frequency, the acceptable limits, who records results, and what to do when a limit is breached.",
+    "A chart or target alone is not a complete control plan: people also need responsibility and response instructions for ongoing operation."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
