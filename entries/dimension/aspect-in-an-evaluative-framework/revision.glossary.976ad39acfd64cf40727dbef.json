@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.dimension.evaluative-framework",
+  "revision_id": "revision.glossary.976ad39acfd64cf40727dbef",
+  "headword": "Dimension",
+  "scope_label": "aspect in an evaluative framework",
+  "definition": "In an evaluative framework, a dimension is a distinguishable aspect used to organize what is described or judged.",
+  "explanation": [
+    "For data quality, accuracy and completeness can be treated as different dimensions. Which dimensions matter depends on the subject and purpose.",
+    "A dimension names an aspect; an indicator or measure supplies information about it. This use differs from mathematical dimensions such as length or time."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
