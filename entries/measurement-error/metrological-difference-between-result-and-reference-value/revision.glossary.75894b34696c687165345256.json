@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.measurement-error.reference-difference",
+  "revision_id": "revision.glossary.75894b34696c687165345256",
+  "headword": "Measurement error",
+  "scope_label": "metrological difference between result and reference value",
+  "definition": "In metrology, measurement error is a measured quantity value minus a reference quantity value.",
+  "explanation": [
+    "Its sign and size depend on the chosen reference and the measurement conditions. The exact error usually cannot be known, because the reference itself may be uncertain.",
+    "Systematic and random contributions call for different treatment. Measurement error is a difference, whereas measurement uncertainty expresses the spread of values that can reasonably be attributed to what was measured."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
