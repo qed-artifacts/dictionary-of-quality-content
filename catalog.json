@@ -102,6 +102,11 @@
       "path": "entries/goodness/cross-domain-evaluative-sense/revision.glossary.07e706622cccd8a1477c1ce5.json"
     },
     {
+      "object_id": "glossary.house-of-quality.planning-matrix",
+      "revision_id": "revision.glossary.763d052416375fa13b6cfd2a",
+      "path": "entries/house-of-quality/customer-to-design-planning-matrix-used-in-qfd/revision.glossary.763d052416375fa13b6cfd2a.json"
+    },
+    {
       "object_id": "glossary.indicator.evaluation-monitoring",
       "revision_id": "revision.glossary.11aeca0f349b53fd964aa6e7",
       "path": "entries/indicator/evaluation-and-monitoring/revision.glossary.11aeca0f349b53fd964aa6e7.json"

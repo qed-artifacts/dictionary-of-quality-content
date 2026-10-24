@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.house-of-quality.planning-matrix",
+  "revision_id": "revision.glossary.763d052416375fa13b6cfd2a",
+  "headword": "House of Quality",
+  "scope_label": "customer-to-design planning matrix used in QFD",
+  "definition": "A House of Quality is a planning matrix that maps customer requirements to proposed product or service characteristics, recording how those characteristics could address the requirements to guide design priorities and targets.",
+  "explanation": [
+    "Its central grid contains assessed need-to-response relationships. Depending on the method, it may also show customer importance, interactions among characteristics, comparisons with alternatives, and technical targets.",
+    "The matrix supports design decisions within QFD. Its scores and targets are planning judgments, not evidence that the finished offering performs as intended."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
