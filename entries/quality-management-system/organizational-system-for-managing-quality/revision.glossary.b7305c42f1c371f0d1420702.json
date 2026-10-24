@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-management-system.organization",
+  "revision_id": "revision.glossary.b7305c42f1c371f0d1420702",
+  "headword": "Quality management system",
+  "scope_label": "organizational system for managing quality",
+  "definition": "A quality management system is the connected organizational arrangement through which quality objectives are set, pursued, checked, and improved.",
+  "explanation": [
+    "It joins roles, processes, resources, information, and review across the organization. Documents and software may support the system, but neither alone constitutes it.",
+    "The system’s value depends on whether those connected activities help meet quality objectives; a collection of documents alone is not sufficient."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
