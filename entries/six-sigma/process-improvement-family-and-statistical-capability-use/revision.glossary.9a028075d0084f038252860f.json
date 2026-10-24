@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.six-sigma.process-improvement-and-capability",
+  "revision_id": "revision.glossary.9a028075d0084f038252860f",
+  "headword": "Six Sigma",
+  "scope_label": "process-improvement family and statistical capability use",
+  "definition": "Six Sigma is a family of data-guided methods for improving processes by reducing unwanted variation and defects.",
+  "explanation": [
+    "Improvement projects define a problem, examine how the process performs, test causes, make changes, and monitor whether gains persist. Different roadmaps apply to an existing process and to a new design.",
+    "The phrase also has a statistical use concerning a process’s modeled performance. A claimed sigma level needs a stated defect definition, opportunity unit, measurement method, and calculation assumptions; the name alone does not demonstrate performance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
