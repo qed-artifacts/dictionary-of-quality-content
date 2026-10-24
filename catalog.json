@@ -62,6 +62,11 @@
       "path": "entries/quality-metric/cross-domain-quantitative-quality-metric/revision.glossary.13453aba77e2730f0dd814c4.json"
     },
     {
+      "object_id": "glossary.quality-requirement.quality-management",
+      "revision_id": "revision.glossary.a8a06df340b242937453faba",
+      "path": "entries/quality-requirement/quality-management/revision.glossary.a8a06df340b242937453faba.json"
+    },
+    {
       "object_id": "glossary.quality.quality-management",
       "revision_id": "revision.glossary.1be2706cc72d31afa1268da3",
       "path": "entries/quality/quality-management/revision.glossary.1be2706cc72d31afa1268da3.json"
