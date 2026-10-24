@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.leadership.quality-management-direction",
+  "revision_id": "revision.glossary.20542df525fd5f762d9d18f1",
+  "headword": "Leadership",
+  "scope_label": "direction and example in organizational quality management",
+  "definition": "In quality management, leadership is the work of setting direction, showing commitment through action, and enabling people to achieve and improve shared results.",
+  "explanation": [
+    "Leaders communicate purpose and values, engage the people affected by the work, and create a focus on action and accountability.",
+    "A formal title alone does not establish effective leadership; the relevant evidence is what leaders do and what their direction enables."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
