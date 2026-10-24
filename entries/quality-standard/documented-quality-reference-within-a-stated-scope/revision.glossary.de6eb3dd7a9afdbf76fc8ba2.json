@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-standard.documented-reference",
+  "revision_id": "revision.glossary.de6eb3dd7a9afdbf76fc8ba2",
+  "headword": "Quality standard",
+  "scope_label": "documented quality reference within a stated scope",
+  "definition": "A quality standard is a documented reference for specifying, managing, or evaluating quality within a stated scope.",
+  "explanation": [
+    "Its provisions may set requirements or provide a model or guidance. Identify the document, edition, subject, and which provisions apply before claiming that something conforms to it.",
+    "Conformity to a quality-management reference does not by itself show that every product or service is good for its intended users. A separate judgment must connect the applicable requirements to the object and evidence."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
