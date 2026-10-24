@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-evaluation.appraisal",
+  "revision_id": "revision.glossary.237f09171d6e7c9139c1ddd9",
+  "headword": "Quality evaluation",
+  "scope_label": "appraisal of an object’s quality",
+  "definition": "A quality evaluation is a reasoned appraisal of how well a specified object meets relevant quality requirements or criteria.",
+  "explanation": [
+    "It identifies the object, the basis for judging quality, the evidence considered, and the conclusion reached. The conclusion may be qualified when evidence is limited or criteria point in different directions.",
+    "Quality evaluation and quality assessment overlap in some fields. When a distinction is useful, evaluation emphasizes the warranted appraisal, while assessment emphasizes the work of obtaining and interpreting evidence."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
