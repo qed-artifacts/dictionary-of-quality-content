@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-measurement.quality-related-quantity",
+  "revision_id": "revision.glossary.b71314733c4cc55c23e45a41",
+  "headword": "Quality measurement",
+  "scope_label": "obtaining values for specified quality-related quantities",
+  "definition": "Quality measurement is the use of a specified procedure to obtain values for quantities that bear on a stated quality question.",
+  "explanation": [
+    "Identify what is measured, the subject and conditions, the method, and the resulting value. A quality model or requirement explains why that quantity matters.",
+    "The measurement result is evidence. Deciding whether the result is good, sufficient, or compliant requires a further interpretive rule or judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
