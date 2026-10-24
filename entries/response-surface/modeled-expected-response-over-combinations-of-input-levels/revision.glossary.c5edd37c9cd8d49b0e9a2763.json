@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.response-surface.expected-response-model",
+  "revision_id": "revision.glossary.c5edd37c9cd8d49b0e9a2763",
+  "headword": "Response surface",
+  "scope_label": "modeled expected response over combinations of input levels",
+  "definition": "A response surface represents how the expected value of a response varies across combinations of two or more input variables.",
+  "explanation": [
+    "It may be expressed as a model and shown as a three-dimensional surface or contour plot. Such views can help locate promising operating conditions.",
+    "A fitted surface estimates behavior in a studied region; predictions beyond that region or claims of an optimum require further justification."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
