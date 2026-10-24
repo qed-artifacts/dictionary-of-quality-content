@@ -492,6 +492,11 @@
       "path": "entries/provenance/traceable-origin-and-history-of-an-item/revision.glossary.5d2cb2b2df149b3f9c67c517.json"
     },
     {
+      "object_id": "glossary.proxy.indirect-measurement-stand-in",
+      "revision_id": "revision.glossary.e2d840a1a5d23ee8590c9f24",
+      "path": "entries/proxy/observable-stand-in-for-a-less-accessible-evaluative-construct/revision.glossary.e2d840a1a5d23ee8590c9f24.json"
+    },
+    {
       "object_id": "glossary.purpose.intended-end",
       "revision_id": "revision.glossary.8073ec08fc4233a45dfbe157",
       "path": "entries/purpose/intended-end-or-use-guiding-an-activity-or-judgment/revision.glossary.8073ec08fc4233a45dfbe157.json"
