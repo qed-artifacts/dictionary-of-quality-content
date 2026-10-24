@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.verification.requirement-fulfillment",
+  "revision_id": "revision.glossary.f4256935a998618672e280b0",
+  "headword": "Verification",
+  "scope_label": "evidence-based confirmation of specified requirements",
+  "definition": "Verification is confirmation, using objective evidence, that specified requirements have been fulfilled.",
+  "explanation": [
+    "It asks whether the object or result meets the requirements being checked. The method and evidence must fit those requirements.",
+    "Passing verification does not alone show that the requirements suit the intended use. That further question belongs to validation."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
