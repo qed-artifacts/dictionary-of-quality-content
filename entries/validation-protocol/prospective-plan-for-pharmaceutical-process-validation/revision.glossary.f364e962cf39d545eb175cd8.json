@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.validation-protocol.prospective-study-plan",
+  "revision_id": "revision.glossary.f364e962cf39d545eb175cd8",
+  "headword": "Validation protocol",
+  "scope_label": "prospective plan for pharmaceutical process validation",
+  "definition": "A validation protocol is a prospective document that states how a specified validation study will be conducted and judged.",
+  "explanation": [
+    "For a pharmaceutical process, it identifies the scope, important parameters, tests and sampling, data to record, and acceptance criteria. Responsibilities and the basis for those criteria should be clear.",
+    "Completing and evaluating the study provides validation evidence; approving the protocol alone does not establish that the process performs reliably."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
