@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.lean.value-and-flow-approach",
+  "revision_id": "revision.glossary.dee77ff1e51085283f20f755",
+  "headword": "Lean",
+  "scope_label": "organizational approach to value, flow and improvement",
+  "definition": "Lean is an approach to organizing and improving work so that it delivers value with less waste and more reliable flow.",
+  "explanation": [
+    "Practices may include clarifying value for the user, mapping the work, reducing unnecessary steps, using pull where appropriate, and learning from problems. The practices must fit the setting.",
+    "A single tool or cost-cutting exercise does not, by itself, establish a lean system. Look for how the work, people, and continuing improvement fit together."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
