@@ -247,6 +247,11 @@
       "path": "entries/process-quality/quality-of-an-operational-process/revision.glossary.8e6d4cc6e8a645bdc371cb47.json"
     },
     {
+      "object_id": "glossary.product-quality.requirement-fit",
+      "revision_id": "revision.glossary.4cbb4cd38111eda961b3df7a",
+      "path": "entries/product-quality/quality-of-a-product-for-intended-use/revision.glossary.4cbb4cd38111eda961b3df7a.json"
+    },
+    {
       "object_id": "glossary.quality-assessment.evidence-examination",
       "revision_id": "revision.glossary.ac5299ba6343086ddf088526",
       "path": "entries/quality-assessment/examination-of-quality-against-a-stated-basis/revision.glossary.ac5299ba6343086ddf088526.json"

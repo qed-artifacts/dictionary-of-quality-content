@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.product-quality.requirement-fit",
+  "revision_id": "revision.glossary.4cbb4cd38111eda961b3df7a",
+  "headword": "Product quality",
+  "scope_label": "quality of a product for intended use",
+  "definition": "Product quality is how well a product’s relevant characteristics fulfill requirements for its intended use.",
+  "explanation": [
+    "The requirements and characteristics depend on the product and setting: a medicine and a software system call for different evidence. State the users, conditions of use, and characteristics being judged.",
+    "Evidence about how a product was made can support the judgment, but it does not replace examination of the product and its performance against applicable requirements."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
