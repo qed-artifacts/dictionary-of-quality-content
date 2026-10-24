@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.detection.fmea-detectability",
+  "revision_id": "revision.glossary.af3c97f39637206078253284",
+  "headword": "Detection",
+  "scope_label": "FMEA estimate of discovering a failure or its cause",
+  "definition": "In failure mode and effects analysis, detection is the estimated likelihood that a specified failure or its cause will be discovered at a stated stage.",
+  "explanation": [
+    "The estimate depends on what is being sought and which controls or observers could find it. Some schemes assess discovery before delivery; others assess whether a customer will notice the effect.",
+    "A detection rating is separate from the failure’s likelihood and severity. State the scale and its direction: on many FMEA scales, a higher detection number means the problem is harder to find."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
