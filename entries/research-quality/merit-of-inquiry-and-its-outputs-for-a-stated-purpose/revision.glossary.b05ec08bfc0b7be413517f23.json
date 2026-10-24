@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.research-quality.warranted-inquiry",
+  "revision_id": "revision.glossary.b05ec08bfc0b7be413517f23",
+  "headword": "Research quality",
+  "scope_label": "merit of inquiry and its outputs for a stated purpose",
+  "definition": "Research quality is how well an inquiry and its outputs meet justified standards for their purpose and field.",
+  "explanation": [
+    "Assessment may consider rigor, originality, significance, and whether the evidence warrants the conclusions; their weight depends on the research question and context.",
+    "A journal label, citation count, or attractive result does not by itself settle the quality of a particular study."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
