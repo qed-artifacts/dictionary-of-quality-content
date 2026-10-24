@@ -397,6 +397,11 @@
       "path": "entries/judgment/conclusion-drawn-from-information/revision.glossary.dcd4d62dbe787344eb6ebc76.json"
     },
     {
+      "object_id": "glossary.lead-time.elapsed-process-duration",
+      "revision_id": "revision.glossary.b5f5b27620f727168a5140c4",
+      "path": "entries/lead-time/elapsed-time-across-a-defined-process-or-delivery-boundary/revision.glossary.b5f5b27620f727168a5140c4.json"
+    },
+    {
       "object_id": "glossary.leadership.quality-management-direction",
       "revision_id": "revision.glossary.20542df525fd5f762d9d18f1",
       "path": "entries/leadership/direction-and-example-in-organizational-quality-management/revision.glossary.20542df525fd5f762d9d18f1.json"
