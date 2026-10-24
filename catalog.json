@@ -537,6 +537,11 @@
       "path": "entries/service-quality/service-performance-and-user-experience/revision.glossary.115bb7802c3a2ebf10e88fdf.json"
     },
     {
+      "object_id": "glossary.six-sigma.process-improvement-and-capability",
+      "revision_id": "revision.glossary.9a028075d0084f038252860f",
+      "path": "entries/six-sigma/process-improvement-family-and-statistical-capability-use/revision.glossary.9a028075d0084f038252860f.json"
+    },
+    {
       "object_id": "glossary.software-quality.product-and-use",
       "revision_id": "revision.glossary.f5564f749f5beb09b959714b",
       "path": "entries/software-quality/software-product-and-quality-in-use/revision.glossary.f5564f749f5beb09b959714b.json"
