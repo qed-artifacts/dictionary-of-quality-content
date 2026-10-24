@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.prevention-cost.avoiding-nonconformity",
+  "revision_id": "revision.glossary.27ea465bb3f58dc7a962d4c9",
+  "headword": "Prevention cost",
+  "scope_label": "quality-related spending intended to avert defects or nonconformity",
+  "definition": "A prevention cost is a cost incurred for an activity designed to keep defects or other quality failures from occurring.",
+  "explanation": [
+    "Examples include quality planning, training, and changes that reduce opportunities for error. The activity aims to prevent a problem before it arises.",
+    "In cost-of-quality accounting, prevention is distinct from appraisal, which checks outputs or processes, and from costs caused by failures. Classify a mixed activity by a stated accounting rule and avoid counting it twice."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

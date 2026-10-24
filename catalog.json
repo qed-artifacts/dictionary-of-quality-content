@@ -367,6 +367,11 @@
       "path": "entries/pdca-cycle/plan-do-check-act-improvement-loop/revision.glossary.b84e12c60a74801a6318e928.json"
     },
     {
+      "object_id": "glossary.prevention-cost.avoiding-nonconformity",
+      "revision_id": "revision.glossary.27ea465bb3f58dc7a962d4c9",
+      "path": "entries/prevention-cost/quality-related-spending-intended-to-avert-defects-or-nonconformity/revision.glossary.27ea465bb3f58dc7a962d4c9.json"
+    },
+    {
       "object_id": "glossary.preventive-action.potential-problem",
       "revision_id": "revision.glossary.310e7733961a96039f2c5c8a",
       "path": "entries/preventive-action/addressing-causes-of-a-potential-nonconformity/revision.glossary.310e7733961a96039f2c5c8a.json"
