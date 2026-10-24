@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.acceptance-criterion.decision-rule",
+  "revision_id": "revision.glossary.09c8e7feaf5a1ea6793202bc",
+  "headword": "Acceptance criterion",
+  "scope_label": "specified acceptance decision",
+  "definition": "An acceptance criterion is a condition or decision rule used to determine whether a specified item, result, or process may be accepted for a stated purpose.",
+  "explanation": [
+    "It can specify a limit, an observable condition, or another checkable basis for the decision. State what is being accepted, how the condition is checked, and who may decide.",
+    "A requirement may need one or more acceptance criteria to make its fulfillment assessable. Passing one criterion does not by itself establish the object’s overall quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

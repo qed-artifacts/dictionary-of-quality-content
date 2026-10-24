@@ -2,6 +2,11 @@
   "schema": "qed-glossary-public-catalog-v1",
   "entries": [
     {
+      "object_id": "glossary.acceptance-criterion.decision-rule",
+      "revision_id": "revision.glossary.09c8e7feaf5a1ea6793202bc",
+      "path": "entries/acceptance-criterion/specified-acceptance-decision/revision.glossary.09c8e7feaf5a1ea6793202bc.json"
+    },
+    {
       "object_id": "glossary.benchmark.evaluation-comparison",
       "revision_id": "revision.glossary.31db9589c3bffd0e1996238d",
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
