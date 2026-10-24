@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.fitness-for-purpose.stated-aim",
+  "revision_id": "revision.glossary.06183caa2a67fb5fbf416f94",
+  "headword": "Fitness for purpose",
+  "scope_label": "suitability for a stated aim",
+  "definition": "Fitness for purpose is how suitable an object is to achieve a specified purpose under relevant conditions.",
+  "explanation": [
+    "State the purpose, whose purpose it is, and the conditions that matter. A claim may concern an ordinary intended use or a specially declared one.",
+    "The phrase often overlaps with fitness for use. It does not prove that every requirement is met, and meeting listed requirements does not always establish fitness for the intended purpose."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
