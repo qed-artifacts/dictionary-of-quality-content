@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.advanced-product-quality-planning.automotive-planning",
+  "revision_id": "revision.glossary.1d97908aeb9f76bef757b640",
+  "headword": "Advanced product quality planning (APQP)",
+  "scope_label": "automotive-oriented product and production-process planning",
+  "definition": "Advanced product quality planning (APQP) is an automotive-oriented approach for coordinating how a product and its production process will meet customer requirements.",
+  "explanation": [
+    "It links planning, design, risk analysis, process preparation, and evidence of readiness before launch. Methods such as failure mode and effects analysis, measurement system analysis, and production part approval can contribute to that work.",
+    "APQP is a planning framework, not a single test or a synonym for product quality. Its particular deliverables depend on the applicable customer and industry requirements."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
