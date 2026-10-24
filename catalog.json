@@ -522,6 +522,11 @@
       "path": "entries/process-stability/time-series-behavior-under-a-relatively-unchanged-process/revision.glossary.74cfd0fcfd0d6ba4b0bbea14.json"
     },
     {
+      "object_id": "glossary.process-step.bounded-activity",
+      "revision_id": "revision.glossary.df299da46b50203858b88a45",
+      "path": "entries/process-step/bounded-activity-within-a-mapped-process/revision.glossary.df299da46b50203858b88a45.json"
+    },
+    {
       "object_id": "glossary.process-validation.consistent-output",
       "revision_id": "revision.glossary.c6c3c7eb7f07e425dd9bd99c",
       "path": "entries/process-validation/evidence-that-a-specified-process-can-repeatedly-produce-required-output/revision.glossary.c6c3c7eb7f07e425dd9bd99c.json"
