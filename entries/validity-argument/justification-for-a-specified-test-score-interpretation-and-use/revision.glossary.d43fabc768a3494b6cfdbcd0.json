@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.validity-argument.score-use-justification",
+  "revision_id": "revision.glossary.d43fabc768a3494b6cfdbcd0",
+  "headword": "Validity argument",
+  "scope_label": "justification for a specified test-score interpretation and use",
+  "definition": "A validity argument is a reasoned case that evidence and assumptions support a specified interpretation or use of test results for a stated population and purpose.",
+  "explanation": [
+    "It connects each important inference to relevant evidence and explains why the proposed action follows. Possible counterevidence and limits matter because the same scores can be used for different purposes.",
+    "A folder of studies is not a validity argument unless the studies bear on the claims being made. New uses or populations can require a revised argument."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
