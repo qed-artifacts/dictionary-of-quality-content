@@ -127,6 +127,11 @@
       "path": "entries/quality-characteristic/quality-management/revision.glossary.004af21739048327f19558a6.json"
     },
     {
+      "object_id": "glossary.quality-control.quality-management",
+      "revision_id": "revision.glossary.dadd877959fe7ace88063983",
+      "path": "entries/quality-control/operational-fulfillment-of-quality-requirements/revision.glossary.dadd877959fe7ace88063983.json"
+    },
+    {
       "object_id": "glossary.quality-evaluation.appraisal",
       "revision_id": "revision.glossary.237f09171d6e7c9139c1ddd9",
       "path": "entries/quality-evaluation/appraisal-of-an-object-s-quality/revision.glossary.237f09171d6e7c9139c1ddd9.json"
