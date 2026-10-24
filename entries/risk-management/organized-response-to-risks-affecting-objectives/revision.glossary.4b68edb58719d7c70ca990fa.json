@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.risk-management.organized-response",
+  "revision_id": "revision.glossary.4b68edb58719d7c70ca990fa",
+  "headword": "Risk management",
+  "scope_label": "organized response to risks affecting objectives",
+  "definition": "Risk management is the organized work of identifying, assessing, and responding to risks that could affect stated objectives.",
+  "explanation": [
+    "It connects possible events and their consequences to decisions about prevention, reduction, acceptance, or other responses. The response should fit the setting and the significance of the risk.",
+    "Risk management continues after an initial decision: responsible people monitor what changes, review whether controls work, and revise actions when needed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
