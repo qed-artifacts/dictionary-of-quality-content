@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.factor.designed-experiment-input",
+  "revision_id": "revision.glossary.59acd3c2ebecb4fa23dc34e8",
+  "headword": "Factor",
+  "scope_label": "input or condition studied in a designed experiment",
+  "definition": "In a designed experiment, a factor is an input or condition studied for its effect on a specified response.",
+  "explanation": [
+    "The experiment uses particular values, called levels, of the factor and records the response at those levels. The design should say which levels are studied.",
+    "A factor is distinct from the response being measured. Calling a variable a factor does not by itself establish that it causes a change."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
