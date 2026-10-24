@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.assessment.information-for-decision",
+  "revision_id": "revision.glossary.f2af66a34ead0ca5c77e0eba",
+  "headword": "Assessment",
+  "scope_label": "purpose-bound examination",
+  "definition": "Assessment is the process of gathering and interpreting information about a specified subject for a stated question or decision.",
+  "explanation": [
+    "An assessment may compare evidence with requirements, criteria, or a reference, then report findings or a judgment. Its methods and evidential demands depend on its purpose.",
+    "The term is used differently across fields. It often overlaps with evaluation; an assessment need not always conclude with an overall appraisal of merit or worth."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
