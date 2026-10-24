@@ -642,6 +642,11 @@
       "path": "entries/statistical-process-control/statistical-monitoring-of-process-behavior/revision.glossary.c25e7cd6d41d95e25e23e461.json"
     },
     {
+      "object_id": "glossary.supplier-quality.outputs-and-performance",
+      "revision_id": "revision.glossary.1f3ce90cf86f07eb6eb18411",
+      "path": "entries/supplier-quality/supplier-outputs-controls-and-performance-for-an-intended-relationship/revision.glossary.1f3ce90cf86f07eb6eb18411.json"
+    },
+    {
       "object_id": "glossary.sustainability.conditions-over-time",
       "revision_id": "revision.glossary.42012b4784b0015fb593986a",
       "path": "entries/sustainability/maintaining-valued-activity-within-enduring-limits/revision.glossary.42012b4784b0015fb593986a.json"
