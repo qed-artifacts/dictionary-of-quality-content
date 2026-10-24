@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-objective.intended-result",
+  "revision_id": "revision.glossary.8666532d13f8a2f687bfa152",
+  "headword": "Quality objective",
+  "scope_label": "organizational intended quality result",
+  "definition": "A quality objective is a result an organization intends to achieve concerning quality.",
+  "explanation": [
+    "It gives practical direction to a quality policy. A useful objective identifies the subject, desired result, responsibility, and evidence by which progress will be assessed.",
+    "An objective states an aim; an indicator or measure tracks progress, and a target can state the level sought by a particular time. The existence of the objective does not show that the result was achieved."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
