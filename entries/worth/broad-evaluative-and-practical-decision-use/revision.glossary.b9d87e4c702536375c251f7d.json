@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.worth.evaluative",
+  "revision_id": "revision.glossary.b9d87e4c702536375c251f7d",
+  "headword": "Worth",
+  "scope_label": "broad evaluative and practical-decision use",
+  "definition": "In its broad evaluative use, worth is the value, merit, or importance attributed to something on stated grounds.",
+  "explanation": [
+    "In a practical decision, “Is it worth it?” asks whether the reasons to pursue or obtain something justify its effort, cost, risk, and forgone alternatives.",
+    "That question may call for judgment without yielding a single monetary answer."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
