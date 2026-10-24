@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-policy.organizational-direction",
+  "revision_id": "revision.glossary.813d3e4bdc4a1f6f67d6e256",
+  "headword": "Quality policy",
+  "scope_label": "organizational direction on quality",
+  "definition": "A quality policy is an organization’s stated direction and commitments concerning quality.",
+  "explanation": [
+    "It provides a basis for setting quality objectives and communicating what leaders expect. Its scope and commitments should be clear enough to guide choices about work and resources.",
+    "A written policy does not establish that people follow it. Its effect must be judged from decisions, practices, and results in the organization."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
