@@ -192,6 +192,11 @@
       "path": "entries/inference/reasoning-from-grounds-to-a-conclusion/revision.glossary.67341c573137dbcd4fe45436.json"
     },
     {
+      "object_id": "glossary.information-quality.fit-for-use",
+      "revision_id": "revision.glossary.be326c5749a6d90ab0ae597a",
+      "path": "entries/information-quality/fitness-of-information-for-a-specified-use/revision.glossary.be326c5749a6d90ab0ae597a.json"
+    },
+    {
       "object_id": "glossary.inspection.requirement-check",
       "revision_id": "revision.glossary.b38c7b254c48662e25788d8e",
       "path": "entries/inspection/determining-conformity-to-specified-requirements/revision.glossary.b38c7b254c48662e25788d8e.json"
