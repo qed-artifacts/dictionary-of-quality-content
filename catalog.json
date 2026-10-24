@@ -277,6 +277,11 @@
       "path": "entries/measure/program-evaluation-evidence-specification/revision.glossary.1650402b8d4d151c5bd0f98a.json"
     },
     {
+      "object_id": "glossary.measurement-error.reference-difference",
+      "revision_id": "revision.glossary.75894b34696c687165345256",
+      "path": "entries/measurement-error/metrological-difference-between-result-and-reference-value/revision.glossary.75894b34696c687165345256.json"
+    },
+    {
       "object_id": "glossary.measurement-uncertainty.metrology",
       "revision_id": "revision.glossary.c9a295b262bf1cdcd5cc9103",
       "path": "entries/measurement-uncertainty/metrological-uncertainty-associated-with-a-measured-quantity/revision.glossary.c9a295b262bf1cdcd5cc9103.json"
