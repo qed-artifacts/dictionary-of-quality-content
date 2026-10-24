@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.customer-focus.quality-management-orientation",
+  "revision_id": "revision.glossary.73f9316f0193ef351d4ce048",
+  "headword": "Customer focus",
+  "scope_label": "quality-management orientation toward customer needs and requirements",
+  "definition": "In quality management, customer focus is an organizational commitment to understand customer needs and use them to shape outputs, decisions, and improvement.",
+  "explanation": [
+    "It includes learning what customers need, meeting relevant requirements, and acting on evidence about their experience.",
+    "Customer focus does not mean adopting every expressed preference without weighing other requirements and affected parties."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
