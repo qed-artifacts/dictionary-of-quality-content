@@ -7,6 +7,11 @@
       "path": "entries/acceptance-criterion/specified-acceptance-decision/revision.glossary.09c8e7feaf5a1ea6793202bc.json"
     },
     {
+      "object_id": "glossary.assessment.information-for-decision",
+      "revision_id": "revision.glossary.f2af66a34ead0ca5c77e0eba",
+      "path": "entries/assessment/purpose-bound-examination/revision.glossary.f2af66a34ead0ca5c77e0eba.json"
+    },
+    {
       "object_id": "glossary.attribute.descriptive-property",
       "revision_id": "revision.glossary.1dac55a96f4c671e6612e196",
       "path": "entries/attribute/descriptive-property-of-an-object/revision.glossary.1dac55a96f4c671e6612e196.json"
