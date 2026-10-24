@@ -32,6 +32,11 @@
       "path": "entries/characteristic/descriptive-feature-of-an-object/revision.glossary.aca3b6a3e0f323a5c349110e.json"
     },
     {
+      "object_id": "glossary.claim.supportable-assertion",
+      "revision_id": "revision.glossary.1b2229ee3e47ad0c83b3178a",
+      "path": "entries/claim/assertion-offered-for-assessment/revision.glossary.1b2229ee3e47ad0c83b3178a.json"
+    },
+    {
       "object_id": "glossary.competitive-assessment.hoq-comparison",
       "revision_id": "revision.glossary.b8d3c3144b54f7432ea4c3c2",
       "path": "entries/competitive-assessment/comparison-with-alternatives-in-a-house-of-quality/revision.glossary.b8d3c3144b54f7432ea4c3c2.json"
