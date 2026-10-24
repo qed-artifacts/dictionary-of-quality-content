@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.purpose.intended-end",
+  "revision_id": "revision.glossary.8073ec08fc4233a45dfbe157",
+  "headword": "Purpose",
+  "scope_label": "intended end or use guiding an activity or judgment",
+  "definition": "A purpose is the end or use an action, object, or inquiry is intended to serve.",
+  "explanation": [
+    "A clear purpose names what someone is trying to achieve and for whom. It helps determine which alternatives, requirements, and evidence are relevant.",
+    "Purpose is an intention, not proof of success. An activity can have a clear purpose and still fail to achieve it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
