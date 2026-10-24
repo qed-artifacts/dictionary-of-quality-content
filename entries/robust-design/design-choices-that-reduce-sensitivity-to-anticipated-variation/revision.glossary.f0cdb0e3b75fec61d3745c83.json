@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.robust-design.performance-under-variation",
+  "revision_id": "revision.glossary.f0cdb0e3b75fec61d3745c83",
+  "headword": "Robust design",
+  "scope_label": "design choices that reduce sensitivity to anticipated variation",
+  "definition": "Robust design is an approach to choosing product or process characteristics so performance changes less when anticipated sources of variation change.",
+  "explanation": [
+    "A design may be tested across relevant materials, manufacturing conditions, environments, or patterns of use. The aim is to keep important performance characteristics near their intended values despite such “noise.”",
+    "Robustness is relative to the variation considered. A robust design is not immune to every condition, and performance outside the tested range needs separate evidence."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
