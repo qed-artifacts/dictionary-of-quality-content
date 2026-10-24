@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.pdca-cycle.improvement-loop",
+  "revision_id": "revision.glossary.b84e12c60a74801a6318e928",
+  "headword": "PDCA cycle",
+  "scope_label": "Plan–Do–Check–Act improvement loop",
+  "definition": "The PDCA cycle is a repeatable improvement method: plan a change, do it, check the results against the aim, and act on what was learned.",
+  "explanation": [
+    "Planning states the problem, proposed change, and expected result. Doing puts the plan into practice; checking examines what occurred; acting adjusts the plan or the routine before the next cycle.",
+    "The four labels do not establish improvement by themselves. The comparison between expected and observed results is what makes the cycle useful for learning."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

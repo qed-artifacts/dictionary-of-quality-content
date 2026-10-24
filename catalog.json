@@ -197,6 +197,11 @@
       "path": "entries/nonconformity/failure-to-fulfill-an-applicable-requirement/revision.glossary.617397708409669dc921b1f5.json"
     },
     {
+      "object_id": "glossary.pdca-cycle.improvement-loop",
+      "revision_id": "revision.glossary.b84e12c60a74801a6318e928",
+      "path": "entries/pdca-cycle/plan-do-check-act-improvement-loop/revision.glossary.b84e12c60a74801a6318e928.json"
+    },
+    {
       "object_id": "glossary.preventive-action.potential-problem",
       "revision_id": "revision.glossary.310e7733961a96039f2c5c8a",
       "path": "entries/preventive-action/addressing-causes-of-a-potential-nonconformity/revision.glossary.310e7733961a96039f2c5c8a.json"
