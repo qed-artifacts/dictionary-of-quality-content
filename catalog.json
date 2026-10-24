@@ -112,6 +112,11 @@
       "path": "entries/quality-assessment/examination-of-quality-against-a-stated-basis/revision.glossary.ac5299ba6343086ddf088526.json"
     },
     {
+      "object_id": "glossary.quality-assurance.quality-management",
+      "revision_id": "revision.glossary.6c287feeebd8922eef334732",
+      "path": "entries/quality-assurance/confidence-in-future-fulfillment-of-quality-requirements/revision.glossary.6c287feeebd8922eef334732.json"
+    },
+    {
       "object_id": "glossary.quality-attribute.quality-model",
       "revision_id": "revision.glossary.1b974814c141bb10f1102c92",
       "path": "entries/quality-attribute/quality-model-feature/revision.glossary.1b974814c141bb10f1102c92.json"
