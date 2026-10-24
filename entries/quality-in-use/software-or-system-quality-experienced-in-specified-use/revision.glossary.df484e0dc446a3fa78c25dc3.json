@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-in-use.system-use-context",
+  "revision_id": "revision.glossary.df484e0dc446a3fa78c25dc3",
+  "headword": "Quality in use",
+  "scope_label": "software or system quality experienced in specified use",
+  "definition": "In software and systems evaluation, quality in use is how well specified users achieve their goals with a product or system in a specified context of use.",
+  "explanation": [
+    "Common assessment dimensions include effectiveness, efficiency, satisfaction, freedom from risk, and coverage of intended contexts. Assessing these requires attention to users, tasks, and conditions of use.",
+    "A product can meet a technical specification yet perform poorly in use. A claim of quality in use therefore needs evidence from the relevant context, not only a list of product features."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
