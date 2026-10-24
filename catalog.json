@@ -72,6 +72,11 @@
       "path": "entries/reliability/test-score-consistency-and-engineered-item-performance/revision.glossary.4ee64845069e84c0f36eb1c3.json"
     },
     {
+      "object_id": "glossary.requirement.cross-domain",
+      "revision_id": "revision.glossary.62d5505c354c23c8f91e5065",
+      "path": "entries/requirement/quality-management-and-technical-specifications/revision.glossary.62d5505c354c23c8f91e5065.json"
+    },
+    {
       "object_id": "glossary.standard.evaluative-reference",
       "revision_id": "revision.glossary.6dd7e4c6e4bc3eab5e293e43",
       "path": "entries/standard/evaluative-reference-documentary-and-measurement-uses-distinguished/revision.glossary.6dd7e4c6e4bc3eab5e293e43.json"
