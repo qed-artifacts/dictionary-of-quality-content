@@ -122,6 +122,11 @@
       "path": "entries/defect/nonconformity-related-to-intended-or-specified-use/revision.glossary.d8c7490ad4d66fea7f15f7c8.json"
     },
     {
+      "object_id": "glossary.design-of-experiments.planned-factor-study",
+      "revision_id": "revision.glossary.2447857f70f93e9f0251cfc2",
+      "path": "entries/design-of-experiments/planned-comparison-of-factor-effects-on-a-response/revision.glossary.2447857f70f93e9f0251cfc2.json"
+    },
+    {
       "object_id": "glossary.dimension.evaluative-framework",
       "revision_id": "revision.glossary.976ad39acfd64cf40727dbef",
       "path": "entries/dimension/aspect-in-an-evaluative-framework/revision.glossary.976ad39acfd64cf40727dbef.json"

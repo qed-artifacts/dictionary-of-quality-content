@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.design-of-experiments.planned-factor-study",
+  "revision_id": "revision.glossary.2447857f70f93e9f0251cfc2",
+  "headword": "Design of experiments (DOE)",
+  "scope_label": "planned comparison of factor effects on a response",
+  "definition": "Design of experiments (DOE) is the planned variation of input factors to learn how they affect a specified response.",
+  "explanation": [
+    "An experimental design states the factors, their settings, the response to observe, and how runs will be compared. It can reveal interactions that a one-factor-at-a-time check may miss.",
+    "The design must fit the question and available resources. A pattern found in the tested conditions needs further support before it is assumed to hold under different conditions."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
