@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-quality.fit-for-use",
+  "revision_id": "revision.glossary.20822f46d856544c0ef487ee",
+  "headword": "Data quality",
+  "scope_label": "suitability of data for a specified use",
+  "definition": "Data quality is how well data are suited to a specified use and its requirements.",
+  "explanation": [
+    "Aspects such as accuracy, completeness, consistency, and currency can matter, but their relevance depends on the data, question, and setting. A useful assessment says which aspect was checked and how.",
+    "Data that support one decision may be inadequate for another. A quality dimension names a concern; a metric or check specifies how evidence about that concern is obtained."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
