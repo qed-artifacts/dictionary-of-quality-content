@@ -52,6 +52,11 @@
       "path": "entries/quality-measure/specified-quality-assessment-across-services/revision.glossary.586805af4185c67d08483974.json"
     },
     {
+      "object_id": "glossary.quality-metric.cross-domain-quantitative",
+      "revision_id": "revision.glossary.13453aba77e2730f0dd814c4",
+      "path": "entries/quality-metric/cross-domain-quantitative-quality-metric/revision.glossary.13453aba77e2730f0dd814c4.json"
+    },
+    {
       "object_id": "glossary.quality.quality-management",
       "revision_id": "revision.glossary.1be2706cc72d31afa1268da3",
       "path": "entries/quality/quality-management/revision.glossary.1be2706cc72d31afa1268da3.json"
