@@ -47,6 +47,11 @@
       "path": "entries/decision/choice-of-a-course-of-action/revision.glossary.4f7326c4c33b093820f235fe.json"
     },
     {
+      "object_id": "glossary.defect.intended-use-nonconformity",
+      "revision_id": "revision.glossary.d8c7490ad4d66fea7f15f7c8",
+      "path": "entries/defect/nonconformity-related-to-intended-or-specified-use/revision.glossary.d8c7490ad4d66fea7f15f7c8.json"
+    },
+    {
       "object_id": "glossary.dimension.evaluative-framework",
       "revision_id": "revision.glossary.976ad39acfd64cf40727dbef",
       "path": "entries/dimension/aspect-in-an-evaluative-framework/revision.glossary.976ad39acfd64cf40727dbef.json"

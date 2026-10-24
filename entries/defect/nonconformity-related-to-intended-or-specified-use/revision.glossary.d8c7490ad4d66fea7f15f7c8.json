@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.defect.intended-use-nonconformity",
+  "revision_id": "revision.glossary.d8c7490ad4d66fea7f15f7c8",
+  "headword": "Defect",
+  "scope_label": "nonconformity related to intended or specified use",
+  "definition": "In quality management, a defect is a nonconformity related to an intended or specified use.",
+  "explanation": [
+    "The link to use matters: a departure may violate a requirement without being shown to affect the use in question. Identify the object, the unmet requirement, and the use before applying the narrower label.",
+    "A defect may be found through inspection, testing, or use. Finding one calls for a response to the affected case; preventing recurrence may also require corrective action."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
