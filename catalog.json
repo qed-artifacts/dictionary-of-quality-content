@@ -157,6 +157,11 @@
       "path": "entries/critical-to-quality/assessable-characteristic-consequential-to-a-customer-need/revision.glossary.0cb44f33217090bdb3309ff7.json"
     },
     {
+      "object_id": "glossary.customer-focus.quality-management-orientation",
+      "revision_id": "revision.glossary.73f9316f0193ef351d4ce048",
+      "path": "entries/customer-focus/quality-management-orientation-toward-customer-needs-and-requirements/revision.glossary.73f9316f0193ef351d4ce048.json"
+    },
+    {
       "object_id": "glossary.customer-interview.eliciting-customer-evidence",
       "revision_id": "revision.glossary.de09922bdb2c2178f0a1f00b",
       "path": "entries/customer-interview/direct-customer-conversation-to-elicit-needs-and-experience/revision.glossary.de09922bdb2c2178f0a1f00b.json"
