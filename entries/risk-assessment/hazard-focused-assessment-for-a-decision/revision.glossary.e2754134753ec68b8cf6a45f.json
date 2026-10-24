@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.risk-assessment.hazard-decision",
+  "revision_id": "revision.glossary.e2754134753ec68b8cf6a45f",
+  "headword": "Risk assessment",
+  "scope_label": "hazard-focused assessment for a decision",
+  "definition": "Risk assessment is a structured examination of what could cause harm, how likely and consequential the harm may be, and what uncertainty remains.",
+  "explanation": [
+    "The assessor identifies the setting, people or assets exposed, credible scenarios, and the goals against which risk will be judged. Methods may be qualitative or quantitative.",
+    "A risk score is a method-specific aid, not the risk itself. State the assumptions, evidence, and criteria behind any conclusion or decision threshold."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
