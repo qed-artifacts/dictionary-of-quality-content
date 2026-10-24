@@ -32,6 +32,11 @@
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
     },
     {
+      "object_id": "glossary.change-control.governed-change",
+      "revision_id": "revision.glossary.2dde3fb5c128f8fc2a07eb08",
+      "path": "entries/change-control/governed-change-to-a-controlled-product-process-or-system/revision.glossary.2dde3fb5c128f8fc2a07eb08.json"
+    },
+    {
       "object_id": "glossary.characteristic.descriptive-feature",
       "revision_id": "revision.glossary.aca3b6a3e0f323a5c349110e",
       "path": "entries/characteristic/descriptive-feature-of-an-object/revision.glossary.aca3b6a3e0f323a5c349110e.json"
