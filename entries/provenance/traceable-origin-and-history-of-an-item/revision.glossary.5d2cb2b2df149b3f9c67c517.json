@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.provenance.traceable-history",
+  "revision_id": "revision.glossary.5d2cb2b2df149b3f9c67c517",
+  "headword": "Provenance",
+  "scope_label": "traceable origin and history of an item",
+  "definition": "Provenance is the traceable account of an item’s origin and history, including the people or systems and activities that created, changed, or transferred it.",
+  "explanation": [
+    "For evidence, a provenance record can show which version was examined, where it came from, and how it passed through later hands or processes.",
+    "Good provenance makes an item easier to authenticate and interpret. It does not, on its own, establish that every claim made from the item is true."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

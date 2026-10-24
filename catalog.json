@@ -257,6 +257,11 @@
       "path": "entries/product-quality/quality-of-a-product-for-intended-use/revision.glossary.4cbb4cd38111eda961b3df7a.json"
     },
     {
+      "object_id": "glossary.provenance.traceable-history",
+      "revision_id": "revision.glossary.5d2cb2b2df149b3f9c67c517",
+      "path": "entries/provenance/traceable-origin-and-history-of-an-item/revision.glossary.5d2cb2b2df149b3f9c67c517.json"
+    },
+    {
       "object_id": "glossary.quality-assessment.evidence-examination",
       "revision_id": "revision.glossary.ac5299ba6343086ddf088526",
       "path": "entries/quality-assessment/examination-of-quality-against-a-stated-basis/revision.glossary.ac5299ba6343086ddf088526.json"
