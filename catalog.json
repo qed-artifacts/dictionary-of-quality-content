@@ -817,6 +817,11 @@
       "path": "entries/uncertainty/limits-on-knowledge-or-prediction/revision.glossary.2f07ef86252d103df9dec618.json"
     },
     {
+      "object_id": "glossary.validation-protocol.prospective-study-plan",
+      "revision_id": "revision.glossary.f364e962cf39d545eb175cd8",
+      "path": "entries/validation-protocol/prospective-plan-for-pharmaceutical-process-validation/revision.glossary.f364e962cf39d545eb175cd8.json"
+    },
+    {
       "object_id": "glossary.validation.intended-use",
       "revision_id": "revision.glossary.158d26cb343bbb186df526c2",
       "path": "entries/validation/evidence-based-confirmation-for-intended-use/revision.glossary.158d26cb343bbb186df526c2.json"
