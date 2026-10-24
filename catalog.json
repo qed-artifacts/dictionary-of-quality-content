@@ -52,6 +52,11 @@
       "path": "entries/criterion/evaluative-basis-or-consideration/revision.glossary.a8e93785e84cad52415a19a9.json"
     },
     {
+      "object_id": "glossary.customer-requirement.qfd-need",
+      "revision_id": "revision.glossary.789c980f5da7818f527fab9f",
+      "path": "entries/customer-requirement/customer-side-need-or-expectation-in-qfd/revision.glossary.789c980f5da7818f527fab9f.json"
+    },
+    {
       "object_id": "glossary.decision.choice-among-options",
       "revision_id": "revision.glossary.4f7326c4c33b093820f235fe",
       "path": "entries/decision/choice-of-a-course-of-action/revision.glossary.4f7326c4c33b093820f235fe.json"

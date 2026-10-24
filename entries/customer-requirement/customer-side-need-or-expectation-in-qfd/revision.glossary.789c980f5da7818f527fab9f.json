@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.customer-requirement.qfd-need",
+  "revision_id": "revision.glossary.789c980f5da7818f527fab9f",
+  "headword": "Customer requirement",
+  "scope_label": "customer-side need or expectation in QFD",
+  "definition": "In QFD, a customer requirement is a stated or investigated need or expectation that a proposed product or service should satisfy for a specified customer and use.",
+  "explanation": [
+    "A broad request may need to be clarified into terms that can guide design and later assessment. An inferred need should be labeled and checked rather than presented as something the customer explicitly said.",
+    "The requirement describes the customer-side aim. A technical characteristic is a proposed design response, and a technical target specifies a desired level for that response."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
