@@ -647,6 +647,11 @@
       "path": "entries/requirement/quality-management-and-technical-specifications/revision.glossary.62d5505c354c23c8f91e5065.json"
     },
     {
+      "object_id": "glossary.response-surface.expected-response-model",
+      "revision_id": "revision.glossary.c5edd37c9cd8d49b0e9a2763",
+      "path": "entries/response-surface/modeled-expected-response-over-combinations-of-input-levels/revision.glossary.c5edd37c9cd8d49b0e9a2763.json"
+    },
+    {
       "object_id": "glossary.risk-assessment.hazard-decision",
       "revision_id": "revision.glossary.e2754134753ec68b8cf6a45f",
       "path": "entries/risk-assessment/hazard-focused-assessment-for-a-decision/revision.glossary.e2754134753ec68b8cf6a45f.json"
