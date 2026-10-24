@@ -392,6 +392,11 @@
       "path": "entries/standard/evaluative-reference-documentary-and-measurement-uses-distinguished/revision.glossary.6dd7e4c6e4bc3eab5e293e43.json"
     },
     {
+      "object_id": "glossary.statistical-process-control.variation-monitoring",
+      "revision_id": "revision.glossary.c25e7cd6d41d95e25e23e461",
+      "path": "entries/statistical-process-control/statistical-monitoring-of-process-behavior/revision.glossary.c25e7cd6d41d95e25e23e461.json"
+    },
+    {
       "object_id": "glossary.sustainability.conditions-over-time",
       "revision_id": "revision.glossary.42012b4784b0015fb593986a",
       "path": "entries/sustainability/maintaining-valued-activity-within-enduring-limits/revision.glossary.42012b4784b0015fb593986a.json"

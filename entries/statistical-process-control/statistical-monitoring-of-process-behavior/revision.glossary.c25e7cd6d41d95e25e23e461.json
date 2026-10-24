@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.statistical-process-control.variation-monitoring",
+  "revision_id": "revision.glossary.c25e7cd6d41d95e25e23e461",
+  "headword": "Statistical process control (SPC)",
+  "scope_label": "statistical monitoring of process behavior",
+  "definition": "Statistical process control (SPC) uses process data and statistical rules to monitor variation over time and identify signals that warrant investigation.",
+  "explanation": [
+    "A control chart is a common SPC tool. It compares observed behavior with limits based on the process, helping distinguish routine variation from evidence of a change or special cause.",
+    "A process can be statistically stable yet fail to meet specifications. Stability and capability answer different questions, so an SPC signal is not a pass-or-fail judgment on every output."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
