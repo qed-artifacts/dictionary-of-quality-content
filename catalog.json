@@ -32,6 +32,11 @@
       "path": "entries/attribute/descriptive-property-of-an-object/revision.glossary.1dac55a96f4c671e6612e196.json"
     },
     {
+      "object_id": "glossary.audit-finding.evidence-against-criteria",
+      "revision_id": "revision.glossary.10786603b33284f7e06697f8",
+      "path": "entries/audit-finding/result-of-evidence-evaluation-against-audit-criteria/revision.glossary.10786603b33284f7e06697f8.json"
+    },
+    {
       "object_id": "glossary.benchmark.evaluation-comparison",
       "revision_id": "revision.glossary.31db9589c3bffd0e1996238d",
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
