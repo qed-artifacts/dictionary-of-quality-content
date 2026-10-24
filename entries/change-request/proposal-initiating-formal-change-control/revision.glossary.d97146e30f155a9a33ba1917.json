@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.change-request.controlled-change-proposal",
+  "revision_id": "revision.glossary.d97146e30f155a9a33ba1917",
+  "headword": "Change request",
+  "scope_label": "proposal initiating formal change control",
+  "definition": "In change control, a change request is a documented proposal to alter a controlled product, process, document, or system, submitted for evaluation before implementation.",
+  "explanation": [
+    "It identifies the proposed change, why it is sought, and what may be affected. Reviewers then assess its effects and decide whether to authorize it.",
+    "Submitting a request starts the review; it does not itself permit the change to be made."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

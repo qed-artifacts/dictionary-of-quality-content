@@ -47,6 +47,11 @@
       "path": "entries/change-control/governed-change-to-a-controlled-product-process-or-system/revision.glossary.2dde3fb5c128f8fc2a07eb08.json"
     },
     {
+      "object_id": "glossary.change-request.controlled-change-proposal",
+      "revision_id": "revision.glossary.d97146e30f155a9a33ba1917",
+      "path": "entries/change-request/proposal-initiating-formal-change-control/revision.glossary.d97146e30f155a9a33ba1917.json"
+    },
+    {
       "object_id": "glossary.characteristic.descriptive-feature",
       "revision_id": "revision.glossary.aca3b6a3e0f323a5c349110e",
       "path": "entries/characteristic/descriptive-feature-of-an-object/revision.glossary.aca3b6a3e0f323a5c349110e.json"
