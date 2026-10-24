@@ -112,6 +112,11 @@
       "path": "entries/correlation-matrix/technical-interaction-roof-in-a-house-of-quality/revision.glossary.98db1a90aa54f057f042d0ce.json"
     },
     {
+      "object_id": "glossary.cost-of-poor-quality.failure-costs",
+      "revision_id": "revision.glossary.ff617e91a07ae021810a11ea",
+      "path": "entries/cost-of-poor-quality/costs-attributable-to-defects-and-other-quality-failures/revision.glossary.ff617e91a07ae021810a11ea.json"
+    },
+    {
       "object_id": "glossary.cost-of-quality.prevention-and-failure",
       "revision_id": "revision.glossary.bc597a94a3cb8d4e04d8e7d8",
       "path": "entries/cost-of-quality/costs-of-achieving-and-failing-to-achieve-quality/revision.glossary.bc597a94a3cb8d4e04d8e7d8.json"
