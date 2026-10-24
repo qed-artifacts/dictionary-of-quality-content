@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.maintenance-task.rcm-chosen-action",
+  "revision_id": "revision.glossary.4bd48800acaada98005ab5d2",
+  "headword": "Maintenance task",
+  "scope_label": "specified action selected within reliability-centered maintenance",
+  "definition": "In reliability-centered maintenance, a maintenance task is a specified action, with a basis for when to perform it, intended to preserve or restore an asset’s required function.",
+  "explanation": [
+    "A condition-based task responds to an observed indicator; a time-directed task is scheduled by elapsed time or use.",
+    "A task is chosen in light of the failure mode, its consequences, and whether the action is feasible and worthwhile. Some failures instead call for redesign or an explicit decision to let the part run until failure."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
