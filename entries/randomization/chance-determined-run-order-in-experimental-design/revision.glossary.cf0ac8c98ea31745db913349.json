@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.randomization.experimental-run-order",
+  "revision_id": "revision.glossary.cf0ac8c98ea31745db913349",
+  "headword": "Randomization",
+  "scope_label": "chance-determined run order in experimental design",
+  "definition": "In experimental design, randomization uses a chance procedure to determine the order of experimental runs.",
+  "explanation": [
+    "It helps prevent unmeasured influences that change over time from consistently favoring one factor setting or treatment. The procedure and any restrictions on it should be recorded.",
+    "Random order does not fix an unsuitable sample, missing controls, or every source of bias. Random assignment of treatments to units is a related use of the word and should be specified separately when intended."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
