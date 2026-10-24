@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.food-quality.intended-use",
+  "revision_id": "revision.glossary.839e235cdd428ce7dceb7ab2",
+  "headword": "Food quality",
+  "scope_label": "fitness of food characteristics for applicable requirements",
+  "definition": "Food quality is how well a food product's characteristics meet applicable requirements for its intended use.",
+  "explanation": [
+    "Relevant characteristics may include safety, composition, nutrition, sensory properties, and purity; which matter depends on the product and use.",
+    "Appealing taste does not make unsafe food acceptable. Safety needs its own assessment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

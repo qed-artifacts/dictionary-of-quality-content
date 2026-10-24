@@ -342,6 +342,11 @@
       "path": "entries/fitness-for-use/suitability-in-a-user-s-context/revision.glossary.8443f1fb951a8ab07aad0d12.json"
     },
     {
+      "object_id": "glossary.food-quality.intended-use",
+      "revision_id": "revision.glossary.839e235cdd428ce7dceb7ab2",
+      "path": "entries/food-quality/fitness-of-food-characteristics-for-applicable-requirements/revision.glossary.839e235cdd428ce7dceb7ab2.json"
+    },
+    {
       "object_id": "glossary.gage-repeatability-and-reproducibility.measurement-variation-study",
       "revision_id": "revision.glossary.6648eb67a34a8ce798dc5219",
       "path": "entries/gage-repeatability-and-reproducibility/industrial-measurement-system-variation-study/revision.glossary.6648eb67a34a8ce798dc5219.json"
