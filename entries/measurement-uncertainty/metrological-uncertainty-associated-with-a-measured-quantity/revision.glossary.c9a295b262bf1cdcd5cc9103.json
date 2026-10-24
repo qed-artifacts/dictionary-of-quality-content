@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.measurement-uncertainty.metrology",
+  "revision_id": "revision.glossary.c9a295b262bf1cdcd5cc9103",
+  "headword": "Measurement uncertainty",
+  "scope_label": "metrological uncertainty associated with a measured quantity",
+  "definition": "Measurement uncertainty describes the dispersion of values reasonably attributable to a specified measurand, given the information used in measuring it.",
+  "explanation": [
+    "It is not the same as measurement error, which compares a measured value with a reference value. An uncertainty assessment identifies relevant contributors and how they are combined.",
+    "When a result is used to decide conformity, the uncertainty and the decision rule both matter. A reported interval or coverage factor must be interpreted under its stated method and conditions."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

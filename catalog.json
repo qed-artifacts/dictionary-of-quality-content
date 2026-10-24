@@ -162,6 +162,11 @@
       "path": "entries/measure/program-evaluation-evidence-specification/revision.glossary.1650402b8d4d151c5bd0f98a.json"
     },
     {
+      "object_id": "glossary.measurement-uncertainty.metrology",
+      "revision_id": "revision.glossary.c9a295b262bf1cdcd5cc9103",
+      "path": "entries/measurement-uncertainty/metrological-uncertainty-associated-with-a-measured-quantity/revision.glossary.c9a295b262bf1cdcd5cc9103.json"
+    },
+    {
       "object_id": "glossary.nonconformity.unmet-requirement",
       "revision_id": "revision.glossary.617397708409669dc921b1f5",
       "path": "entries/nonconformity/failure-to-fulfill-an-applicable-requirement/revision.glossary.617397708409669dc921b1f5.json"
