@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.design-for-six-sigma.new-design-approach",
+  "revision_id": "revision.glossary.ef47e5b0d8cef066f2b1755e",
+  "headword": "Design for Six Sigma (DFSS)",
+  "scope_label": "structured quality-focused design of new or substantially redesigned offerings",
+  "definition": "Design for Six Sigma (DFSS) is a family of structured approaches for designing a new or substantially redesigned product, service, or process to meet specified customer and performance requirements.",
+  "explanation": [
+    "It brings customer needs into design decisions, develops and tests candidate solutions, and considers how the design will perform under expected variation. Different DFSS roadmaps use different phases and tools.",
+    "DFSS addresses quality while designing; improving an established process without substantial redesign is usually framed as a different Six Sigma task."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
