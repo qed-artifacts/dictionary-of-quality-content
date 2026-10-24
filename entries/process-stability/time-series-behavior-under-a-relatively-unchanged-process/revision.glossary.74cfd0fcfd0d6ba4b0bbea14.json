@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.process-stability.predictable-variation-pattern",
+  "revision_id": "revision.glossary.74cfd0fcfd0d6ba4b0bbea14",
+  "headword": "Process stability",
+  "scope_label": "time-series behavior under a relatively unchanged process",
+  "definition": "A process is stable when its pattern of variation remains sufficiently consistent over time to support prediction under stated conditions.",
+  "explanation": [
+    "Control charts can help distinguish variation from an ongoing system of common causes from signals of special causes that call for investigation. The conclusion depends on the data, time period, and chart assumptions.",
+    "Stability concerns predictability, not whether the process meets requirements. A consistently underperforming process can be stable but incapable of producing acceptable results."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

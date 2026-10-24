@@ -337,6 +337,11 @@
       "path": "entries/process-quality/quality-of-an-operational-process/revision.glossary.8e6d4cc6e8a645bdc371cb47.json"
     },
     {
+      "object_id": "glossary.process-stability.predictable-variation-pattern",
+      "revision_id": "revision.glossary.74cfd0fcfd0d6ba4b0bbea14",
+      "path": "entries/process-stability/time-series-behavior-under-a-relatively-unchanged-process/revision.glossary.74cfd0fcfd0d6ba4b0bbea14.json"
+    },
+    {
       "object_id": "glossary.process-validation.consistent-output",
       "revision_id": "revision.glossary.c6c3c7eb7f07e425dd9bd99c",
       "path": "entries/process-validation/evidence-that-a-specified-process-can-repeatedly-produce-required-output/revision.glossary.c6c3c7eb7f07e425dd9bd99c.json"
