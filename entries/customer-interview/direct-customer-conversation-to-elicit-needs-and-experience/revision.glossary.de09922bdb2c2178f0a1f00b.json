@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.customer-interview.eliciting-customer-evidence",
+  "revision_id": "revision.glossary.de09922bdb2c2178f0a1f00b",
+  "headword": "Customer interview",
+  "scope_label": "direct customer conversation to elicit needs and experience",
+  "definition": "A customer interview is a direct conversation used to learn a customer’s needs, experiences, expectations, or judgments relevant to a product or service.",
+  "explanation": [
+    "An interviewer can ask planned questions and follow up on unexpected answers. The study should identify which customers were approached, the setting, and the purpose of the questions.",
+    "An interview provides evidence of what that person reports; general claims about all customers require an appropriate sampling and analysis basis."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
