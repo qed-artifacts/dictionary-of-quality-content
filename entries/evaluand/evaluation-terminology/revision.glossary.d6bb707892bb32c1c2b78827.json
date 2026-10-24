@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.evaluand.evaluation-role",
+  "revision_id": "revision.glossary.d6bb707892bb32c1c2b78827",
+  "headword": "Evaluand",
+  "scope_label": "evaluation terminology",
+  "definition": "An evaluand is the specific thing being evaluated.",
+  "explanation": [
+    "Depending on the evaluation, it may be a program, policy, product, service, organization, person’s performance, or other subject.",
+    "The term names a role in an evaluation: it does not, by itself, say whether that thing is good, effective, or valuable."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
