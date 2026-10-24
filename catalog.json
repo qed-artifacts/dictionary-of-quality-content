@@ -92,6 +92,11 @@
       "path": "entries/quality-metric/cross-domain-quantitative-quality-metric/revision.glossary.13453aba77e2730f0dd814c4.json"
     },
     {
+      "object_id": "glossary.quality-profile.multidimensional",
+      "revision_id": "revision.glossary.9da218dd0cb422b7c0a87912",
+      "path": "entries/quality-profile/structured-multi-aspect-representation/revision.glossary.9da218dd0cb422b7c0a87912.json"
+    },
+    {
       "object_id": "glossary.quality-requirement.quality-management",
       "revision_id": "revision.glossary.a8a06df340b242937453faba",
       "path": "entries/quality-requirement/quality-management/revision.glossary.a8a06df340b242937453faba.json"
