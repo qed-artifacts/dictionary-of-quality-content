@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.safety.harm-prevention",
+  "revision_id": "revision.glossary.4242336dbec5ad6f087659df",
+  "headword": "Safety",
+  "scope_label": "control of harmful consequences under stated conditions",
+  "definition": "Safety is the condition in which a person, activity, or system is protected from unacceptable harm under specified conditions.",
+  "explanation": [
+    "A safety judgment should say which hazards and affected parties matter, and in what setting. It need not imply that all risk has been eliminated.",
+    "A system may operate without failure yet still cause harm in normal use. Reliability and safety therefore require related but distinct judgments."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
