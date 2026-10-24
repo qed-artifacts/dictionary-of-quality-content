@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.internal-failure-cost.pre-delivery-nonconformity",
+  "revision_id": "revision.glossary.d0edc500b7831c3c4726895e",
+  "headword": "Internal failure cost",
+  "scope_label": "cost arising from defects discovered before delivery",
+  "definition": "An internal failure cost is a cost arising from a defect or nonconformity found before a product or service is delivered.",
+  "explanation": [
+    "Scrap, rework, and review of defective material are typical examples. The failure is discovered within the producing organization’s delivery boundary.",
+    "Internal and external failure costs differ by when the problem is found relative to delivery, not by whether the failure is serious. State the boundary for a multistage service or supply chain."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
