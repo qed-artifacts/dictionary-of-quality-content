@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.fairness.justified-treatment",
+  "revision_id": "revision.glossary.4413a753b238a6649bdd357f",
+  "headword": "Fairness",
+  "scope_label": "justifiability of treatment, process or outcome",
+  "definition": "Fairness is the quality of treatment, a decision process, or an outcome being justifiable under standards relevant to those affected.",
+  "explanation": [
+    "In a decision, the procedure and the result can be judged separately. A fair procedure does not guarantee that everyone will regard the outcome as fair, and a favorable outcome does not establish that the procedure was fair.",
+    "People’s perceptions of fairness matter for trust and response to a decision. Those perceptions are evidence of reception, not conclusive proof that the decision was justified."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
