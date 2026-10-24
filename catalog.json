@@ -302,6 +302,11 @@
       "path": "entries/verification/evidence-based-confirmation-of-specified-requirements/revision.glossary.f4256935a998618672e280b0.json"
     },
     {
+      "object_id": "glossary.voice-of-the-customer.qfd-input",
+      "revision_id": "revision.glossary.ebcf6c087b27aa2847576356",
+      "path": "entries/voice-of-the-customer/customer-evidence-used-in-qfd-inquiry/revision.glossary.ebcf6c087b27aa2847576356.json"
+    },
+    {
       "object_id": "glossary.warrant.argument-link",
       "revision_id": "revision.glossary.528dbe2d06a4830dc1cf5854",
       "path": "entries/warrant/argument-analysis-link-between-grounds-and-claim/revision.glossary.528dbe2d06a4830dc1cf5854.json"
