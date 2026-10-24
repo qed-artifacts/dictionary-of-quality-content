@@ -1,0 +1,21 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-indicator.quality-assessment",
+  "revision_id": "revision.glossary.6b23491c7d734166e0e20506",
+  "headword": "Quality indicator",
+  "scope_label": "quality assessment across domains",
+  "definition": "A quality indicator is a specified sign used to gather evidence about one aspect of quality.",
+  "explanation": [
+    "It can describe a feature of an object, how a service is provided, or a result experienced by its users.",
+    "Its interpretation depends on the quality question, the population and setting, the data, and the relationship between the sign and the aspect being judged.",
+    "In health care, quality indicators may concern structure, process, or outcome."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
