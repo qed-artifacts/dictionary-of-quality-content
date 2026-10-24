@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.incoming-inspection.received-goods-check",
+  "revision_id": "revision.glossary.08d57a930edb4568ac464a6a",
+  "headword": "Incoming inspection",
+  "scope_label": "check of purchased parts or materials after receipt",
+  "definition": "Incoming inspection checks purchased parts or materials after receipt against applicable specifications or purchasing requirements.",
+  "explanation": [
+    "It may examine every item or use a defined sample to decide whether a lot can be accepted.",
+    "A passing lot check concerns the received goods; it does not by itself establish the supplier’s overall capability or future performance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
