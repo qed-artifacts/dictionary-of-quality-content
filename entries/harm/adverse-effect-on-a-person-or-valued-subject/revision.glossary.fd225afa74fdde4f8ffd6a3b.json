@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.harm.adverse-effect",
+  "revision_id": "revision.glossary.fd225afa74fdde4f8ffd6a3b",
+  "headword": "Harm",
+  "scope_label": "adverse effect on a person or valued subject",
+  "definition": "Harm is injury, damage, or other adverse effect on a person, living thing, environment, or valued asset.",
+  "explanation": [
+    "A useful claim of harm identifies who or what was affected, the kind and severity of the effect, and the relevant setting. Harms may differ even when the same event is involved.",
+    "A hazard or unsafe condition indicates a possibility of harm. It does not by itself show that harm has occurred."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
