@@ -422,6 +422,11 @@
       "path": "entries/lean/organizational-approach-to-value-flow-and-improvement/revision.glossary.dee77ff1e51085283f20f755.json"
     },
     {
+      "object_id": "glossary.maintenance-task.rcm-chosen-action",
+      "revision_id": "revision.glossary.4bd48800acaada98005ab5d2",
+      "path": "entries/maintenance-task/specified-action-selected-within-reliability-centered-maintenance/revision.glossary.4bd48800acaada98005ab5d2.json"
+    },
+    {
       "object_id": "glossary.management-review.quality-system-governance",
       "revision_id": "revision.glossary.205c2f470465edc40f66e58c",
       "path": "entries/management-review/leadership-review-of-a-quality-management-system/revision.glossary.205c2f470465edc40f66e58c.json"
