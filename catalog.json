@@ -12,6 +12,11 @@
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
     },
     {
+      "object_id": "glossary.characteristic.descriptive-feature",
+      "revision_id": "revision.glossary.aca3b6a3e0f323a5c349110e",
+      "path": "entries/characteristic/descriptive-feature-of-an-object/revision.glossary.aca3b6a3e0f323a5c349110e.json"
+    },
+    {
       "object_id": "glossary.criterion.evaluative",
       "revision_id": "revision.glossary.a8e93785e84cad52415a19a9",
       "path": "entries/criterion/evaluative-basis-or-consideration/revision.glossary.a8e93785e84cad52415a19a9.json"
