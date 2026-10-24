@@ -1,0 +1,21 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.requirement.cross-domain",
+  "revision_id": "revision.glossary.62d5505c354c23c8f91e5065",
+  "headword": "Requirement",
+  "scope_label": "quality management and technical specifications",
+  "definition": "Requirement is a need or expectation used to specify what an object, process, or action is expected to satisfy.",
+  "explanation": [
+    "In quality management, it may be stated, generally implied by established practice, or obligatory; it need not be written down to apply.",
+    "To judge whether a requirement is fulfilled, identify what is expected, of what, and under which conditions.",
+    "In a technical specification, state it clearly enough to check fulfillment without prescribing a particular solution unless that solution is itself required."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
