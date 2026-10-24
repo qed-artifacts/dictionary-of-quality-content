@@ -97,6 +97,11 @@
       "path": "entries/measure/program-evaluation-evidence-specification/revision.glossary.1650402b8d4d151c5bd0f98a.json"
     },
     {
+      "object_id": "glossary.quality-assessment.evidence-examination",
+      "revision_id": "revision.glossary.ac5299ba6343086ddf088526",
+      "path": "entries/quality-assessment/examination-of-quality-against-a-stated-basis/revision.glossary.ac5299ba6343086ddf088526.json"
+    },
+    {
       "object_id": "glossary.quality-attribute.quality-model",
       "revision_id": "revision.glossary.1b974814c141bb10f1102c92",
       "path": "entries/quality-attribute/quality-model-feature/revision.glossary.1b974814c141bb10f1102c92.json"

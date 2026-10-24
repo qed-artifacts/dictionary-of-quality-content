@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-assessment.evidence-examination",
+  "revision_id": "revision.glossary.ac5299ba6343086ddf088526",
+  "headword": "Quality assessment",
+  "scope_label": "examination of quality against a stated basis",
+  "definition": "Quality assessment is the examination of evidence about an object’s quality against relevant requirements or criteria.",
+  "explanation": [
+    "It may examine characteristics, performance, processes, or outcomes. State what was examined, the basis of comparison, and the limits of the evidence.",
+    "An assessment can report findings that support a later quality judgment, or include that judgment itself. The precise boundary between quality assessment and quality evaluation depends on the field and task."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
