@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.value-stream-mapping.flow-visualization",
+  "revision_id": "revision.glossary.283fef7e03313729c5d90a5f",
+  "headword": "Value-stream mapping",
+  "scope_label": "visual analysis of a defined product or service flow",
+  "definition": "Value-stream mapping is a method for drawing the sequence of activities and flows involved in delivering a specified product or service.",
+  "explanation": [
+    "A map makes handoffs, waits, repeated work, and other possible sources of waste easier to inspect. It can guide questions about how the current process works and where change may help.",
+    "The map represents a defined scope and observation period; it does not prove that every step is wasteful or that a proposed change will improve the result."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
