@@ -147,6 +147,11 @@
       "path": "entries/critical-to-quality/assessable-characteristic-consequential-to-a-customer-need/revision.glossary.0cb44f33217090bdb3309ff7.json"
     },
     {
+      "object_id": "glossary.customer-interview.eliciting-customer-evidence",
+      "revision_id": "revision.glossary.de09922bdb2c2178f0a1f00b",
+      "path": "entries/customer-interview/direct-customer-conversation-to-elicit-needs-and-experience/revision.glossary.de09922bdb2c2178f0a1f00b.json"
+    },
+    {
       "object_id": "glossary.customer-requirement.qfd-need",
       "revision_id": "revision.glossary.789c980f5da7818f527fab9f",
       "path": "entries/customer-requirement/customer-side-need-or-expectation-in-qfd/revision.glossary.789c980f5da7818f527fab9f.json"
