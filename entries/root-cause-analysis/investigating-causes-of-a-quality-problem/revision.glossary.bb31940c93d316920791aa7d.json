@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.root-cause-analysis.verified-cause",
+  "revision_id": "revision.glossary.bb31940c93d316920791aa7d",
+  "headword": "Root cause analysis",
+  "scope_label": "investigating causes of a quality problem",
+  "definition": "Root cause analysis is a structured investigation of the causal conditions behind a problem, undertaken to identify changes that could prevent it from recurring.",
+  "explanation": [
+    "Begin with a clear account of what happened, then examine the process and test plausible explanations against evidence. A cause-and-effect diagram or repeated “why” questions can generate hypotheses; neither proves a cause by itself.",
+    "Several conditions may have contributed. An action aimed only at the visible symptom may contain the immediate problem without addressing why it arose."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
