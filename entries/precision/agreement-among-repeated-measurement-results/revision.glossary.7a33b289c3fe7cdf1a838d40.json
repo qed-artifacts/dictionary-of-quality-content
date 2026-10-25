@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.precision.measurement",
+  "revision_id": "revision.glossary.7a33b289c3fe7cdf1a838d40",
+  "headword": "Precision",
+  "scope_label": "agreement among repeated measurement results",
+  "definition": "In measurement, precision is the closeness of agreement among results from repeated measurements under specified conditions.",
+  "explanation": [
+    "More precise measurements vary less from one another when the relevant conditions are held comparable.",
+    "Precision describes their agreement, not by itself how close they are to the true or reference value."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
