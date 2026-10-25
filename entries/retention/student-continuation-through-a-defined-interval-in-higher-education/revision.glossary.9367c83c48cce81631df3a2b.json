@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.retention.student-continuation",
+  "revision_id": "revision.glossary.9367c83c48cce81631df3a2b",
+  "headword": "Retention",
+  "scope_label": "student continuation through a defined interval in higher education",
+  "definition": "In higher education, retention is the continuation of students in a program or institution through a specified period or checkpoint.",
+  "explanation": [
+    "A retention rate compares the number still enrolled at the end of a defined interval with the number in the starting group.",
+    "State the cohort, interval, and whether continuation means staying in the same program or institution; graduation and transfer may be treated separately."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
