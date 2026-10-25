@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.curriculum-quality.higher-education-plan",
+  "revision_id": "revision.glossary.5e949cbf24ff349559e4ee1a",
+  "headword": "Curriculum quality",
+  "scope_label": "higher-education course of study",
+  "definition": "In higher education, curriculum quality is how well a planned course of study supports its educational aims through appropriate subject matter, skill development, sequence, and options.",
+  "explanation": [
+    "Its assessment should consider prerequisites, scheduling, and elective choices as well as topic coverage; a list of subjects alone does not show how students can progress through them."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
