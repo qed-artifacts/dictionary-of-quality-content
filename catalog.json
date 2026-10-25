@@ -2932,6 +2932,11 @@
       "path": "entries/scope/boundary-of-an-approved-project-plan/revision.glossary.7cf64240f4ce3650c23611ca.json"
     },
     {
+      "object_id": "glossary.scrap.prevent-original-use",
+      "revision_id": "revision.glossary.916a2b447fb754b5a055ea9e",
+      "path": "entries/scrap/disposition-preventing-a-nonconforming-output-s-original-use/revision.glossary.916a2b447fb754b5a055ea9e.json"
+    },
+    {
       "object_id": "glossary.security.information-protection-and-access",
       "revision_id": "revision.glossary.1659a3d712b79b5c108624e0",
       "path": "entries/security/protection-and-authorized-use-of-organizational-information/revision.glossary.1659a3d712b79b5c108624e0.json"
