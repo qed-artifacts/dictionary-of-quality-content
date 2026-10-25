@@ -2672,6 +2672,11 @@
       "path": "entries/sensory-quality/sensory-characteristics-of-food/revision.glossary.e659073a5fc7e57b89c6768b.json"
     },
     {
+      "object_id": "glossary.service-integration.health-social-care",
+      "revision_id": "revision.glossary.e127a6eaaf03801889e0a66d",
+      "path": "entries/service-integration/health-and-social-care/revision.glossary.e127a6eaaf03801889e0a66d.json"
+    },
+    {
       "object_id": "glossary.service-level.service-characteristic-values",
       "revision_id": "revision.glossary.3fdda5859aa98fdeff78f71a",
       "path": "entries/service-level/specified-or-observed-values-of-service-characteristics/revision.glossary.3fdda5859aa98fdeff78f71a.json"
