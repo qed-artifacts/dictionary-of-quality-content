@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.type-ii-error.fail-reject-false-null",
+  "revision_id": "revision.glossary.655400030e45570d75b8c68e",
+  "headword": "Type II error",
+  "scope_label": "failure to reject a false null hypothesis",
+  "definition": "A Type II error occurs when a hypothesis test fails to reject a null hypothesis that is in fact false.",
+  "explanation": [
+    "For a specified alternative, its probability is β, and the test's power is 1 − β.",
+    "Failing to reject the null hypothesis therefore does not establish that the null is true."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
