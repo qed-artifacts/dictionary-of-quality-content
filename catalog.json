@@ -257,6 +257,11 @@
       "path": "entries/control-chart/time-ordered-process-variation-chart/revision.glossary.3d54ba7356dae0426fcba85d.json"
     },
     {
+      "object_id": "glossary.control-limit.process-monitoring",
+      "revision_id": "revision.glossary.2036a2f70c7449019061b2a6",
+      "path": "entries/control-limit/statistical-process-control-chart-boundary/revision.glossary.2036a2f70c7449019061b2a6.json"
+    },
+    {
       "object_id": "glossary.control-plan.process-monitoring-and-response",
       "revision_id": "revision.glossary.5c92f236636f88e3df8e2c1a",
       "path": "entries/control-plan/documented-arrangements-for-monitoring-and-responding-to-process-variation/revision.glossary.5c92f236636f88e3df8e2c1a.json"

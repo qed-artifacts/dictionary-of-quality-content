@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.control-limit.process-monitoring",
+  "revision_id": "revision.glossary.2036a2f70c7449019061b2a6",
+  "headword": "Control limit",
+  "scope_label": "statistical process-control chart boundary",
+  "definition": "A control limit is a boundary on a control chart, calculated from process data, that helps flag variation needing investigation.",
+  "explanation": [
+    "Upper and lower limits depend on the chart and the process statistic being tracked.",
+    "They describe expected process behavior under the chart's assumptions; they are not specifications for whether an individual product is acceptable."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
