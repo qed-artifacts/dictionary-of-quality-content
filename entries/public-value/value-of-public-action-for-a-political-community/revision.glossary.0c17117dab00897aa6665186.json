@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.public-value.governance",
+  "revision_id": "revision.glossary.0c17117dab00897aa6665186",
+  "headword": "Public value",
+  "scope_label": "value of public action for a political community",
+  "definition": "In public governance, public value is the worth of public action in advancing interests and outcomes that a community has reason to regard as important.",
+  "explanation": [
+    "Judging it calls for attention to whose interests count and how competing concerns such as effectiveness, fairness, rights, and accountability are weighed.",
+    "It cannot be read from a service's financial return or a simple sum of individual preferences alone."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
