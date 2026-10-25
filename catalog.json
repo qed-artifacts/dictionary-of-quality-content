@@ -507,6 +507,11 @@
       "path": "entries/customer-value/customer-perceived-worth-of-an-offering-in-a-use-setting/revision.glossary.7fba5722481120b9860b1667.json"
     },
     {
+      "object_id": "glossary.customer.output-recipient",
+      "revision_id": "revision.glossary.9459ac0c3754b319e2f4c6a2",
+      "path": "entries/customer/recipient-of-a-product-service-or-information-in-quality-management/revision.glossary.9459ac0c3754b319e2f4c6a2.json"
+    },
+    {
       "object_id": "glossary.data-cleansing.dataset-problem-remediation",
       "revision_id": "revision.glossary.92a9b2a7f796fb5e3a67b761",
       "path": "entries/data-cleansing/detecting-and-addressing-dataset-quality-problems/revision.glossary.92a9b2a7f796fb5e3a67b761.json"
