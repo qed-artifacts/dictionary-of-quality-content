@@ -107,6 +107,11 @@
       "path": "entries/composite-indicator/aggregate-index-and-constitutive-component-technical-uses/revision.glossary.9d1c7633b4ac456f0f567508.json"
     },
     {
+      "object_id": "glossary.condition.claim-applicability",
+      "revision_id": "revision.glossary.f6c6911ddd72beaf35831cd6",
+      "path": "entries/condition/circumstance-or-prerequisite-affecting-the-applicability-of-a-claim-or-result/revision.glossary.f6c6911ddd72beaf35831cd6.json"
+    },
+    {
       "object_id": "glossary.conformance-quality.design-match",
       "revision_id": "revision.glossary.6ef5a63c41a2b28587d2091c",
       "path": "entries/conformance-quality/realized-product-or-service-against-design-requirements/revision.glossary.6ef5a63c41a2b28587d2091c.json"
