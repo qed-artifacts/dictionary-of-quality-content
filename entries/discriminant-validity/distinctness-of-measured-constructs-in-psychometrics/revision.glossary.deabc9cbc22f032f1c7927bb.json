@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.discriminant-validity.construct-distinction",
+  "revision_id": "revision.glossary.deabc9cbc22f032f1c7927bb",
+  "headword": "Discriminant validity",
+  "scope_label": "distinctness of measured constructs in psychometrics",
+  "definition": "Discriminant validity concerns whether evidence shows that a measure distinguishes its intended construct from constructs it should differ from.",
+  "explanation": [
+    "One check asks whether scores have appropriately weak associations with measures of theoretically distinct constructs.",
+    "A low association is not automatically favorable; the expected relationship must be specified from theory."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
