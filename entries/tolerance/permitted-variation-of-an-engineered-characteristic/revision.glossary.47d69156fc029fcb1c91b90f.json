@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.tolerance.engineering-variation",
+  "revision_id": "revision.glossary.47d69156fc029fcb1c91b90f",
+  "headword": "Tolerance",
+  "scope_label": "permitted variation of an engineered characteristic",
+  "definition": "In engineering, a tolerance states how much variation in a characteristic is permitted between specified limits.",
+  "explanation": [
+    "The characteristic, unit, and limits must be clear before a measured value can be judged against it.",
+    "A value within tolerance may still differ from the target; being allowed is not the same as being optimal."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
