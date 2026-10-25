@@ -1352,6 +1352,11 @@
       "path": "entries/standing/recognized-claim-to-consideration-in-an-evaluative-decision/revision.glossary.759679ef4b35f864f0249164.json"
     },
     {
+      "object_id": "glossary.statistic.sample-derived-quantity",
+      "revision_id": "revision.glossary.11e1dbb9a83702304f90b456",
+      "path": "entries/statistic/quantity-calculated-from-sample-observations/revision.glossary.11e1dbb9a83702304f90b456.json"
+    },
+    {
       "object_id": "glossary.statistical-process-control.variation-monitoring",
       "revision_id": "revision.glossary.c25e7cd6d41d95e25e23e461",
       "path": "entries/statistical-process-control/statistical-monitoring-of-process-behavior/revision.glossary.c25e7cd6d41d95e25e23e461.json"
