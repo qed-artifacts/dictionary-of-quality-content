@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.action.purposive-human-doing",
+  "revision_id": "revision.glossary.054bb3bd4eea344732eb1b27",
+  "headword": "Action",
+  "scope_label": "human agency in social inquiry",
+  "definition": "In human activity, an action is something an agent does for a reason or purpose, rather than an event that merely happens to the agent.",
+  "explanation": [
+    "The same outward movement can be different actions depending on intention and context. Describing movement alone may therefore leave out what the person was doing."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
