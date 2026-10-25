@@ -1142,6 +1142,11 @@
       "path": "entries/grade/named-product-or-component-class-with-specified-performance-characteristics/revision.glossary.eb6bf93cb5384314ccf982ca.json"
     },
     {
+      "object_id": "glossary.gxp.regulated-good-practices",
+      "revision_id": "revision.glossary.69aba2a8bbea5e3be705f8d2",
+      "path": "entries/gxp/umbrella-shorthand-for-regulated-good-practice-families/revision.glossary.69aba2a8bbea5e3be705f8d2.json"
+    },
+    {
       "object_id": "glossary.harm.adverse-effect",
       "revision_id": "revision.glossary.fd225afa74fdde4f8ffd6a3b",
       "path": "entries/harm/adverse-effect-on-a-person-or-valued-subject/revision.glossary.fd225afa74fdde4f8ffd6a3b.json"
