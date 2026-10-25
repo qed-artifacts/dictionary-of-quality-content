@@ -1532,6 +1532,11 @@
       "path": "entries/voice-of-the-customer/customer-evidence-used-in-qfd-inquiry/revision.glossary.ebcf6c087b27aa2847576356.json"
     },
     {
+      "object_id": "glossary.vulnerability.system-disruption",
+      "revision_id": "revision.glossary.198da9010c3f611ae9e36efe",
+      "path": "entries/vulnerability/system-susceptibility-to-harm-from-a-risk-source/revision.glossary.198da9010c3f611ae9e36efe.json"
+    },
+    {
       "object_id": "glossary.warrant.argument-link",
       "revision_id": "revision.glossary.528dbe2d06a4830dc1cf5854",
       "path": "entries/warrant/argument-analysis-link-between-grounds-and-claim/revision.glossary.528dbe2d06a4830dc1cf5854.json"
