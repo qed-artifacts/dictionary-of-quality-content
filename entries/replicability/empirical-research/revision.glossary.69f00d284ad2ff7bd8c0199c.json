@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.replicability.empirical-research",
+  "revision_id": "revision.glossary.69f00d284ad2ff7bd8c0199c",
+  "headword": "Replicability",
+  "scope_label": "empirical research",
+  "definition": "In empirical research, replicability is the capacity for an independent investigation to follow a reported method and obtain a sufficiently similar finding.",
+  "explanation": [
+    "A clear account of the procedure makes the attempt possible; whether findings are sufficiently similar depends on the question and the variation expected."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

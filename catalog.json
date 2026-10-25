@@ -2247,6 +2247,11 @@
       "path": "entries/repeatability/precision-of-repeated-measurement-under-repeatability-conditions/revision.glossary.d523ae5552735c5abba0aa86.json"
     },
     {
+      "object_id": "glossary.replicability.empirical-research",
+      "revision_id": "revision.glossary.69f00d284ad2ff7bd8c0199c",
+      "path": "entries/replicability/empirical-research/revision.glossary.69f00d284ad2ff7bd8c0199c.json"
+    },
+    {
       "object_id": "glossary.reproducibility.measurement",
       "revision_id": "revision.glossary.5ab47db804b2e13cbbe8398c",
       "path": "entries/reproducibility/agreement-of-measurement-results-under-changed-conditions/revision.glossary.5ab47db804b2e13cbbe8398c.json"
