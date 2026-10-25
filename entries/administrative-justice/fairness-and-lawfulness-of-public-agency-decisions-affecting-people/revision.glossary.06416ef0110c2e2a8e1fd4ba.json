@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.administrative-justice.public-agency-fairness",
+  "revision_id": "revision.glossary.06416ef0110c2e2a8e1fd4ba",
+  "headword": "Administrative justice",
+  "scope_label": "fairness and lawfulness of public-agency decisions affecting people",
+  "definition": "Administrative justice concerns whether public agencies make and apply decisions affecting people through fair and lawful procedures.",
+  "explanation": [
+    "In the U.S. example, a person facing loss of a benefit or license may have a right to be heard and a route to challenge the agency's decision.",
+    "The question is how public power is exercised and reviewed, rather than whether every affected person receives the outcome sought."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
