@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.reproducibility.measurement",
+  "revision_id": "revision.glossary.5ab47db804b2e13cbbe8398c",
+  "headword": "Reproducibility",
+  "scope_label": "agreement of measurement results under changed conditions",
+  "definition": "In measurement, reproducibility is the closeness of results for the same quantity when specified measurement conditions change.",
+  "explanation": [
+    "State which conditions changed, such as operator, time, or instrument, when reporting reproducibility.",
+    "Repeatability concerns measurements made under the same conditions, so the two properties answer different questions."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
