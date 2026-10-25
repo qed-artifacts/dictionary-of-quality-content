@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.visual-quality.perceived-image-presentation",
+  "revision_id": "revision.glossary.fdda299d1eb6fe58d2985297",
+  "headword": "Visual quality",
+  "scope_label": "images and visual media",
+  "definition": "Visual quality is an appraisal of an image's visible presentation for a specified viewing purpose.",
+  "explanation": [
+    "It may involve color, texture, organization, and aesthetic response; visual complexity alone cannot settle the judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
