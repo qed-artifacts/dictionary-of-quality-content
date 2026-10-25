@@ -2792,6 +2792,11 @@
       "path": "entries/technical-target/desired-level-for-a-technical-characteristic-in-a-house-of-quality/revision.glossary.47f42e050856d1e834587058.json"
     },
     {
+      "object_id": "glossary.test-retest-reliability.repeat-score-consistency",
+      "revision_id": "revision.glossary.60afc3bfde22a20759d45892",
+      "path": "entries/test-retest-reliability/psychological-and-educational-measurement/revision.glossary.60afc3bfde22a20759d45892.json"
+    },
+    {
       "object_id": "glossary.test.quality-engineering-check",
       "revision_id": "revision.glossary.d0cf39c2cd487621191035b7",
       "path": "entries/test/specified-examination-of-an-item-s-response-in-quality-engineering/revision.glossary.d0cf39c2cd487621191035b7.json"
