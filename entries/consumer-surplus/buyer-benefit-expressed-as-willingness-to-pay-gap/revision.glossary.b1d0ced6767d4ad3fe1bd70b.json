@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.consumer-surplus.buyer-willingness-price-gap",
+  "revision_id": "revision.glossary.b1d0ced6767d4ad3fe1bd70b",
+  "headword": "Consumer surplus",
+  "scope_label": "buyer benefit expressed as willingness-to-pay gap",
+  "definition": "Consumer surplus is the difference between the most a buyer would pay for a good or service and the amount actually paid.",
+  "explanation": [
+    "For a particular purchase, it expresses the buyer's modeled gain from paying less than that maximum.",
+    "Its estimate depends on how willingness to pay is assessed; it is neither the seller's profit nor a complete account of the good's value."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
