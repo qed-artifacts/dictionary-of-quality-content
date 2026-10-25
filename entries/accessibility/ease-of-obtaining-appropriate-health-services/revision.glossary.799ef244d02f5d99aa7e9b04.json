@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.accessibility.healthcare-services",
+  "revision_id": "revision.glossary.799ef244d02f5d99aa7e9b04",
+  "headword": "Accessibility",
+  "scope_label": "ease of obtaining appropriate health services",
+  "definition": "In health services, accessibility is how readily people can obtain appropriate care when they need it.",
+  "explanation": [
+    "Travel, time, cost, service arrangements, and a person's circumstances can each affect access.",
+    "A service can exist in an area yet remain difficult for some people to use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
