@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.probability.event-likelihood-model",
+  "revision_id": "revision.glossary.18545816ee942cbbb636b48d",
+  "headword": "Probability",
+  "scope_label": "numerical likelihood assigned to a defined event",
+  "definition": "Probability is a number from 0 to 1 assigned to a defined event under a probability model, representing how likely the event is within that model.",
+  "explanation": [
+    "To interpret it, identify the event, conditions, and assumptions behind the number.",
+    "It describes an event under the model; an observed outcome is separate evidence about whether that model fits."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
