@@ -652,6 +652,11 @@
       "path": "entries/outcome/resulting-condition-or-change-examined-in-evaluation/revision.glossary.49f7b83955d07acc9a7bc030.json"
     },
     {
+      "object_id": "glossary.output.project-deliverable",
+      "revision_id": "revision.glossary.659370d4f08e82ce7b5f6bb5",
+      "path": "entries/output/tangible-or-intangible-project-deliverable/revision.glossary.659370d4f08e82ce7b5f6bb5.json"
+    },
+    {
       "object_id": "glossary.pdca-cycle.improvement-loop",
       "revision_id": "revision.glossary.b84e12c60a74801a6318e928",
       "path": "entries/pdca-cycle/plan-do-check-act-improvement-loop/revision.glossary.b84e12c60a74801a6318e928.json"
