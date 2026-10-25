@@ -652,6 +652,11 @@
       "path": "entries/cost-effectiveness-analysis/comparison-of-interventions-for-a-stated-outcome/revision.glossary.78090e5fa4e6e919d43d4bbc.json"
     },
     {
+      "object_id": "glossary.cost-effectiveness.outcome-per-resource",
+      "revision_id": "revision.glossary.020389815a16b20b4f6c1f06",
+      "path": "entries/cost-effectiveness/specified-outcome-relative-to-resources-used/revision.glossary.020389815a16b20b4f6c1f06.json"
+    },
+    {
       "object_id": "glossary.cost-of-poor-quality.failure-costs",
       "revision_id": "revision.glossary.ff617e91a07ae021810a11ea",
       "path": "entries/cost-of-poor-quality/costs-attributable-to-defects-and-other-quality-failures/revision.glossary.ff617e91a07ae021810a11ea.json"

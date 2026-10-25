@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.cost-effectiveness.outcome-per-resource",
+  "revision_id": "revision.glossary.020389815a16b20b4f6c1f06",
+  "headword": "Cost-effectiveness",
+  "scope_label": "specified outcome relative to resources used",
+  "definition": "In program evaluation, cost-effectiveness is the amount of a specified outcome achieved relative to the resources used to obtain it.",
+  "explanation": [
+    "It may be expressed as cost per unit of outcome or outcome per unit of cost when comparing alternatives that pursue the same outcome.",
+    "The least expensive option is not necessarily the most cost-effective if it produces a smaller effect."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
