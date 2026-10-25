@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.qualification.pharmaceutical-equipment-suitability",
+  "revision_id": "revision.glossary.5b2b8fa30beba1431e14d0a3",
+  "headword": "Qualification",
+  "scope_label": "documented suitability of pharmaceutical equipment",
+  "definition": "In pharmaceutical manufacturing, equipment qualification is the documented demonstration that equipment or a system is suitable for its intended use under stated conditions.",
+  "explanation": [
+    "It can include checks of design, installation, operation, and performance according to the equipment's role and the qualification plan.",
+    "Equipment qualification supports process validation but does not by itself establish that the manufacturing process is reproducible."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
