@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.criterion-referenced-interpretation.standard-based-score-meaning",
+  "revision_id": "revision.glossary.2bf9a84bc3833f5ac9ba0c6a",
+  "headword": "Criterion-referenced interpretation",
+  "scope_label": "interpretation of assessment scores",
+  "definition": "A criterion-referenced interpretation explains a score in relation to a defined performance domain or standard.",
+  "explanation": [
+    "It addresses what the person can do or whether a specified level was met, rather than where the person ranks among peers. The standard and any cutoff need a defensible basis."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
