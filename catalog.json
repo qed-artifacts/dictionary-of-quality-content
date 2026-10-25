@@ -2557,6 +2557,11 @@
       "path": "entries/shelf-life/food-safety-and-quality/revision.glossary.c4ee0a2af7a3ef316dcd5c9b.json"
     },
     {
+      "object_id": "glossary.sigma-level.defect-rate-index",
+      "revision_id": "revision.glossary.2fe74262503722ce44f0fa11",
+      "path": "entries/sigma-level/six-sigma-process-performance/revision.glossary.2fe74262503722ce44f0fa11.json"
+    },
+    {
       "object_id": "glossary.signal.process-control-investigation",
       "revision_id": "revision.glossary.a5b3084f45e8a23246cbb241",
       "path": "entries/signal/control-chart-indication-for-process-investigation/revision.glossary.a5b3084f45e8a23246cbb241.json"
