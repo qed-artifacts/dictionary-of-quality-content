@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-control-inspector.product-conformity-assessor",
+  "revision_id": "revision.glossary.2db309534daa7b3dde42b366",
+  "headword": "Quality control inspector",
+  "scope_label": "manufacturing occupation",
+  "definition": "A quality control inspector checks materials or products against specified criteria and records whether they meet those criteria.",
+  "explanation": [
+    "The work may involve visual inspection, testing, or measurement, with nonconforming items identified for further action. An inspector's check is one part of quality control, not a complete quality-management system."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
