@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.measurement-quality.fit-for-purpose",
+  "revision_id": "revision.glossary.9d47b53da3605ad1d3ed06ca",
+  "headword": "Measurement quality",
+  "scope_label": "fitness of a measurement system and result for intended use",
+  "definition": "Measurement quality is how well a measurement system and its results serve a stated measurement purpose.",
+  "explanation": [
+    "Assess it against the intended measurand, method, conditions, and data requirements, including the uncertainty relevant to the decision.",
+    "A repeatable number may still be unfit if it addresses the wrong quantity or is too uncertain for the intended use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
