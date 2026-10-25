@@ -472,6 +472,11 @@
       "path": "entries/excellence/cross-domain-elevated-appraisal/revision.glossary.2c23e8cec17dc552fd751691.json"
     },
     {
+      "object_id": "glossary.expectation.customer-service",
+      "revision_id": "revision.glossary.02ce6c824eece25b709499f1",
+      "path": "entries/expectation/customer-anticipation-of-a-service/revision.glossary.02ce6c824eece25b709499f1.json"
+    },
+    {
       "object_id": "glossary.external-failure-cost.delivery-stage-nonconformity",
       "revision_id": "revision.glossary.2a4c8b4c2dfa7e5638b88cfa",
       "path": "entries/external-failure-cost/cost-arising-from-defects-discovered-during-or-after-delivery/revision.glossary.2a4c8b4c2dfa7e5638b88cfa.json"
