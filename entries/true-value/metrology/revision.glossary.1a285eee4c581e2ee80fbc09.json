@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.true-value.metrology-quantity-value",
+  "revision_id": "revision.glossary.1a285eee4c581e2ee80fbc09",
+  "headword": "True value",
+  "scope_label": "metrology",
+  "definition": "In metrology, a true value is a quantity value consistent with the definition of a specified quantity.",
+  "explanation": [
+    "It serves as an ideal reference for discussing measurement error, although a measurement generally cannot establish it exactly."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
