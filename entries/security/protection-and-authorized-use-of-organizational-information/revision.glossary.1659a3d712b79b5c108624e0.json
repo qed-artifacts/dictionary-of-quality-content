@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.security.information-protection-and-access",
+  "revision_id": "revision.glossary.1659a3d712b79b5c108624e0",
+  "headword": "Security",
+  "scope_label": "protection and authorized use of organizational information",
+  "definition": "In information management, security is the protection of information from inappropriate access, use, alteration, or loss while allowing authorized use.",
+  "explanation": [
+    "Controls depend on what information needs protection, who may use it, and the applicable privacy, contractual, and business requirements.",
+    "Restricting all access would defeat legitimate use; security must protect the information while permitting the right people to work with it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

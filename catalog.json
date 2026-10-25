@@ -1732,6 +1732,11 @@
       "path": "entries/scope/boundary-of-an-approved-project-plan/revision.glossary.7cf64240f4ce3650c23611ca.json"
     },
     {
+      "object_id": "glossary.security.information-protection-and-access",
+      "revision_id": "revision.glossary.1659a3d712b79b5c108624e0",
+      "path": "entries/security/protection-and-authorized-use-of-organizational-information/revision.glossary.1659a3d712b79b5c108624e0.json"
+    },
+    {
       "object_id": "glossary.sensitivity-analysis.decision-model",
       "revision_id": "revision.glossary.65b877869793139cdac33596",
       "path": "entries/sensitivity-analysis/dependence-of-modeled-results-on-uncertain-inputs-or-assumptions/revision.glossary.65b877869793139cdac33596.json"
