@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.defect-rate.quality-measure",
+  "revision_id": "revision.glossary.f9ac1766473b94db9668bcda",
+  "headword": "Defect rate",
+  "scope_label": "frequency of defects or defective units in inspected output",
+  "definition": "A defect rate expresses the frequency of defects or defective units relative to a stated amount of output.",
+  "explanation": [
+    "State whether the numerator counts defects or units with at least one defect, and specify the denominator, such as inspected units; a result may be reported per million units.",
+    "The two counts can differ when one unit has several defects."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
