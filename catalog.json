@@ -2592,6 +2592,11 @@
       "path": "entries/software-quality/software-product-and-quality-in-use/revision.glossary.f5564f749f5beb09b959714b.json"
     },
     {
+      "object_id": "glossary.sound-quality.contextual-audible-fit",
+      "revision_id": "revision.glossary.5b53fef1553887aa26ca570b",
+      "path": "entries/sound-quality/perceived-product-sound/revision.glossary.5b53fef1553887aa26ca570b.json"
+    },
+    {
       "object_id": "glossary.source.evidence-origin",
       "revision_id": "revision.glossary.172606d37365ddb64a193cf3",
       "path": "entries/source/origin-of-information-used-for-a-claim/revision.glossary.172606d37365ddb64a193cf3.json"
