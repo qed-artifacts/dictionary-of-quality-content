@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.performance-efficiency.software-time-resources-capacity",
+  "revision_id": "revision.glossary.83effd6c85cda1e14cf95966",
+  "headword": "Performance efficiency",
+  "scope_label": "software performance relative to resources under stated conditions",
+  "definition": "In software quality, performance efficiency concerns how a system's speed, throughput, capacity, and resource use meet requirements under stated conditions.",
+  "explanation": [
+    "A fast response alone does not establish efficiency if it requires excessive resources or fails at the needed load.",
+    "Assessment should state the workload, resources, and relevant performance requirements."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
