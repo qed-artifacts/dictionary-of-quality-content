@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.mean-time-to-failure.nonrepairable-item",
+  "revision_id": "revision.glossary.c2e06f0c48241efcf6d25d4b",
+  "headword": "Mean time to failure",
+  "scope_label": "average first-failure time for items treated as nonrepairable",
+  "definition": "For items treated as nonrepairable, mean time to failure (MTTF) is the average operating time until first failure.",
+  "explanation": [
+    "It may be estimated from observed lifetimes or calculated from a fitted lifetime distribution.",
+    "The reciprocal of a failure rate gives MTTF only under a constant-rate exponential model; MTBF instead summarizes operation between failures of a repairable system."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
