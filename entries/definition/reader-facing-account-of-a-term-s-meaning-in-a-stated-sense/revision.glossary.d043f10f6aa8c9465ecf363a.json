@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.definition.explanation-of-term-meaning",
+  "revision_id": "revision.glossary.d043f10f6aa8c9465ecf363a",
+  "headword": "Definition",
+  "scope_label": "reader-facing account of a term's meaning in a stated sense",
+  "definition": "A definition is a statement that explains what a term means in a specified sense.",
+  "explanation": [
+    "In a dictionary, it should help readers recognize when that sense applies and distinguish it from nearby meanings.",
+    "The wording may be brief or use a fuller sentence, provided it makes the meaning clear to its intended readers."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
