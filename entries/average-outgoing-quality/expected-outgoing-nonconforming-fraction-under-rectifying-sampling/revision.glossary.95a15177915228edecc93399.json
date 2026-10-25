@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.average-outgoing-quality.rectifying-sampling",
+  "revision_id": "revision.glossary.95a15177915228edecc93399",
+  "headword": "Average outgoing quality",
+  "scope_label": "expected outgoing nonconforming fraction under rectifying sampling",
+  "definition": "Average outgoing quality (AOQ) is the expected fraction of nonconforming units leaving a rectifying acceptance-sampling process at a stated incoming quality level.",
+  "explanation": [
+    "Accepted lots pass through, while rejected lots are inspected and nonconforming units are replaced under the assumed plan.",
+    "AOQ describes a long-run expectation for that plan and incoming quality; it is not the measured quality of one outgoing lot."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
