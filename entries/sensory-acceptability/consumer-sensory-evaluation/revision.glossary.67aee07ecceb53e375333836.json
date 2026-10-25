@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.sensory-acceptability.consumer-sensory-response",
+  "revision_id": "revision.glossary.67aee07ecceb53e375333836",
+  "headword": "Sensory acceptability",
+  "scope_label": "consumer sensory evaluation",
+  "definition": "Sensory acceptability is whether and to what degree a product's sensory properties are acceptable to a specified consumer group for a specified use.",
+  "explanation": [
+    "Consumer liking tests can inform it, but trained-panel descriptions or expert judgments cannot simply replace the intended users' responses."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
