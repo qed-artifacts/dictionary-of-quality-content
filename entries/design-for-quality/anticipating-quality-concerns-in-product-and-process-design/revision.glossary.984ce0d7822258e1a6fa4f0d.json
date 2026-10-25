@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.design-for-quality.prevention-in-design",
+  "revision_id": "revision.glossary.984ce0d7822258e1a6fa4f0d",
+  "headword": "Design for quality",
+  "scope_label": "anticipating quality concerns in product and process design",
+  "definition": "Design for quality incorporates known and foreseeable quality concerns into the design of a product, process, or equipment before routine use.",
+  "explanation": [
+    "Designers can turn those concerns into specifications, design choices, and checks intended to prevent failures.",
+    "Finding a defect later may prompt a redesign, but detection alone does not build prevention into the design."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
