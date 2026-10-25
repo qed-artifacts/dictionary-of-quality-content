@@ -1507,6 +1507,11 @@
       "path": "entries/mean-time-to-failure/average-first-failure-time-for-items-treated-as-nonrepairable/revision.glossary.c2e06f0c48241efcf6d25d4b.json"
     },
     {
+      "object_id": "glossary.mean-time-to-recovery.repairable-system-restoration",
+      "revision_id": "revision.glossary.d809bc02f86a2b3ef4d0bafb",
+      "path": "entries/mean-time-to-recovery/repairable-system-availability/revision.glossary.d809bc02f86a2b3ef4d0bafb.json"
+    },
+    {
       "object_id": "glossary.mean-time-to-repair.corrective-maintenance",
       "revision_id": "revision.glossary.95025001cb204f19405c0cc9",
       "path": "entries/mean-time-to-repair/average-corrective-maintenance-duration-for-repairable-equipment/revision.glossary.95025001cb204f19405c0cc9.json"
