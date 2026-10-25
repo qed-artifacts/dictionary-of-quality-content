@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.criterion-related-validity.external-variable-evidence",
+  "revision_id": "revision.glossary.fce2cce7a7bbca4cb661cbb1",
+  "headword": "Criterion-related validity",
+  "scope_label": "historical psychometric validity terminology",
+  "definition": "Criterion-related validity is a historical label for evidence that scores relate to an external criterion in a way relevant to their intended interpretation or use.",
+  "explanation": [
+    "Predictive and concurrent relationships are common examples. A strong relationship alone does not settle validity if the criterion is unsuitable or the proposed use lacks other support."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
