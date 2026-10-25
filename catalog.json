@@ -1422,6 +1422,11 @@
       "path": "entries/lot/defined-product-quantity-for-sampling-decision/revision.glossary.f50c47706f49f878b2ca90b5.json"
     },
     {
+      "object_id": "glossary.ltpd.sampling-poor-lot-point",
+      "revision_id": "revision.glossary.b16c0cd96736938e1f465ef1",
+      "path": "entries/ltpd/lot-tolerance-percent-defective-in-acceptance-sampling/revision.glossary.b16c0cd96736938e1f465ef1.json"
+    },
+    {
       "object_id": "glossary.maintainability.engineered-item",
       "revision_id": "revision.glossary.a924b9f0bec9b4878baf10d3",
       "path": "entries/maintainability/ability-to-maintain-or-restore-an-engineered-item/revision.glossary.a924b9f0bec9b4878baf10d3.json"

@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.ltpd.sampling-poor-lot-point",
+  "revision_id": "revision.glossary.b16c0cd96736938e1f465ef1",
+  "headword": "LTPD",
+  "scope_label": "lot tolerance percent defective in acceptance sampling",
+  "definition": "Lot tolerance percent defective (LTPD) is a specified percentage of defective units at which an acceptance sampling plan has a low probability of accepting a lot.",
+  "explanation": [
+    "It marks a poor-lot quality point on the plan's operating-characteristic curve; the associated probability of acceptance expresses the consumer's risk at that point.",
+    "LTPD is a property of the sampling plan, not a measurement of the defective percentage in a particular lot."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
