@@ -872,6 +872,11 @@
       "path": "entries/efficiency/useful-output-relative-to-process-resources/revision.glossary.c795cdbbf28e24ec967c139c.json"
     },
     {
+      "object_id": "glossary.emissions.vehicle-air-releases",
+      "revision_id": "revision.glossary.3f93bfe561ed0026999bb87e",
+      "path": "entries/emissions/air-releases-associated-with-motor-vehicles/revision.glossary.3f93bfe561ed0026999bb87e.json"
+    },
+    {
       "object_id": "glossary.empathy.understanding-anothers-experience",
       "revision_id": "revision.glossary.c1f12f2d6007255fc6e82b72",
       "path": "entries/empathy/understanding-another-person-s-experience/revision.glossary.c1f12f2d6007255fc6e82b72.json"
