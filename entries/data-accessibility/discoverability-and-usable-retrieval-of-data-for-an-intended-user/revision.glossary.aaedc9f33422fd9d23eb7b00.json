@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-accessibility.discover-and-retrieve-data",
+  "revision_id": "revision.glossary.aaedc9f33422fd9d23eb7b00",
+  "headword": "Data accessibility",
+  "scope_label": "discoverability and usable retrieval of data for an intended user",
+  "definition": "Data accessibility is how readily an intended user can find and retrieve needed data in a usable form.",
+  "explanation": [
+    "It concerns the path to the data, including whether access is available and the format suits the task, rather than whether the data values are correct.",
+    "An authorized user's access needs must be balanced with protection against unauthorized access."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
