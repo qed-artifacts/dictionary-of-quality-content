@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.special-cause.assignable-process-variation",
+  "revision_id": "revision.glossary.e1ed838564e60a992e3f87c8",
+  "headword": "Special cause",
+  "scope_label": "statistical process control",
+  "definition": "In statistical process control, a special cause is a distinct influence that produces variation outside a process's usual pattern.",
+  "explanation": [
+    "A control-chart signal can prompt a search for that influence; the signal alone does not identify it. Special-cause variation differs from routine fluctuation within the process's established pattern."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
