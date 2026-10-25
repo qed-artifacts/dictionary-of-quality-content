@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.measurement-model.metrology-quantities",
+  "revision_id": "revision.glossary.7f827d1339b57a462014bea2",
+  "headword": "Measurement model",
+  "scope_label": "mathematical relation among quantities in metrology",
+  "definition": "In metrology, a measurement model specifies the mathematical relationship among the quantities involved in obtaining a measured value.",
+  "explanation": [
+    "It identifies input quantities and an output quantity; a measurement function can calculate the output from given input values.",
+    "Its usefulness depends on whether the modeled relationship and inputs fit the quantity and conditions being measured."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
