@@ -577,6 +577,11 @@
       "path": "entries/goodness/cross-domain-evaluative-sense/revision.glossary.07e706622cccd8a1477c1ce5.json"
     },
     {
+      "object_id": "glossary.governance.organizational-decisions",
+      "revision_id": "revision.glossary.56c5cd77153fb9aac4733dbe",
+      "path": "entries/governance/organizational-direction-and-oversight-of-decisions/revision.glossary.56c5cd77153fb9aac4733dbe.json"
+    },
+    {
       "object_id": "glossary.grade.product-class",
       "revision_id": "revision.glossary.eb6bf93cb5384314ccf982ca",
       "path": "entries/grade/named-product-or-component-class-with-specified-performance-characteristics/revision.glossary.eb6bf93cb5384314ccf982ca.json"
