@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.rework.restore-requirement-conformity",
+  "revision_id": "revision.glossary.298907318b11ab619026e16f",
+  "headword": "Rework",
+  "scope_label": "disposition to make a nonconforming output conform",
+  "definition": "Rework is action on a nonconforming product or service intended to bring it into conformity with its requirements.",
+  "explanation": [
+    "The result must be checked against the applicable requirements before it is treated as conforming.",
+    "Repair has a different immediate aim: making the output acceptable for its intended use, which may leave an original requirement unmet."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

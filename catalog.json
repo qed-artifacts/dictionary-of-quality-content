@@ -2767,6 +2767,11 @@
       "path": "entries/revision/changed-version-of-a-controlled-document/revision.glossary.9950c2253fe94592034cb591.json"
     },
     {
+      "object_id": "glossary.rework.restore-requirement-conformity",
+      "revision_id": "revision.glossary.298907318b11ab619026e16f",
+      "path": "entries/rework/disposition-to-make-a-nonconforming-output-conform/revision.glossary.298907318b11ab619026e16f.json"
+    },
+    {
       "object_id": "glossary.rhetorical-quality.responsible-audience-address",
       "revision_id": "revision.glossary.b23678bb0cbe6c2f46d515fd",
       "path": "entries/rhetorical-quality/public-facing-persuasive-communication/revision.glossary.b23678bb0cbe6c2f46d515fd.json"
