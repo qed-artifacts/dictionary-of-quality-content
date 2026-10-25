@@ -807,6 +807,11 @@
       "path": "entries/process-validation/evidence-that-a-specified-process-can-repeatedly-produce-required-output/revision.glossary.c6c3c7eb7f07e425dd9bd99c.json"
     },
     {
+      "object_id": "glossary.process.organizational",
+      "revision_id": "revision.glossary.16d9c2b36836768707630339",
+      "path": "entries/process/organized-work-in-quality-management/revision.glossary.16d9c2b36836768707630339.json"
+    },
+    {
       "object_id": "glossary.product-quality.requirement-fit",
       "revision_id": "revision.glossary.4cbb4cd38111eda961b3df7a",
       "path": "entries/product-quality/quality-of-a-product-for-intended-use/revision.glossary.4cbb4cd38111eda961b3df7a.json"
