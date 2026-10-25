@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.generalizability.research-extension",
+  "revision_id": "revision.glossary.57355e99fa782ee51bc891e9",
+  "headword": "Generalizability",
+  "scope_label": "warranted extension of research findings",
+  "definition": "In research, generalizability is the extent to which findings from studied cases can reasonably be applied to other people, times, or settings.",
+  "explanation": [
+    "The intended group or setting beyond the study must be identified before judging whether the extension is warranted.",
+    "A study may answer its own question well without aiming to generalize beyond its particular cases."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
