@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-relevance.purpose-dependent",
+  "revision_id": "revision.glossary.a0f94702bda70ac8f2a0a320",
+  "headword": "Data relevance",
+  "scope_label": "data quality and use",
+  "definition": "Data relevance is the extent to which particular data bear on a stated question or use.",
+  "explanation": [
+    "Relevant data can still be inaccurate, incomplete, or out of date; relevance must be judged for the purpose at hand."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
