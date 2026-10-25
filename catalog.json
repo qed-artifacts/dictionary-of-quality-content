@@ -2302,6 +2302,11 @@
       "path": "entries/quality-of-care/evaluation-of-health-care-services/revision.glossary.94d6fb2fcceec7fa5a092c44.json"
     },
     {
+      "object_id": "glossary.quality-of-legislation.rule-guidance-and-validity",
+      "revision_id": "revision.glossary.b6aa5ea1f851e0029322fe1a",
+      "path": "entries/quality-of-legislation/rule-of-law-assessment-of-enacted-rules/revision.glossary.b6aa5ea1f851e0029322fe1a.json"
+    },
+    {
       "object_id": "glossary.quality-of-life.lived-appraisal",
       "revision_id": "revision.glossary.c851f057c1250c090b6d3a69",
       "path": "entries/quality-of-life/person-centered-appraisal-of-life-circumstances/revision.glossary.c851f057c1250c090b6d3a69.json"

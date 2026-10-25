@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-of-legislation.rule-guidance-and-validity",
+  "revision_id": "revision.glossary.b6aa5ea1f851e0029322fe1a",
+  "headword": "Quality of legislation",
+  "scope_label": "rule-of-law assessment of enacted rules",
+  "definition": "Quality of legislation is how well enacted rules are made and stated so they can guide conduct and meet relevant rule-of-law standards.",
+  "explanation": [
+    "Public availability, clarity, consistency, workable demands, and a valid enactment process matter; good drafting alone does not settle a law's justice or effects."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
