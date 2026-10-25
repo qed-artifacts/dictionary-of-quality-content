@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.continuous-quality-improvement.iterative-change",
+  "revision_id": "revision.glossary.299d04d221c1be67bbb6c9c9",
+  "headword": "Continuous quality improvement",
+  "scope_label": "repeated evidence-informed quality improvement",
+  "definition": "Continuous quality improvement is an ongoing, organized effort to improve quality through repeated tests of change and learning from their results.",
+  "explanation": [
+    "Teams can plan a change, try it, examine what happened, and decide whether to adapt, adopt, or abandon it.",
+    "One successful fix is a change; sustained improvement requires checking what follows and continuing to learn."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

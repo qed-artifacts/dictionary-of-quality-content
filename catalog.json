@@ -252,6 +252,11 @@
       "path": "entries/continuous-improvement/recurring-evidence-guided-improvement-work/revision.glossary.4d8b5a4158d53319bbc59f9a.json"
     },
     {
+      "object_id": "glossary.continuous-quality-improvement.iterative-change",
+      "revision_id": "revision.glossary.299d04d221c1be67bbb6c9c9",
+      "path": "entries/continuous-quality-improvement/repeated-evidence-informed-quality-improvement/revision.glossary.299d04d221c1be67bbb6c9c9.json"
+    },
+    {
       "object_id": "glossary.control-chart.process-signal",
       "revision_id": "revision.glossary.3d54ba7356dae0426fcba85d",
       "path": "entries/control-chart/time-ordered-process-variation-chart/revision.glossary.3d54ba7356dae0426fcba85d.json"
