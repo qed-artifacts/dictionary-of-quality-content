@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.lower-control-limit.control-chart-lower-boundary",
+  "revision_id": "revision.glossary.73f496c5310754c91aa9ab91",
+  "headword": "Lower control limit",
+  "scope_label": "statistical process control",
+  "definition": "A lower control limit is the lower statistical boundary on a control chart for values expected from a process showing only routine variation.",
+  "explanation": [
+    "A point below it can signal a process change that warrants investigation. It is calculated from process behavior and is not the same as a minimum acceptable specification."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
