@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.food-safety.intended-consumption",
+  "revision_id": "revision.glossary.aea846d205bcb7be7f56d0b2",
+  "headword": "Food safety",
+  "scope_label": "adverse-health-effect assurance for food used as intended",
+  "definition": "Food safety is warranted confidence that a food will not cause adverse health effects when it is prepared or eaten as intended.",
+  "explanation": [
+    "The intended use and the consumers matter when identifying relevant hazards and controls.",
+    "A hygiene program or hazard-control plan can support food safety, but the plan is not itself proof that a particular food is safe."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
