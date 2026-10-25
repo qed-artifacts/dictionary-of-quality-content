@@ -927,6 +927,11 @@
       "path": "entries/decision-rule/stated-procedure-turning-evidence-and-criteria-into-a-disposition/revision.glossary.14709f37fad35484d55580a1.json"
     },
     {
+      "object_id": "glossary.decision-threshold.classification-boundary",
+      "revision_id": "revision.glossary.49b692bacdc12c409587d3bf",
+      "path": "entries/decision-threshold/classification-or-detection-decision-based-on-a-specified-quantity/revision.glossary.49b692bacdc12c409587d3bf.json"
+    },
+    {
       "object_id": "glossary.decision.choice-among-options",
       "revision_id": "revision.glossary.4f7326c4c33b093820f235fe",
       "path": "entries/decision/choice-of-a-course-of-action/revision.glossary.4f7326c4c33b093820f235fe.json"
