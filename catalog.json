@@ -1047,6 +1047,11 @@
       "path": "entries/measurement-uncertainty/metrological-uncertainty-associated-with-a-measured-quantity/revision.glossary.c9a295b262bf1cdcd5cc9103.json"
     },
     {
+      "object_id": "glossary.mechanism.causal-link-process",
+      "revision_id": "revision.glossary.b1e05c31e6077bd8eecef863",
+      "path": "entries/mechanism/causal-process-linking-an-antecedent-to-an-effect/revision.glossary.b1e05c31e6077bd8eecef863.json"
+    },
+    {
       "object_id": "glossary.merit.relevant-goodness",
       "revision_id": "revision.glossary.613077f9e6adbbe686b476df",
       "path": "entries/merit/evaluative-goodness-in-relevant-respects/revision.glossary.613077f9e6adbbe686b476df.json"
