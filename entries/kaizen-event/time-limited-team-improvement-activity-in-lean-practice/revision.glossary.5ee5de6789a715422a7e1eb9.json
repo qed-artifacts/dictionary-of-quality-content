@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.kaizen-event.short-focused-improvement",
+  "revision_id": "revision.glossary.5ee5de6789a715422a7e1eb9",
+  "headword": "Kaizen event",
+  "scope_label": "time-limited team improvement activity in lean practice",
+  "definition": "A kaizen event is a short, focused team effort to improve a defined work process or area.",
+  "explanation": [
+    "People who do the work join others who can analyze the process and authorize changes.",
+    "The team aims to make practical changes within a limited period and assign follow-up work where immediate implementation is not possible."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
