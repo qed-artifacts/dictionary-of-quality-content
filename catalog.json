@@ -412,6 +412,11 @@
       "path": "entries/coverage/requirement-traceability-coverage-in-a-defined-design-set/revision.glossary.e1f1a6b434b21ed6d481974d.json"
     },
     {
+      "object_id": "glossary.credibility.argument-evidence-believability",
+      "revision_id": "revision.glossary.eb17acbc4bff64b9743b4459",
+      "path": "entries/credibility/believability-of-a-claim-or-source-in-argument-evaluation/revision.glossary.eb17acbc4bff64b9743b4459.json"
+    },
+    {
       "object_id": "glossary.criterion.evaluative",
       "revision_id": "revision.glossary.a8e93785e84cad52415a19a9",
       "path": "entries/criterion/evaluative-basis-or-consideration/revision.glossary.a8e93785e84cad52415a19a9.json"
