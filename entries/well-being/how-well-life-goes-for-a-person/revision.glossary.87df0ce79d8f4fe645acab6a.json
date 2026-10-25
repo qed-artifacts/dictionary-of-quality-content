@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.well-being.personal-welfare",
+  "revision_id": "revision.glossary.87df0ce79d8f4fe645acab6a",
+  "headword": "Well-being",
+  "scope_label": "how well life goes for a person",
+  "definition": "Well-being is how well a person's life goes for that person.",
+  "explanation": [
+    "Accounts of well-being differ over the importance of pleasure, fulfilled desires, health, relationships, and opportunities to function.",
+    "It is not identical to momentary happiness or to a moral judgment that the person is good."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

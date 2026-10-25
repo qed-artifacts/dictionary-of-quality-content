@@ -3957,6 +3957,11 @@
       "path": "entries/weighting/relative-influence-of-components-in-a-combined-result/revision.glossary.9d9b7e2657f1e8041530629a.json"
     },
     {
+      "object_id": "glossary.well-being.personal-welfare",
+      "revision_id": "revision.glossary.87df0ce79d8f4fe645acab6a",
+      "path": "entries/well-being/how-well-life-goes-for-a-person/revision.glossary.87df0ce79d8f4fe645acab6a.json"
+    },
+    {
       "object_id": "glossary.willingness-to-pay.benefit-tradeoff",
       "revision_id": "revision.glossary.cba0e5167da6cdd079083375",
       "path": "entries/willingness-to-pay/economic-valuation-of-a-specified-benefit/revision.glossary.cba0e5167da6cdd079083375.json"
