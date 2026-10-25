@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.service-integration.health-social-care",
+  "revision_id": "revision.glossary.e127a6eaaf03801889e0a66d",
+  "headword": "Service integration",
+  "scope_label": "health and social care",
+  "definition": "Service integration is the process of bringing services, professionals, and organizations together so that people can receive coordinated support.",
+  "explanation": [
+    "The process is distinct from integrated care: the connected experience people actually have when services work together to support their goals."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
