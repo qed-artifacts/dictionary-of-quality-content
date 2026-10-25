@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.risk-treatment.selected-risk-response",
+  "revision_id": "revision.glossary.2c716453cacedafc84c9804f",
+  "headword": "Risk treatment",
+  "scope_label": "selecting and implementing responses to assessed risks",
+  "definition": "Risk treatment is the selection and implementation of a response to an assessed risk.",
+  "explanation": [
+    "Responses can include avoiding an activity, reducing a risk, sharing or transferring it, or knowingly retaining it with a plan.",
+    "The choice should account for remaining risk and the costs and effects of the response; treatment does not imply that every risk disappears."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
