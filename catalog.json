@@ -2332,6 +2332,11 @@
       "path": "entries/recoverability/software-and-system-restoration-after-interruption-or-failure/revision.glossary.4678c70c688672d6ed6c8ddf.json"
     },
     {
+      "object_id": "glossary.recovery-point-objective.data-loss-tolerance",
+      "revision_id": "revision.glossary.e1c14230c4c06c90d47477f8",
+      "path": "entries/recovery-point-objective/system-recovery-and-continuity/revision.glossary.e1c14230c4c06c90d47477f8.json"
+    },
+    {
       "object_id": "glossary.recovery-time-objective.service-continuity",
       "revision_id": "revision.glossary.84f6e694aedd116a0be27e02",
       "path": "entries/recovery-time-objective/digital-service-continuity/revision.glossary.84f6e694aedd116a0be27e02.json"
