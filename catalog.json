@@ -1227,6 +1227,11 @@
       "path": "entries/safety/control-of-harmful-consequences-under-stated-conditions/revision.glossary.4242336dbec5ad6f087659df.json"
     },
     {
+      "object_id": "glossary.sample.statistical-units",
+      "revision_id": "revision.glossary.4d1a1c2f2cb36a744affadce",
+      "path": "entries/sample/selected-units-or-observations-from-a-defined-population/revision.glossary.4d1a1c2f2cb36a744affadce.json"
+    },
+    {
       "object_id": "glossary.sampling.case-selection",
       "revision_id": "revision.glossary.fe2584780560c5a3f67e4eb2",
       "path": "entries/sampling/selection-of-units-or-cases-for-examination/revision.glossary.fe2584780560c5a3f67e4eb2.json"
