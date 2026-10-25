@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.customer-value.perceived-offering-worth",
+  "revision_id": "revision.glossary.7fba5722481120b9860b1667",
+  "headword": "Customer value",
+  "scope_label": "customer-perceived worth of an offering in a use setting",
+  "definition": "In marketing, customer value is a customer's appraisal of how an offering serves what matters to them in a particular use setting.",
+  "explanation": [
+    "The appraisal can involve functional, economic, social, or emotional considerations, depending on the customer and the choice.",
+    "A supplier's claim about value does not determine what the customer actually values."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
