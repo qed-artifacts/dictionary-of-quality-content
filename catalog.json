@@ -1132,6 +1132,11 @@
       "path": "entries/interpretability/human-understanding-of-a-machine-learning-model-s-outputs/revision.glossary.72c713b9042585dbf97026c2.json"
     },
     {
+      "object_id": "glossary.intrinsic-value.value-in-itself",
+      "revision_id": "revision.glossary.cd4227923216213d034c3baa",
+      "path": "entries/intrinsic-value/axiological-value-grounded-in-what-something-is/revision.glossary.cd4227923216213d034c3baa.json"
+    },
+    {
       "object_id": "glossary.judgment.reasoned-conclusion",
       "revision_id": "revision.glossary.dcd4d62dbe787344eb6ebc76",
       "path": "entries/judgment/conclusion-drawn-from-information/revision.glossary.dcd4d62dbe787344eb6ebc76.json"
