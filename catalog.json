@@ -1757,6 +1757,11 @@
       "path": "entries/likelihood/risk-assessment-of-a-specified-event/revision.glossary.1ca5b90807acbedf30285c19.json"
     },
     {
+      "object_id": "glossary.liking.food-sensory-response",
+      "revision_id": "revision.glossary.56bf6dac9a0892829320f544",
+      "path": "entries/liking/favorable-sensory-response-to-food/revision.glossary.56bf6dac9a0892829320f544.json"
+    },
+    {
       "object_id": "glossary.loss-function.supervised-prediction-penalty",
       "revision_id": "revision.glossary.807952bba247773a756cc0b4",
       "path": "entries/loss-function/numerical-cost-assigned-to-supervised-prediction-outcomes/revision.glossary.807952bba247773a756cc0b4.json"
