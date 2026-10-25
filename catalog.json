@@ -117,6 +117,11 @@
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
     },
     {
+      "object_id": "glossary.benchmarking.organizational-comparison",
+      "revision_id": "revision.glossary.186250a225f403bc6017598f",
+      "path": "entries/benchmarking/organizational-performance-and-practice-comparison-for-improvement/revision.glossary.186250a225f403bc6017598f.json"
+    },
+    {
       "object_id": "glossary.benefit.favorable-change",
       "revision_id": "revision.glossary.82206d5b23cf9e1693416626",
       "path": "entries/benefit/favorable-change-for-a-specified-beneficiary/revision.glossary.82206d5b23cf9e1693416626.json"

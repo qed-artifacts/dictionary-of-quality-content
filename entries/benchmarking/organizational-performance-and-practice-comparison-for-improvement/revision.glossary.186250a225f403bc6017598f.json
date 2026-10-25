@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.benchmarking.organizational-comparison",
+  "revision_id": "revision.glossary.186250a225f403bc6017598f",
+  "headword": "Benchmarking",
+  "scope_label": "organizational performance and practice comparison for improvement",
+  "definition": "Benchmarking is a planned comparison of an organization's practice or performance with a relevant reference to identify differences and possible improvements.",
+  "explanation": [
+    "The reference may be another organization or an appropriate practice or performance level; the basis of comparison should be stated.",
+    "A measured gap helps focus inquiry, but it does not show by itself why the gap exists or which change will close it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
