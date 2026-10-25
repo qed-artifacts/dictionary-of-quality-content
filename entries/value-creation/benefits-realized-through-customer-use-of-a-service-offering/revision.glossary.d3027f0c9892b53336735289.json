@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.value-creation.service-value-in-use",
+  "revision_id": "revision.glossary.d3027f0c9892b53336735289",
+  "headword": "Value creation",
+  "scope_label": "benefits realized through customer use of a service offering",
+  "definition": "In a value-in-use account of services, value creation is the emergence of benefits as a customer uses an offering together with their own activities and resources.",
+  "explanation": [
+    "A provider can enable that use, but the offering alone does not guarantee the benefit.",
+    "What is valuable, and how much, can differ across customers and situations."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -2022,6 +2022,11 @@
       "path": "entries/validity/deductive-logic-test-score-interpretation-and-empirical-research/revision.glossary.973b73539a32cd68c90217b9.json"
     },
     {
+      "object_id": "glossary.value-creation.service-value-in-use",
+      "revision_id": "revision.glossary.d3027f0c9892b53336735289",
+      "path": "entries/value-creation/benefits-realized-through-customer-use-of-a-service-offering/revision.glossary.d3027f0c9892b53336735289.json"
+    },
+    {
       "object_id": "glossary.value-stream-mapping.flow-visualization",
       "revision_id": "revision.glossary.283fef7e03313729c5d90a5f",
       "path": "entries/value-stream-mapping/visual-analysis-of-a-defined-product-or-service-flow/revision.glossary.283fef7e03313729c5d90a5f.json"
