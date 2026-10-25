@@ -2857,6 +2857,11 @@
       "path": "entries/scalability/software-and-computing-workload-growth/revision.glossary.1b1053e9e37bee3655751219.json"
     },
     {
+      "object_id": "glossary.scale-up.lab-to-production-process-transfer",
+      "revision_id": "revision.glossary.5a1a5a0443928dbe497f393f",
+      "path": "entries/scale-up/manufacturing-process-development/revision.glossary.5a1a5a0443928dbe497f393f.json"
+    },
+    {
       "object_id": "glossary.scale.implementation-reach",
       "revision_id": "revision.glossary.09a194622bb3cc8a247f6f3a",
       "path": "entries/scale/extent-of-implementation-or-reach/revision.glossary.09a194622bb3cc8a247f6f3a.json"
