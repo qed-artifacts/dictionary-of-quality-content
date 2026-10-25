@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.declaration-of-conformity.issuer-statement",
+  "revision_id": "revision.glossary.8e6ea5efc2c6d95f848262c5",
+  "headword": "Declaration of conformity",
+  "scope_label": "issuer's formal statement of an identified product's conformity",
+  "definition": "A declaration of conformity is a formal statement by a responsible issuer that an identified product meets specified requirements.",
+  "explanation": [
+    "The statement should make the product, issuer, and applicable requirements identifiable.",
+    "It is the issuer's claim of conformity, not by itself an independent certification."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
