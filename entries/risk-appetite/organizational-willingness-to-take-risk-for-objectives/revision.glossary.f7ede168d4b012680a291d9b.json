@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.risk-appetite.overall-willingness-to-take-risk",
+  "revision_id": "revision.glossary.f7ede168d4b012680a291d9b",
+  "headword": "Risk appetite",
+  "scope_label": "organizational willingness to take risk for objectives",
+  "definition": "In organizational risk management, risk appetite is an organization's overall willingness to take risk in pursuit of opportunities or objectives.",
+  "explanation": [
+    "It guides whether and how far the organization will venture into uncertainty.",
+    "Risk tolerance addresses how much of a particular risk it is prepared to bear, often after treatment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
