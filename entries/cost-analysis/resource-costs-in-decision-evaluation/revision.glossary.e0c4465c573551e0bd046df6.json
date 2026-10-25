@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.cost-analysis.decision-relevant-costs",
+  "revision_id": "revision.glossary.e0c4465c573551e0bd046df6",
+  "headword": "Cost analysis",
+  "scope_label": "resource costs in decision evaluation",
+  "definition": "Cost analysis is a systematic examination of the costs associated with an activity or option to inform a decision.",
+  "explanation": [
+    "It requires stating which resources and time period count and whose costs are included. Estimating costs alone does not show whether an option achieves a valued outcome."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
