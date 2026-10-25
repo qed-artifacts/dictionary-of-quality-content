@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-cleansing.dataset-problem-remediation",
+  "revision_id": "revision.glossary.92a9b2a7f796fb5e3a67b761",
+  "headword": "Data cleansing",
+  "scope_label": "detecting and addressing dataset quality problems",
+  "definition": "Data cleansing is the process of finding and addressing errors, missing values, duplicates, and inconsistencies in data for a stated use.",
+  "explanation": [
+    "A response may correct, transform, fill, remove, or flag a problematic value according to the available evidence and intended analysis.",
+    "The work may recur when later analysis reveals new problems, and changes should be documented so the dataset's history remains traceable."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
