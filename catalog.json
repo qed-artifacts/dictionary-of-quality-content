@@ -1122,6 +1122,11 @@
       "path": "entries/internal-quality-audit/first-party-audit-of-an-organization-s-quality-related-work/revision.glossary.28ff8c7690cf02a931e19f90.json"
     },
     {
+      "object_id": "glossary.interoperability.exchange-and-use-information",
+      "revision_id": "revision.glossary.23c8d99b257d99acc8c567bf",
+      "path": "entries/interoperability/systems-exchanging-and-using-information/revision.glossary.23c8d99b257d99acc8c567bf.json"
+    },
+    {
       "object_id": "glossary.interpretability.machine-learning-output-understanding",
       "revision_id": "revision.glossary.72c713b9042585dbf97026c2",
       "path": "entries/interpretability/human-understanding-of-a-machine-learning-model-s-outputs/revision.glossary.72c713b9042585dbf97026c2.json"
