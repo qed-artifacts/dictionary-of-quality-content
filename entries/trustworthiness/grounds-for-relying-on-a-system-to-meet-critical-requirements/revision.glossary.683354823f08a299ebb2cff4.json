@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.trustworthiness.system-critical-requirements",
+  "revision_id": "revision.glossary.683354823f08a299ebb2cff4",
+  "headword": "Trustworthiness",
+  "scope_label": "grounds for relying on a system to meet critical requirements",
+  "definition": "In systems engineering, trustworthiness is the extent to which a system warrants reliance on it to fulfill specified critical requirements under relevant conditions.",
+  "explanation": [
+    "Those requirements may concern safety, security, reliability, performance, or resilience, depending on the system and its use.",
+    "A claim of trustworthiness needs evidence for the relevant requirements; success on one attribute does not establish all the others."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
