@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.standard-work.lean-repeatable-task",
+  "revision_id": "revision.glossary.061f0675606cf23826e0726d",
+  "headword": "Standard work",
+  "scope_label": "Lean description of current repeatable work sequence and timing",
+  "definition": "In Lean production, standard work is an agreed description of the current sequence and timing of a repeatable task and the work-in-process needed to perform it.",
+  "explanation": [
+    "It specifies how the task is ordinarily performed so deviations and improvement opportunities can be seen.",
+    "The standard is a present way of working that can be revised when a better method is established."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
