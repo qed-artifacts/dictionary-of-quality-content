@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-representativeness.population-and-use-fit",
+  "revision_id": "revision.glossary.ac758eec8f5d660f7b6837c8",
+  "headword": "Data representativeness",
+  "scope_label": "dataset use for population inference",
+  "definition": "Data representativeness is how well the cases and relevant characteristics in a dataset reflect the population or conditions to which an analysis will be applied.",
+  "explanation": [
+    "If some groups are over- or underrepresented, an estimate may be biased even when the values recorded for sampled cases are accurate."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
