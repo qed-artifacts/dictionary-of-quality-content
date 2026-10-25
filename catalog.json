@@ -822,6 +822,11 @@
       "path": "entries/manufacturing-quality/manufacturing-process-and-output-against-applicable-requirements/revision.glossary.f5f350673df682c7416e8d21.json"
     },
     {
+      "object_id": "glossary.mean-time-to-repair.corrective-maintenance",
+      "revision_id": "revision.glossary.95025001cb204f19405c0cc9",
+      "path": "entries/mean-time-to-repair/average-corrective-maintenance-duration-for-repairable-equipment/revision.glossary.95025001cb204f19405c0cc9.json"
+    },
+    {
       "object_id": "glossary.measure.program-evaluation",
       "revision_id": "revision.glossary.1650402b8d4d151c5bd0f98a",
       "path": "entries/measure/program-evaluation-evidence-specification/revision.glossary.1650402b8d4d151c5bd0f98a.json"

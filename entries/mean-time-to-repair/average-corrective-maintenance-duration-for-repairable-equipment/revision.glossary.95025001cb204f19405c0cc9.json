@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.mean-time-to-repair.corrective-maintenance",
+  "revision_id": "revision.glossary.95025001cb204f19405c0cc9",
+  "headword": "Mean time to repair",
+  "scope_label": "average corrective-maintenance duration for repairable equipment",
+  "definition": "For a repairable system, mean time to repair (MTTR) is the average counted downtime needed to restore it after a failure.",
+  "explanation": [
+    "For a set of failures, divide the counted repair downtime by the number of failures; state which delays the downtime includes.",
+    "MTTR concerns restoration time, whereas mean time between failures concerns operating time between failures. Neither figure alone fully determines availability."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
