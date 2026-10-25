@@ -1242,6 +1242,11 @@
       "path": "entries/indicator/evaluation-and-monitoring/revision.glossary.11aeca0f349b53fd964aa6e7.json"
     },
     {
+      "object_id": "glossary.indoor-environmental-quality.building-occupants",
+      "revision_id": "revision.glossary.4b39a47b71151d4808b2eabe",
+      "path": "entries/indoor-environmental-quality/building-indoor-conditions-relevant-to-occupants/revision.glossary.4b39a47b71151d4808b2eabe.json"
+    },
+    {
       "object_id": "glossary.inference.reasoning-transition",
       "revision_id": "revision.glossary.67341c573137dbcd4fe45436",
       "path": "entries/inference/reasoning-from-grounds-to-a-conclusion/revision.glossary.67341c573137dbcd4fe45436.json"
