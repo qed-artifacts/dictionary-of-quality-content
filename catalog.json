@@ -1212,6 +1212,11 @@
       "path": "entries/policy/standing-organizational-guide-to-decisions-and-action/revision.glossary.23d5ef517a25ea57c72d7eb5.json"
     },
     {
+      "object_id": "glossary.population.statistical-study-units",
+      "revision_id": "revision.glossary.3799b76996e6be73f1f4a9f7",
+      "path": "entries/population/complete-set-of-units-to-which-a-statistical-question-refers/revision.glossary.3799b76996e6be73f1f4a9f7.json"
+    },
+    {
       "object_id": "glossary.precision.measurement",
       "revision_id": "revision.glossary.7a33b289c3fe7cdf1a838d40",
       "path": "entries/precision/agreement-among-repeated-measurement-results/revision.glossary.7a33b289c3fe7cdf1a838d40.json"
