@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.accuracy.measurement",
+  "revision_id": "revision.glossary.35aab25a4ea0fe41413bc10e",
+  "headword": "Accuracy",
+  "scope_label": "closeness of a measurement result to a reference value",
+  "definition": "In measurement, accuracy is the closeness of a measured result to an accepted reference value for the same quantity.",
+  "explanation": [
+    "Repeated results can agree closely with one another yet all lie away from the reference value.",
+    "State the quantity and reference used before calling a result accurate."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
