@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.merit.relevant-goodness",
+  "revision_id": "revision.glossary.613077f9e6adbbe686b476df",
+  "headword": "Merit",
+  "scope_label": "evaluative goodness in relevant respects",
+  "definition": "Merit is how good something is in respects relevant to what it is or does.",
+  "explanation": [
+    "A claim of merit should identify the respects being judged and why they matter for that kind of object.",
+    "An object can have merit without thereby being worthwhile for every person or decision."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
