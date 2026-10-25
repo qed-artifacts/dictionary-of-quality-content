@@ -197,6 +197,11 @@
       "path": "entries/condition/circumstance-or-prerequisite-affecting-the-applicability-of-a-claim-or-result/revision.glossary.f6c6911ddd72beaf35831cd6.json"
     },
     {
+      "object_id": "glossary.confidence.evidence-appraisal",
+      "revision_id": "revision.glossary.a0e823e94981195c02abe3e7",
+      "path": "entries/confidence/strength-of-trust-in-an-evidence-based-estimate-or-conclusion/revision.glossary.a0e823e94981195c02abe3e7.json"
+    },
+    {
       "object_id": "glossary.conformance-quality.design-match",
       "revision_id": "revision.glossary.6ef5a63c41a2b28587d2091c",
       "path": "entries/conformance-quality/realized-product-or-service-against-design-requirements/revision.glossary.6ef5a63c41a2b28587d2091c.json"
