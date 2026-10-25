@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.lot.acceptance-sampling",
+  "revision_id": "revision.glossary.f50c47706f49f878b2ca90b5",
+  "headword": "Lot",
+  "scope_label": "defined product quantity for sampling decision",
+  "definition": "In acceptance sampling, a lot is a defined quantity of product treated as one unit for an accept-or-reject decision.",
+  "explanation": [
+    "Its units are grouped under conditions regarded as sufficiently uniform for the sampling plan.",
+    "The lot is the whole quantity under decision; the sample is the subset inspected."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
