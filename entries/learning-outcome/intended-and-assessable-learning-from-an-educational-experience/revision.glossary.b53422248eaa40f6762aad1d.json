@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.learning-outcome.expected-capability",
+  "revision_id": "revision.glossary.b53422248eaa40f6762aad1d",
+  "headword": "Learning outcome",
+  "scope_label": "intended and assessable learning from an educational experience",
+  "definition": "An intended learning outcome states what a learner is expected to know, understand, or be able to demonstrate after an educational experience.",
+  "explanation": [
+    "It describes learning by the student rather than only material covered or an activity performed by the instructor.",
+    "The phrase can also name what learners actually achieved, so an assessment should distinguish the intended outcome from evidence of attainment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
