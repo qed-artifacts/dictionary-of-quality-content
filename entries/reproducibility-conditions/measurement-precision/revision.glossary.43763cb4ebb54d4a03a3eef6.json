@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.reproducibility-conditions.measurement-variation",
+  "revision_id": "revision.glossary.43763cb4ebb54d4a03a3eef6",
+  "headword": "Reproducibility conditions",
+  "scope_label": "measurement precision",
+  "definition": "In measurement, reproducibility conditions are specified circumstances for repeated measurements in which relevant factors may change, such as operator, location, or measuring system.",
+  "explanation": [
+    "The specification says which factors change; repetitions with the same operator, instrument, and location instead exemplify repeatability conditions."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
