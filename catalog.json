@@ -37,6 +37,11 @@
       "path": "entries/acceptance-criterion/specified-acceptance-decision/revision.glossary.09c8e7feaf5a1ea6793202bc.json"
     },
     {
+      "object_id": "glossary.acceptance-quality-limit.lot-series-process-average",
+      "revision_id": "revision.glossary.2a1fb898b221a19451c16ef2",
+      "path": "entries/acceptance-quality-limit/sampling-inspection-limit-for-a-satisfactory-process-average-over-a-series-of-lots/revision.glossary.2a1fb898b221a19451c16ef2.json"
+    },
+    {
       "object_id": "glossary.acceptance-sampling.lot-decision",
       "revision_id": "revision.glossary.67b0a0658d913b2134cdd402",
       "path": "entries/acceptance-sampling/sample-based-lot-acceptance-decision/revision.glossary.67b0a0658d913b2134cdd402.json"

@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.acceptance-quality-limit.lot-series-process-average",
+  "revision_id": "revision.glossary.2a1fb898b221a19451c16ef2",
+  "headword": "Acceptance quality limit",
+  "scope_label": "sampling-inspection limit for a satisfactory process average over a series of lots",
+  "definition": "In acceptance sampling over a continuing series of lots, the acceptance quality limit (AQL) is a designated quality level at the boundary of what is treated as a satisfactory process average for sampling inspection.",
+  "explanation": [
+    "It helps specify a sampling plan's intended performance for a continuing process.",
+    "It is not a promise that every accepted lot meets that level or contains no nonconforming units."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
