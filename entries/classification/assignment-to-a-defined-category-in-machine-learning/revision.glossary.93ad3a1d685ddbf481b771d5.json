@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.classification.machine-learning",
+  "revision_id": "revision.glossary.93ad3a1d685ddbf481b771d5",
+  "headword": "Classification",
+  "scope_label": "assignment to a defined category in machine learning",
+  "definition": "In machine learning, classification assigns an item to one of a defined set of categories using information about that item.",
+  "explanation": [
+    "A classifier can learn the assignment rule from examples whose correct categories are known.",
+    "Good performance on its training examples alone does not show that the rule will work on new cases."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -127,6 +127,11 @@
       "path": "entries/claim/assertion-offered-for-assessment/revision.glossary.1b2229ee3e47ad0c83b3178a.json"
     },
     {
+      "object_id": "glossary.classification.machine-learning",
+      "revision_id": "revision.glossary.93ad3a1d685ddbf481b771d5",
+      "path": "entries/classification/assignment-to-a-defined-category-in-machine-learning/revision.glossary.93ad3a1d685ddbf481b771d5.json"
+    },
+    {
       "object_id": "glossary.common-cause-variation.recurring-process-influences",
       "revision_id": "revision.glossary.2bb7cb6521857a13d413a5ce",
       "path": "entries/common-cause-variation/routine-variation-inherent-in-a-process-as-it-currently-operates/revision.glossary.2bb7cb6521857a13d413a5ce.json"
