@@ -3037,6 +3037,11 @@
       "path": "entries/selective-reporting/empirical-study-results/revision.glossary.7bc5116908c7677c7236d114.json"
     },
     {
+      "object_id": "glossary.semantic-consistency.data-meaning-alignment",
+      "revision_id": "revision.glossary.2c8ee5bd8d51de02d79696ef",
+      "path": "entries/semantic-consistency/data-and-information-management/revision.glossary.2c8ee5bd8d51de02d79696ef.json"
+    },
+    {
       "object_id": "glossary.sensitivity-analysis.decision-model",
       "revision_id": "revision.glossary.65b877869793139cdac33596",
       "path": "entries/sensitivity-analysis/dependence-of-modeled-results-on-uncertain-inputs-or-assumptions/revision.glossary.65b877869793139cdac33596.json"

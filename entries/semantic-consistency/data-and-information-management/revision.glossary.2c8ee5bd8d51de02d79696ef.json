@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.semantic-consistency.data-meaning-alignment",
+  "revision_id": "revision.glossary.2c8ee5bd8d51de02d79696ef",
+  "headword": "Semantic consistency",
+  "scope_label": "data and information management",
+  "definition": "In data management, semantic consistency is agreement in the meanings assigned to related data elements across data sets or systems.",
+  "explanation": [
+    "Elements intended to represent the same concept should use compatible definitions and names or an explicit mapping; matching formats alone does not establish matching meanings."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
