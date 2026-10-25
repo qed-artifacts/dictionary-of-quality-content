@@ -922,6 +922,11 @@
       "path": "entries/internal-quality-audit/first-party-audit-of-an-organization-s-quality-related-work/revision.glossary.28ff8c7690cf02a931e19f90.json"
     },
     {
+      "object_id": "glossary.interpretability.machine-learning-output-understanding",
+      "revision_id": "revision.glossary.72c713b9042585dbf97026c2",
+      "path": "entries/interpretability/human-understanding-of-a-machine-learning-model-s-outputs/revision.glossary.72c713b9042585dbf97026c2.json"
+    },
+    {
       "object_id": "glossary.judgment.reasoned-conclusion",
       "revision_id": "revision.glossary.dcd4d62dbe787344eb6ebc76",
       "path": "entries/judgment/conclusion-drawn-from-information/revision.glossary.dcd4d62dbe787344eb6ebc76.json"
