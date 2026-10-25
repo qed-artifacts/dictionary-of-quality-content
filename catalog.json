@@ -1267,6 +1267,11 @@
       "path": "entries/traceability-matrix/tabular-map-between-requirements-and-related-design-or-verification-records/revision.glossary.7eaec5b4b6788ba4cb81a97b.json"
     },
     {
+      "object_id": "glossary.traceability.metrology",
+      "revision_id": "revision.glossary.c773da93b5774e06c30750ab",
+      "path": "entries/traceability/metrological-traceability-of-a-measurement-result/revision.glossary.c773da93b5774e06c30750ab.json"
+    },
+    {
       "object_id": "glossary.trade-off.competing-outcomes",
       "revision_id": "revision.glossary.c6eda63dd2bba216803ff62e",
       "path": "entries/trade-off/choice-among-competing-design-outcomes/revision.glossary.c6eda63dd2bba216803ff62e.json"
