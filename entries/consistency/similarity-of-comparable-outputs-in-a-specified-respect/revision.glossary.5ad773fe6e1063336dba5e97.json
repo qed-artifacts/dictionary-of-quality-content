@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.consistency.comparable-output-similarity",
+  "revision_id": "revision.glossary.5ad773fe6e1063336dba5e97",
+  "headword": "Consistency",
+  "scope_label": "similarity of comparable outputs in a specified respect",
+  "definition": "In quality assessment, consistency is the degree to which comparable outputs or performances remain alike in a specified respect.",
+  "explanation": [
+    "A useful claim of consistency names the characteristic, occasions, and conditions being compared.",
+    "Consistent results can still fail a requirement, so consistency alone does not establish quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
