@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-record.retained-evidence",
+  "revision_id": "revision.glossary.a51b4d86119b6fb9c3ed9628",
+  "headword": "Quality record",
+  "scope_label": "retained quality-management evidence",
+  "definition": "In quality management, a quality record is retained information that shows what was done or what result was obtained.",
+  "explanation": [
+    "Completed inspection results and training records are examples when they are kept as evidence of quality-related activity.",
+    "A blank procedure tells people what to do; it does not record what actually happened."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
