@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.standard-error.statistic",
+  "revision_id": "revision.glossary.051ed5108b21fae9b03a3aaf",
+  "headword": "Standard error",
+  "scope_label": "sampling variability of a statistical estimate",
+  "definition": "A standard error is the standard deviation of an estimate's sampling distribution under a specified sampling procedure or model.",
+  "explanation": [
+    "It describes how much the estimate would tend to vary across repeated samples from the same population.",
+    "A small standard error indicates greater precision under those assumptions, but it does not show that the estimate is free of bias."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
