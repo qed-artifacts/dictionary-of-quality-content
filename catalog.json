@@ -3642,6 +3642,11 @@
       "path": "entries/true-value/metrology/revision.glossary.1a285eee4c581e2ee80fbc09.json"
     },
     {
+      "object_id": "glossary.trueness.measurement-reference",
+      "revision_id": "revision.glossary.4edf7d534547e6cfcbb18d06",
+      "path": "entries/trueness/agreement-of-a-measurement-average-with-a-reference/revision.glossary.4edf7d534547e6cfcbb18d06.json"
+    },
+    {
       "object_id": "glossary.trustworthiness.system-critical-requirements",
       "revision_id": "revision.glossary.683354823f08a299ebb2cff4",
       "path": "entries/trustworthiness/grounds-for-relying-on-a-system-to-meet-critical-requirements/revision.glossary.683354823f08a299ebb2cff4.json"
