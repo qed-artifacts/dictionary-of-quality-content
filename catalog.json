@@ -832,6 +832,11 @@
       "path": "entries/performance/actual-functioning-or-results-under-specified-conditions/revision.glossary.40073bdfa5a2213cbdb9d263.json"
     },
     {
+      "object_id": "glossary.precision.measurement",
+      "revision_id": "revision.glossary.7a33b289c3fe7cdf1a838d40",
+      "path": "entries/precision/agreement-among-repeated-measurement-results/revision.glossary.7a33b289c3fe7cdf1a838d40.json"
+    },
+    {
       "object_id": "glossary.preference.comparative-favoring",
       "revision_id": "revision.glossary.7b32cb3949aa06d79eb7f39a",
       "path": "entries/preference/comparative-favoring-in-evaluative-choice/revision.glossary.7b32cb3949aa06d79eb7f39a.json"
