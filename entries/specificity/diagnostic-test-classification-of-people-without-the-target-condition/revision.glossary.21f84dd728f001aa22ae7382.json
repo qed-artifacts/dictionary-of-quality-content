@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.specificity.diagnostic-true-negative-rate",
+  "revision_id": "revision.glossary.21f84dd728f001aa22ae7382",
+  "headword": "Specificity",
+  "scope_label": "diagnostic-test classification of people without the target condition",
+  "definition": "In diagnostic testing, specificity is the proportion of people without the target condition who test negative.",
+  "explanation": [
+    "It shows how well the test avoids false positives among people who do not have the condition.",
+    "It is not the probability that a person with a negative result is free of the condition; that is negative predictive value."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
