@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.media-literacy.critical-news-use",
+  "revision_id": "revision.glossary.a3e769e2ff652814e2cb3836",
+  "headword": "Media literacy",
+  "scope_label": "critical understanding and use of news media",
+  "definition": "In journalism, media literacy is the capacity to interpret and critically assess news and related media messages in light of how they are made and presented.",
+  "explanation": [
+    "It includes asking who produced a message, what supports it, and whether it presents fact, opinion, or persuasion.",
+    "Media literacy also helps people participate in public communication as informed audiences or contributors."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
