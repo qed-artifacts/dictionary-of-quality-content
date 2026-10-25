@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.access-to-care.practical-health-service-access",
+  "revision_id": "revision.glossary.92cd432a967c057d49fb6673",
+  "headword": "Access to care",
+  "scope_label": "practical ability to obtain needed health services",
+  "definition": "In health services, access to care is people's practical ability to obtain needed care when and where they need it.",
+  "explanation": [
+    "A nearby facility does not by itself establish access: travel, cost, service arrangements, and social or cultural conditions can affect whether people can use it.",
+    "An access judgment should specify the population and type of care rather than assume that everyone near a service has the same opportunity to obtain it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
