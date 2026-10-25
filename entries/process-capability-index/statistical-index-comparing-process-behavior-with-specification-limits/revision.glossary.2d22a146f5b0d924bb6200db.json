@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.process-capability-index.specification",
+  "revision_id": "revision.glossary.2d22a146f5b0d924bb6200db",
+  "headword": "Process capability index",
+  "scope_label": "statistical index comparing process behavior with specification limits",
+  "definition": "A process capability index is a numerical summary of how a process's output distribution relates to specified limits for one characteristic.",
+  "explanation": [
+    "For example, Cp compares specification width with process spread, while Cpk also reflects how the process is centered within those limits.",
+    "Interpretation depends on a stable process, a suitable distributional model, and the particular index used."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

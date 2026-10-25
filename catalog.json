@@ -807,6 +807,11 @@
       "path": "entries/process-approach/quality-management-of-interrelated-work-toward-intended-results/revision.glossary.23252dbd00c30c1e20857c6e.json"
     },
     {
+      "object_id": "glossary.process-capability-index.specification",
+      "revision_id": "revision.glossary.2d22a146f5b0d924bb6200db",
+      "path": "entries/process-capability-index/statistical-index-comparing-process-behavior-with-specification-limits/revision.glossary.2d22a146f5b0d924bb6200db.json"
+    },
+    {
       "object_id": "glossary.process-capability.specification-fit",
       "revision_id": "revision.glossary.26e1b8c406d691dd3ceaa1bb",
       "path": "entries/process-capability/stable-process-fit-to-specification-limits/revision.glossary.26e1b8c406d691dd3ceaa1bb.json"
