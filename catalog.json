@@ -2002,6 +2002,11 @@
       "path": "entries/pollution/environmental-contamination-harmful-to-living-communities/revision.glossary.09e0f594251f29994fce806f.json"
     },
     {
+      "object_id": "glossary.poor-quality.shortfall-against-requirements",
+      "revision_id": "revision.glossary.3b975c0f670827d1398101f3",
+      "path": "entries/poor-quality/quality-judgment-about-an-object-or-work/revision.glossary.3b975c0f670827d1398101f3.json"
+    },
+    {
       "object_id": "glossary.population.statistical-study-units",
       "revision_id": "revision.glossary.3799b76996e6be73f1f4a9f7",
       "path": "entries/population/complete-set-of-units-to-which-a-statistical-question-refers/revision.glossary.3799b76996e6be73f1f4a9f7.json"
