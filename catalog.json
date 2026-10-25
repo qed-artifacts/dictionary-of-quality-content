@@ -2537,6 +2537,11 @@
       "path": "entries/quality-function-deployment/translating-investigated-customer-needs-into-development-decisions/revision.glossary.5625533b830ff57c76dd815a.json"
     },
     {
+      "object_id": "glossary.quality-gap.servqual-expectation-performance-mismatch",
+      "revision_id": "revision.glossary.fc174be23bd86a15e8475c79",
+      "path": "entries/quality-gap/servqual-service-quality-assessment/revision.glossary.fc174be23bd86a15e8475c79.json"
+    },
+    {
       "object_id": "glossary.quality-governance.accountability-oversight",
       "revision_id": "revision.glossary.f9aa20df6111c39433561379",
       "path": "entries/quality-governance/organizational-authority-and-oversight-for-quality/revision.glossary.f9aa20df6111c39433561379.json"
