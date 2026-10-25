@@ -907,6 +907,11 @@
       "path": "entries/safety/control-of-harmful-consequences-under-stated-conditions/revision.glossary.4242336dbec5ad6f087659df.json"
     },
     {
+      "object_id": "glossary.sampling.case-selection",
+      "revision_id": "revision.glossary.fe2584780560c5a3f67e4eb2",
+      "path": "entries/sampling/selection-of-units-or-cases-for-examination/revision.glossary.fe2584780560c5a3f67e4eb2.json"
+    },
+    {
       "object_id": "glossary.sensory-quality.food-perception",
       "revision_id": "revision.glossary.e659073a5fc7e57b89c6768b",
       "path": "entries/sensory-quality/sensory-characteristics-of-food/revision.glossary.e659073a5fc7e57b89c6768b.json"
