@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-currency.real-world-update-lag",
+  "revision_id": "revision.glossary.621f1e3afdfc3eff9a284047",
+  "headword": "Data currency",
+  "scope_label": "data and information quality",
+  "definition": "Data currency is how closely a stored value reflects the present state of what it represents.",
+  "explanation": [
+    "It depends on when the underlying fact changed and when the record was updated; a recently accessed record can still be out of date."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
