@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.stability.statistical-process-control",
+  "revision_id": "revision.glossary.5277ba99ce77ee61e515d9be",
+  "headword": "Stability",
+  "scope_label": "statistical stability of a monitored process",
+  "definition": "In statistical process control, stability is a condition in which a process varies over time without detected signals of special causes.",
+  "explanation": [
+    "A stable process still varies through common causes; a suitable control chart helps detect departures from that pattern.",
+    "Stability does not by itself mean that results satisfy specifications."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
