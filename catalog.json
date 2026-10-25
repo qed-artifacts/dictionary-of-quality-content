@@ -1812,6 +1812,11 @@
       "path": "entries/quality-target-product-profile/prospective-quality-characteristics-for-a-pharmaceutical-product/revision.glossary.93c3e1dccf3e1a650b826b97.json"
     },
     {
+      "object_id": "glossary.quality-trilogy.juran-three-processes",
+      "revision_id": "revision.glossary.4c683325da11b7d87bcf439c",
+      "path": "entries/quality-trilogy/juran-s-quality-management-model/revision.glossary.4c683325da11b7d87bcf439c.json"
+    },
+    {
       "object_id": "glossary.quality.quality-management",
       "revision_id": "revision.glossary.1be2706cc72d31afa1268da3",
       "path": "entries/quality/quality-management/revision.glossary.1be2706cc72d31afa1268da3.json"

@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-trilogy.juran-three-processes",
+  "revision_id": "revision.glossary.4c683325da11b7d87bcf439c",
+  "headword": "Quality trilogy",
+  "scope_label": "Juran's quality-management model",
+  "definition": "The quality trilogy is Juran's model of three linked management processes: quality planning, quality control, and quality improvement.",
+  "explanation": [
+    "Planning prepares a process to meet quality goals, control manages performance during operation, and improvement reduces persistent shortcomings.",
+    "The model treats improvement as additional work beyond keeping an existing process within its current operating pattern."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
