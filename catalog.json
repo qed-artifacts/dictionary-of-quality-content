@@ -3272,6 +3272,11 @@
       "path": "entries/social-care-quality/social-care-services-across-public-voluntary-and-private-providers/revision.glossary.a298d666d2ec20eb27e402af.json"
     },
     {
+      "object_id": "glossary.social-inclusion.effective-participation",
+      "revision_id": "revision.glossary.c9a0e45219d97195f41ec0c5",
+      "path": "entries/social-inclusion/public-and-educational-participation/revision.glossary.c9a0e45219d97195f41ec0c5.json"
+    },
+    {
       "object_id": "glossary.social-service-quality.social-care-experience",
       "revision_id": "revision.glossary.9f7559428d048f7ab6b8d2ff",
       "path": "entries/social-service-quality/social-care-and-support-services/revision.glossary.9f7559428d048f7ab6b8d2ff.json"
