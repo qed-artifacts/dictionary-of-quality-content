@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.evaluation-basis.program-evaluation",
+  "revision_id": "revision.glossary.796ce9809076838612d699a3",
+  "headword": "Evaluation basis",
+  "scope_label": "grounds for a program-evaluation appraisal",
+  "definition": "An evaluation basis is the stated set of purposes, criteria, and evidence used to support an appraisal of something being evaluated.",
+  "explanation": [
+    "It makes clear what is being judged, why the chosen considerations matter, and what observations support the conclusion.",
+    "Different participants may disagree about the criteria or how strongly the evidence supports a rating."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

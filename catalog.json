@@ -432,6 +432,11 @@
       "path": "entries/evaluand/evaluation-terminology/revision.glossary.d6bb707892bb32c1c2b78827.json"
     },
     {
+      "object_id": "glossary.evaluation-basis.program-evaluation",
+      "revision_id": "revision.glossary.796ce9809076838612d699a3",
+      "path": "entries/evaluation-basis/grounds-for-a-program-evaluation-appraisal/revision.glossary.796ce9809076838612d699a3.json"
+    },
+    {
       "object_id": "glossary.evaluation.value-appraisal",
       "revision_id": "revision.glossary.0eb7bd85ec9db86c23fdc290",
       "path": "entries/evaluation/reasoned-appraisal-of-a-subject/revision.glossary.0eb7bd85ec9db86c23fdc290.json"
