@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.service-reliability.dependable-delivery",
+  "revision_id": "revision.glossary.52242e1031d390457c61323c",
+  "headword": "Service reliability",
+  "scope_label": "dependable delivery of a promised service",
+  "definition": "In service-quality assessment, service reliability is the extent to which a provider delivers a promised service dependably and accurately across relevant occasions.",
+  "explanation": [
+    "A booking that is honored once is one result; reliability concerns whether the provider can be counted on to honor comparable bookings.",
+    "The promise, conditions, and occasions of service must be clear before reliability can be assessed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
