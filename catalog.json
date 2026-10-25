@@ -987,6 +987,11 @@
       "path": "entries/life-cycle/pharmaceutical-product-life-cycle/revision.glossary.955e794da08c9406e8765360.json"
     },
     {
+      "object_id": "glossary.loss-function.supervised-prediction-penalty",
+      "revision_id": "revision.glossary.807952bba247773a756cc0b4",
+      "path": "entries/loss-function/numerical-cost-assigned-to-supervised-prediction-outcomes/revision.glossary.807952bba247773a756cc0b4.json"
+    },
+    {
       "object_id": "glossary.maintainability.engineered-item",
       "revision_id": "revision.glossary.a924b9f0bec9b4878baf10d3",
       "path": "entries/maintainability/ability-to-maintain-or-restore-an-engineered-item/revision.glossary.a924b9f0bec9b4878baf10d3.json"
