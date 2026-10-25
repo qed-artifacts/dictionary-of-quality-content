@@ -2302,6 +2302,11 @@
       "path": "entries/resource/usable-means-for-carrying-out-work-or-achieving-an-aim/revision.glossary.8e7b8a997eec9cb9f0e38776.json"
     },
     {
+      "object_id": "glossary.respect.health-care",
+      "revision_id": "revision.glossary.94abf094555a130d5dc8ebcb",
+      "path": "entries/respect/health-care-delivery/revision.glossary.94abf094555a130d5dc8ebcb.json"
+    },
+    {
       "object_id": "glossary.response-surface.expected-response-model",
       "revision_id": "revision.glossary.c5edd37c9cd8d49b0e9a2763",
       "path": "entries/response-surface/modeled-expected-response-over-combinations-of-input-levels/revision.glossary.c5edd37c9cd8d49b0e9a2763.json"

@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.respect.health-care",
+  "revision_id": "revision.glossary.94abf094555a130d5dc8ebcb",
+  "headword": "Respect",
+  "scope_label": "health-care delivery",
+  "definition": "In health care, respect is treating a person so that their dignity, privacy, and expressed preferences matter in how care is given.",
+  "explanation": [
+    "It is shown through considerate communication, protection of bodily privacy, and appropriate room for the person's choices.",
+    "A favorable clinical outcome alone does not establish respectful care."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
