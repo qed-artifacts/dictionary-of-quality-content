@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.mechanism.causal-link-process",
+  "revision_id": "revision.glossary.b1e05c31e6077bd8eecef863",
+  "headword": "Mechanism",
+  "scope_label": "causal process linking an antecedent to an effect",
+  "definition": "In a causal explanation, a mechanism is a process or arrangement through which a proposed cause brings about an effect.",
+  "explanation": [
+    "A mechanism account addresses how the effect could arise, including the relevant interactions or transmission between steps.",
+    "Observing that two events occur together does not by itself identify the mechanism linking them."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
