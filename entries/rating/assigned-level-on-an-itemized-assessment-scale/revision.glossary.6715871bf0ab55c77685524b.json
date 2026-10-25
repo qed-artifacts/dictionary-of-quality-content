@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.rating.scale-response",
+  "revision_id": "revision.glossary.6715871bf0ab55c77685524b",
+  "headword": "Rating",
+  "scope_label": "assigned level on an itemized assessment scale",
+  "definition": "A rating is a selected level on a defined scale used to assess a specified attribute.",
+  "explanation": [
+    "The scale must identify what is being rated and what its levels mean.",
+    "Ordered ratings do not, by themselves, show that the numerical distances between levels are equal."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
