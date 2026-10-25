@@ -1947,6 +1947,11 @@
       "path": "entries/time-horizon/period-considered-in-a-decision-or-evaluation/revision.glossary.d7c0fc9ca1b88c6a1d36ac21.json"
     },
     {
+      "object_id": "glossary.time-to-failure.elapsed-time-first-failure",
+      "revision_id": "revision.glossary.e60ce84bdfde6d241899bfd4",
+      "path": "entries/time-to-failure/elapsed-operating-or-exposure-time-until-an-item-s-specified-failure/revision.glossary.e60ce84bdfde6d241899bfd4.json"
+    },
+    {
       "object_id": "glossary.time.evaluation-temporal-reference",
       "revision_id": "revision.glossary.8ac45ede6024744552607bbe",
       "path": "entries/time/temporal-reference-of-an-observation-or-evaluative-claim/revision.glossary.8ac45ede6024744552607bbe.json"

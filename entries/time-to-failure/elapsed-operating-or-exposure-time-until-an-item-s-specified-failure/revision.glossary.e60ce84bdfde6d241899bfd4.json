@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.time-to-failure.elapsed-time-first-failure",
+  "revision_id": "revision.glossary.e60ce84bdfde6d241899bfd4",
+  "headword": "Time-to-failure",
+  "scope_label": "elapsed operating or exposure time until an item's specified failure",
+  "definition": "Time-to-failure is the elapsed time from a specified starting point until an item first meets a defined failure condition.",
+  "explanation": [
+    "The clock and failure rule must be stated: calendar time, operating hours, and cycles can answer different questions.",
+    "If the observation ends while the item still works, its exact failure time is unknown rather than zero; the record is censored."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
