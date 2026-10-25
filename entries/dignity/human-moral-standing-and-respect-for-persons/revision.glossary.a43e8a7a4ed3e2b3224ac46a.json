@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.dignity.person-owed-respect",
+  "revision_id": "revision.glossary.a43e8a7a4ed3e2b3224ac46a",
+  "headword": "Dignity",
+  "scope_label": "human moral standing and respect for persons",
+  "definition": "In ethics, dignity is a person's standing as worthy of respect in their own right.",
+  "explanation": [
+    "It grounds a demand to treat people as persons whose interests and agency matter, rather than merely as tools for others' ends.",
+    "A dignity claim therefore asks how a person is treated, not only whether an action produces a useful result."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
