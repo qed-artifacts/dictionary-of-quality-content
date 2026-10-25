@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-maturity.organizational-practices",
+  "revision_id": "revision.glossary.fa6c8edf99f552475e2f997c",
+  "headword": "Quality maturity",
+  "scope_label": "organizational quality management",
+  "definition": "Quality maturity is the extent to which an organization has developed sustained practices for managing and improving quality.",
+  "explanation": [
+    "A maturity model can describe stages of management practice; a high stage is not direct proof that every product or service meets its requirements."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
