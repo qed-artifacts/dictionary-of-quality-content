@@ -1497,6 +1497,11 @@
       "path": "entries/master-data-management/governance-of-shared-core-entity-records/revision.glossary.0fc9f768fc23c37517c6af6c.json"
     },
     {
+      "object_id": "glossary.material-quality.construction-material-fitness",
+      "revision_id": "revision.glossary.9bdbb73fadcc912a75d4b54c",
+      "path": "entries/material-quality/construction-materials/revision.glossary.9bdbb73fadcc912a75d4b54c.json"
+    },
+    {
       "object_id": "glossary.materiality.reporting-decision-significance",
       "revision_id": "revision.glossary.f1c418385a9aabcdfe7fed4e",
       "path": "entries/materiality/decision-significance-of-reporting-information/revision.glossary.f1c418385a9aabcdfe7fed4e.json"
