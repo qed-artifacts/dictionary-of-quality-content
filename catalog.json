@@ -1742,6 +1742,11 @@
       "path": "entries/policy/standing-organizational-guide-to-decisions-and-action/revision.glossary.23d5ef517a25ea57c72d7eb5.json"
     },
     {
+      "object_id": "glossary.pollution.environmental-harmful-contamination",
+      "revision_id": "revision.glossary.09e0f594251f29994fce806f",
+      "path": "entries/pollution/environmental-contamination-harmful-to-living-communities/revision.glossary.09e0f594251f29994fce806f.json"
+    },
+    {
       "object_id": "glossary.population.statistical-study-units",
       "revision_id": "revision.glossary.3799b76996e6be73f1f4a9f7",
       "path": "entries/population/complete-set-of-units-to-which-a-statistical-question-refers/revision.glossary.3799b76996e6be73f1f4a9f7.json"

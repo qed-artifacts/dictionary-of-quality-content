@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.pollution.environmental-harmful-contamination",
+  "revision_id": "revision.glossary.09e0f594251f29994fce806f",
+  "headword": "Pollution",
+  "scope_label": "environmental contamination harmful to living communities",
+  "definition": "In environmental assessment, pollution is the presence or buildup of material in a place at a level that can harm organisms or ecosystems.",
+  "explanation": [
+    "A detectable contaminant is not automatically a pollutant; concentration, exposure, and potential effects matter.",
+    "Assessment may involve air, water, soil, and the organisms that take up contaminants."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
