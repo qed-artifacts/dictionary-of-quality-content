@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-target-product-profile.pharmaceutical",
+  "revision_id": "revision.glossary.93c3e1dccf3e1a650b826b97",
+  "headword": "Quality target product profile",
+  "scope_label": "prospective quality characteristics for a pharmaceutical product",
+  "definition": "In pharmaceutical development, a quality target product profile is a prospective outline of the characteristics a drug product should ideally have to achieve its intended quality, taking safety and efficacy into account.",
+  "explanation": [
+    "It helps guide development choices and the identification of potential critical quality attributes.",
+    "The profile states a target for development, not proof that a finished product already meets it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

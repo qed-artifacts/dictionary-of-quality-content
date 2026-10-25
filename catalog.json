@@ -1027,6 +1027,11 @@
       "path": "entries/quality-standard/documented-quality-reference-within-a-stated-scope/revision.glossary.de6eb3dd7a9afdbf76fc8ba2.json"
     },
     {
+      "object_id": "glossary.quality-target-product-profile.pharmaceutical",
+      "revision_id": "revision.glossary.93c3e1dccf3e1a650b826b97",
+      "path": "entries/quality-target-product-profile/prospective-quality-characteristics-for-a-pharmaceutical-product/revision.glossary.93c3e1dccf3e1a650b826b97.json"
+    },
+    {
       "object_id": "glossary.quality.quality-management",
       "revision_id": "revision.glossary.1be2706cc72d31afa1268da3",
       "path": "entries/quality/quality-management/revision.glossary.1be2706cc72d31afa1268da3.json"
