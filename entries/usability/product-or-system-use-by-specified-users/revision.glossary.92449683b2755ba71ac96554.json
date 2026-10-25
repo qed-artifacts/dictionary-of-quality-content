@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.usability.system-use",
+  "revision_id": "revision.glossary.92449683b2755ba71ac96554",
+  "headword": "Usability",
+  "scope_label": "product or system use by specified users",
+  "definition": "Usability concerns how effectively, efficiently, and satisfactorily specified users can accomplish specified goals with a product or system in a stated context of use.",
+  "explanation": [
+    "The users, tasks, and setting therefore matter to any usability claim.",
+    "A product may perform its technical function while remaining difficult for its intended users to use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
