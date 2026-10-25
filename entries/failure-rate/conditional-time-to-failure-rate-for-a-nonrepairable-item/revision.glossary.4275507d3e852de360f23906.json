@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.failure-rate.reliability-hazard",
+  "revision_id": "revision.glossary.4275507d3e852de360f23906",
+  "headword": "Failure rate",
+  "scope_label": "conditional time-to-failure rate for a nonrepairable item",
+  "definition": "In time-to-failure reliability analysis, the failure rate at a given time describes how rapidly items still functioning then fail.",
+  "explanation": [
+    "It relates failures during a short interval to the items that had survived to its start and to the length of that interval.",
+    "The rate can change with age and operating conditions; it should not be treated as a universal constant or confused with the fraction that has failed since the start."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
