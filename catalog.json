@@ -97,6 +97,11 @@
       "path": "entries/aggregation-rule/combining-multiple-component-values-for-an-evaluation/revision.glossary.29757eb43e5745e68cb93439.json"
     },
     {
+      "object_id": "glossary.ai-quality.system-and-data",
+      "revision_id": "revision.glossary.0cc2bbb1ee3994281c657aa2",
+      "path": "entries/ai-quality/ai-enabled-systems/revision.glossary.0cc2bbb1ee3994281c657aa2.json"
+    },
+    {
       "object_id": "glossary.alignment.ai-intended-behavior",
       "revision_id": "revision.glossary.00c04bba394cc0baa74aab96",
       "path": "entries/alignment/ai-system-behavior-relative-to-human-aims-and-constraints/revision.glossary.00c04bba394cc0baa74aab96.json"
