@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.internal-validity.causal-inference",
+  "revision_id": "revision.glossary.0136f264cf4a77101a667786",
+  "headword": "Internal validity",
+  "scope_label": "warrant for causal inference within studied cases",
+  "definition": "In a study of cause and effect, internal validity concerns how well the evidence supports attributing an observed outcome to the proposed cause.",
+  "explanation": [
+    "The study must address other explanations for the observed relationship within the cases it examined.",
+    "This differs from asking whether the finding also applies to people or settings beyond the study."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
