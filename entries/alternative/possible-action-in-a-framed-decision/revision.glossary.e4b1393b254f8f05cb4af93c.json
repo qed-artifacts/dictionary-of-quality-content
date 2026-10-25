@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.alternative.decision-option",
+  "revision_id": "revision.glossary.e4b1393b254f8f05cb4af93c",
+  "headword": "Alternative",
+  "scope_label": "possible action in a framed decision",
+  "definition": "In decision making, an alternative is a possible course of action that could be chosen within a stated decision frame.",
+  "explanation": [
+    "The options considered should reflect what can actually be done and the aims of the decision.",
+    "An outcome is what may follow a choice; it is not the action available to choose."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
