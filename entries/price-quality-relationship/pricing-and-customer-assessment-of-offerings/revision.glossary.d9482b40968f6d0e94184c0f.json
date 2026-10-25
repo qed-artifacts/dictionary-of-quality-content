@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.price-quality-relationship.market-price-and-quality",
+  "revision_id": "revision.glossary.d9482b40968f6d0e94184c0f",
+  "headword": "Price-quality relationship",
+  "scope_label": "pricing and customer assessment of offerings",
+  "definition": "The price-quality relationship is the connection between an offering's price and its actual or perceived quality in a specified market.",
+  "explanation": [
+    "Buyers may treat a higher price as a quality signal, and valued features may support a premium. Price alone does not establish better performance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

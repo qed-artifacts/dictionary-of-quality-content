@@ -1987,6 +1987,11 @@
       "path": "entries/preventive-action/addressing-causes-of-a-potential-nonconformity/revision.glossary.310e7733961a96039f2c5c8a.json"
     },
     {
+      "object_id": "glossary.price-quality-relationship.market-price-and-quality",
+      "revision_id": "revision.glossary.d9482b40968f6d0e94184c0f",
+      "path": "entries/price-quality-relationship/pricing-and-customer-assessment-of-offerings/revision.glossary.d9482b40968f6d0e94184c0f.json"
+    },
+    {
       "object_id": "glossary.prioritization.relative-attention",
       "revision_id": "revision.glossary.03b82b4a3867f85651465499",
       "path": "entries/prioritization/ordering-competing-needs-or-actions-for-attention/revision.glossary.03b82b4a3867f85651465499.json"
