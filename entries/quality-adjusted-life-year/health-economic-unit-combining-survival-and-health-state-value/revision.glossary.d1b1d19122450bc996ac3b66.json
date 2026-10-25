@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-adjusted-life-year.health-economic-outcome",
+  "revision_id": "revision.glossary.d1b1d19122450bc996ac3b66",
+  "headword": "Quality-adjusted life year",
+  "scope_label": "health-economic unit combining survival and health-state value",
+  "definition": "A quality-adjusted life year (QALY) is a unit that combines time lived with a weight for health-related quality of life during that time.",
+  "explanation": [
+    "One year at a weight of 1 contributes one QALY; two years at a weight of 0.5 also contribute one.",
+    "The weights require a stated valuation method, and QALYs alone do not settle a treatment or resource-allocation decision."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
