@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.qfd-matrix-cascade.linked-planning-matrices",
+  "revision_id": "revision.glossary.21a45db3e8c11e27e76cdac2",
+  "headword": "QFD matrix cascade",
+  "scope_label": "quality function deployment planning",
+  "definition": "A QFD matrix cascade is a sequence of linked planning matrices that carries customer requirements into product, component, process, and control requirements.",
+  "explanation": [
+    "Each stage uses outputs from the previous stage to guide the next design or production decision. The first House of Quality matrix is only the beginning of this sequence."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
