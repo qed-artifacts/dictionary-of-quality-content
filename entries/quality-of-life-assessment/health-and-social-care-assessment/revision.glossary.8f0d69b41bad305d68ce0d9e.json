@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-of-life-assessment.multidimensional-appraisal",
+  "revision_id": "revision.glossary.8f0d69b41bad305d68ce0d9e",
+  "headword": "Quality of life assessment",
+  "scope_label": "health and social-care assessment",
+  "definition": "Quality of life assessment is a structured appraisal of how a person or group is doing across life domains relevant to the assessment's purpose.",
+  "explanation": [
+    "It may combine people's own reports with observations of their circumstances. The chosen domains and methods determine which aspects of life the assessment can describe."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
