@@ -472,6 +472,11 @@
       "path": "entries/external-failure-cost/cost-arising-from-defects-discovered-during-or-after-delivery/revision.glossary.2a4c8b4c2dfa7e5638b88cfa.json"
     },
     {
+      "object_id": "glossary.externality.economic-spillover",
+      "revision_id": "revision.glossary.d0c8f21b8b4a056219be21ea",
+      "path": "entries/externality/effect-on-others-outside-an-economic-decision-or-exchange/revision.glossary.d0c8f21b8b4a056219be21ea.json"
+    },
+    {
       "object_id": "glossary.factor.designed-experiment-input",
       "revision_id": "revision.glossary.59acd3c2ebecb4fa23dc34e8",
       "path": "entries/factor/input-or-condition-studied-in-a-designed-experiment/revision.glossary.59acd3c2ebecb4fa23dc34e8.json"

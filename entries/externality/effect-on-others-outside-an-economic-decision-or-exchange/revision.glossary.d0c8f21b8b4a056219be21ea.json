@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.externality.economic-spillover",
+  "revision_id": "revision.glossary.d0c8f21b8b4a056219be21ea",
+  "headword": "Externality",
+  "scope_label": "effect on others outside an economic decision or exchange",
+  "definition": "In economics, an externality is a benefit or harm from one party's activity that affects others without being fully accounted for in the decision or exchange that produced it.",
+  "explanation": [
+    "Pollution affecting neighbors is a negative externality; an activity can also confer benefits on others.",
+    "Identify the affected parties and the boundary of the decision before calling an effect external."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
