@@ -2072,6 +2072,11 @@
       "path": "entries/robustness/performance-sustained-under-specified-variation/revision.glossary.f91612381caa572e596734fa.json"
     },
     {
+      "object_id": "glossary.role.organizational-expected-function",
+      "revision_id": "revision.glossary.d71647eebd92a6e9f991ab0a",
+      "path": "entries/role/expected-function-and-responsibilities-in-an-organization/revision.glossary.d71647eebd92a6e9f991ab0a.json"
+    },
+    {
       "object_id": "glossary.rolled-throughput-yield.multistep-first-pass-success",
       "revision_id": "revision.glossary.c7fcc47033748af94b8d0489",
       "path": "entries/rolled-throughput-yield/share-or-estimated-probability-of-passing-all-process-steps-without-defects-or-rework/revision.glossary.c7fcc47033748af94b8d0489.json"
