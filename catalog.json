@@ -2482,6 +2482,11 @@
       "path": "entries/quality-requirement/quality-management/revision.glossary.a8a06df340b242937453faba.json"
     },
     {
+      "object_id": "glossary.quality-review.guideline-based-examination",
+      "revision_id": "revision.glossary.4964110e99fe121af045a860",
+      "path": "entries/quality-review/learning-and-development-content-production/revision.glossary.4964110e99fe121af045a860.json"
+    },
+    {
       "object_id": "glossary.quality-risk-management.quality-threat-response",
       "revision_id": "revision.glossary.8eb7f0b0dca97b820a67208b",
       "path": "entries/quality-risk-management/organized-handling-of-risks-to-quality/revision.glossary.8eb7f0b0dca97b820a67208b.json"

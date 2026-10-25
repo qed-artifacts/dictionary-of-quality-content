@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-review.guideline-based-examination",
+  "revision_id": "revision.glossary.4964110e99fe121af045a860",
+  "headword": "Quality review",
+  "scope_label": "learning-and-development content production",
+  "definition": "In learning and development, a quality review is a structured examination of a product or work in progress against stated quality guidelines.",
+  "explanation": [
+    "Reviewers record issues that can guide correction, and reviews can occur during development as well as before delivery. Passing a review depends on the applicable criteria, not the label alone."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
