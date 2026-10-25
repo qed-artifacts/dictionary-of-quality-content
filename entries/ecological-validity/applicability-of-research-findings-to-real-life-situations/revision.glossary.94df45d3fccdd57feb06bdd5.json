@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.ecological-validity.real-life-applicability",
+  "revision_id": "revision.glossary.94df45d3fccdd57feb06bdd5",
+  "headword": "Ecological validity",
+  "scope_label": "applicability of research findings to real-life situations",
+  "definition": "In empirical research, ecological validity concerns how well findings from a study setting apply to the real-life situations the study aims to represent.",
+  "explanation": [
+    "It draws attention to the relation between study tasks and surroundings and the corresponding activities outside the study.",
+    "Realistic conditions alone do not establish that results generalize to every population or setting."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
