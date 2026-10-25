@@ -2472,6 +2472,11 @@
       "path": "entries/scale/extent-of-implementation-or-reach/revision.glossary.09a194622bb3cc8a247f6f3a.json"
     },
     {
+      "object_id": "glossary.scatter-diagram.paired-variable-plot",
+      "revision_id": "revision.glossary.6931795169023f90555a292f",
+      "path": "entries/scatter-diagram/quality-and-process-analysis/revision.glossary.6931795169023f90555a292f.json"
+    },
+    {
       "object_id": "glossary.scope.project-plan",
       "revision_id": "revision.glossary.7cf64240f4ce3650c23611ca",
       "path": "entries/scope/boundary-of-an-approved-project-plan/revision.glossary.7cf64240f4ce3650c23611ca.json"
