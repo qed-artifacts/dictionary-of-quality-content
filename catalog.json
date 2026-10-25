@@ -2202,6 +2202,11 @@
       "path": "entries/quality-management/organizational-direction-and-operation-concerning-quality/revision.glossary.6f2edadb4219dae6e4a8f21a.json"
     },
     {
+      "object_id": "glossary.quality-maturity.organizational-practices",
+      "revision_id": "revision.glossary.fa6c8edf99f552475e2f997c",
+      "path": "entries/quality-maturity/organizational-quality-management/revision.glossary.fa6c8edf99f552475e2f997c.json"
+    },
+    {
       "object_id": "glossary.quality-measure.quality-assessment",
       "revision_id": "revision.glossary.586805af4185c67d08483974",
       "path": "entries/quality-measure/specified-quality-assessment-across-services/revision.glossary.586805af4185c67d08483974.json"
