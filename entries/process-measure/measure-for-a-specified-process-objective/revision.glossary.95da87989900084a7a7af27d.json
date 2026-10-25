@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.process-measure.process-objective",
+  "revision_id": "revision.glossary.95da87989900084a7a7af27d",
+  "headword": "Process measure",
+  "scope_label": "measure for a specified process objective",
+  "definition": "A process measure is a specified way to assess whether a process is operating or producing results in line with its objective.",
+  "explanation": [
+    "It can track an activity, an operating condition, or an output for which the process is responsible.",
+    "Its interpretation requires a defined process, objective, and criterion; a desirable organization-wide result may be too remote to guide that process."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
