@@ -1307,6 +1307,11 @@
       "path": "entries/failure-mode/specified-way-an-item-or-process-fails/revision.glossary.56fe111c7eec1c0d75a2f7b3.json"
     },
     {
+      "object_id": "glossary.failure-rate-function.time-varying-hazard",
+      "revision_id": "revision.glossary.fc2e5884a5e969e2d9aedb6f",
+      "path": "entries/failure-rate-function/instantaneous-conditional-failure-rate-over-item-age/revision.glossary.fc2e5884a5e969e2d9aedb6f.json"
+    },
+    {
       "object_id": "glossary.failure-rate.reliability-hazard",
       "revision_id": "revision.glossary.4275507d3e852de360f23906",
       "path": "entries/failure-rate/conditional-time-to-failure-rate-for-a-nonrepairable-item/revision.glossary.4275507d3e852de360f23906.json"
