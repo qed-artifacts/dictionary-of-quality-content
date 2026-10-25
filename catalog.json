@@ -1977,6 +1977,11 @@
       "path": "entries/statistical-control/process-variation-consistent-with-common-causes/revision.glossary.9dc43208d6ad611728d24aa1.json"
     },
     {
+      "object_id": "glossary.statistical-power.reject-false-null-probability",
+      "revision_id": "revision.glossary.e1a0a36cfe41db6172dfcedc",
+      "path": "entries/statistical-power/probability-a-test-rejects-the-null-under-a-specified-alternative/revision.glossary.e1a0a36cfe41db6172dfcedc.json"
+    },
+    {
       "object_id": "glossary.statistical-process-control.variation-monitoring",
       "revision_id": "revision.glossary.c25e7cd6d41d95e25e23e461",
       "path": "entries/statistical-process-control/statistical-monitoring-of-process-behavior/revision.glossary.c25e7cd6d41d95e25e23e461.json"
