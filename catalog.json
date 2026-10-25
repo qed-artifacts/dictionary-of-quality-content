@@ -2697,6 +2697,11 @@
       "path": "entries/reference-standard/measurement-standard-used-to-calibrate-other-local-standards/revision.glossary.6fb66084f50062b73dda9462.json"
     },
     {
+      "object_id": "glossary.referential-integrity.relational-database",
+      "revision_id": "revision.glossary.fa31e000160c2a608dffabf6",
+      "path": "entries/referential-integrity/relational-database/revision.glossary.fa31e000160c2a608dffabf6.json"
+    },
+    {
       "object_id": "glossary.regulatory-compliance.applicable-rules",
       "revision_id": "revision.glossary.a264262a7c43bbf7ce70b807",
       "path": "entries/regulatory-compliance/applicable-binding-rules/revision.glossary.a264262a7c43bbf7ce70b807.json"
