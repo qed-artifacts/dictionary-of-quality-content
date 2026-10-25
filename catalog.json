@@ -717,6 +717,11 @@
       "path": "entries/failure-mode-and-effects-analysis/prospective-failure-analysis/revision.glossary.c9de9ce6129c8e1f5e3da288.json"
     },
     {
+      "object_id": "glossary.failure-mode-effects-and-criticality-analysis.criticality-extension",
+      "revision_id": "revision.glossary.9c39dab115c93d8d723a28b2",
+      "path": "entries/failure-mode-effects-and-criticality-analysis/fmea-extended-with-formal-criticality-assessment/revision.glossary.9c39dab115c93d8d723a28b2.json"
+    },
+    {
       "object_id": "glossary.failure-mode.observable-way-of-failure",
       "revision_id": "revision.glossary.56fe111c7eec1c0d75a2f7b3",
       "path": "entries/failure-mode/specified-way-an-item-or-process-fails/revision.glossary.56fe111c7eec1c0d75a2f7b3.json"

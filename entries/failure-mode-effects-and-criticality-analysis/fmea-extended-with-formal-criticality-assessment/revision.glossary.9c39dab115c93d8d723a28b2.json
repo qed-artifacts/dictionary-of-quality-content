@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.failure-mode-effects-and-criticality-analysis.criticality-extension",
+  "revision_id": "revision.glossary.9c39dab115c93d8d723a28b2",
+  "headword": "Failure mode, effects, and criticality analysis",
+  "scope_label": "FMEA extended with formal criticality assessment",
+  "definition": "Failure mode, effects, and criticality analysis (FMECA) is a failure mode and effects analysis that also assesses the criticality of the identified failure modes.",
+  "explanation": [
+    "The analysis examines how an item or process could fail, what the effects would be, and which failure modes warrant priority under the chosen criticality method.",
+    "Criticality may be assessed qualitatively or calculated quantitatively; the selected method and assumptions should be stated."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
