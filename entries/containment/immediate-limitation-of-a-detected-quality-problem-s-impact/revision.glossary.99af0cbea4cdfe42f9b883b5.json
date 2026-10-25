@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.containment.immediate-impact-limitation",
+  "revision_id": "revision.glossary.99af0cbea4cdfe42f9b883b5",
+  "headword": "Containment",
+  "scope_label": "immediate limitation of a detected quality problem's impact",
+  "definition": "In quality problem response, containment is immediate action to limit the reach or impact of a detected defect or nonconformity.",
+  "explanation": [
+    "It may involve identifying affected units, segregating them, or preventing further use or delivery while the issue is assessed.",
+    "Containment protects against further effects; corrective action addresses causes so the problem is less likely to recur."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
