@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.learning-effectiveness.intended-outcomes",
+  "revision_id": "revision.glossary.ad365b0d7fef885c46b6b63d",
+  "headword": "Learning effectiveness",
+  "scope_label": "attainment of specified learning outcomes by intended learners",
+  "definition": "Learning effectiveness is how well a learning activity helps its intended learners achieve specified learning outcomes.",
+  "explanation": [
+    "The outcomes may involve knowledge, skills, behavior, or attitudes, so assessment must fit what the activity aims to develop.",
+    "Participation or satisfaction alone does not establish that the intended learning occurred."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
