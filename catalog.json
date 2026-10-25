@@ -542,6 +542,11 @@
       "path": "entries/interaction/factor-dependent-effect-in-a-designed-experiment/revision.glossary.b8137ef5c682e1eb3d7ce80e.json"
     },
     {
+      "object_id": "glossary.interest.stakeholder-concern",
+      "revision_id": "revision.glossary.5d7e91521a81149e676cb716",
+      "path": "entries/interest/stake-in-a-decision-or-outcome/revision.glossary.5d7e91521a81149e676cb716.json"
+    },
+    {
       "object_id": "glossary.internal-failure-cost.pre-delivery-nonconformity",
       "revision_id": "revision.glossary.d0edc500b7831c3c4726895e",
       "path": "entries/internal-failure-cost/cost-arising-from-defects-discovered-before-delivery/revision.glossary.d0edc500b7831c3c4726895e.json"
