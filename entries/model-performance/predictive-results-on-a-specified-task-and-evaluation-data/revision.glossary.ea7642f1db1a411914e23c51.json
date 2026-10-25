@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.model-performance.predictive-task-results",
+  "revision_id": "revision.glossary.ea7642f1db1a411914e23c51",
+  "headword": "Model performance",
+  "scope_label": "predictive results on a specified task and evaluation data",
+  "definition": "In predictive machine learning, model performance is how well a model carries out a specified prediction task under stated data and evaluation conditions.",
+  "explanation": [
+    "It is assessed with measures suited to the task, such as classification or prediction-error measures, on data reserved for evaluation.",
+    "A performance claim must name the task, measure, and testing conditions; runtime speed is a different possible sense of model performance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
