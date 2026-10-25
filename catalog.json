@@ -407,6 +407,11 @@
       "path": "entries/customer-satisfaction/customer-appraisal-of-an-offering-or-experience/revision.glossary.b1b192f3f3d899e9f4e1d2b9.json"
     },
     {
+      "object_id": "glossary.customer-value.perceived-offering-worth",
+      "revision_id": "revision.glossary.7fba5722481120b9860b1667",
+      "path": "entries/customer-value/customer-perceived-worth-of-an-offering-in-a-use-setting/revision.glossary.7fba5722481120b9860b1667.json"
+    },
+    {
       "object_id": "glossary.data-drift.machine-learning-inputs",
       "revision_id": "revision.glossary.5e1471a3ba294b0ef78ff252",
       "path": "entries/data-drift/input-feature-distribution-change-in-machine-learning-monitoring/revision.glossary.5e1471a3ba294b0ef78ff252.json"
