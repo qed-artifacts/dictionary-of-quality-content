@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.improvement.positive-process-change",
+  "revision_id": "revision.glossary.0098306174c02d28fb445276",
+  "headword": "Improvement",
+  "scope_label": "positive result of process change",
+  "definition": "In process management, improvement is a favorable change in performance in a specified respect.",
+  "explanation": [
+    "The respect and comparison point matter: a change can improve timeliness while worsening accuracy or cost.",
+    "An improvement effort is an attempt to produce that result; its completion alone does not show that performance improved."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -842,6 +842,11 @@
       "path": "entries/impact/consequential-change-attributed-to-a-program/revision.glossary.a170a4396fb2cd3677959077.json"
     },
     {
+      "object_id": "glossary.improvement.positive-process-change",
+      "revision_id": "revision.glossary.0098306174c02d28fb445276",
+      "path": "entries/improvement/positive-result-of-process-change/revision.glossary.0098306174c02d28fb445276.json"
+    },
+    {
       "object_id": "glossary.inclusion.higher-education",
       "revision_id": "revision.glossary.7f5b42ac0e2ca9efbe939668",
       "path": "entries/inclusion/access-and-meaningful-participation-in-higher-education/revision.glossary.7f5b42ac0e2ca9efbe939668.json"
