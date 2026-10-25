@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.citizen-satisfaction.public-service-appraisal",
+  "revision_id": "revision.glossary.5cb7a3fd2824e6a16dd437b6",
+  "headword": "Citizen satisfaction",
+  "scope_label": "citizens' subjective appraisal of public services",
+  "definition": "Citizen satisfaction is citizens' appraisal of a public service in a specified context.",
+  "explanation": [
+    "The appraisal can reflect the service process and outcome, expectations, and direct or indirect experience.",
+    "A satisfaction score is therefore not an unqualified measure of objective service performance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
