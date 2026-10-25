@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.reliability-block-diagram.system-success-logic",
+  "revision_id": "revision.glossary.4d1ae1c5d99e19a505ecee04",
+  "headword": "Reliability block diagram",
+  "scope_label": "logical component-success model for a system function",
+  "definition": "A reliability block diagram is a model showing which components must function, alone or in alternative paths, for a specified system function to succeed.",
+  "explanation": [
+    "Each block represents a needed function or component state; a complete path of functioning blocks represents system success.",
+    "The diagram expresses functional dependence, not necessarily physical wiring, and reliability calculations require stated assumptions about component behavior."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
