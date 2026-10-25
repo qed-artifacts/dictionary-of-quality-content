@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.audit.management-system",
+  "revision_id": "revision.glossary.9804ad18c63a0fa9ee4a9e15",
+  "headword": "Audit",
+  "scope_label": "management-system audit",
+  "definition": "In management-system work, an audit is a systematic, independent, and documented examination of evidence against stated criteria to determine how far those criteria are met.",
+  "explanation": [
+    "The audit's scope identifies the activities, locations, and period covered.",
+    "A finding depends on the evidence and criteria examined; an audit is not a guarantee that every instance or future result will conform."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
