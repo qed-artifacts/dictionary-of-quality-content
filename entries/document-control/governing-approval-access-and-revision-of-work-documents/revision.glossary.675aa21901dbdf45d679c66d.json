@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.document-control.governed-work-documents",
+  "revision_id": "revision.glossary.675aa21901dbdf45d679c66d",
+  "headword": "Document control",
+  "scope_label": "governing approval, access and revision of work documents",
+  "definition": "Document control governs how work documents are approved, made available, revised, and withdrawn.",
+  "explanation": [
+    "It lets people identify the version and status of a document and use the appropriate one for their work.",
+    "Keeping a file in storage alone does not establish that its content is current, approved, or accessible to the right people."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
