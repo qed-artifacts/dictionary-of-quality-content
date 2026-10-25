@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.analyzability.software-maintenance-diagnosis",
+  "revision_id": "revision.glossary.89a389c4f91b30b09eff29c3",
+  "headword": "Analyzability",
+  "scope_label": "software maintainability subcharacteristic in ISO/IEC 25010:2011",
+  "definition": "In software quality, analyzability is how effectively and efficiently maintainers can diagnose deficiencies, locate likely causes, and assess the impact of a proposed change.",
+  "explanation": [
+    "Clear structure, diagnostic information, and documentation can help people identify the parts that need modification.",
+    "Finding what should change is distinct from making the change safely; the latter also involves modifiability."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
