@@ -102,6 +102,11 @@
       "path": "entries/ai-quality/ai-enabled-systems/revision.glossary.0cc2bbb1ee3994281c657aa2.json"
     },
     {
+      "object_id": "glossary.algorithmic-audit.clinical-ai-fairness-check",
+      "revision_id": "revision.glossary.7c28ccf97849929a7bed5701",
+      "path": "entries/algorithmic-audit/clinical-ai-fairness-assessment/revision.glossary.7c28ccf97849929a7bed5701.json"
+    },
+    {
       "object_id": "glossary.alignment.ai-intended-behavior",
       "revision_id": "revision.glossary.00c04bba394cc0baa74aab96",
       "path": "entries/alignment/ai-system-behavior-relative-to-human-aims-and-constraints/revision.glossary.00c04bba394cc0baa74aab96.json"
