@@ -567,6 +567,11 @@
       "path": "entries/cp/potential-process-capability-index-using-within-process-variation/revision.glossary.143487ce6a5adf638bd1dc58.json"
     },
     {
+      "object_id": "glossary.cpk.centered-process-capability",
+      "revision_id": "revision.glossary.10034b6b74c2121b1f4b8798",
+      "path": "entries/cpk/process-capability-index-accounting-for-process-mean-and-specification-limits/revision.glossary.10034b6b74c2121b1f4b8798.json"
+    },
+    {
       "object_id": "glossary.credibility.argument-evidence-believability",
       "revision_id": "revision.glossary.eb17acbc4bff64b9743b4459",
       "path": "entries/credibility/believability-of-a-claim-or-source-in-argument-evaluation/revision.glossary.eb17acbc4bff64b9743b4459.json"

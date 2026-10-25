@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.cpk.centered-process-capability",
+  "revision_id": "revision.glossary.10034b6b74c2121b1f4b8798",
+  "headword": "Cpk",
+  "scope_label": "process capability index accounting for process mean and specification limits",
+  "definition": "Cpk is a process capability index that compares within-process spread with the nearer specification limit, taking the process mean into account.",
+  "explanation": [
+    "It reflects both variation and how the process is positioned between the limits; when a two-sided process is centered, Cpk equals Cp.",
+    "A stable process and suitable distributional model are needed before using it to predict future conformance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
