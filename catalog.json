@@ -732,6 +732,11 @@
       "path": "entries/defect/nonconformity-related-to-intended-or-specified-use/revision.glossary.d8c7490ad4d66fea7f15f7c8.json"
     },
     {
+      "object_id": "glossary.defects-per-million-opportunities.defect-frequency",
+      "revision_id": "revision.glossary.2368c5f3787fe9642fac1b3a",
+      "path": "entries/defects-per-million-opportunities/defect-frequency-normalized-by-defined-error-opportunities/revision.glossary.2368c5f3787fe9642fac1b3a.json"
+    },
+    {
       "object_id": "glossary.definition.explanation-of-term-meaning",
       "revision_id": "revision.glossary.d043f10f6aa8c9465ecf363a",
       "path": "entries/definition/reader-facing-account-of-a-term-s-meaning-in-a-stated-sense/revision.glossary.d043f10f6aa8c9465ecf363a.json"

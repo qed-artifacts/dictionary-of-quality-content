@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.defects-per-million-opportunities.defect-frequency",
+  "revision_id": "revision.glossary.2368c5f3787fe9642fac1b3a",
+  "headword": "Defects per million opportunities",
+  "scope_label": "defect frequency normalized by defined error opportunities",
+  "definition": "Defects per million opportunities is the number of observed defects divided by the total defined opportunities for a defect, then multiplied by one million.",
+  "explanation": [
+    "When each inspected unit has the same number of opportunities, the denominator is units inspected times opportunities per unit.",
+    "Counting opportunities consistently matters: this rate counts defects, so one unit may contribute more than one."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
