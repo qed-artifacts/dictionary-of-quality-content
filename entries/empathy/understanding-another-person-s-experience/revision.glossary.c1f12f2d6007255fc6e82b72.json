@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.empathy.understanding-anothers-experience",
+  "revision_id": "revision.glossary.c1f12f2d6007255fc6e82b72",
+  "headword": "Empathy",
+  "scope_label": "understanding another person's experience",
+  "definition": "Empathy is the capacity to understand another person's perspective or feelings by imaginatively considering their experience.",
+  "explanation": [
+    "It helps someone respond to what matters to the other person rather than assuming their own experience is the same.",
+    "Understanding another person's feelings does not require agreeing with every judgment or sharing the same emotion."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
