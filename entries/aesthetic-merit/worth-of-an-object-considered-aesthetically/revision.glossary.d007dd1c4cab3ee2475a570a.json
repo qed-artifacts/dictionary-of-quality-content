@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.aesthetic-merit.aesthetic-worth",
+  "revision_id": "revision.glossary.d007dd1c4cab3ee2475a570a",
+  "headword": "Aesthetic merit",
+  "scope_label": "worth of an object considered aesthetically",
+  "definition": "Aesthetic merit is the worth attributed to a work, scene, or other object on aesthetic grounds.",
+  "explanation": [
+    "A claim of merit should say what features or experience support the appraisal, rather than merely name a descriptive property.",
+    "Judgments may differ even among informed appreciators, so disagreement calls for reasons instead of an assumed universal score."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
