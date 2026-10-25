@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.value-realization.project-outcome-benefits",
+  "revision_id": "revision.glossary.1cd0084df7a53a21b415bce4",
+  "headword": "Value realization",
+  "scope_label": "project management",
+  "definition": "In project management, value realization occurs when project outputs lead to outcomes that stakeholders find beneficial.",
+  "explanation": [
+    "Delivering the specified output alone does not show that the intended benefit was achieved."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

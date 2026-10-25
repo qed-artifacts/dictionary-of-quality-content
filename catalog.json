@@ -3012,6 +3012,11 @@
       "path": "entries/value-proposition/customer-facing-statement-of-an-offering-s-benefits/revision.glossary.2f8314114302ce51f4c5a07d.json"
     },
     {
+      "object_id": "glossary.value-realization.project-outcome-benefits",
+      "revision_id": "revision.glossary.1cd0084df7a53a21b415bce4",
+      "path": "entries/value-realization/project-management/revision.glossary.1cd0084df7a53a21b415bce4.json"
+    },
+    {
       "object_id": "glossary.value-stream-mapping.flow-visualization",
       "revision_id": "revision.glossary.283fef7e03313729c5d90a5f",
       "path": "entries/value-stream-mapping/visual-analysis-of-a-defined-product-or-service-flow/revision.glossary.283fef7e03313729c5d90a5f.json"
