@@ -1832,6 +1832,11 @@
       "path": "entries/rating/assigned-level-on-an-itemized-assessment-scale/revision.glossary.6715871bf0ab55c77685524b.json"
     },
     {
+      "object_id": "glossary.recoverability.software-restoration-after-failure",
+      "revision_id": "revision.glossary.4678c70c688672d6ed6c8ddf",
+      "path": "entries/recoverability/software-and-system-restoration-after-interruption-or-failure/revision.glossary.4678c70c688672d6ed6c8ddf.json"
+    },
+    {
       "object_id": "glossary.recovery.service-failure",
       "revision_id": "revision.glossary.2b0a50d872e2bc1909347449",
       "path": "entries/recovery/organizational-response-to-a-service-failure/revision.glossary.2b0a50d872e2bc1909347449.json"
