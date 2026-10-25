@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.risk-mitigation.likelihood-or-impact-reduction",
+  "revision_id": "revision.glossary.baff1f4d8fe7892c2cc8807d",
+  "headword": "Risk mitigation",
+  "scope_label": "organizational downside-risk treatment",
+  "definition": "Risk mitigation is action to reduce the likelihood or impact of an unwanted risk while continuing the activity that creates exposure to it.",
+  "explanation": [
+    "The result should be assessed as remaining risk; adopting a control does not by itself show that the risk is acceptable."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
