@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.threat.reliability-security-risk-source",
+  "revision_id": "revision.glossary.0bf056ad87ccdd15a72af179",
+  "headword": "Threat",
+  "scope_label": "potential risk source in reliability and security",
+  "definition": "In reliability and security analysis, a threat is a potential source of adverse effects on a system or its objectives.",
+  "explanation": [
+    "A threat is identified before its possible consequence occurs.",
+    "Name the source and the outcome it could cause; calling an already realized loss a threat obscures that distinction."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
