@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.privacy.personal-information-appropriate-protection",
+  "revision_id": "revision.glossary.12172719f481d84f0daacf3a",
+  "headword": "Privacy",
+  "scope_label": "personal information in digital systems",
+  "definition": "In digital information systems, privacy concerns appropriate protection against unwanted collection, use, disclosure, or inference of information about people.",
+  "explanation": [
+    "What is appropriate depends on the information, its purpose, the people affected, and the setting.",
+    "Security safeguards can help, but even securely held data may be used in ways that violate reasonable privacy expectations."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
