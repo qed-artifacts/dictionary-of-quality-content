@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.social-value.construction-procurement",
+  "revision_id": "revision.glossary.9b2edd58cd57a71ce3fdde05",
+  "headword": "Social value",
+  "scope_label": "benefit to people or communities in construction and procurement",
+  "definition": "In construction and public procurement, social value is a benefit to people or communities arising from a project or purchasing decision beyond its immediate deliverable.",
+  "explanation": [
+    "Its content depends on whose benefit counts and the setting; employment and training opportunities may be relevant.",
+    "A project can seek social value before a benefit occurs, so stated aims and realized outcomes should be distinguished."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
