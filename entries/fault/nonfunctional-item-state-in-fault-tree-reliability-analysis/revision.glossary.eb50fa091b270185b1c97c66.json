@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.fault.item-unable-to-perform-function",
+  "revision_id": "revision.glossary.eb50fa091b270185b1c97c66",
+  "headword": "Fault",
+  "scope_label": "nonfunctional item state in fault-tree reliability analysis",
+  "definition": "In fault-tree reliability analysis, a fault is a state in which an item cannot perform a specified function.",
+  "explanation": [
+    "A fault may result from a failure event or from a systematic problem introduced in design, production, or operation.",
+    "The term identifies the nonfunctional state; a failure event describes the transition into that state."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
