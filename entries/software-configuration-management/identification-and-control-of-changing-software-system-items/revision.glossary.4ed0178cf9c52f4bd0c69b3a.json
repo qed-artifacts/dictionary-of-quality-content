@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.software-configuration-management.controlled-system-evolution",
+  "revision_id": "revision.glossary.4ed0178cf9c52f4bd0c69b3a",
+  "headword": "Software configuration management",
+  "scope_label": "identification and control of changing software-system items",
+  "definition": "Software configuration management is the organized identification, recording, and control of software items, versions, and configurations as a system changes.",
+  "explanation": [
+    "It lets a team trace approved changes and reconstruct which components made up a particular system state.",
+    "Version control is one part of this work; configuration management also coordinates item selection, builds, and change requests."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
