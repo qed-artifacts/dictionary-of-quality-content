@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.standardization.common-rules-and-procedures",
+  "revision_id": "revision.glossary.fb481c986271294653a51245",
+  "headword": "Standardization",
+  "scope_label": "common procedures and specifications for repeated use",
+  "definition": "Standardization is the development or use of common specifications, rules, or procedures for repeated activities or products.",
+  "explanation": [
+    "It can make practices more consistent and results more comparable or compatible.",
+    "A standard is a reference produced or applied through this process; standardization does not require every resulting object to be identical."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
