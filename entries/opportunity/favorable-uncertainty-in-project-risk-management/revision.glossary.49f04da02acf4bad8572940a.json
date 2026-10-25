@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.opportunity.favorable-project-risk",
+  "revision_id": "revision.glossary.49f04da02acf4bad8572940a",
+  "headword": "Opportunity",
+  "scope_label": "favorable uncertainty in project-risk management",
+  "definition": "In project-risk management, an opportunity is an uncertain event or condition that, if it occurs, could help achieve an objective.",
+  "explanation": [
+    "It is the favorable counterpart to a threat: its possible effect on objectives makes it relevant to risk work.",
+    "A possible benefit calls for assessment and a response, not automatic pursuit."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
