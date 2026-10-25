@@ -1412,6 +1412,11 @@
       "path": "entries/life-cycle/pharmaceutical-product-life-cycle/revision.glossary.955e794da08c9406e8765360.json"
     },
     {
+      "object_id": "glossary.lifecycle-stage.phase-in-object-life",
+      "revision_id": "revision.glossary.08c2fa16d29463bca9ceaf2b",
+      "path": "entries/lifecycle-stage/object-or-information-lifecycle/revision.glossary.08c2fa16d29463bca9ceaf2b.json"
+    },
+    {
       "object_id": "glossary.likelihood.risk-event-occurrence",
       "revision_id": "revision.glossary.1ca5b90807acbedf30285c19",
       "path": "entries/likelihood/risk-assessment-of-a-specified-event/revision.glossary.1ca5b90807acbedf30285c19.json"
