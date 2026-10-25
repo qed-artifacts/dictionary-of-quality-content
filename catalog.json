@@ -812,6 +812,11 @@
       "path": "entries/quality-characteristic/quality-management/revision.glossary.004af21739048327f19558a6.json"
     },
     {
+      "object_id": "glossary.quality-claim.quality-management",
+      "revision_id": "revision.glossary.242e1030a18f0e8eed32d28e",
+      "path": "entries/quality-claim/assertion-about-an-object-s-quality/revision.glossary.242e1030a18f0e8eed32d28e.json"
+    },
+    {
       "object_id": "glossary.quality-control.quality-management",
       "revision_id": "revision.glossary.dadd877959fe7ace88063983",
       "path": "entries/quality-control/operational-fulfillment-of-quality-requirements/revision.glossary.dadd877959fe7ace88063983.json"

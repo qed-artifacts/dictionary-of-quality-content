@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-claim.quality-management",
+  "revision_id": "revision.glossary.242e1030a18f0e8eed32d28e",
+  "headword": "Quality claim",
+  "scope_label": "assertion about an object's quality",
+  "definition": "A quality claim is an assertion about how well a specified object satisfies a relevant quality requirement or criterion.",
+  "explanation": [
+    "A useful claim names the object, the aspect being judged, the basis for judgment, and the evidence that supports it.",
+    "A measured value alone is not a complete quality claim until it is related to a requirement or evaluative criterion."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
