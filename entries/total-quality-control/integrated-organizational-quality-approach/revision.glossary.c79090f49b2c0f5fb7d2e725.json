@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.total-quality-control.integrated-organization-quality",
+  "revision_id": "revision.glossary.c79090f49b2c0f5fb7d2e725",
+  "headword": "Total quality control",
+  "scope_label": "integrated organizational quality approach",
+  "definition": "Total quality control (TQC) is an organization-wide approach that brings quality development, maintenance, and improvement together across functions.",
+  "explanation": [
+    "It treats quality as a coordinated responsibility throughout the organization rather than only a final inspection task.",
+    "The term names a management approach, not a single inspection method or numerical control limit."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

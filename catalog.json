@@ -1952,6 +1952,11 @@
       "path": "entries/top-event/specified-unwanted-outcome-in-fault-tree-analysis/revision.glossary.b5e38110737042b070c7afb5.json"
     },
     {
+      "object_id": "glossary.total-quality-control.integrated-organization-quality",
+      "revision_id": "revision.glossary.c79090f49b2c0f5fb7d2e725",
+      "path": "entries/total-quality-control/integrated-organizational-quality-approach/revision.glossary.c79090f49b2c0f5fb7d2e725.json"
+    },
+    {
       "object_id": "glossary.total-quality-management.organizational-approach",
       "revision_id": "revision.glossary.89b2af8b628ac8207b54e3ee",
       "path": "entries/total-quality-management/organization-wide-quality-management-approach/revision.glossary.89b2af8b628ac8207b54e3ee.json"
