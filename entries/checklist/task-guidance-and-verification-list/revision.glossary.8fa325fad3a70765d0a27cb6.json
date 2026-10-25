@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.checklist.task-items",
+  "revision_id": "revision.glossary.8fa325fad3a70765d0a27cb6",
+  "headword": "Checklist",
+  "scope_label": "task guidance and verification list",
+  "definition": "A checklist is an organized list of items to consider, perform, or verify for a defined task.",
+  "explanation": [
+    "It can prompt actions and record responses such as yes, no, or not applicable.",
+    "Completing it does not by itself prove that a process conforms; observations and records may still be needed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
