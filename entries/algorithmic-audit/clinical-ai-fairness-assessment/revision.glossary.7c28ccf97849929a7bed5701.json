@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.algorithmic-audit.clinical-ai-fairness-check",
+  "revision_id": "revision.glossary.7c28ccf97849929a7bed5701",
+  "headword": "Algorithmic audit",
+  "scope_label": "clinical AI fairness assessment",
+  "definition": "In clinical AI, an algorithmic audit is a structured examination of a model and its supporting data against stated criteria for fair performance.",
+  "explanation": [
+    "It can compare results across patient groups and look for biases in training data or outputs; favorable average accuracy does not settle those questions."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
