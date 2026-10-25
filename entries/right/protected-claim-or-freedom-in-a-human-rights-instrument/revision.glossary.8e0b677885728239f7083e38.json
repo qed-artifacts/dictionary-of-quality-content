@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.right.human-rights-instrument",
+  "revision_id": "revision.glossary.8e0b677885728239f7083e38",
+  "headword": "Right",
+  "scope_label": "protected claim or freedom in a human-rights instrument",
+  "definition": "In a human-rights instrument, a right is a protected claim or freedom held by a person under that instrument.",
+  "explanation": [
+    "To understand a particular right, identify who holds it, what it protects, the duties it creates, and any lawful limits.",
+    "A person's preference alone does not establish a legal right."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
