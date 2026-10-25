@@ -1187,6 +1187,11 @@
       "path": "entries/reliability/test-score-consistency-and-engineered-item-performance/revision.glossary.4ee64845069e84c0f36eb1c3.json"
     },
     {
+      "object_id": "glossary.repeatability.measurement-conditions",
+      "revision_id": "revision.glossary.d523ae5552735c5abba0aa86",
+      "path": "entries/repeatability/precision-of-repeated-measurement-under-repeatability-conditions/revision.glossary.d523ae5552735c5abba0aa86.json"
+    },
+    {
       "object_id": "glossary.reproducibility.measurement",
       "revision_id": "revision.glossary.5ab47db804b2e13cbbe8398c",
       "path": "entries/reproducibility/agreement-of-measurement-results-under-changed-conditions/revision.glossary.5ab47db804b2e13cbbe8398c.json"
