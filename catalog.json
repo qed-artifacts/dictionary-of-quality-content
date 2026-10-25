@@ -3037,6 +3037,11 @@
       "path": "entries/special-cause-variation/nonroutine-variation-beyond-the-established-process-pattern/revision.glossary.27c008eda48cb03389d4174b.json"
     },
     {
+      "object_id": "glossary.special-cause.assignable-process-variation",
+      "revision_id": "revision.glossary.e1ed838564e60a992e3f87c8",
+      "path": "entries/special-cause/statistical-process-control/revision.glossary.e1ed838564e60a992e3f87c8.json"
+    },
+    {
       "object_id": "glossary.specification-limit.acceptability-boundary",
       "revision_id": "revision.glossary.1ae87076896d791dd209f8e7",
       "path": "entries/specification-limit/required-boundary-for-a-quality-characteristic/revision.glossary.1ae87076896d791dd209f8e7.json"
