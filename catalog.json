@@ -897,6 +897,11 @@
       "path": "entries/performance/actual-functioning-or-results-under-specified-conditions/revision.glossary.40073bdfa5a2213cbdb9d263.json"
     },
     {
+      "object_id": "glossary.pharmaceutical-quality-system.ich-q10",
+      "revision_id": "revision.glossary.4b536af3c576c9e13f62b1de",
+      "path": "entries/pharmaceutical-quality-system/ich-q10-model-for-pharmaceutical-quality-management/revision.glossary.4b536af3c576c9e13f62b1de.json"
+    },
+    {
       "object_id": "glossary.precision.measurement",
       "revision_id": "revision.glossary.7a33b289c3fe7cdf1a838d40",
       "path": "entries/precision/agreement-among-repeated-measurement-results/revision.glossary.7a33b289c3fe7cdf1a838d40.json"
