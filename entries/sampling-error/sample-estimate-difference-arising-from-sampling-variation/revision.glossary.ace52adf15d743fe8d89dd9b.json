@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.sampling-error.estimate-population-difference",
+  "revision_id": "revision.glossary.ace52adf15d743fe8d89dd9b",
+  "headword": "Sampling error",
+  "scope_label": "sample-estimate difference arising from sampling variation",
+  "definition": "In estimation, sampling error is the difference between a value calculated from a sample and the corresponding value for the full population that arises because only part of the population was observed.",
+  "explanation": [
+    "Different well-drawn samples can produce different estimates even when measurements and calculations are correct.",
+    "This is sampling variation, not a mistake in collecting or entering the data; a standard error describes how an estimator varies across samples."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
