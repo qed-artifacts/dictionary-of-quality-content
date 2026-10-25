@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.peer-review.academic-evaluation",
+  "revision_id": "revision.glossary.aeb712b57aba7b9dc4d2d51c",
+  "headword": "Peer review",
+  "scope_label": "academic evaluation by knowledgeable peers",
+  "definition": "In academic work, peer review is an appraisal of a submission or proposal by people with relevant knowledge in its field.",
+  "explanation": [
+    "It is used, for example, in journal publication and research-grant decisions, where reviewers assess the work against pertinent criteria.",
+    "Reviewers may differ in which criteria they emphasize and how they combine them; review itself is not a guarantee that the work is sound."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
