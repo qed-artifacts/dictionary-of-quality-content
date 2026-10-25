@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.variation.process-output",
+  "revision_id": "revision.glossary.d19e1b1ad236f42ecba82c98",
+  "headword": "Variation",
+  "scope_label": "differences among process outputs or observations",
+  "definition": "In a process, variation consists of differences in a characteristic or output across units, conditions, or times.",
+  "explanation": [
+    "Some variation arises from recurring features of the process; other variation has a specific, unusual cause.",
+    "Variation alone does not say whether an output meets a requirement; that judgment needs a stated criterion."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

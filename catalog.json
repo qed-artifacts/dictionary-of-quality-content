@@ -1442,6 +1442,11 @@
       "path": "entries/variance/statistical-dispersion-around-a-mean/revision.glossary.892cafc7f8237fe4183b6854.json"
     },
     {
+      "object_id": "glossary.variation.process-output",
+      "revision_id": "revision.glossary.d19e1b1ad236f42ecba82c98",
+      "path": "entries/variation/differences-among-process-outputs-or-observations/revision.glossary.d19e1b1ad236f42ecba82c98.json"
+    },
+    {
       "object_id": "glossary.verification.requirement-fulfillment",
       "revision_id": "revision.glossary.f4256935a998618672e280b0",
       "path": "entries/verification/evidence-based-confirmation-of-specified-requirements/revision.glossary.f4256935a998618672e280b0.json"
