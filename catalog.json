@@ -137,6 +137,11 @@
       "path": "entries/attribute/descriptive-property-of-an-object/revision.glossary.1dac55a96f4c671e6612e196.json"
     },
     {
+      "object_id": "glossary.audio-quality.voice-communication",
+      "revision_id": "revision.glossary.aa8c99bded46ddb00ba7e3c7",
+      "path": "entries/audio-quality/voice-communication-and-videotelephony/revision.glossary.aa8c99bded46ddb00ba7e3c7.json"
+    },
+    {
       "object_id": "glossary.audit-criteria.management-system-reference",
       "revision_id": "revision.glossary.7bda70205361a766d7255fb5",
       "path": "entries/audit-criteria/requirements-used-as-a-comparison-basis-in-management-system-auditing/revision.glossary.7bda70205361a766d7255fb5.json"
