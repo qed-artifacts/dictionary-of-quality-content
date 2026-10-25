@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.technical-debt.software-future-burden",
+  "revision_id": "revision.glossary.70959c32539d210c4bc73e71",
+  "headword": "Technical debt",
+  "scope_label": "software engineering",
+  "definition": "Technical debt is future work or risk created when a software design or implementation choice makes a system harder to change, maintain, or operate.",
+  "explanation": [
+    "It may result from a deliberate shortcut or an overlooked consequence; the debt metaphor describes later burden, not a literal financial balance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
