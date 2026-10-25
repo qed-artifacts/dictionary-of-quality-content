@@ -332,6 +332,11 @@
       "path": "entries/change-control/governed-change-to-a-controlled-product-process-or-system/revision.glossary.2dde3fb5c128f8fc2a07eb08.json"
     },
     {
+      "object_id": "glossary.change-management.organizational-transition",
+      "revision_id": "revision.glossary.563744c58f129e34fd6fbf55",
+      "path": "entries/change-management/organizational-transition-in-quality-improvement/revision.glossary.563744c58f129e34fd6fbf55.json"
+    },
+    {
       "object_id": "glossary.change-request.controlled-change-proposal",
       "revision_id": "revision.glossary.d97146e30f155a9a33ba1917",
       "path": "entries/change-request/proposal-initiating-formal-change-control/revision.glossary.d97146e30f155a9a33ba1917.json"
