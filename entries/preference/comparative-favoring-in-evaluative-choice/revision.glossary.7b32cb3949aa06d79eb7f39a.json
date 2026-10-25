@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.preference.comparative-favoring",
+  "revision_id": "revision.glossary.7b32cb3949aa06d79eb7f39a",
+  "headword": "Preference",
+  "scope_label": "comparative favoring in evaluative choice",
+  "definition": "A preference is a person's comparative inclination toward one option or state rather than another.",
+  "explanation": [
+    "It can change with the alternatives, information, purpose, and setting.",
+    "A preference identifies what is favored; it does not by itself show that the favored option meets a requirement."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
