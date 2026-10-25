@@ -2137,6 +2137,11 @@
       "path": "entries/type-i-error/incorrect-rejection-of-a-true-null-hypothesis/revision.glossary.ffc24be203aef37b53c4a66f.json"
     },
     {
+      "object_id": "glossary.type-ii-error.fail-reject-false-null",
+      "revision_id": "revision.glossary.655400030e45570d75b8c68e",
+      "path": "entries/type-ii-error/failure-to-reject-a-false-null-hypothesis/revision.glossary.655400030e45570d75b8c68e.json"
+    },
+    {
       "object_id": "glossary.uncertainty.limits-of-knowledge",
       "revision_id": "revision.glossary.2f07ef86252d103df9dec618",
       "path": "entries/uncertainty/limits-on-knowledge-or-prediction/revision.glossary.2f07ef86252d103df9dec618.json"
