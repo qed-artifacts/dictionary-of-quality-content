@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.kaizen.participatory-continuous-improvement",
+  "revision_id": "revision.glossary.299ebbf078f586b299a97d19",
+  "headword": "Kaizen",
+  "scope_label": "participatory continual improvement in quality management",
+  "definition": "Kaizen is a participatory practice of making continuing improvements to work.",
+  "explanation": [
+    "The word conveys change for the better, with people involved in the work contributing to improvements in quality and safety.",
+    "A short team-based kaizen event is one possible activity, not the whole continuing practice."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -787,6 +787,11 @@
       "path": "entries/judgment/conclusion-drawn-from-information/revision.glossary.dcd4d62dbe787344eb6ebc76.json"
     },
     {
+      "object_id": "glossary.kaizen.participatory-continuous-improvement",
+      "revision_id": "revision.glossary.299ebbf078f586b299a97d19",
+      "path": "entries/kaizen/participatory-continual-improvement-in-quality-management/revision.glossary.299ebbf078f586b299a97d19.json"
+    },
+    {
       "object_id": "glossary.lead-time.elapsed-process-duration",
       "revision_id": "revision.glossary.b5f5b27620f727168a5140c4",
       "path": "entries/lead-time/elapsed-time-across-a-defined-process-or-delivery-boundary/revision.glossary.b5f5b27620f727168a5140c4.json"
