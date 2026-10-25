@@ -1252,6 +1252,11 @@
       "path": "entries/measurement-error/metrological-difference-between-result-and-reference-value/revision.glossary.75894b34696c687165345256.json"
     },
     {
+      "object_id": "glossary.measurement-invariance.cross-group-score-comparability",
+      "revision_id": "revision.glossary.b3b72a43ab6d58b339d0d725",
+      "path": "entries/measurement-invariance/psychometric-comparability-across-linguistic-or-cultural-groups/revision.glossary.b3b72a43ab6d58b339d0d725.json"
+    },
+    {
       "object_id": "glossary.measurement-model.metrology-quantities",
       "revision_id": "revision.glossary.7f827d1339b57a462014bea2",
       "path": "entries/measurement-model/mathematical-relation-among-quantities-in-metrology/revision.glossary.7f827d1339b57a462014bea2.json"
