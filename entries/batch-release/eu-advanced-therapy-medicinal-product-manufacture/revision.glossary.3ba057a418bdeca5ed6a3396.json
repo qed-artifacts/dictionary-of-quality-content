@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.batch-release.eu-atmp-gmp-disposition",
+  "revision_id": "revision.glossary.3ba057a418bdeca5ed6a3396",
+  "headword": "Batch release",
+  "scope_label": "EU advanced-therapy medicinal product manufacture",
+  "definition": "For an advanced-therapy medicinal product under EU GMP, batch release is the controlled step that permits a specified batch to be supplied or used after the required review and certification.",
+  "explanation": [
+    "The review covers relevant manufacturing records, tests, deviations, and applicable authorization requirements before a qualified person certifies the batch.",
+    "Certification and assigning release status are distinct steps; a finished batch remains under control until the release step is completed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
