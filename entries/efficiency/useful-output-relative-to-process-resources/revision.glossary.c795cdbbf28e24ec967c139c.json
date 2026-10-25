@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.efficiency.useful-output-resource-relation",
+  "revision_id": "revision.glossary.c795cdbbf28e24ec967c139c",
+  "headword": "Efficiency",
+  "scope_label": "useful output relative to process resources",
+  "definition": "In process evaluation, efficiency is the relationship between useful output and the resources used to produce it.",
+  "explanation": [
+    "A comparison should specify the output and resources at issue, such as time, labor, energy, or money.",
+    "A process can use resources efficiently yet produce the wrong or an inadequate result; effectiveness and quality need separate judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
