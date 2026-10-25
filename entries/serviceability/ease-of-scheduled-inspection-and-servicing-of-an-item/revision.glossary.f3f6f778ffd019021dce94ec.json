@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.serviceability.ease-of-routine-servicing",
+  "revision_id": "revision.glossary.f3f6f778ffd019021dce94ec",
+  "headword": "Serviceability",
+  "scope_label": "ease of scheduled inspection and servicing of an item",
+  "definition": "In equipment maintenance, serviceability is the ease with which an item can undergo scheduled inspection and servicing.",
+  "explanation": [
+    "Accessible inspection points and clear servicing procedures can improve serviceability.",
+    "This sense concerns planned upkeep; repairability concerns restoring an item after failure."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
