@@ -277,6 +277,11 @@
       "path": "entries/condition/circumstance-or-prerequisite-affecting-the-applicability-of-a-claim-or-result/revision.glossary.f6c6911ddd72beaf35831cd6.json"
     },
     {
+      "object_id": "glossary.confidence-interval.repeated-sampling-coverage",
+      "revision_id": "revision.glossary.c5d2cbe520d990b4a168ca97",
+      "path": "entries/confidence-interval/frequentist-interval-estimation-of-a-population-parameter/revision.glossary.c5d2cbe520d990b4a168ca97.json"
+    },
+    {
       "object_id": "glossary.confidence.evidence-appraisal",
       "revision_id": "revision.glossary.a0e823e94981195c02abe3e7",
       "path": "entries/confidence/strength-of-trust-in-an-evidence-based-estimate-or-conclusion/revision.glossary.a0e823e94981195c02abe3e7.json"
