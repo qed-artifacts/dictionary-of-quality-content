@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.selective-reporting.result-dependent-omission",
+  "revision_id": "revision.glossary.7bc5116908c7677c7236d114",
+  "headword": "Selective reporting",
+  "scope_label": "empirical study results",
+  "definition": "Selective reporting occurs when some study outcomes or analyses are reported and others are omitted in a way that depends on the nature or direction of the results.",
+  "explanation": [
+    "It can distort the evidence available to a review; an outcome never measured is different from a measured result that is left unreported."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
