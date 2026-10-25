@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.public-interest.journalism",
+  "revision_id": "revision.glossary.f00295433905e3979d84db8a",
+  "headword": "Public interest",
+  "scope_label": "journalistic justification involving shared civic concerns",
+  "definition": "In journalism, the public interest is the benefit to a community from information that helps people understand and judge matters affecting their shared life.",
+  "explanation": [
+    "It can justify investigating or publishing a matter, but the claim should identify whose interests are served and how.",
+    "Audience curiosity or likely popularity alone does not establish that a story serves the public interest."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
