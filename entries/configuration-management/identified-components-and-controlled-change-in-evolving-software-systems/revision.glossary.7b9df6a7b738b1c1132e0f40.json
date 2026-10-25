@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.configuration-management.software-system",
+  "revision_id": "revision.glossary.7b9df6a7b738b1c1132e0f40",
+  "headword": "Configuration management",
+  "scope_label": "identified components and controlled change in evolving software systems",
+  "definition": "In software engineering, configuration management identifies a system's components and controls changes to them so its versions and current state remain traceable.",
+  "explanation": [
+    "It uses identified items, baselines, version records, and change decisions to show what belongs in a particular configuration.",
+    "Version control is one part of the work; it does not alone establish which combination was approved, built, or released."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

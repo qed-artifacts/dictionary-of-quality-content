@@ -242,6 +242,11 @@
       "path": "entries/confidence/strength-of-trust-in-an-evidence-based-estimate-or-conclusion/revision.glossary.a0e823e94981195c02abe3e7.json"
     },
     {
+      "object_id": "glossary.configuration-management.software-system",
+      "revision_id": "revision.glossary.7b9df6a7b738b1c1132e0f40",
+      "path": "entries/configuration-management/identified-components-and-controlled-change-in-evolving-software-systems/revision.glossary.7b9df6a7b738b1c1132e0f40.json"
+    },
+    {
       "object_id": "glossary.conformance-quality.design-match",
       "revision_id": "revision.glossary.6ef5a63c41a2b28587d2091c",
       "path": "entries/conformance-quality/realized-product-or-service-against-design-requirements/revision.glossary.6ef5a63c41a2b28587d2091c.json"
