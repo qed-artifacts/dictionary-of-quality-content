@@ -417,6 +417,11 @@
       "path": "entries/correlation-matrix/technical-interaction-roof-in-a-house-of-quality/revision.glossary.98db1a90aa54f057f042d0ce.json"
     },
     {
+      "object_id": "glossary.corroboration.support-from-distinct-evidence",
+      "revision_id": "revision.glossary.c3064ac566f77c405169df0c",
+      "path": "entries/corroboration/additional-evidence-supporting-a-particular-claim/revision.glossary.c3064ac566f77c405169df0c.json"
+    },
+    {
       "object_id": "glossary.cost-of-poor-quality.failure-costs",
       "revision_id": "revision.glossary.ff617e91a07ae021810a11ea",
       "path": "entries/cost-of-poor-quality/costs-attributable-to-defects-and-other-quality-failures/revision.glossary.ff617e91a07ae021810a11ea.json"
