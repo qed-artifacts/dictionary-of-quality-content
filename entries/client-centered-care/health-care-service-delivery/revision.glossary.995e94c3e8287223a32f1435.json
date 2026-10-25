@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.client-centered-care.client-agency",
+  "revision_id": "revision.glossary.995e94c3e8287223a32f1435",
+  "headword": "Client-centered care",
+  "scope_label": "health-care service delivery",
+  "definition": "Client-centered care organizes health services around the needs, circumstances, and participation of the person receiving care.",
+  "explanation": [
+    "The client must have a real role in decisions; calling a service client-centered is insufficient if provider convenience still controls care."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
