@@ -1187,6 +1187,11 @@
       "path": "entries/value/evaluative-sense/revision.glossary.4449b40656b512a828644237.json"
     },
     {
+      "object_id": "glossary.variable.empirical-research-characteristic",
+      "revision_id": "revision.glossary.1fdb9d9fb05d47513c40c1b3",
+      "path": "entries/variable/characteristic-with-differing-values-across-cases-or-observations/revision.glossary.1fdb9d9fb05d47513c40c1b3.json"
+    },
+    {
       "object_id": "glossary.variance.statistical-dispersion",
       "revision_id": "revision.glossary.892cafc7f8237fe4183b6854",
       "path": "entries/variance/statistical-dispersion-around-a-mean/revision.glossary.892cafc7f8237fe4183b6854.json"
