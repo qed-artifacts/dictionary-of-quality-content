@@ -1072,6 +1072,11 @@
       "path": "entries/education-quality/evaluation-of-educational-opportunities-processes-and-outcomes/revision.glossary.7c772c25338d5722d5cbaabe.json"
     },
     {
+      "object_id": "glossary.educational-access.higher-education-opportunity",
+      "revision_id": "revision.glossary.ba66984f46c74f49091818ab",
+      "path": "entries/educational-access/opportunity-to-enter-and-participate-in-higher-education/revision.glossary.ba66984f46c74f49091818ab.json"
+    },
+    {
       "object_id": "glossary.effect-size.magnitude-index",
       "revision_id": "revision.glossary.5d07aebdaf858b50aa5dbcfd",
       "path": "entries/effect-size/quantitative-index-of-a-specified-difference-or-association/revision.glossary.5d07aebdaf858b50aa5dbcfd.json"
