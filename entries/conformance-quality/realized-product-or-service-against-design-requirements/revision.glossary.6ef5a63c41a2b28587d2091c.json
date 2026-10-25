@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.conformance-quality.design-match",
+  "revision_id": "revision.glossary.6ef5a63c41a2b28587d2091c",
+  "headword": "Conformance quality",
+  "scope_label": "realized product or service against design requirements",
+  "definition": "Conformance quality is the extent to which a produced item or delivered service matches its specified design and requirements.",
+  "explanation": [
+    "Assess it against the applicable specifications, tolerances, or acceptance criteria for the output.",
+    "Strong conformance shows faithful execution of a design; it does not establish that the design itself meets users' needs."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -82,6 +82,11 @@
       "path": "entries/composite-indicator/aggregate-index-and-constitutive-component-technical-uses/revision.glossary.9d1c7633b4ac456f0f567508.json"
     },
     {
+      "object_id": "glossary.conformance-quality.design-match",
+      "revision_id": "revision.glossary.6ef5a63c41a2b28587d2091c",
+      "path": "entries/conformance-quality/realized-product-or-service-against-design-requirements/revision.glossary.6ef5a63c41a2b28587d2091c.json"
+    },
+    {
       "object_id": "glossary.conformance.requirements",
       "revision_id": "revision.glossary.10b2067d2e8a622a2a451f6e",
       "path": "entries/conformance/meeting-stated-requirements/revision.glossary.10b2067d2e8a622a2a451f6e.json"
