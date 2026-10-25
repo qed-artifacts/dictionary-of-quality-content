@@ -2242,6 +2242,11 @@
       "path": "entries/qualification/documented-suitability-of-pharmaceutical-equipment/revision.glossary.5b2b8fa30beba1431e14d0a3.json"
     },
     {
+      "object_id": "glossary.quality-adjusted-life-expectancy.expected-years-weighted-by-health",
+      "revision_id": "revision.glossary.f46c880f7c7583cd0ba0b0da",
+      "path": "entries/quality-adjusted-life-expectancy/population-health-summary-measurement/revision.glossary.f46c880f7c7583cd0ba0b0da.json"
+    },
+    {
       "object_id": "glossary.quality-adjusted-life-year.health-economic-outcome",
       "revision_id": "revision.glossary.d1b1d19122450bc996ac3b66",
       "path": "entries/quality-adjusted-life-year/health-economic-unit-combining-survival-and-health-state-value/revision.glossary.d1b1d19122450bc996ac3b66.json"
