@@ -527,6 +527,11 @@
       "path": "entries/failure-mode/specified-way-an-item-or-process-fails/revision.glossary.56fe111c7eec1c0d75a2f7b3.json"
     },
     {
+      "object_id": "glossary.failure.required-function",
+      "revision_id": "revision.glossary.db9e9cbc860ad572d93bc2a6",
+      "path": "entries/failure/loss-of-an-item-s-required-function/revision.glossary.db9e9cbc860ad572d93bc2a6.json"
+    },
+    {
       "object_id": "glossary.fairness.justified-treatment",
       "revision_id": "revision.glossary.4413a753b238a6649bdd357f",
       "path": "entries/fairness/justifiability-of-treatment-process-or-outcome/revision.glossary.4413a753b238a6649bdd357f.json"
