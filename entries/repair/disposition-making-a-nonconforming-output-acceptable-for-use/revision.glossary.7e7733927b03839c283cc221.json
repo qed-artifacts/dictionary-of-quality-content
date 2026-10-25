@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.repair.acceptable-intended-use",
+  "revision_id": "revision.glossary.7e7733927b03839c283cc221",
+  "headword": "Repair",
+  "scope_label": "disposition making a nonconforming output acceptable for use",
+  "definition": "In quality management, repair is action on a nonconforming product or service to make it acceptable for its intended use.",
+  "explanation": [
+    "A repair can restore usability without necessarily meeting every original requirement.",
+    "This differs from rework, whose aim is to bring the output into conformity with those requirements."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

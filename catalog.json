@@ -2652,6 +2652,11 @@
       "path": "entries/reliability/test-score-consistency-and-engineered-item-performance/revision.glossary.4ee64845069e84c0f36eb1c3.json"
     },
     {
+      "object_id": "glossary.repair.acceptable-intended-use",
+      "revision_id": "revision.glossary.7e7733927b03839c283cc221",
+      "path": "entries/repair/disposition-making-a-nonconforming-output-acceptable-for-use/revision.glossary.7e7733927b03839c283cc221.json"
+    },
+    {
       "object_id": "glossary.repeatability.measurement-conditions",
       "revision_id": "revision.glossary.d523ae5552735c5abba0aa86",
       "path": "entries/repeatability/precision-of-repeated-measurement-under-repeatability-conditions/revision.glossary.d523ae5552735c5abba0aa86.json"
