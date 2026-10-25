@@ -1162,6 +1162,11 @@
       "path": "entries/hazard-analysis/identifying-and-evaluating-significant-food-safety-hazards-for-haccp/revision.glossary.e41d56c02ab6b5c36052d512.json"
     },
     {
+      "object_id": "glossary.hazard-rate.conditional-failure-intensity",
+      "revision_id": "revision.glossary.90cbe26922f3b641d89613d6",
+      "path": "entries/hazard-rate/instantaneous-conditional-failure-rate-in-reliability/revision.glossary.90cbe26922f3b641d89613d6.json"
+    },
+    {
       "object_id": "glossary.hazard.potential-source-of-harm",
       "revision_id": "revision.glossary.d8d9ef597a005bb298756579",
       "path": "entries/hazard/potential-source-of-harm-in-risk-assessment/revision.glossary.d8d9ef597a005bb298756579.json"
