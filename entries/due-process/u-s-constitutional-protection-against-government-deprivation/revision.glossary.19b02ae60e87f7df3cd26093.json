@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.due-process.us-constitutional-protection",
+  "revision_id": "revision.glossary.19b02ae60e87f7df3cd26093",
+  "headword": "Due process",
+  "scope_label": "U.S. constitutional protection against government deprivation",
+  "definition": "In U.S. constitutional law, due process constrains how government may deprive a person of life, liberty, or property.",
+  "explanation": [
+    "It calls for legally fair treatment and can concern both the procedure used and the justification for government action.",
+    "The protections that apply depend on the legal setting and the interest at stake; the phrase alone does not specify a single hearing procedure."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
