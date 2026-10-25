@@ -837,6 +837,11 @@
       "path": "entries/house-of-quality/customer-to-design-planning-matrix-used-in-qfd/revision.glossary.763d052416375fa13b6cfd2a.json"
     },
     {
+      "object_id": "glossary.hypothesis-test.statistical-inference",
+      "revision_id": "revision.glossary.95987bf375ef9f9e91a40dfd",
+      "path": "entries/hypothesis-test/statistical-test-of-a-specified-null-claim/revision.glossary.95987bf375ef9f9e91a40dfd.json"
+    },
+    {
       "object_id": "glossary.impact.program-evaluation-change",
       "revision_id": "revision.glossary.a170a4396fb2cd3677959077",
       "path": "entries/impact/consequential-change-attributed-to-a-program/revision.glossary.a170a4396fb2cd3677959077.json"

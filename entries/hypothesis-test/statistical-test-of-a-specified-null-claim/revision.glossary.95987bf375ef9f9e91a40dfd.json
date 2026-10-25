@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.hypothesis-test.statistical-inference",
+  "revision_id": "revision.glossary.95987bf375ef9f9e91a40dfd",
+  "headword": "Hypothesis test",
+  "scope_label": "statistical test of a specified null claim",
+  "definition": "A statistical hypothesis test uses sample data and a stated model to evaluate a null hypothesis against an alternative hypothesis.",
+  "explanation": [
+    "A test statistic and decision rule indicate whether the observed data warrant rejecting the null hypothesis at a chosen significance level.",
+    "Failing to reject the null hypothesis does not prove that it is true; the test's assumptions and possible decision errors matter."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
