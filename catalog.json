@@ -1952,6 +1952,11 @@
       "path": "entries/qualification/documented-suitability-of-pharmaceutical-equipment/revision.glossary.5b2b8fa30beba1431e14d0a3.json"
     },
     {
+      "object_id": "glossary.quality-adjusted-life-year.health-economic-outcome",
+      "revision_id": "revision.glossary.d1b1d19122450bc996ac3b66",
+      "path": "entries/quality-adjusted-life-year/health-economic-unit-combining-survival-and-health-state-value/revision.glossary.d1b1d19122450bc996ac3b66.json"
+    },
+    {
       "object_id": "glossary.quality-assessment.evidence-examination",
       "revision_id": "revision.glossary.ac5299ba6343086ddf088526",
       "path": "entries/quality-assessment/examination-of-quality-against-a-stated-basis/revision.glossary.ac5299ba6343086ddf088526.json"
