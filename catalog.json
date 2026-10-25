@@ -632,6 +632,11 @@
       "path": "entries/customer-requirement/customer-side-need-or-expectation-in-qfd/revision.glossary.789c980f5da7818f527fab9f.json"
     },
     {
+      "object_id": "glossary.customer-satisfaction-score.survey-summary",
+      "revision_id": "revision.glossary.f4e8b0e77b972083218de37c",
+      "path": "entries/customer-satisfaction-score/summary-of-surveyed-customers-satisfaction-ratings/revision.glossary.f4e8b0e77b972083218de37c.json"
+    },
+    {
       "object_id": "glossary.customer-satisfaction.customer-appraisal",
       "revision_id": "revision.glossary.b1b192f3f3d899e9f4e1d2b9",
       "path": "entries/customer-satisfaction/customer-appraisal-of-an-offering-or-experience/revision.glossary.b1b192f3f3d899e9f4e1d2b9.json"

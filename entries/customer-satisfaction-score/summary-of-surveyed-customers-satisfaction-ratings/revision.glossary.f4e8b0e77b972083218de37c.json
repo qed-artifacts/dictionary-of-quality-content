@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.customer-satisfaction-score.survey-summary",
+  "revision_id": "revision.glossary.f4e8b0e77b972083218de37c",
+  "headword": "Customer satisfaction score",
+  "scope_label": "summary of surveyed customers' satisfaction ratings",
+  "definition": "A customer satisfaction score is a summary value calculated from customers' ratings of a specified product, service, or interaction.",
+  "explanation": [
+    "It may be reported as an average rating or as the proportion choosing designated satisfied categories; the question, scale, cutoff, and sample determine its meaning.",
+    "The score reports responses under those conditions, not an objective verdict on every aspect of service quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
