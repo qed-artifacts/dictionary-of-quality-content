@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.effect-size.magnitude-index",
+  "revision_id": "revision.glossary.5d07aebdaf858b50aa5dbcfd",
+  "headword": "Effect size",
+  "scope_label": "quantitative index of a specified difference or association",
+  "definition": "An effect size is a quantitative index of the magnitude of a specified difference or association.",
+  "explanation": [
+    "Examples include a standardized mean difference, a correlation coefficient, and an odds ratio; each uses a different scale and interpretation.",
+    "The chosen index must be named; a statistically significant result does not by itself show whether the effect is important in practice."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

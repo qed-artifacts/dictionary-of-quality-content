@@ -622,6 +622,11 @@
       "path": "entries/education-quality/evaluation-of-educational-opportunities-processes-and-outcomes/revision.glossary.7c772c25338d5722d5cbaabe.json"
     },
     {
+      "object_id": "glossary.effect-size.magnitude-index",
+      "revision_id": "revision.glossary.5d07aebdaf858b50aa5dbcfd",
+      "path": "entries/effect-size/quantitative-index-of-a-specified-difference-or-association/revision.glossary.5d07aebdaf858b50aa5dbcfd.json"
+    },
+    {
       "object_id": "glossary.effect.causal-inference",
       "revision_id": "revision.glossary.d668e131faa5b385c9f295a6",
       "path": "entries/effect/causal-effect-of-a-specified-intervention/revision.glossary.d668e131faa5b385c9f295a6.json"
