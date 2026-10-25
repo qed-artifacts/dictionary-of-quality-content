@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.compatibility.software-systems",
+  "revision_id": "revision.glossary.c7d31a7400413f99173910fa",
+  "headword": "Compatibility",
+  "scope_label": "software-system coexistence and interoperability",
+  "definition": "In software quality, compatibility concerns how well a product or system works with others by sharing an environment or exchanging usable information.",
+  "explanation": [
+    "Coexistence concerns shared resources without harmful interference; interoperability concerns exchanging information that can be used.",
+    "Name the other systems and operating conditions, because compatibility is a relation between them, not an isolated property."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
