@@ -37,6 +37,11 @@
       "path": "entries/acceptance-sampling/sample-based-lot-acceptance-decision/revision.glossary.67b0a0658d913b2134cdd402.json"
     },
     {
+      "object_id": "glossary.access-to-care.practical-health-service-access",
+      "revision_id": "revision.glossary.92cd432a967c057d49fb6673",
+      "path": "entries/access-to-care/practical-ability-to-obtain-needed-health-services/revision.glossary.92cd432a967c057d49fb6673.json"
+    },
+    {
       "object_id": "glossary.accessibility.healthcare-services",
       "revision_id": "revision.glossary.799ef244d02f5d99aa7e9b04",
       "path": "entries/accessibility/ease-of-obtaining-appropriate-health-services/revision.glossary.799ef244d02f5d99aa7e9b04.json"
