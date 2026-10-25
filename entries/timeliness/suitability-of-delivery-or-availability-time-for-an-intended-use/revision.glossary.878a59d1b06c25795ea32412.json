@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.timeliness.suitable-time-for-use",
+  "revision_id": "revision.glossary.878a59d1b06c25795ea32412",
+  "headword": "Timeliness",
+  "scope_label": "suitability of delivery or availability time for an intended use",
+  "definition": "Timeliness is how well an action, service, or information occurs or becomes available when it is needed for its intended use.",
+  "explanation": [
+    "A delay matters when it impairs the use or outcome at issue; a fast response is not automatically timely if it arrives at the wrong moment.",
+    "The relevant time window depends on the task and recipient, as in urgent care or a report needed for a decision."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

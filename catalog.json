@@ -2317,6 +2317,11 @@
       "path": "entries/time/temporal-reference-of-an-observation-or-evaluative-claim/revision.glossary.8ac45ede6024744552607bbe.json"
     },
     {
+      "object_id": "glossary.timeliness.suitable-time-for-use",
+      "revision_id": "revision.glossary.878a59d1b06c25795ea32412",
+      "path": "entries/timeliness/suitability-of-delivery-or-availability-time-for-an-intended-use/revision.glossary.878a59d1b06c25795ea32412.json"
+    },
+    {
       "object_id": "glossary.tolerance.engineering-variation",
       "revision_id": "revision.glossary.47d69156fc029fcb1c91b90f",
       "path": "entries/tolerance/permitted-variation-of-an-engineered-characteristic/revision.glossary.47d69156fc029fcb1c91b90f.json"
