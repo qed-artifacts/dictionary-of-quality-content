@@ -2362,6 +2362,11 @@
       "path": "entries/risk-management/organized-response-to-risks-affecting-objectives/revision.glossary.4b68edb58719d7c70ca990fa.json"
     },
     {
+      "object_id": "glossary.risk-of-bias.study-result-systematic-error",
+      "revision_id": "revision.glossary.736c3594f42c4e690cc26692",
+      "path": "entries/risk-of-bias/intervention-study-result/revision.glossary.736c3594f42c4e690cc26692.json"
+    },
+    {
       "object_id": "glossary.risk-priority-number.fmea-rating-product",
       "revision_id": "revision.glossary.0325e93385778d75395e0a83",
       "path": "entries/risk-priority-number/fmea-product-of-severity-occurrence-and-detection-ratings/revision.glossary.0325e93385778d75395e0a83.json"
