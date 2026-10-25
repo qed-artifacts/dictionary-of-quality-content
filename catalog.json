@@ -2352,6 +2352,11 @@
       "path": "entries/replicability/empirical-research/revision.glossary.69f00d284ad2ff7bd8c0199c.json"
     },
     {
+      "object_id": "glossary.reproducibility-conditions.measurement-variation",
+      "revision_id": "revision.glossary.43763cb4ebb54d4a03a3eef6",
+      "path": "entries/reproducibility-conditions/measurement-precision/revision.glossary.43763cb4ebb54d4a03a3eef6.json"
+    },
+    {
       "object_id": "glossary.reproducibility.measurement",
       "revision_id": "revision.glossary.5ab47db804b2e13cbbe8398c",
       "path": "entries/reproducibility/agreement-of-measurement-results-under-changed-conditions/revision.glossary.5ab47db804b2e13cbbe8398c.json"
