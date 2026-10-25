@@ -2552,6 +2552,11 @@
       "path": "entries/seven-tools-of-quality/traditional-basic-quality-tool-grouping/revision.glossary.87aff92ccee650d2792d5977.json"
     },
     {
+      "object_id": "glossary.shelf-life.food-acceptable-duration",
+      "revision_id": "revision.glossary.c4ee0a2af7a3ef316dcd5c9b",
+      "path": "entries/shelf-life/food-safety-and-quality/revision.glossary.c4ee0a2af7a3ef316dcd5c9b.json"
+    },
+    {
       "object_id": "glossary.signal.process-control-investigation",
       "revision_id": "revision.glossary.a5b3084f45e8a23246cbb241",
       "path": "entries/signal/control-chart-indication-for-process-investigation/revision.glossary.a5b3084f45e8a23246cbb241.json"

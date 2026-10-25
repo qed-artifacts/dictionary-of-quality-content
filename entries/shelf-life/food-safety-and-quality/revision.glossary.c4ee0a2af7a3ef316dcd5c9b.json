@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.shelf-life.food-acceptable-duration",
+  "revision_id": "revision.glossary.c4ee0a2af7a3ef316dcd5c9b",
+  "headword": "Shelf life",
+  "scope_label": "food safety and quality",
+  "definition": "For a food product, shelf life is the period during which it remains acceptably safe and of acceptable quality when handled and stored under specified conditions.",
+  "explanation": [
+    "The end point depends on the product and relevant safety, sensory, chemical, or microbial limits; a change in packaging or storage can change the period."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
