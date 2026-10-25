@@ -2877,6 +2877,11 @@
       "path": "entries/strategy/organizational-direction-and-chosen-means-for-pursuing-aims/revision.glossary.c46dc44b6c75806e27d4ac6b.json"
     },
     {
+      "object_id": "glossary.structure-measure.health-care-capacity",
+      "revision_id": "revision.glossary.7da17d6bba6e5467041d0a41",
+      "path": "entries/structure-measure/health-care-quality-measurement/revision.glossary.7da17d6bba6e5467041d0a41.json"
+    },
+    {
       "object_id": "glossary.structure.healthcare-quality-arrangements",
       "revision_id": "revision.glossary.60a7d670d504362ce45850a0",
       "path": "entries/structure/settings-and-organizational-arrangements-through-which-healthcare-is-provided/revision.glossary.60a7d670d504362ce45850a0.json"
