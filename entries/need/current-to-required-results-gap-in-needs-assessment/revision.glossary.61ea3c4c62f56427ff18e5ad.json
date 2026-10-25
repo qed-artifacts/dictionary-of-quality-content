@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.need.results-gap",
+  "revision_id": "revision.glossary.61ea3c4c62f56427ff18e5ad",
+  "headword": "Need",
+  "scope_label": "current-to-required results gap in needs assessment",
+  "definition": "In needs assessment, a need is a gap between current results and results judged necessary.",
+  "explanation": [
+    "Identify whose results are at issue, the required level, and evidence of the current level.",
+    "A proposed resource, service, or intervention may address the gap, but it is not itself the need in this sense."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
