@@ -2,6 +2,11 @@
   "schema": "qed-glossary-public-catalog-v1",
   "entries": [
     {
+      "object_id": "glossary.5s.lean-workplace-organization",
+      "revision_id": "revision.glossary.5daa9e153fce22c21d1033e3",
+      "path": "entries/5s/lean-workplace-organization-and-maintenance-method/revision.glossary.5daa9e153fce22c21d1033e3.json"
+    },
+    {
       "object_id": "glossary.acceptability.health-care",
       "revision_id": "revision.glossary.bd7b24c9a4abc04a56999a68",
       "path": "entries/acceptability/people-s-appraisal-of-how-health-care-treats-and-involves-them/revision.glossary.bd7b24c9a4abc04a56999a68.json"
