@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.contestability.ability-to-challenge-decision",
+  "revision_id": "revision.glossary.eb1cd905f253652df8b11ef6",
+  "headword": "Contestability",
+  "scope_label": "ability to challenge and seek review of a consequential decision",
+  "definition": "Contestability is the practical ability to challenge a decision, claim, or system output and seek a reasoned response.",
+  "explanation": [
+    "For consequential decisions, it depends on knowing what was decided, having a usable way to raise a challenge, and receiving a review capable of addressing it.",
+    "A formal appeal is one way to provide contestability, but the opportunity to question and correct an output can exist outside an appeal process."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
