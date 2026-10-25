@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-specification-quality.adequacy-of-data-rules",
+  "revision_id": "revision.glossary.aa6493e7cd037ae5dcc1fbb2",
+  "headword": "Data specification quality",
+  "scope_label": "data models, definitions and standards",
+  "definition": "Data specification quality is how well the definitions and rules for data describe the meaning, structure, allowed values, and use of a dataset.",
+  "explanation": [
+    "Clear, complete specifications help people collect and interpret data consistently. A dataset can conform to its specifications yet still be unsuitable if those specifications omit a needed attribute or misstate its meaning."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
