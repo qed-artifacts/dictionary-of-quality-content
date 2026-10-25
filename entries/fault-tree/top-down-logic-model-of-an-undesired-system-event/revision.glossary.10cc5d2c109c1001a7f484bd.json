@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.fault-tree.top-event-logic-model",
+  "revision_id": "revision.glossary.10cc5d2c109c1001a7f484bd",
+  "headword": "Fault tree",
+  "scope_label": "top-down logic model of an undesired system event",
+  "definition": "A fault tree is a diagram that starts with a specified undesired system event and traces combinations of lower-level events that could produce it.",
+  "explanation": [
+    "Logical gates show how component faults, human actions, and other conditions combine to reach the top event.",
+    "The tree can support qualitative analysis of possible pathways and, with justified input probabilities, quantitative estimates of the top event."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
