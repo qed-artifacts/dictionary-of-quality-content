@@ -17,6 +17,11 @@
       "path": "entries/advanced-product-quality-planning/automotive-oriented-product-and-production-process-planning/revision.glossary.1d97908aeb9f76bef757b640.json"
     },
     {
+      "object_id": "glossary.affected-party.decision-consequence",
+      "revision_id": "revision.glossary.d642ef17c4889142df1c5f4f",
+      "path": "entries/affected-party/person-or-group-bearing-effects-of-an-activity-or-decision/revision.glossary.d642ef17c4889142df1c5f4f.json"
+    },
+    {
       "object_id": "glossary.appraisal-cost.assessing-conformity",
       "revision_id": "revision.glossary.d28fbccfb04e771e74578602",
       "path": "entries/appraisal-cost/quality-related-spending-to-evaluate-conformity-or-performance/revision.glossary.d28fbccfb04e771e74578602.json"

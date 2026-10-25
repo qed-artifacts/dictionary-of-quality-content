@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.affected-party.decision-consequence",
+  "revision_id": "revision.glossary.d642ef17c4889142df1c5f4f",
+  "headword": "Affected party",
+  "scope_label": "person or group bearing effects of an activity or decision",
+  "definition": "An affected party is a person or group that may experience consequences from an activity or decision.",
+  "explanation": [
+    "The effects may concern access, conditions, benefits, burdens, or risks; identify them for the decision at hand.",
+    "A party can be affected without participating in the decision or having power over it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
