@@ -1702,6 +1702,11 @@
       "path": "entries/perceived-quality/person-s-appraisal-of-product-or-service-quality/revision.glossary.0cbd37f2acc3d6f2af482b56.json"
     },
     {
+      "object_id": "glossary.perceived-value.customer-service-appraisal",
+      "revision_id": "revision.glossary.07c0e75c494aa137f72601cb",
+      "path": "entries/perceived-value/customer-appraisal-of-service-benefit-relative-to-effort/revision.glossary.07c0e75c494aa137f72601cb.json"
+    },
+    {
       "object_id": "glossary.performance-efficiency.software-time-resources-capacity",
       "revision_id": "revision.glossary.83effd6c85cda1e14cf95966",
       "path": "entries/performance-efficiency/software-performance-relative-to-resources-under-stated-conditions/revision.glossary.83effd6c85cda1e14cf95966.json"
