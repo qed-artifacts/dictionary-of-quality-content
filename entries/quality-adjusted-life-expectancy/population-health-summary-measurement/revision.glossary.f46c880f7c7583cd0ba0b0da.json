@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-adjusted-life-expectancy.expected-years-weighted-by-health",
+  "revision_id": "revision.glossary.f46c880f7c7583cd0ba0b0da",
+  "headword": "Quality-adjusted life expectancy",
+  "scope_label": "population-health summary measurement",
+  "definition": "Quality-adjusted life expectancy estimates expected years of life after weighting those years by valuations of the health states people are expected to experience.",
+  "explanation": [
+    "Its units are quality-adjusted life years. Unlike unadjusted life expectancy, the result depends on how health states are described and valued."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
