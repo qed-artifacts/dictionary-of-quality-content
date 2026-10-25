@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.grade.product-class",
+  "revision_id": "revision.glossary.eb6bf93cb5384314ccf982ca",
+  "headword": "Grade",
+  "scope_label": "named product or component class with specified performance characteristics",
+  "definition": "A grade is a named class of products or components distinguished by specified characteristics or performance requirements.",
+  "explanation": [
+    "A premium resistor grade, for example, can be specified to vary less than an ordinary grade.",
+    "The grade label identifies a class; whether a particular item meets its class's requirements still has to be established."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
