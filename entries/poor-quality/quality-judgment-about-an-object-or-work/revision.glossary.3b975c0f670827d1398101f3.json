@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.poor-quality.shortfall-against-requirements",
+  "revision_id": "revision.glossary.3b975c0f670827d1398101f3",
+  "headword": "Poor quality",
+  "scope_label": "quality judgment about an object or work",
+  "definition": "Poor quality is an unfavorable assessment that an object or work falls short in one or more characteristics relevant to its requirements or intended use.",
+  "explanation": [
+    "The judgment should name the shortfall and its basis. A defect in one respect does not establish that every characteristic is poor."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
