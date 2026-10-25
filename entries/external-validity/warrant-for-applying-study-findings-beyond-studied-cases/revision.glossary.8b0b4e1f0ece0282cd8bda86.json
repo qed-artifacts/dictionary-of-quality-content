@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.external-validity.generalization",
+  "revision_id": "revision.glossary.8b0b4e1f0ece0282cd8bda86",
+  "headword": "External validity",
+  "scope_label": "warrant for applying study findings beyond studied cases",
+  "definition": "In empirical research, external validity concerns whether findings warrant an inference beyond the people or setting studied.",
+  "explanation": [
+    "The intended target might be another population, place, or time and should be stated explicitly.",
+    "Such an inference depends on relevant similarities and differences between the study and target; it does not follow from a large sample alone."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

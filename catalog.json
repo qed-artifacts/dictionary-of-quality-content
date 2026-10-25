@@ -972,6 +972,11 @@
       "path": "entries/external-failure-cost/cost-arising-from-defects-discovered-during-or-after-delivery/revision.glossary.2a4c8b4c2dfa7e5638b88cfa.json"
     },
     {
+      "object_id": "glossary.external-validity.generalization",
+      "revision_id": "revision.glossary.8b0b4e1f0ece0282cd8bda86",
+      "path": "entries/external-validity/warrant-for-applying-study-findings-beyond-studied-cases/revision.glossary.8b0b4e1f0ece0282cd8bda86.json"
+    },
+    {
       "object_id": "glossary.externality.economic-spillover",
       "revision_id": "revision.glossary.d0c8f21b8b4a056219be21ea",
       "path": "entries/externality/effect-on-others-outside-an-economic-decision-or-exchange/revision.glossary.d0c8f21b8b4a056219be21ea.json"
