@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.control.quality-process-regulation",
+  "revision_id": "revision.glossary.8db82610a559ae71215383c4",
+  "headword": "Control",
+  "scope_label": "regulation of process conditions in quality management",
+  "definition": "In quality management, control is an action or arrangement used to regulate process conditions or activities so results can meet stated requirements.",
+  "explanation": [
+    "A control arrangement identifies what to monitor, the acceptable range or rule, and who responds when results deviate.",
+    "Recording results without a response rule is monitoring, but not a complete arrangement for control."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
