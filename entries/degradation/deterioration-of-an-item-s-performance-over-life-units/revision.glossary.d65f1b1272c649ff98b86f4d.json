@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.degradation.performance-deterioration",
+  "revision_id": "revision.glossary.d65f1b1272c649ff98b86f4d",
+  "headword": "Degradation",
+  "scope_label": "deterioration of an item's performance over life units",
+  "definition": "In reliability engineering, degradation is a worsening of an item's performance characteristic over time or use.",
+  "explanation": [
+    "A specified threshold may mark when that characteristic counts as failed; degradation can occur before the threshold is reached.",
+    "Measurements of its path may support an estimate of remaining useful life, subject to the model and conditions used."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
