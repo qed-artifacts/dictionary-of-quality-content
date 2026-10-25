@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-consistency.related-values-agree",
+  "revision_id": "revision.glossary.e20a5647e62d81c1c2b31abd",
+  "headword": "Data consistency",
+  "scope_label": "agreement of related values under data rules",
+  "definition": "Data consistency is the extent to which related values agree with one another under specified rules, within or across records and datasets.",
+  "explanation": [
+    "The rule must say which values should match or which combinations are permissible.",
+    "Agreement alone does not establish accuracy: two records can consistently repeat the same error."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
