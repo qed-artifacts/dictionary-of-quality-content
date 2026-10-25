@@ -527,6 +527,11 @@
       "path": "entries/data-lineage/metadata-tracing-data-movement-and-transformation/revision.glossary.3dd06ef9499279d94a6e3cc2.json"
     },
     {
+      "object_id": "glossary.data-management.research-study-data",
+      "revision_id": "revision.glossary.5de6b82b58c330fe959b2d87",
+      "path": "entries/data-management/planned-handling-of-study-data-for-reliable-analysis-and-reporting/revision.glossary.5de6b82b58c330fe959b2d87.json"
+    },
+    {
       "object_id": "glossary.data-profiling.dataset-structure-pattern-inspection",
       "revision_id": "revision.glossary.a5fd74c1e8ee610f7e3b0365",
       "path": "entries/data-profiling/systematic-inspection-of-dataset-structure-and-contents/revision.glossary.a5fd74c1e8ee610f7e3b0365.json"
