@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.comparison.shared-basis-evaluation",
+  "revision_id": "revision.glossary.b315f4cd87e07932070c4a30",
+  "headword": "Comparison",
+  "scope_label": "examining options on a shared stated basis",
+  "definition": "A comparison examines two or more objects or options on a stated shared basis to identify similarities or differences.",
+  "explanation": [
+    "When comparing options for a decision, specify the criteria, conditions, and evidence used for each.",
+    "Finding a difference does not by itself establish which option is better; that requires a relevant evaluative basis."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
