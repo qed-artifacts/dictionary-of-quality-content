@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.yield.acceptable-output-share",
+  "revision_id": "revision.glossary.4d359406e1d5543965ebb2d4",
+  "headword": "Yield",
+  "scope_label": "acceptable output share in a defined process",
+  "definition": "In a defined production or service process, yield is the share of input units that emerge as acceptable output under a stated counting rule.",
+  "explanation": [
+    "State the unit, process boundary, acceptance criteria, and whether reworked units count.",
+    "First-pass yield and final yield can differ when units are repaired or reworked before acceptance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
