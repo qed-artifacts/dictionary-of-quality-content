@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.robustness.performance-under-variation",
+  "revision_id": "revision.glossary.f91612381caa572e596734fa",
+  "headword": "Robustness",
+  "scope_label": "performance sustained under specified variation",
+  "definition": "Robustness is the ability to maintain acceptable performance when specified inputs or conditions vary.",
+  "explanation": [
+    "A robustness claim names the variation tested and the performance that must be preserved.",
+    "One successful test at ordinary conditions does not show how the object will behave when those conditions change."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
