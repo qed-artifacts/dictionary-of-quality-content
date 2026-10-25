@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.responsiveness.service-quality",
+  "revision_id": "revision.glossary.5216b80b38836caec8088317",
+  "headword": "Responsiveness",
+  "scope_label": "timely helpful response in service delivery",
+  "definition": "In service quality, responsiveness is a provider's readiness to help customers and respond promptly to their requests.",
+  "explanation": [
+    "It concerns the response when help is needed, such as how quickly staff address a service request.",
+    "Responsiveness differs from reliability, which concerns delivering the service as promised."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
