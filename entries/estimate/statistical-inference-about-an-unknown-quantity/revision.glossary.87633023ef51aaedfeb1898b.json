@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.estimate.statistical-inference",
+  "revision_id": "revision.glossary.87633023ef51aaedfeb1898b",
+  "headword": "Estimate",
+  "scope_label": "statistical inference about an unknown quantity",
+  "definition": "In statistics, an estimate is a value or interval inferred from available data for an unknown quantity.",
+  "explanation": [
+    "A useful estimate identifies the quantity, the data and method, and the uncertainty relevant to its use.",
+    "A point estimate gives one value; it does not make the unknown quantity certain."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
