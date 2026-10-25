@@ -2147,6 +2147,11 @@
       "path": "entries/specification/documented-technical-requirements/revision.glossary.af811b0f53d934737cbb61b9.json"
     },
     {
+      "object_id": "glossary.specificity.diagnostic-true-negative-rate",
+      "revision_id": "revision.glossary.21f84dd728f001aa22ae7382",
+      "path": "entries/specificity/diagnostic-test-classification-of-people-without-the-target-condition/revision.glossary.21f84dd728f001aa22ae7382.json"
+    },
+    {
       "object_id": "glossary.stability.statistical-process-control",
       "revision_id": "revision.glossary.5277ba99ce77ee61e515d9be",
       "path": "entries/stability/statistical-stability-of-a-monitored-process/revision.glossary.5277ba99ce77ee61e515d9be.json"
