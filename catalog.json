@@ -892,6 +892,11 @@
       "path": "entries/noncompensation/limit-on-trade-offs-among-evaluative-criteria/revision.glossary.86fe0c195689614a0ed4c2fc.json"
     },
     {
+      "object_id": "glossary.nonconformance.requirement-not-met",
+      "revision_id": "revision.glossary.ea3cd1f36c12d576f6032a7b",
+      "path": "entries/nonconformance/unmet-applicable-requirement-in-quality-management/revision.glossary.ea3cd1f36c12d576f6032a7b.json"
+    },
+    {
       "object_id": "glossary.nonconformity.unmet-requirement",
       "revision_id": "revision.glossary.617397708409669dc921b1f5",
       "path": "entries/nonconformity/failure-to-fulfill-an-applicable-requirement/revision.glossary.617397708409669dc921b1f5.json"
