@@ -107,6 +107,11 @@
       "path": "entries/alternative/possible-action-in-a-framed-decision/revision.glossary.e4b1393b254f8f05cb4af93c.json"
     },
     {
+      "object_id": "glossary.analyzability.software-maintenance-diagnosis",
+      "revision_id": "revision.glossary.89a389c4f91b30b09eff29c3",
+      "path": "entries/analyzability/software-maintainability-subcharacteristic-in-iso-iec-25010-2011/revision.glossary.89a389c4f91b30b09eff29c3.json"
+    },
+    {
       "object_id": "glossary.appraisal-cost.assessing-conformity",
       "revision_id": "revision.glossary.d28fbccfb04e771e74578602",
       "path": "entries/appraisal-cost/quality-related-spending-to-evaluate-conformity-or-performance/revision.glossary.d28fbccfb04e771e74578602.json"
