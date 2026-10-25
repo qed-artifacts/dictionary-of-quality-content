@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.inclusion.higher-education",
+  "revision_id": "revision.glossary.7f5b42ac0e2ca9efbe939668",
+  "headword": "Inclusion",
+  "scope_label": "access and meaningful participation in higher education",
+  "definition": "In higher education, inclusion means arranging access and participation so people from different social groups can take part meaningfully and benefit.",
+  "explanation": [
+    "It concerns policies, teaching, and the learning environment as well as who enters an institution.",
+    "Admission or physical presence alone does not show that barriers to participation have been removed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
