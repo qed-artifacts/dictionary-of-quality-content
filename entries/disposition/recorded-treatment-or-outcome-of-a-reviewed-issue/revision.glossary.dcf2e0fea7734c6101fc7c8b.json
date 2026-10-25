@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.disposition.issue-outcome",
+  "revision_id": "revision.glossary.dcf2e0fea7734c6101fc7c8b",
+  "headword": "Disposition",
+  "scope_label": "recorded treatment or outcome of a reviewed issue",
+  "definition": "A disposition is the decision about how a reviewed issue or item will be treated.",
+  "explanation": [
+    "It may direct acceptance, correction, rejection, further investigation, or another specified action by the responsible authority.",
+    "A finding describes what was observed; its disposition records the resulting decision."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
