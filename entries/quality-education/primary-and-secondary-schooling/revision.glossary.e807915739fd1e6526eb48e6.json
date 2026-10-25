@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-education.learning-and-conditions",
+  "revision_id": "revision.glossary.e807915739fd1e6526eb48e6",
+  "headword": "Quality education",
+  "scope_label": "primary and secondary schooling",
+  "definition": "In schooling, quality education supports students in achieving worthwhile learning aims through suitable teaching, opportunities, and conditions.",
+  "explanation": [
+    "A quality judgment must state which aims and learners matter and examine evidence of learning and access in context. Test scores alone cannot capture every valued educational outcome."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
