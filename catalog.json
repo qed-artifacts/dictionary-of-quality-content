@@ -837,6 +837,11 @@
       "path": "entries/manufacturing-quality/manufacturing-process-and-output-against-applicable-requirements/revision.glossary.f5f350673df682c7416e8d21.json"
     },
     {
+      "object_id": "glossary.mean-time-between-failures.repairable-system",
+      "revision_id": "revision.glossary.2391b9bed6127c8b77c3e924",
+      "path": "entries/mean-time-between-failures/average-operating-time-per-failure-in-a-repairable-system/revision.glossary.2391b9bed6127c8b77c3e924.json"
+    },
+    {
       "object_id": "glossary.mean-time-to-repair.corrective-maintenance",
       "revision_id": "revision.glossary.95025001cb204f19405c0cc9",
       "path": "entries/mean-time-to-repair/average-corrective-maintenance-duration-for-repairable-equipment/revision.glossary.95025001cb204f19405c0cc9.json"
