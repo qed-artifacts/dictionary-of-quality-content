@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-accuracy.correct-representation",
+  "revision_id": "revision.glossary.058026d11b186e1af16dbff5",
+  "headword": "Data accuracy",
+  "scope_label": "correct representation of a real entity, event or condition",
+  "definition": "Data accuracy is how correctly recorded values represent the entity, event, or condition they describe.",
+  "explanation": [
+    "Checking accuracy requires comparison with the thing represented or a trustworthy reference for it, using rules appropriate to the data.",
+    "An accurately formatted value can still be inaccurate if it describes the wrong fact."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -767,6 +767,11 @@
       "path": "entries/d-value/microbial-inactivation-and-sterilization-kinetics/revision.glossary.777aef207247cb7b19af40e9.json"
     },
     {
+      "object_id": "glossary.data-accuracy.correct-representation",
+      "revision_id": "revision.glossary.058026d11b186e1af16dbff5",
+      "path": "entries/data-accuracy/correct-representation-of-a-real-entity-event-or-condition/revision.glossary.058026d11b186e1af16dbff5.json"
+    },
+    {
       "object_id": "glossary.data-cleansing.dataset-problem-remediation",
       "revision_id": "revision.glossary.92a9b2a7f796fb5e3a67b761",
       "path": "entries/data-cleansing/detecting-and-addressing-dataset-quality-problems/revision.glossary.92a9b2a7f796fb5e3a67b761.json"
