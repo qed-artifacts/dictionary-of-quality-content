@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.procedure.activity-instructions",
+  "revision_id": "revision.glossary.3f76dbdcbeafef7a2374ae15",
+  "headword": "Procedure",
+  "scope_label": "specified way of carrying out an activity",
+  "definition": "A procedure sets out how a particular activity is to be carried out.",
+  "explanation": [
+    "It may specify a sequence of steps, responsibilities, conditions, and records needed to repeat the activity.",
+    "A procedure can put a method into practice, but a method is the underlying approach and a procedure gives instructions for its use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
