@@ -3467,6 +3467,11 @@
       "path": "entries/surveillance/continuing-or-periodic-assessment-of-a-process-in-quality-management/revision.glossary.25a3ed6469ad4866b5c963aa.json"
     },
     {
+      "object_id": "glossary.survey.questionnaire-response-collection",
+      "revision_id": "revision.glossary.21f5fdf815a04aeb479cdd8b",
+      "path": "entries/survey/questionnaire-based-collection-of-responses-from-a-group/revision.glossary.21f5fdf815a04aeb479cdd8b.json"
+    },
+    {
       "object_id": "glossary.sustainability.conditions-over-time",
       "revision_id": "revision.glossary.42012b4784b0015fb593986a",
       "path": "entries/sustainability/maintaining-valued-activity-within-enduring-limits/revision.glossary.42012b4784b0015fb593986a.json"
