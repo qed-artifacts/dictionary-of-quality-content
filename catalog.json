@@ -1382,6 +1382,11 @@
       "path": "entries/statistic/quantity-calculated-from-sample-observations/revision.glossary.11e1dbb9a83702304f90b456.json"
     },
     {
+      "object_id": "glossary.statistical-control.process-state",
+      "revision_id": "revision.glossary.9dc43208d6ad611728d24aa1",
+      "path": "entries/statistical-control/process-variation-consistent-with-common-causes/revision.glossary.9dc43208d6ad611728d24aa1.json"
+    },
+    {
       "object_id": "glossary.statistical-process-control.variation-monitoring",
       "revision_id": "revision.glossary.c25e7cd6d41d95e25e23e461",
       "path": "entries/statistical-process-control/statistical-monitoring-of-process-behavior/revision.glossary.c25e7cd6d41d95e25e23e461.json"
