@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.causal-factor.contributing-condition",
+  "revision_id": "revision.glossary.bd9ce69353a894084c714b69",
+  "headword": "Causal factor",
+  "scope_label": "potential or established contributor to a specified effect in quality analysis",
+  "definition": "A causal factor is a condition or action that contributes to a specified outcome or problem.",
+  "explanation": [
+    "Name the outcome and the way the factor is thought to affect it; a cause-and-effect diagram can organize candidate factors.",
+    "Listing a factor on a diagram proposes a causal explanation, which still needs evidence before it is treated as established."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
