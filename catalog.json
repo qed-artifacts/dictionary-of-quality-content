@@ -2417,6 +2417,11 @@
       "path": "entries/quality-loss-function/modeled-loss-associated-with-a-quality-characteristic-departing-from-a-target/revision.glossary.dfbdfe6eff764f7aa5f2c5da.json"
     },
     {
+      "object_id": "glossary.quality-management-maturity.pharmaceutical-site",
+      "revision_id": "revision.glossary.0bfa62cb107d7e76ffd3016b",
+      "path": "entries/quality-management-maturity/appraisal-of-pharmaceutical-manufacturing-site-quality-management-practice/revision.glossary.0bfa62cb107d7e76ffd3016b.json"
+    },
+    {
       "object_id": "glossary.quality-management-plan.project",
       "revision_id": "revision.glossary.22b8b2ab1d614b1412678f2a",
       "path": "entries/quality-management-plan/quality-management-component-of-a-project-plan/revision.glossary.22b8b2ab1d614b1412678f2a.json"
