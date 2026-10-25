@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.competence.task-performance",
+  "revision_id": "revision.glossary.794444602e0d2e96676f3604",
+  "headword": "Competence",
+  "scope_label": "ability to perform a specified role or task",
+  "definition": "Competence is the ability to perform a specified role or task using relevant knowledge and skills under the conditions that matter.",
+  "explanation": [
+    "Training or a credential may provide evidence of competence, but neither alone shows that a person can perform the work.",
+    "A useful competence judgment identifies the task, expected level of performance, and conditions of performance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
