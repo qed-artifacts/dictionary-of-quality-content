@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.mean-time-between-failures.repairable-system",
+  "revision_id": "revision.glossary.2391b9bed6127c8b77c3e924",
+  "headword": "Mean time between failures",
+  "scope_label": "average operating time per failure in a repairable system",
+  "definition": "For a repairable system, mean time between failures (MTBF) is the average operating time per failure over a stated observation period.",
+  "explanation": [
+    "It is commonly calculated as total operating time divided by the number of observed failures.",
+    "It excludes counted downtime; mean time to repair describes restoration time. The average does not predict when the next failure will occur."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
