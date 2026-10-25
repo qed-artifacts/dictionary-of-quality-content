@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.system-quality.software-system-stakeholder-needs",
+  "revision_id": "revision.glossary.a64660b4ca84751f9d4e04fe",
+  "headword": "System quality",
+  "scope_label": "quality of a software-intensive computer system",
+  "definition": "For a software-intensive computer system, system quality is how well the system meets the relevant needs of its stakeholders.",
+  "explanation": [
+    "Assessing it calls for a stated context and relevant characteristics of the system, such as reliability, usability, or security.",
+    "The needs of different stakeholders may differ, so one score or characteristic cannot establish the system's overall quality without a stated basis for judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

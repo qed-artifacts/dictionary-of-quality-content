@@ -1702,6 +1702,11 @@
       "path": "entries/sustainability/maintaining-valued-activity-within-enduring-limits/revision.glossary.42012b4784b0015fb593986a.json"
     },
     {
+      "object_id": "glossary.system-quality.software-system-stakeholder-needs",
+      "revision_id": "revision.glossary.a64660b4ca84751f9d4e04fe",
+      "path": "entries/system-quality/quality-of-a-software-intensive-computer-system/revision.glossary.a64660b4ca84751f9d4e04fe.json"
+    },
+    {
       "object_id": "glossary.tampering.common-cause-overadjustment",
       "revision_id": "revision.glossary.a1959c2c71c290271191679e",
       "path": "entries/tampering/overadjustment-of-a-stable-process-in-statistical-process-control/revision.glossary.a1959c2c71c290271191679e.json"
