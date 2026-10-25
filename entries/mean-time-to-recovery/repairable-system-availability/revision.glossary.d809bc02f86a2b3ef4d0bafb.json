@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.mean-time-to-recovery.repairable-system-restoration",
+  "revision_id": "revision.glossary.d809bc02f86a2b3ef4d0bafb",
+  "headword": "Mean time to recovery",
+  "scope_label": "repairable system availability",
+  "definition": "For a repairable system, mean time to recovery is the average elapsed time required to restore a failed unit to service under a specified counting rule.",
+  "explanation": [
+    "The start and end of recovery and any excluded waiting time must be stated; shorter recovery generally supports greater availability."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
