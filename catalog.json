@@ -1277,6 +1277,11 @@
       "path": "entries/house-of-quality/customer-to-design-planning-matrix-used-in-qfd/revision.glossary.763d052416375fa13b6cfd2a.json"
     },
     {
+      "object_id": "glossary.human-service-quality.service-process-and-outcomes",
+      "revision_id": "revision.glossary.bae9e2aecb571b082516972d",
+      "path": "entries/human-service-quality/social-and-human-services/revision.glossary.bae9e2aecb571b082516972d.json"
+    },
+    {
       "object_id": "glossary.hypothesis-test.statistical-inference",
       "revision_id": "revision.glossary.95987bf375ef9f9e91a40dfd",
       "path": "entries/hypothesis-test/statistical-test-of-a-specified-null-claim/revision.glossary.95987bf375ef9f9e91a40dfd.json"

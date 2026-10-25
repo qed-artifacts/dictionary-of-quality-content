@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.human-service-quality.service-process-and-outcomes",
+  "revision_id": "revision.glossary.bae9e2aecb571b082516972d",
+  "headword": "Human service quality",
+  "scope_label": "social and human services",
+  "definition": "Human service quality concerns how well a human service's resources, delivery, and immediate results serve its intended recipients.",
+  "explanation": [
+    "A recipient's quality of life matters, but it is not interchangeable with service quality: changes in life can also reflect circumstances outside the service."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
