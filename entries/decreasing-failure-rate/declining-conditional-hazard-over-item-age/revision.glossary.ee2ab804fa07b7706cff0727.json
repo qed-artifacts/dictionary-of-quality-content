@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.decreasing-failure-rate.declining-survivor-hazard",
+  "revision_id": "revision.glossary.ee2ab804fa07b7706cff0727",
+  "headword": "Decreasing failure rate",
+  "scope_label": "declining conditional hazard over item age",
+  "definition": "A decreasing failure rate means that, over a specified period, the instantaneous rate of failure falls as the surviving items age.",
+  "explanation": [
+    "It can describe an early-life period in which vulnerable items fail and the remaining population has a lower conditional failure rate.",
+    "The pattern concerns the population of survivors; it does not mean that every individual item becomes more reliable as it ages."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -562,6 +562,11 @@
       "path": "entries/decision/choice-of-a-course-of-action/revision.glossary.4f7326c4c33b093820f235fe.json"
     },
     {
+      "object_id": "glossary.decreasing-failure-rate.declining-survivor-hazard",
+      "revision_id": "revision.glossary.ee2ab804fa07b7706cff0727",
+      "path": "entries/decreasing-failure-rate/declining-conditional-hazard-over-item-age/revision.glossary.ee2ab804fa07b7706cff0727.json"
+    },
+    {
       "object_id": "glossary.defect-density.software-size-normalized",
       "revision_id": "revision.glossary.e6e8092f6a796f21c4287011",
       "path": "entries/defect-density/identified-software-defects-per-specified-software-size-unit/revision.glossary.e6e8092f6a796f21c4287011.json"
