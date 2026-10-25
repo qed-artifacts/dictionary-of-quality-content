@@ -942,6 +942,11 @@
       "path": "entries/decision/choice-of-a-course-of-action/revision.glossary.4f7326c4c33b093820f235fe.json"
     },
     {
+      "object_id": "glossary.declaration-of-conformity.issuer-statement",
+      "revision_id": "revision.glossary.8e6ea5efc2c6d95f848262c5",
+      "path": "entries/declaration-of-conformity/issuer-s-formal-statement-of-an-identified-product-s-conformity/revision.glossary.8e6ea5efc2c6d95f848262c5.json"
+    },
+    {
       "object_id": "glossary.decreasing-failure-rate.declining-survivor-hazard",
       "revision_id": "revision.glossary.ee2ab804fa07b7706cff0727",
       "path": "entries/decreasing-failure-rate/declining-conditional-hazard-over-item-age/revision.glossary.ee2ab804fa07b7706cff0727.json"
