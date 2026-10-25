@@ -2417,6 +2417,11 @@
       "path": "entries/quality-management/organizational-direction-and-operation-concerning-quality/revision.glossary.6f2edadb4219dae6e4a8f21a.json"
     },
     {
+      "object_id": "glossary.quality-manual.management-system-document",
+      "revision_id": "revision.glossary.277a4b3e3c5b8df9df5061f9",
+      "path": "entries/quality-manual/management-system-overview-document/revision.glossary.277a4b3e3c5b8df9df5061f9.json"
+    },
+    {
       "object_id": "glossary.quality-maturity.organizational-practices",
       "revision_id": "revision.glossary.fa6c8edf99f552475e2f997c",
       "path": "entries/quality-maturity/organizational-quality-management/revision.glossary.fa6c8edf99f552475e2f997c.json"
