@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.resolution.measuring-system-smallest-distinguishable-change",
+  "revision_id": "revision.glossary.8508d8f8496929e1c7badcb7",
+  "headword": "Resolution",
+  "scope_label": "metrology of a measuring system or display",
+  "definition": "In metrology, resolution is the smallest change in a quantity that a measuring system or display can meaningfully distinguish.",
+  "explanation": [
+    "On a digital display, it may appear as the step represented by the last displayed digit.",
+    "Finer resolution does not by itself establish greater accuracy or lower measurement uncertainty."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
