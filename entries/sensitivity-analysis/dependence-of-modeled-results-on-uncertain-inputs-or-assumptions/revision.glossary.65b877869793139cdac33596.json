@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.sensitivity-analysis.decision-model",
+  "revision_id": "revision.glossary.65b877869793139cdac33596",
+  "headword": "Sensitivity analysis",
+  "scope_label": "dependence of modeled results on uncertain inputs or assumptions",
+  "definition": "Sensitivity analysis examines how an analysis's results or conclusions change when specified inputs or assumptions are varied.",
+  "explanation": [
+    "State which inputs vary, the ranges or scenarios used, and the outputs compared.",
+    "It reveals dependence on those choices but does not, by itself, establish that the model or chosen ranges are correct."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
