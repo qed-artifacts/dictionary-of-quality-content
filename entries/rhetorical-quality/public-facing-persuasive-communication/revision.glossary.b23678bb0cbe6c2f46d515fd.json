@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.rhetorical-quality.responsible-audience-address",
+  "revision_id": "revision.glossary.b23678bb0cbe6c2f46d515fd",
+  "headword": "Rhetorical quality",
+  "scope_label": "public-facing persuasive communication",
+  "definition": "Rhetorical quality is how well a communication uses facts, reasons, language, and form to address a particular audience and purpose responsibly.",
+  "explanation": [
+    "Persuasive effect alone does not establish it; the message also needs a sound factual and ethical basis for the choices it invites."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
