@@ -257,6 +257,11 @@
       "path": "entries/causal-factor/potential-or-established-contributor-to-a-specified-effect-in-quality-analysis/revision.glossary.bd9ce69353a894084c714b69.json"
     },
     {
+      "object_id": "glossary.causal-hypothesis.proposed-cause-effect",
+      "revision_id": "revision.glossary.1dd3041bf5654ce8f886471f",
+      "path": "entries/causal-hypothesis/empirical-causal-inquiry/revision.glossary.1dd3041bf5654ce8f886471f.json"
+    },
+    {
       "object_id": "glossary.certainty-of-evidence.grade-outcome-confidence",
       "revision_id": "revision.glossary.62edd5fe7ccc5f67f8dbe6c2",
       "path": "entries/certainty-of-evidence/grade-confidence-in-an-outcome-specific-evidence-body/revision.glossary.62edd5fe7ccc5f67f8dbe6c2.json"
