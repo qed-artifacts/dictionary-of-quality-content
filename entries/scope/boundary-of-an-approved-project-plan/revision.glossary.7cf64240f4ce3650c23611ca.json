@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.scope.project-plan",
+  "revision_id": "revision.glossary.7cf64240f4ce3650c23611ca",
+  "headword": "Scope",
+  "scope_label": "boundary of an approved project plan",
+  "definition": "In project management, scope is the agreed boundary of what a project will deliver and the work included to deliver it.",
+  "explanation": [
+    "An approved plan and its product descriptions make that boundary inspectable.",
+    "A proposed addition changes scope if it adds work or deliverables outside that agreement."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
