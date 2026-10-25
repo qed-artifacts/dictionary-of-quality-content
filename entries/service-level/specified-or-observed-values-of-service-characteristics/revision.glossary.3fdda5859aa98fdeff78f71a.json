@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.service-level.service-characteristic-values",
+  "revision_id": "revision.glossary.3fdda5859aa98fdeff78f71a",
+  "headword": "Service level",
+  "scope_label": "specified or observed values of service characteristics",
+  "definition": "A service level states values for specified characteristics of a service, such as response time or availability, within a defined scope and period.",
+  "explanation": [
+    "The level may be required, agreed between parties, or actually achieved; these are different descriptions of the service.",
+    "A target service level does not by itself establish that the service delivered met it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
