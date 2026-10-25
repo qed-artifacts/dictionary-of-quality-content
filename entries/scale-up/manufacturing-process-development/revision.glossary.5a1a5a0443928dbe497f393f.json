@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.scale-up.lab-to-production-process-transfer",
+  "revision_id": "revision.glossary.5a1a5a0443928dbe497f393f",
+  "headword": "Scale-up",
+  "scope_label": "manufacturing process development",
+  "definition": "In manufacturing development, scale-up is the planned transfer of a process from laboratory or pilot operation to a larger production scale.",
+  "explanation": [
+    "It may proceed directly or through a pilot plant. Equipment and process conditions must be checked at the new scale to keep the intended product characteristics."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
