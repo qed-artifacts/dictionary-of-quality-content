@@ -1127,6 +1127,11 @@
       "path": "entries/goodness/cross-domain-evaluative-sense/revision.glossary.07e706622cccd8a1477c1ce5.json"
     },
     {
+      "object_id": "glossary.governance-quality.public-authority",
+      "revision_id": "revision.glossary.41d777c6802af7c50f637f17",
+      "path": "entries/governance-quality/evaluation-of-public-governing-arrangements-and-conduct/revision.glossary.41d777c6802af7c50f637f17.json"
+    },
+    {
       "object_id": "glossary.governance.organizational-decisions",
       "revision_id": "revision.glossary.56c5cd77153fb9aac4733dbe",
       "path": "entries/governance/organizational-direction-and-oversight-of-decisions/revision.glossary.56c5cd77153fb9aac4733dbe.json"

@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.governance-quality.public-authority",
+  "revision_id": "revision.glossary.41d777c6802af7c50f637f17",
+  "headword": "Governance quality",
+  "scope_label": "evaluation of public governing arrangements and conduct",
+  "definition": "In public administration, governance quality is how well governing arrangements and decisions meet relevant standards for exercising public authority.",
+  "explanation": [
+    "The appraisal may consider accountability, transparency, effectiveness, fairness, and the rule of law, with their relevance made explicit for the case.",
+    "Efficient service delivery alone cannot settle the judgment if other governing standards are also at stake."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
