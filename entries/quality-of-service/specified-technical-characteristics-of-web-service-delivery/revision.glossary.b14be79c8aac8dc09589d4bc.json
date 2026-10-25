@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-of-service.web-services",
+  "revision_id": "revision.glossary.b14be79c8aac8dc09589d4bc",
+  "headword": "Quality of service",
+  "scope_label": "specified technical characteristics of web-service delivery",
+  "definition": "For a web service, quality of service (QoS) describes specified characteristics of its delivery, such as performance, reliability, or accessibility.",
+  "explanation": [
+    "A QoS model identifies which characteristics matter and how they are assessed for the service.",
+    "Technical QoS results can inform, but do not alone settle, a user's judgment of the wider service experience."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
