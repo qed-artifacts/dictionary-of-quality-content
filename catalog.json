@@ -462,6 +462,11 @@
       "path": "entries/management-review/leadership-review-of-a-quality-management-system/revision.glossary.205c2f470465edc40f66e58c.json"
     },
     {
+      "object_id": "glossary.manufacturing-quality.process-and-output",
+      "revision_id": "revision.glossary.f5f350673df682c7416e8d21",
+      "path": "entries/manufacturing-quality/manufacturing-process-and-output-against-applicable-requirements/revision.glossary.f5f350673df682c7416e8d21.json"
+    },
+    {
       "object_id": "glossary.measure.program-evaluation",
       "revision_id": "revision.glossary.1650402b8d4d151c5bd0f98a",
       "path": "entries/measure/program-evaluation-evidence-specification/revision.glossary.1650402b8d4d151c5bd0f98a.json"
