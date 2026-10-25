@@ -1317,6 +1317,11 @@
       "path": "entries/internal-quality-audit/first-party-audit-of-an-organization-s-quality-related-work/revision.glossary.28ff8c7690cf02a931e19f90.json"
     },
     {
+      "object_id": "glossary.internal-validity.causal-inference",
+      "revision_id": "revision.glossary.0136f264cf4a77101a667786",
+      "path": "entries/internal-validity/warrant-for-causal-inference-within-studied-cases/revision.glossary.0136f264cf4a77101a667786.json"
+    },
+    {
       "object_id": "glossary.interoperability.exchange-and-use-information",
       "revision_id": "revision.glossary.23c8d99b257d99acc8c567bf",
       "path": "entries/interoperability/systems-exchanging-and-using-information/revision.glossary.23c8d99b257d99acc8c567bf.json"
