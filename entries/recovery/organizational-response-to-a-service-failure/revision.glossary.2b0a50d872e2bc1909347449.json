@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.recovery.service-failure",
+  "revision_id": "revision.glossary.2b0a50d872e2bc1909347449",
+  "headword": "Recovery",
+  "scope_label": "organizational response to a service failure",
+  "definition": "In service management, recovery is an organization's response to a service failure to address its effects and restore the customer's experience.",
+  "explanation": [
+    "It can begin when staff notice a failure, before a customer complains.",
+    "Effective recovery may also identify the cause of the failure so similar problems become less likely."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

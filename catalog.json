@@ -982,6 +982,11 @@
       "path": "entries/rating/assigned-level-on-an-itemized-assessment-scale/revision.glossary.6715871bf0ab55c77685524b.json"
     },
     {
+      "object_id": "glossary.recovery.service-failure",
+      "revision_id": "revision.glossary.2b0a50d872e2bc1909347449",
+      "path": "entries/recovery/organizational-response-to-a-service-failure/revision.glossary.2b0a50d872e2bc1909347449.json"
+    },
+    {
       "object_id": "glossary.relationship-matrix.hoq-body",
       "revision_id": "revision.glossary.f85dc2b887068ef8c68292a4",
       "path": "entries/relationship-matrix/customer-to-technical-grid-in-a-house-of-quality/revision.glossary.f85dc2b887068ef8c68292a4.json"
