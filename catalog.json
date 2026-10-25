@@ -1212,6 +1212,11 @@
       "path": "entries/healthcare-quality/quality-of-care-and-its-delivery/revision.glossary.5e0e1a17caba7e01c76b8ed7.json"
     },
     {
+      "object_id": "glossary.hedonic-quality.experience-pleasantness",
+      "revision_id": "revision.glossary.2d405cc74d2a9e0b24167eed",
+      "path": "entries/hedonic-quality/pleasantness-of-experience/revision.glossary.2d405cc74d2a9e0b24167eed.json"
+    },
+    {
       "object_id": "glossary.histogram.frequency-by-value-bin",
       "revision_id": "revision.glossary.5e69ddb9f076e0f186c4c394",
       "path": "entries/histogram/distribution-display-for-quantitative-observations/revision.glossary.5e69ddb9f076e0f186c4c394.json"
