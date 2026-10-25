@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.defect-density.software-size-normalized",
+  "revision_id": "revision.glossary.e6e8092f6a796f21c4287011",
+  "headword": "Defect density",
+  "scope_label": "identified software defects per specified software-size unit",
+  "definition": "In software engineering, defect density is the number of identified defects relative to a specified measure of software size.",
+  "explanation": [
+    "The denominator may be code size or functional size; a result must name its size unit and which defects were counted.",
+    "Size adjustment can aid comparison, but differences in detection effort or defect definitions can still make two values misleading to compare."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
