@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-tools.quality-analysis-and-improvement-methods",
+  "revision_id": "revision.glossary.4357d685fa1148f66c211147",
+  "headword": "Quality tools",
+  "scope_label": "methods and representations used in quality control, planning and improvement",
+  "definition": "Quality tools are methods and representations used to examine, plan, control, or improve aspects of quality.",
+  "explanation": [
+    "Examples include a check sheet for collecting observations, a histogram for displaying their distribution, and a cause-and-effect diagram for organizing possible causes.",
+    "The seven basic quality-control tools are one named set; planning and management use additional tools."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
