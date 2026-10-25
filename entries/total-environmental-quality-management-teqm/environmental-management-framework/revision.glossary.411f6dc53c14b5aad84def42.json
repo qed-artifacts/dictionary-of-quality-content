@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.total-environmental-quality-management-teqm.environment-centered-quality-framework",
+  "revision_id": "revision.glossary.411f6dc53c14b5aad84def42",
+  "headword": "Total environmental quality management (TEQM)",
+  "scope_label": "environmental-management framework",
+  "definition": "Total environmental quality management (TEQM) is an approach that applies organization-wide quality-management thinking to environmental effects.",
+  "explanation": [
+    "It places environmental concerns at the center of decisions about activities and their inputs and outputs. The term names a particular framework; it is not a general label for every environmental-management system."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
