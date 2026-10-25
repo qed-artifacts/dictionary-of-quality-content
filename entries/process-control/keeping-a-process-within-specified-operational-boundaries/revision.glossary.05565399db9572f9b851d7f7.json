@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.process-control.quality-requirements",
+  "revision_id": "revision.glossary.05565399db9572f9b851d7f7",
+  "headword": "Process control",
+  "scope_label": "keeping a process within specified operational boundaries",
+  "definition": "Process control is the monitoring and adjustment of a process to keep its behavior and outputs within intended boundaries.",
+  "explanation": [
+    "It requires stated process requirements, observations of performance, and responses when the process moves away from those requirements.",
+    "It addresses how the process operates over time, rather than relying only on inspection of a finished output."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
