@@ -2802,6 +2802,11 @@
       "path": "entries/test/specified-examination-of-an-item-s-response-in-quality-engineering/revision.glossary.d0cf39c2cd487621191035b7.json"
     },
     {
+      "object_id": "glossary.testability.software-criteria-and-observation",
+      "revision_id": "revision.glossary.d3880ad48619d85299e2b11d",
+      "path": "entries/testability/software-systems-and-requirements/revision.glossary.d3880ad48619d85299e2b11d.json"
+    },
+    {
       "object_id": "glossary.testing.product-characteristic-assessment",
       "revision_id": "revision.glossary.1b469a3b1fee5b2af84851f9",
       "path": "entries/testing/product-or-component-assessment-in-quality-engineering/revision.glossary.1b469a3b1fee5b2af84851f9.json"
