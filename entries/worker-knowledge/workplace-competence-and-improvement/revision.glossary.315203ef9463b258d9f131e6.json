@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.worker-knowledge.work-relevant-understanding",
+  "revision_id": "revision.glossary.315203ef9463b258d9f131e6",
+  "headword": "Worker knowledge",
+  "scope_label": "workplace competence and improvement",
+  "definition": "Worker knowledge is the task, process, and situational understanding people bring to performing and improving their work.",
+  "explanation": [
+    "It may develop through study and practice. Knowledge is one part of competence, alongside experience, skills, and the conditions that let a worker apply them."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
