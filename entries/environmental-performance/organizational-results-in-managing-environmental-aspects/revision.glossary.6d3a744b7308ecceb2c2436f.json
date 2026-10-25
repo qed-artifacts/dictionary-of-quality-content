@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.environmental-performance.management-results",
+  "revision_id": "revision.glossary.6d3a744b7308ecceb2c2436f",
+  "headword": "Environmental performance",
+  "scope_label": "organizational results in managing environmental aspects",
+  "definition": "In environmental management, environmental performance is the results of how an organization manages its environmental aspects.",
+  "explanation": [
+    "Those results can be assessed against its policy, objectives, or other stated criteria using suitable indicators.",
+    "Having a management system does not by itself show that environmental results are good; the results and their basis for comparison must be examined."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
