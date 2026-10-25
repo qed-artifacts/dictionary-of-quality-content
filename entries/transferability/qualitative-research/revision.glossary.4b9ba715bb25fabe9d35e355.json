@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.transferability.qualitative-findings-context-fit",
+  "revision_id": "revision.glossary.4b9ba715bb25fabe9d35e355",
+  "headword": "Transferability",
+  "scope_label": "qualitative research",
+  "definition": "In qualitative research, transferability is the potential for a finding to offer useful insight in a setting or situation beyond the one studied.",
+  "explanation": [
+    "It must be judged against the new purpose and context; a finding is not automatically applicable everywhere."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
