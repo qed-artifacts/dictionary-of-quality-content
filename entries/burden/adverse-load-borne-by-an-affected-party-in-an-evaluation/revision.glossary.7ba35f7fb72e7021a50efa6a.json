@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.burden.affected-party-cost",
+  "revision_id": "revision.glossary.7ba35f7fb72e7021a50efa6a",
+  "headword": "Burden",
+  "scope_label": "adverse load borne by an affected party in an evaluation",
+  "definition": "A burden is a cost, effort, loss, or other adverse load borne by someone under an activity or condition.",
+  "explanation": [
+    "Identify who bears it, its form, extent, and time period; a burden can be financial or nonfinancial.",
+    "A benefit to one group does not erase a burden borne by another."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
