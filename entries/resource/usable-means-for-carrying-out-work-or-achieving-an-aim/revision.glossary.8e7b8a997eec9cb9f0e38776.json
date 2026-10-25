@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.resource.means-for-an-aim",
+  "revision_id": "revision.glossary.8e7b8a997eec9cb9f0e38776",
+  "headword": "Resource",
+  "scope_label": "usable means for carrying out work or achieving an aim",
+  "definition": "A resource is something available for use in carrying out an activity or pursuing an aim.",
+  "explanation": [
+    "Time, people, skills, money, equipment, materials, space, and information can all serve as resources, depending on the task.",
+    "Some resources can be reused, while others are consumed or depleted; identifying a resource does not establish that enough of it is available."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
