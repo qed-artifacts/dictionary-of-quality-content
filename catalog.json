@@ -2262,6 +2262,11 @@
       "path": "entries/tampering/overadjustment-of-a-stable-process-in-statistical-process-control/revision.glossary.a1959c2c71c290271191679e.json"
     },
     {
+      "object_id": "glossary.tangibles.service-physical-cues",
+      "revision_id": "revision.glossary.f2e26a1fe264f6d43b76be63",
+      "path": "entries/tangibles/visible-physical-features-in-service-quality-assessment/revision.glossary.f2e26a1fe264f6d43b76be63.json"
+    },
+    {
       "object_id": "glossary.target.results-monitoring",
       "revision_id": "revision.glossary.f7cffe9d77d8f7a6e5b7793a",
       "path": "entries/target/results-monitoring-and-evaluation/revision.glossary.f7cffe9d77d8f7a6e5b7793a.json"
