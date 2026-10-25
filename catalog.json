@@ -1562,6 +1562,11 @@
       "path": "entries/merit/evaluative-goodness-in-relevant-respects/revision.glossary.613077f9e6adbbe686b476df.json"
     },
     {
+      "object_id": "glossary.metadata-quality.resource-description-fitness",
+      "revision_id": "revision.glossary.4bbd6bf2ee8d9eb0466bb27a",
+      "path": "entries/metadata-quality/information-resource-description/revision.glossary.4bbd6bf2ee8d9eb0466bb27a.json"
+    },
+    {
       "object_id": "glossary.metrological-traceability.measurement-result-chain",
       "revision_id": "revision.glossary.41e96ff97d3c072b35f80c83",
       "path": "entries/metrological-traceability/property-of-a-measurement-result-related-to-a-reference/revision.glossary.41e96ff97d3c072b35f80c83.json"
