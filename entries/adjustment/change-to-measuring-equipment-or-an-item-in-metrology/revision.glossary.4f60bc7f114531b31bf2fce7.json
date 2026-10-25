@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.adjustment.change-to-measurement-item",
+  "revision_id": "revision.glossary.4f60bc7f114531b31bf2fce7",
+  "headword": "Adjustment",
+  "scope_label": "change to measuring equipment or an item in metrology",
+  "definition": "In metrology, adjustment is a deliberate change to a measuring item or system that alters its output or indication.",
+  "explanation": [
+    "It may bring an indication closer to a desired setting, but the change itself does not establish measurement accuracy.",
+    "Record the condition before and after adjustment when that difference matters; calibration and adjustment are distinct operations."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
