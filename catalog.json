@@ -2587,6 +2587,11 @@
       "path": "entries/reference-material/material-fit-for-a-specified-measurement-or-examination-use/revision.glossary.dc82abf5cd2cc8f2a03e365b.json"
     },
     {
+      "object_id": "glossary.reference-standard.metrology-calibration",
+      "revision_id": "revision.glossary.6fb66084f50062b73dda9462",
+      "path": "entries/reference-standard/measurement-standard-used-to-calibrate-other-local-standards/revision.glossary.6fb66084f50062b73dda9462.json"
+    },
+    {
       "object_id": "glossary.regulatory-compliance.applicable-rules",
       "revision_id": "revision.glossary.a264262a7c43bbf7ce70b807",
       "path": "entries/regulatory-compliance/applicable-binding-rules/revision.glossary.a264262a7c43bbf7ce70b807.json"
