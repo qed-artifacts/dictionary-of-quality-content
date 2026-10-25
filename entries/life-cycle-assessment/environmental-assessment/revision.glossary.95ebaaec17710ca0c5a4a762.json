@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.life-cycle-assessment.environmental-impacts",
+  "revision_id": "revision.glossary.95ebaaec17710ca0c5a4a762",
+  "headword": "Life-cycle assessment",
+  "scope_label": "environmental assessment",
+  "definition": "Life-cycle assessment is a method for estimating a product's or project's environmental impacts across specified stages of its life cycle.",
+  "explanation": [
+    "Its boundary and assumptions determine what is counted; it differs from life-cycle cost analysis, which examines financial costs."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
