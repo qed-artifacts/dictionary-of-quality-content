@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.minimal-detectable-change.score-error-boundary",
+  "revision_id": "revision.glossary.f83b61566779b7349d2b57d7",
+  "headword": "Minimal detectable change",
+  "scope_label": "repeated score interpretation",
+  "definition": "Minimal detectable change is the smallest difference between repeated scores that exceeds expected measurement error at a specified confidence level.",
+  "explanation": [
+    "It addresses whether a change is distinguishable from measurement noise, not whether the change matters clinically or practically."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
