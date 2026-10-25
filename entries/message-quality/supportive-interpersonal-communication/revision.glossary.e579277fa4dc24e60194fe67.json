@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.message-quality.supportive-recipient-context",
+  "revision_id": "revision.glossary.e579277fa4dc24e60194fe67",
+  "headword": "Message quality",
+  "scope_label": "supportive interpersonal communication",
+  "definition": "In supportive communication, message quality is how well a message's content and expression help its intended recipient in a particular situation.",
+  "explanation": [
+    "A polite or detailed message can still be ineffective if its advice is infeasible or does not fit the recipient's needs."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
