@@ -567,6 +567,11 @@
       "path": "entries/multi-criteria-decision-analysis/structured-comparison-using-multiple-relevant-criteria/revision.glossary.c198ee4b3a61835aa9d35a09.json"
     },
     {
+      "object_id": "glossary.need.results-gap",
+      "revision_id": "revision.glossary.61ea3c4c62f56427ff18e5ad",
+      "path": "entries/need/current-to-required-results-gap-in-needs-assessment/revision.glossary.61ea3c4c62f56427ff18e5ad.json"
+    },
+    {
       "object_id": "glossary.noise-factor.robust-design-variation",
       "revision_id": "revision.glossary.7c95d30ee9b20981dcca9802",
       "path": "entries/noise-factor/nonroutine-controlled-variation-considered-in-robust-design/revision.glossary.7c95d30ee9b20981dcca9802.json"
