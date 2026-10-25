@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.information-governance.organizational-lifecycle-rules",
+  "revision_id": "revision.glossary.3b61908a630b0dc795b55db8",
+  "headword": "Information governance",
+  "scope_label": "organizational rules and responsibilities for information",
+  "definition": "Information governance is an organization's framework of responsibilities, policies, and controls for managing information through its life cycle.",
+  "explanation": [
+    "It addresses decisions about access, use, protection, retention, and disposal across records, documents, and other information.",
+    "A policy by itself is insufficient if no one has authority or responsibility to apply it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
