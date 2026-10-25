@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.journalism-quality.reporting-standards",
+  "revision_id": "revision.glossary.655a3e50f13aba027224c7fd",
+  "headword": "Journalism quality",
+  "scope_label": "professional reporting",
+  "definition": "Journalism quality is how well reporting fulfills the purposes and standards relevant to journalism.",
+  "explanation": [
+    "Assessment may consider independence, relevance, context, and audience needs; reach alone does not establish quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
