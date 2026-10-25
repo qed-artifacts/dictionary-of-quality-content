@@ -1092,6 +1092,11 @@
       "path": "entries/process-control/keeping-a-process-within-specified-operational-boundaries/revision.glossary.05565399db9572f9b851d7f7.json"
     },
     {
+      "object_id": "glossary.process-improvement.recurring-work-change",
+      "revision_id": "revision.glossary.5bd8a6be19287df61224e3f0",
+      "path": "entries/process-improvement/deliberate-beneficial-change-to-recurring-work/revision.glossary.5bd8a6be19287df61224e3f0.json"
+    },
+    {
       "object_id": "glossary.process-measure.process-objective",
       "revision_id": "revision.glossary.95da87989900084a7a7af27d",
       "path": "entries/process-measure/measure-for-a-specified-process-objective/revision.glossary.95da87989900084a7a7af27d.json"

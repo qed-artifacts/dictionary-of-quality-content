@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.process-improvement.recurring-work-change",
+  "revision_id": "revision.glossary.5bd8a6be19287df61224e3f0",
+  "headword": "Process improvement",
+  "scope_label": "deliberate beneficial change to recurring work",
+  "definition": "Process improvement is a deliberate change to how recurring work is carried out to achieve better results against stated aims.",
+  "explanation": [
+    "It can change methods, handoffs, measurement, capacity, or skills after the present process and its results are examined.",
+    "Fixing one defective output without changing the process does not necessarily improve future output."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
