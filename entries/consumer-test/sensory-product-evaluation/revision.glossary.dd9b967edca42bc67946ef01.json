@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.consumer-test.sensory-product-evaluation",
+  "revision_id": "revision.glossary.dd9b967edca42bc67946ef01",
+  "headword": "Consumer test",
+  "scope_label": "sensory product evaluation",
+  "definition": "In sensory product evaluation, a consumer test asks intended consumers to assess a product, often for liking, acceptability, or preference.",
+  "explanation": [
+    "It captures consumer response under the test conditions; it is different from a trained panel's description of sensory attributes."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
