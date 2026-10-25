@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.referential-integrity.relational-database",
+  "revision_id": "revision.glossary.fa31e000160c2a608dffabf6",
+  "headword": "Referential integrity",
+  "scope_label": "relational database",
+  "definition": "In a relational database, referential integrity is the condition that required references between records point to records that exist.",
+  "explanation": [
+    "A foreign key expresses such a relationship; enforcing it prevents an orphan record whose required parent is absent.",
+    "The rule protects the declared link, but does not establish that the linked facts are accurate."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
