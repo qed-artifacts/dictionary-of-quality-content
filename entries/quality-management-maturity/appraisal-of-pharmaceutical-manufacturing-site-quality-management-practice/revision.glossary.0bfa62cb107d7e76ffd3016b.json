@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-management-maturity.pharmaceutical-site",
+  "revision_id": "revision.glossary.0bfa62cb107d7e76ffd3016b",
+  "headword": "Quality management maturity",
+  "scope_label": "appraisal of pharmaceutical manufacturing-site quality-management practice",
+  "definition": "For a pharmaceutical manufacturing site, quality management maturity is an appraisal of how developed and consistently applied its quality-management practices are under a specified assessment framework.",
+  "explanation": [
+    "The framework determines which practices and evidence count and how maturity is characterized.",
+    "A maturity assessment concerns the management system; it does not directly measure the quality of every product the site makes."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
