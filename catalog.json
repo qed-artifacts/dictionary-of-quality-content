@@ -607,6 +607,11 @@
       "path": "entries/critical-to-quality/assessable-characteristic-consequential-to-a-customer-need/revision.glossary.0cb44f33217090bdb3309ff7.json"
     },
     {
+      "object_id": "glossary.cronbach-s-alpha.internal-consistency",
+      "revision_id": "revision.glossary.7cad652591d379f1d351c42c",
+      "path": "entries/cronbach-s-alpha/internal-consistency-of-scores-from-multiple-test-items/revision.glossary.7cad652591d379f1d351c42c.json"
+    },
+    {
       "object_id": "glossary.customer-experience.service-journey-responses",
       "revision_id": "revision.glossary.0b006ced9760288193c5247d",
       "path": "entries/customer-experience/customer-responses-to-service-interactions-across-a-journey/revision.glossary.0b006ced9760288193c5247d.json"
