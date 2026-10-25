@@ -2102,6 +2102,11 @@
       "path": "entries/verification/evidence-based-confirmation-of-specified-requirements/revision.glossary.f4256935a998618672e280b0.json"
     },
     {
+      "object_id": "glossary.version.identified-item-state",
+      "revision_id": "revision.glossary.6d29f1677659700f1588687e",
+      "path": "entries/version/identified-state-of-an-information-item-in-configuration-control/revision.glossary.6d29f1677659700f1588687e.json"
+    },
+    {
       "object_id": "glossary.voice-of-the-customer.qfd-input",
       "revision_id": "revision.glossary.ebcf6c087b27aa2847576356",
       "path": "entries/voice-of-the-customer/customer-evidence-used-in-qfd-inquiry/revision.glossary.ebcf6c087b27aa2847576356.json"

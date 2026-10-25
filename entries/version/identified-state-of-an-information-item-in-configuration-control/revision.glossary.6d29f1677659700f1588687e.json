@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.version.identified-item-state",
+  "revision_id": "revision.glossary.6d29f1677659700f1588687e",
+  "headword": "Version",
+  "scope_label": "identified state of an information item in configuration control",
+  "definition": "In configuration control, a version is an identifiable state of an item preserved or distinguished from its other states.",
+  "explanation": [
+    "A new version records a changed state so people can tell which content they are using and trace its history.",
+    "Branches may contain different versions developed from the same earlier state; a version identifier alone does not say that a change was approved for release."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
