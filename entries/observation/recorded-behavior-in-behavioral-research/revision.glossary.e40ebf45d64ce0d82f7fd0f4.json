@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.observation.behavioral-record",
+  "revision_id": "revision.glossary.e40ebf45d64ce0d82f7fd0f4",
+  "headword": "Observation",
+  "scope_label": "recorded behavior in behavioral research",
+  "definition": "In behavioral research, an observation is a record of behavior made while watching it under stated conditions.",
+  "explanation": [
+    "Specify who or what was watched, when, and how the behavior was recorded or coded.",
+    "The record can support an inference about a broader condition, but the condition itself may not be directly observable."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
