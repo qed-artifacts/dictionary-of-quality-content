@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.external-quality-audit.second-or-third-party-quality-audit",
+  "revision_id": "revision.glossary.0357195e8b8769bbe048046c",
+  "headword": "External quality audit",
+  "scope_label": "quality-management auditing",
+  "definition": "An external quality audit is a second- or third-party assessment of an organization's quality-related activities, processes, or system against stated criteria.",
+  "explanation": [
+    "A customer may conduct or commission a second-party audit; an independent body may conduct a third-party audit. An organization can outsource its own internal audit without turning it into an external audit."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

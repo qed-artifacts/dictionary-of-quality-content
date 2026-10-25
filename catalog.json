@@ -1122,6 +1122,11 @@
       "path": "entries/external-failure-cost/cost-arising-from-defects-discovered-during-or-after-delivery/revision.glossary.2a4c8b4c2dfa7e5638b88cfa.json"
     },
     {
+      "object_id": "glossary.external-quality-audit.second-or-third-party-quality-audit",
+      "revision_id": "revision.glossary.0357195e8b8769bbe048046c",
+      "path": "entries/external-quality-audit/quality-management-auditing/revision.glossary.0357195e8b8769bbe048046c.json"
+    },
+    {
       "object_id": "glossary.external-validity.generalization",
       "revision_id": "revision.glossary.8b0b4e1f0ece0282cd8bda86",
       "path": "entries/external-validity/warrant-for-applying-study-findings-beyond-studied-cases/revision.glossary.8b0b4e1f0ece0282cd8bda86.json"
