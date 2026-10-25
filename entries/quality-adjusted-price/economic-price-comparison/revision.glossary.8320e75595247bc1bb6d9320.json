@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-adjusted-price.output-characteristics",
+  "revision_id": "revision.glossary.8320e75595247bc1bb6d9320",
+  "headword": "Quality-adjusted price",
+  "scope_label": "economic price comparison",
+  "definition": "A quality-adjusted price accounts for differences in relevant features of the goods or services being compared, so price changes are not confused with changes in what is provided.",
+  "explanation": [
+    "The adjustment depends on which features are counted and how their contribution is estimated; it is not simply a lower advertised price."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
