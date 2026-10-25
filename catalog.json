@@ -332,6 +332,11 @@
       "path": "entries/code-compliance/conformity-to-applicable-construction-regulatory-provisions/revision.glossary.9003b2ed6519289780f18a75.json"
     },
     {
+      "object_id": "glossary.code-coverage.software-testing",
+      "revision_id": "revision.glossary.22a51f015a42c1cba1ca6323",
+      "path": "entries/code-coverage/software-testing/revision.glossary.22a51f015a42c1cba1ca6323.json"
+    },
+    {
       "object_id": "glossary.coherence.argument-integration",
       "revision_id": "revision.glossary.096bb3015daae77b6db906c7",
       "path": "entries/coherence/fit-among-parts-of-an-argument/revision.glossary.096bb3015daae77b6db906c7.json"
