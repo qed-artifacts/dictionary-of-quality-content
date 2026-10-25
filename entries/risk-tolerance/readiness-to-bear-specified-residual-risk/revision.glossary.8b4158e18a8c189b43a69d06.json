@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.risk-tolerance.acceptable-residual-exposure",
+  "revision_id": "revision.glossary.8b4158e18a8c189b43a69d06",
+  "headword": "Risk tolerance",
+  "scope_label": "readiness to bear specified residual risk",
+  "definition": "In organizational risk management, risk tolerance is the level of a specified risk that an organization or stakeholder is prepared to bear while pursuing an objective.",
+  "explanation": [
+    "It can be assessed after available risk treatments and may differ among the people who own different risks.",
+    "It is a more particular acceptance judgment than an organization's broad risk appetite; it need not be a single numerical maximum."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
