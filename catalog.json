@@ -267,6 +267,11 @@
       "path": "entries/composite-indicator/aggregate-index-and-constitutive-component-technical-uses/revision.glossary.9d1c7633b4ac456f0f567508.json"
     },
     {
+      "object_id": "glossary.concession.nonconforming-output-authorization",
+      "revision_id": "revision.glossary.fb49812302632ba78683aaa6",
+      "path": "entries/concession/bounded-authorization-to-use-or-release-a-nonconforming-output/revision.glossary.fb49812302632ba78683aaa6.json"
+    },
+    {
       "object_id": "glossary.condition.claim-applicability",
       "revision_id": "revision.glossary.f6c6911ddd72beaf35831cd6",
       "path": "entries/condition/circumstance-or-prerequisite-affecting-the-applicability-of-a-claim-or-result/revision.glossary.f6c6911ddd72beaf35831cd6.json"
