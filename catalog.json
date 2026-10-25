@@ -752,6 +752,11 @@
       "path": "entries/requirement/quality-management-and-technical-specifications/revision.glossary.62d5505c354c23c8f91e5065.json"
     },
     {
+      "object_id": "glossary.research-quality.warranted-inquiry",
+      "revision_id": "revision.glossary.b05ec08bfc0b7be413517f23",
+      "path": "entries/research-quality/merit-of-inquiry-and-its-outputs-for-a-stated-purpose/revision.glossary.b05ec08bfc0b7be413517f23.json"
+    },
+    {
       "object_id": "glossary.response-surface.expected-response-model",
       "revision_id": "revision.glossary.c5edd37c9cd8d49b0e9a2763",
       "path": "entries/response-surface/modeled-expected-response-over-combinations-of-input-levels/revision.glossary.c5edd37c9cd8d49b0e9a2763.json"
