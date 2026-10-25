@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.kj-method.qualitative-affinity-grouping",
+  "revision_id": "revision.glossary.21c6ccc8fba7827dd8999725",
+  "headword": "KJ method",
+  "scope_label": "qualitative synthesis and quality function deployment",
+  "definition": "The KJ method organizes many qualitative observations or ideas into groups based on their perceived affinities, then develops themes from those groups.",
+  "explanation": [
+    "In QFD, it can help a team turn raw customer statements into articulated needs. The groupings are interpretive judgments, not numerical measurements."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
