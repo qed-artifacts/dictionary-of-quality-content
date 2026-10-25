@@ -1467,6 +1467,11 @@
       "path": "entries/loss-function/numerical-cost-assigned-to-supervised-prediction-outcomes/revision.glossary.807952bba247773a756cc0b4.json"
     },
     {
+      "object_id": "glossary.lot-acceptance.sampling-decision",
+      "revision_id": "revision.glossary.0ed387afbba64e15a29f0c13",
+      "path": "entries/lot-acceptance/acceptance-sampling/revision.glossary.0ed387afbba64e15a29f0c13.json"
+    },
+    {
       "object_id": "glossary.lot.acceptance-sampling",
       "revision_id": "revision.glossary.f50c47706f49f878b2ca90b5",
       "path": "entries/lot/defined-product-quantity-for-sampling-decision/revision.glossary.f50c47706f49f878b2ca90b5.json"
