@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.z-value.standard-normal-location",
+  "revision_id": "revision.glossary.eea789e8104e7fdd73ac8277",
+  "headword": "Z-value",
+  "scope_label": "normal-distribution statistics",
+  "definition": "For a normally distributed quantity, a Z-value indicates how many standard deviations an observation lies above or below its mean.",
+  "explanation": [
+    "Compute it by subtracting the mean from the observation and dividing by a nonzero standard deviation. Positive values lie above the mean, negative values below it, and zero is at the mean."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
