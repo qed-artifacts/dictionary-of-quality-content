@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.cost-effectiveness-analysis.costs-relative-to-outcomes",
+  "revision_id": "revision.glossary.78090e5fa4e6e919d43d4bbc",
+  "headword": "Cost-effectiveness analysis",
+  "scope_label": "comparison of interventions for a stated outcome",
+  "definition": "Cost-effectiveness analysis compares alternatives by examining both their costs and their effects on a stated outcome.",
+  "explanation": [
+    "It can show the resources needed for each unit of effect when outcomes are measured comparably. A low cost alone does not make an option cost-effective."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
