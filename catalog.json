@@ -1907,6 +1907,11 @@
       "path": "entries/software-configuration-management/identification-and-control-of-changing-software-system-items/revision.glossary.4ed0178cf9c52f4bd0c69b3a.json"
     },
     {
+      "object_id": "glossary.software-quality-assurance.lifecycle-confidence-work",
+      "revision_id": "revision.glossary.50fa5bc14742c4f5d8834e59",
+      "path": "entries/software-quality-assurance/systematic-confidence-building-activities-across-software-development/revision.glossary.50fa5bc14742c4f5d8834e59.json"
+    },
+    {
       "object_id": "glossary.software-quality.product-and-use",
       "revision_id": "revision.glossary.f5564f749f5beb09b959714b",
       "path": "entries/software-quality/software-product-and-quality-in-use/revision.glossary.f5564f749f5beb09b959714b.json"
