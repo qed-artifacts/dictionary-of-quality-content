@@ -177,6 +177,11 @@
       "path": "entries/average-outgoing-quality/expected-outgoing-nonconforming-fraction-under-rectifying-sampling/revision.glossary.95a15177915228edecc93399.json"
     },
     {
+      "object_id": "glossary.balance.journalistic-representation",
+      "revision_id": "revision.glossary.961fdeeafa9bff6fa5131113",
+      "path": "entries/balance/representation-of-perspectives-in-news-reporting/revision.glossary.961fdeeafa9bff6fa5131113.json"
+    },
+    {
       "object_id": "glossary.batch-release.eu-atmp-gmp-disposition",
       "revision_id": "revision.glossary.3ba057a418bdeca5ed6a3396",
       "path": "entries/batch-release/eu-advanced-therapy-medicinal-product-manufacture/revision.glossary.3ba057a418bdeca5ed6a3396.json"
