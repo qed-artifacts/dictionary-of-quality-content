@@ -547,6 +547,11 @@
       "path": "entries/measurement-uncertainty/metrological-uncertainty-associated-with-a-measured-quantity/revision.glossary.c9a295b262bf1cdcd5cc9103.json"
     },
     {
+      "object_id": "glossary.merit.relevant-goodness",
+      "revision_id": "revision.glossary.613077f9e6adbbe686b476df",
+      "path": "entries/merit/evaluative-goodness-in-relevant-respects/revision.glossary.613077f9e6adbbe686b476df.json"
+    },
+    {
       "object_id": "glossary.metrological-traceability.measurement-result-chain",
       "revision_id": "revision.glossary.41e96ff97d3c072b35f80c83",
       "path": "entries/metrological-traceability/property-of-a-measurement-result-related-to-a-reference/revision.glossary.41e96ff97d3c072b35f80c83.json"
