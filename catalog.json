@@ -952,6 +952,11 @@
       "path": "entries/quality-loss-function/modeled-loss-associated-with-a-quality-characteristic-departing-from-a-target/revision.glossary.dfbdfe6eff764f7aa5f2c5da.json"
     },
     {
+      "object_id": "glossary.quality-management-plan.project",
+      "revision_id": "revision.glossary.22b8b2ab1d614b1412678f2a",
+      "path": "entries/quality-management-plan/quality-management-component-of-a-project-plan/revision.glossary.22b8b2ab1d614b1412678f2a.json"
+    },
+    {
       "object_id": "glossary.quality-management-system.organization",
       "revision_id": "revision.glossary.b7305c42f1c371f0d1420702",
       "path": "entries/quality-management-system/organizational-system-for-managing-quality/revision.glossary.b7305c42f1c371f0d1420702.json"

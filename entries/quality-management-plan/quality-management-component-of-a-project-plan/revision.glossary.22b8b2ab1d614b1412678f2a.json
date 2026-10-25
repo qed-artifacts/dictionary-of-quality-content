@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-management-plan.project",
+  "revision_id": "revision.glossary.22b8b2ab1d614b1412678f2a",
+  "headword": "Quality management plan",
+  "scope_label": "quality-management component of a project plan",
+  "definition": "A project quality management plan explains how the project will apply its quality policies, methods, roles, and resources to achieve stated quality objectives.",
+  "explanation": [
+    "It connects the objectives to responsibilities, planned activities, and the checks used to manage quality across the project.",
+    "The plan governs the project's approach; a product-specific quality plan may set out controls for one deliverable."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
