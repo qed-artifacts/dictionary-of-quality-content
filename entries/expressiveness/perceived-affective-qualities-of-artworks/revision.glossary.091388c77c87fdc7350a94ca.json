@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.expressiveness.artistic-affect",
+  "revision_id": "revision.glossary.091388c77c87fdc7350a94ca",
+  "headword": "Expressiveness",
+  "scope_label": "perceived affective qualities of artworks",
+  "definition": "In aesthetics, expressiveness is an artwork's capacity to present qualities that viewers or listeners perceive as akin to human feeling.",
+  "explanation": [
+    "A painting may seem mournful or music may sound joyful through their perceptible features and the way an audience engages with them.",
+    "Philosophers differ about how such qualities arise; an expressive work need not be a direct report of its maker's feelings."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

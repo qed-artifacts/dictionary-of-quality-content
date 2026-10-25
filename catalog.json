@@ -1252,6 +1252,11 @@
       "path": "entries/expected-value/probability-weighted-average-of-numerical-outcomes/revision.glossary.34216abf7d12ede5b4bce646.json"
     },
     {
+      "object_id": "glossary.expressiveness.artistic-affect",
+      "revision_id": "revision.glossary.091388c77c87fdc7350a94ca",
+      "path": "entries/expressiveness/perceived-affective-qualities-of-artworks/revision.glossary.091388c77c87fdc7350a94ca.json"
+    },
+    {
       "object_id": "glossary.external-failure-cost.delivery-stage-nonconformity",
       "revision_id": "revision.glossary.2a4c8b4c2dfa7e5638b88cfa",
       "path": "entries/external-failure-cost/cost-arising-from-defects-discovered-during-or-after-delivery/revision.glossary.2a4c8b4c2dfa7e5638b88cfa.json"
