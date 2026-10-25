@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.sound-quality.contextual-audible-fit",
+  "revision_id": "revision.glossary.5b53fef1553887aa26ca570b",
+  "headword": "Sound quality",
+  "scope_label": "perceived product sound",
+  "definition": "Sound quality is how well a sound's audible character serves the purpose or experience for which it is judged.",
+  "explanation": [
+    "A crisp bite may be desirable in a snack, while quietness may matter in a car cabin; loudness alone cannot settle either judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
