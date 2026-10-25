@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.relative-contribution.category-share-of-total",
+  "revision_id": "revision.glossary.6042c21eca8f5e257b9c2be8",
+  "headword": "Relative contribution",
+  "scope_label": "category share of an observed total in a Pareto analysis",
+  "definition": "In a Pareto analysis, relative contribution is the share of the observed total represented by one category.",
+  "explanation": [
+    "For counts, divide the category count by the count across all included categories and state the population and period being counted.",
+    "A large share identifies where observations concentrate; it does not, by itself, establish the cause of those observations."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
