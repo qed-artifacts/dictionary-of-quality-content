@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.convergent-validity.predicted-score-relations",
+  "revision_id": "revision.glossary.ee7cdc7d51b3d49d833058de",
+  "headword": "Convergent validity",
+  "scope_label": "evidence from predicted relations among measures of related constructs",
+  "definition": "Convergent validity is evidence that scores relate to other measures of the same or related constructs as the intended interpretation predicts.",
+  "explanation": [
+    "The expected relation should be stated in advance and judged alongside other validity evidence.",
+    "A strong correlation alone cannot establish that two measures capture the intended construct."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
