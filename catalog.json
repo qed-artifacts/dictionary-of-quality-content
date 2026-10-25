@@ -2312,6 +2312,11 @@
       "path": "entries/response-surface/modeled-expected-response-over-combinations-of-input-levels/revision.glossary.c5edd37c9cd8d49b0e9a2763.json"
     },
     {
+      "object_id": "glossary.responsible-ai.development-deployment",
+      "revision_id": "revision.glossary.aa60579cb3720f2eea4c1557",
+      "path": "entries/responsible-ai/ai-system-development-deployment-and-operation/revision.glossary.aa60579cb3720f2eea4c1557.json"
+    },
+    {
       "object_id": "glossary.responsiveness.service-quality",
       "revision_id": "revision.glossary.5216b80b38836caec8088317",
       "path": "entries/responsiveness/timely-helpful-response-in-service-delivery/revision.glossary.5216b80b38836caec8088317.json"
