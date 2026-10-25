@@ -2552,6 +2552,11 @@
       "path": "entries/revision/changed-version-of-a-controlled-document/revision.glossary.9950c2253fe94592034cb591.json"
     },
     {
+      "object_id": "glossary.rhetorical-quality.responsible-audience-address",
+      "revision_id": "revision.glossary.b23678bb0cbe6c2f46d515fd",
+      "path": "entries/rhetorical-quality/public-facing-persuasive-communication/revision.glossary.b23678bb0cbe6c2f46d515fd.json"
+    },
+    {
       "object_id": "glossary.right.human-rights-instrument",
       "revision_id": "revision.glossary.8e0b677885728239f7083e38",
       "path": "entries/right/protected-claim-or-freedom-in-a-human-rights-instrument/revision.glossary.8e0b677885728239f7083e38.json"
