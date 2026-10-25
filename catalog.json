@@ -1122,6 +1122,11 @@
       "path": "entries/specification/documented-technical-requirements/revision.glossary.af811b0f53d934737cbb61b9.json"
     },
     {
+      "object_id": "glossary.stability.statistical-process-control",
+      "revision_id": "revision.glossary.5277ba99ce77ee61e515d9be",
+      "path": "entries/stability/statistical-stability-of-a-monitored-process/revision.glossary.5277ba99ce77ee61e515d9be.json"
+    },
+    {
       "object_id": "glossary.stakeholder-value.valued-project-concern",
       "revision_id": "revision.glossary.5fbf0cdfdf92a327388687e7",
       "path": "entries/stakeholder-value/what-a-stakeholder-values-in-project-planning/revision.glossary.5fbf0cdfdf92a327388687e7.json"
