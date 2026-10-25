@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.tangibles.service-physical-cues",
+  "revision_id": "revision.glossary.f2e26a1fe264f6d43b76be63",
+  "headword": "Tangibles",
+  "scope_label": "visible physical features in service-quality assessment",
+  "definition": "In service-quality assessment, tangibles are the visible physical features of a service setting, its equipment, and the appearance of personnel.",
+  "explanation": [
+    "A clean waiting area or well-kept equipment can shape a customer's impression of a service.",
+    "Those cues do not by themselves establish that the service is reliable, accurate, or responsive."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
