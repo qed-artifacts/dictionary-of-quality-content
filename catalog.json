@@ -2642,6 +2642,11 @@
       "path": "entries/stakeholder/party-affected-by-or-able-to-influence-a-decision-or-activity/revision.glossary.fef228bf82a878f586a9cfe4.json"
     },
     {
+      "object_id": "glossary.standard-error-of-measurement.test-score-error-spread",
+      "revision_id": "revision.glossary.5b40c56524c15e1fe1e0558d",
+      "path": "entries/standard-error-of-measurement/test-score-interpretation/revision.glossary.5b40c56524c15e1fe1e0558d.json"
+    },
+    {
       "object_id": "glossary.standard-error.statistic",
       "revision_id": "revision.glossary.051ed5108b21fae9b03a3aaf",
       "path": "entries/standard-error/sampling-variability-of-a-statistical-estimate/revision.glossary.051ed5108b21fae9b03a3aaf.json"

@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.standard-error-of-measurement.test-score-error-spread",
+  "revision_id": "revision.glossary.5b40c56524c15e1fe1e0558d",
+  "headword": "Standard error of measurement",
+  "scope_label": "test-score interpretation",
+  "definition": "For test scores, the standard error of measurement describes the spread of score differences attributable to measurement error under a specified model.",
+  "explanation": [
+    "It helps interpret the precision of a score; a conditional standard error can differ across score levels."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
