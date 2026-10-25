@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.fact-checking.public-claim-verification",
+  "revision_id": "revision.glossary.ccf3e6388ff6432399cfe188",
+  "headword": "Fact-checking",
+  "scope_label": "verification of public factual claims in journalism",
+  "definition": "In journalism, fact-checking is the examination of a checkable factual claim against available evidence to determine how well the claim holds up.",
+  "explanation": [
+    "The checker identifies the precise claim, looks for relevant records or other independent evidence, and explains any finding in its context.",
+    "Repeating a claim or judging whether it sounds plausible is not itself a check of its factual basis."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

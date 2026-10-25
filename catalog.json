@@ -1312,6 +1312,11 @@
       "path": "entries/externality/effect-on-others-outside-an-economic-decision-or-exchange/revision.glossary.d0c8f21b8b4a056219be21ea.json"
     },
     {
+      "object_id": "glossary.fact-checking.public-claim-verification",
+      "revision_id": "revision.glossary.ccf3e6388ff6432399cfe188",
+      "path": "entries/fact-checking/verification-of-public-factual-claims-in-journalism/revision.glossary.ccf3e6388ff6432399cfe188.json"
+    },
+    {
       "object_id": "glossary.factor.designed-experiment-input",
       "revision_id": "revision.glossary.59acd3c2ebecb4fa23dc34e8",
       "path": "entries/factor/input-or-condition-studied-in-a-designed-experiment/revision.glossary.59acd3c2ebecb4fa23dc34e8.json"
