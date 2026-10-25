@@ -3550,6 +3550,11 @@
       "object_id": "glossary.yield.acceptable-output-share",
       "revision_id": "revision.glossary.4d359406e1d5543965ebb2d4",
       "path": "entries/yield/acceptable-output-share-in-a-defined-process/revision.glossary.4d359406e1d5543965ebb2d4.json"
+    },
+    {
+      "object_id": "glossary.z-value.standard-normal-location",
+      "revision_id": "revision.glossary.eea789e8104e7fdd73ac8277",
+      "path": "entries/z-value/normal-distribution-statistics/revision.glossary.eea789e8104e7fdd73ac8277.json"
     }
   ]
 }
