@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.sensory-attribute.food-perceived-characteristic",
+  "revision_id": "revision.glossary.9ef613f048d21badf775c655",
+  "headword": "Sensory attribute",
+  "scope_label": "food sensory analysis",
+  "definition": "In food sensory analysis, a sensory attribute is a distinguishable characteristic of a food as perceived through the senses, such as an aspect of its appearance, aroma, flavor, texture, or sound.",
+  "explanation": [
+    "A descriptive assessment names the attribute and may rate its intensity; liking the food is a separate judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
