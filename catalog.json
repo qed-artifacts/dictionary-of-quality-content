@@ -1217,6 +1217,11 @@
       "path": "entries/fault/nonfunctional-item-state-in-fault-tree-reliability-analysis/revision.glossary.eb50fa091b270185b1c97c66.json"
     },
     {
+      "object_id": "glossary.finding.audit-evidence-against-criteria",
+      "revision_id": "revision.glossary.3135f1b6a99591b152ecea1a",
+      "path": "entries/finding/quality-management-auditing/revision.glossary.3135f1b6a99591b152ecea1a.json"
+    },
+    {
       "object_id": "glossary.first-pass-yield.no-rework-stage-yield",
       "revision_id": "revision.glossary.15180a2b4e2aec5f6aa6bcf8",
       "path": "entries/first-pass-yield/share-of-units-passing-a-defined-process-on-their-first-attempt/revision.glossary.15180a2b4e2aec5f6aa6bcf8.json"
