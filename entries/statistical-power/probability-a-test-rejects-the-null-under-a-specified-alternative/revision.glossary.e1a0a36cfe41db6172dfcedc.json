@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.statistical-power.reject-false-null-probability",
+  "revision_id": "revision.glossary.e1a0a36cfe41db6172dfcedc",
+  "headword": "Statistical power",
+  "scope_label": "probability a test rejects the null under a specified alternative",
+  "definition": "Statistical power is the probability that a specified test will reject its null hypothesis when a particular alternative is true.",
+  "explanation": [
+    "For that alternative, power equals one minus the probability of a Type II error, often written 1 − β.",
+    "Power must be considered for a stated effect and test design; a low-power test may miss a difference that matters."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
