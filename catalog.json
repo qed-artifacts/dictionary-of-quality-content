@@ -772,6 +772,11 @@
       "path": "entries/incoming-inspection/check-of-purchased-parts-or-materials-after-receipt/revision.glossary.08d57a930edb4568ac464a6a.json"
     },
     {
+      "object_id": "glossary.index.economic-index-number",
+      "revision_id": "revision.glossary.dd438b94eebeba3f711deb34",
+      "path": "entries/index/economic-index-number-comparing-aggregate-change/revision.glossary.dd438b94eebeba3f711deb34.json"
+    },
+    {
       "object_id": "glossary.indicator.evaluation-monitoring",
       "revision_id": "revision.glossary.11aeca0f349b53fd964aa6e7",
       "path": "entries/indicator/evaluation-and-monitoring/revision.glossary.11aeca0f349b53fd964aa6e7.json"

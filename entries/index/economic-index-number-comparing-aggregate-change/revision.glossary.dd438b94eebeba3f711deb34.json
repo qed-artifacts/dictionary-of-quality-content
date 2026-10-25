@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.index.economic-index-number",
+  "revision_id": "revision.glossary.dd438b94eebeba3f711deb34",
+  "headword": "Index",
+  "scope_label": "economic index number comparing aggregate change",
+  "definition": "In economic measurement, an index is a numerical summary comparing a specified set of prices or quantities with a reference period.",
+  "explanation": [
+    "A price index combines selected items under a stated formula and, where applicable, weighting rule.",
+    "Its result depends on which items are included and how they are aggregated; it is not the price of any one item."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
