@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.program-review.higher-education",
+  "revision_id": "revision.glossary.0fbd9d9715e445bff8865f88",
+  "headword": "Program review",
+  "scope_label": "higher-education academic programs",
+  "definition": "In higher education, program review is a structured appraisal of an academic program using evidence about its curriculum and student learning to guide improvement.",
+  "explanation": [
+    "A self-study may bring assessment findings, curriculum maps, and external feedback together; evaluating one course alone does not review the whole program."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
