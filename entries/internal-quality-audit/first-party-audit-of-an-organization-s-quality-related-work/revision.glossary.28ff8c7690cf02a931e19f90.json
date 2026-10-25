@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.internal-quality-audit.first-party-quality",
+  "revision_id": "revision.glossary.28ff8c7690cf02a931e19f90",
+  "headword": "Internal quality audit",
+  "scope_label": "first-party audit of an organization's quality-related work",
+  "definition": "An internal quality audit is an audit conducted by or on behalf of an organization to assess its own quality-related work against stated criteria.",
+  "explanation": [
+    "It may examine a product or service, a process, or the quality management system, using collected evidence to identify conformity and gaps.",
+    "Auditors should be independent of the activity examined where practicable, even though the audit is internal."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
