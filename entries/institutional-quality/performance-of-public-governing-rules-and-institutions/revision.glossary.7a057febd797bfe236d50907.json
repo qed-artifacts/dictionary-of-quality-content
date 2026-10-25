@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.institutional-quality.public-governance-rules",
+  "revision_id": "revision.glossary.7a057febd797bfe236d50907",
+  "headword": "Institutional quality",
+  "scope_label": "performance of public governing rules and institutions",
+  "definition": "In public governance, institutional quality is how well established rules and organizations fulfill valued governing functions.",
+  "explanation": [
+    "One assessment may examine how reliably institutions protect property rights and restrain corruption; the chosen functions and standards need to be stated.",
+    "Efficient public spending alone does not settle whether the institutions performing it are sound."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
