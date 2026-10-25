@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.catchball.iterative-hoshin-planning",
+  "revision_id": "revision.glossary.9a2997495df712acd671e3f6",
+  "headword": "Catchball",
+  "scope_label": "iterative participation in hoshin planning and policy deployment",
+  "definition": "In hoshin planning, catchball is an iterative exchange of proposed goals and plans among organizational levels and functions to reach workable agreement.",
+  "explanation": [
+    "People expected to carry out a plan can return concerns about resources, timing, or feasibility before the plan is settled.",
+    "The proposals move across and back through the organization as conflicts are resolved and action plans are refined."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
