@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.functioning.health-related-activity",
+  "revision_id": "revision.glossary.47ca5d365df0614c7347ac4f",
+  "headword": "Functioning",
+  "scope_label": "physical and social activity in health assessment",
+  "definition": "In health assessment, functioning is what a person is able to do in everyday physical and social life.",
+  "explanation": [
+    "It includes activities such as moving, dressing, and interacting with others, with the relevant activities chosen for the assessment.",
+    "Functioning and felt well-being are related but distinct: a person can report symptoms or distress that an observer cannot infer from activity alone."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
