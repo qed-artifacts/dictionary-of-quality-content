@@ -252,6 +252,11 @@
       "path": "entries/cleaning-validation/eu-atmp-manufacturing-equipment-cleaning/revision.glossary.38d26a55d484f4d86dabdaf5.json"
     },
     {
+      "object_id": "glossary.code-compliance.applicable-construction-rules",
+      "revision_id": "revision.glossary.9003b2ed6519289780f18a75",
+      "path": "entries/code-compliance/conformity-to-applicable-construction-regulatory-provisions/revision.glossary.9003b2ed6519289780f18a75.json"
+    },
+    {
       "object_id": "glossary.coherence.argument-integration",
       "revision_id": "revision.glossary.096bb3015daae77b6db906c7",
       "path": "entries/coherence/fit-among-parts-of-an-argument/revision.glossary.096bb3015daae77b6db906c7.json"
