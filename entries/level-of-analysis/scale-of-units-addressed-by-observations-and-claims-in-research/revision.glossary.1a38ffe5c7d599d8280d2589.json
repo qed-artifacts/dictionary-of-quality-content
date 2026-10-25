@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.level-of-analysis.observational-unit-scale",
+  "revision_id": "revision.glossary.1a38ffe5c7d599d8280d2589",
+  "headword": "Level of analysis",
+  "scope_label": "scale of units addressed by observations and claims in research",
+  "definition": "In research, a level of analysis specifies the kind or scale of unit about which observations and claims are organized, such as an individual, household, organization, or nation.",
+  "explanation": [
+    "It helps a reader tell whether a reported pattern concerns people separately or aggregates such as cities or organizations.",
+    "A pattern observed for groups does not by itself establish the same pattern for every member of those groups."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
