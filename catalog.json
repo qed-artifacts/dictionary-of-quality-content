@@ -1572,6 +1572,11 @@
       "path": "entries/metrological-traceability/property-of-a-measurement-result-related-to-a-reference/revision.glossary.41e96ff97d3c072b35f80c83.json"
     },
     {
+      "object_id": "glossary.minimal-detectable-change.score-error-boundary",
+      "revision_id": "revision.glossary.f83b61566779b7349d2b57d7",
+      "path": "entries/minimal-detectable-change/repeated-score-interpretation/revision.glossary.f83b61566779b7349d2b57d7.json"
+    },
+    {
       "object_id": "glossary.model-drift.deployed-ml-behavior-change",
       "revision_id": "revision.glossary.df1756a86814694397e93b39",
       "path": "entries/model-drift/material-change-in-deployed-predictive-model-behavior-or-performance/revision.glossary.df1756a86814694397e93b39.json"
