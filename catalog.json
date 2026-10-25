@@ -1487,6 +1487,11 @@
       "path": "entries/prioritization/ordering-competing-needs-or-actions-for-attention/revision.glossary.03b82b4a3867f85651465499.json"
     },
     {
+      "object_id": "glossary.privacy.personal-information-appropriate-protection",
+      "revision_id": "revision.glossary.12172719f481d84f0daacf3a",
+      "path": "entries/privacy/personal-information-in-digital-systems/revision.glossary.12172719f481d84f0daacf3a.json"
+    },
+    {
       "object_id": "glossary.probability.event-likelihood-model",
       "revision_id": "revision.glossary.18545816ee942cbbb636b48d",
       "path": "entries/probability/numerical-likelihood-assigned-to-a-defined-event/revision.glossary.18545816ee942cbbb636b48d.json"
