@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.risk-acceptance.informed-retention",
+  "revision_id": "revision.glossary.e6a80de3ef9d44c867d9a36f",
+  "headword": "Risk acceptance",
+  "scope_label": "organizational risk treatment",
+  "definition": "Risk acceptance is an informed decision to retain a specified risk after evaluating it, with responsibility for the possible consequences.",
+  "explanation": [
+    "It may include monitoring or a contingency plan; accepting a risk does not make it disappear."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
