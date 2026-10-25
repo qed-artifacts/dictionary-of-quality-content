@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.interoperability.exchange-and-use-information",
+  "revision_id": "revision.glossary.23c8d99b257d99acc8c567bf",
+  "headword": "Interoperability",
+  "scope_label": "systems exchanging and using information",
+  "definition": "In systems engineering, interoperability is the ability of systems or components to exchange information and put it to use.",
+  "explanation": [
+    "Successful transfer alone is insufficient if the receiving system cannot interpret or apply what it receives.",
+    "An interoperability claim should specify the systems, information, intended use, and conditions being assessed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
