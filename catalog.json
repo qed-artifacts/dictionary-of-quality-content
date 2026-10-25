@@ -57,6 +57,11 @@
       "path": "entries/audit-finding/result-of-evidence-evaluation-against-audit-criteria/revision.glossary.10786603b33284f7e06697f8.json"
     },
     {
+      "object_id": "glossary.authority.project-governance-decision",
+      "revision_id": "revision.glossary.11a240bce8354e5b35ec99f8",
+      "path": "entries/authority/delegated-decision-and-resource-power-in-project-governance/revision.glossary.11a240bce8354e5b35ec99f8.json"
+    },
+    {
       "object_id": "glossary.benchmark.evaluation-comparison",
       "revision_id": "revision.glossary.31db9589c3bffd0e1996238d",
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
