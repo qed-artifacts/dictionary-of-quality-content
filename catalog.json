@@ -672,6 +672,11 @@
       "path": "entries/design-review/structured-examination-of-a-design-against-requirements/revision.glossary.25b6a41ffcec14b5eed6924b.json"
     },
     {
+      "object_id": "glossary.desirability.favorable-outcome-appraisal",
+      "revision_id": "revision.glossary.e3e6cbc2d7c26c7b9316c875",
+      "path": "entries/desirability/favorable-appraisal-of-an-outcome-under-specified-aims-or-values/revision.glossary.e3e6cbc2d7c26c7b9316c875.json"
+    },
+    {
       "object_id": "glossary.detection.fmea-detectability",
       "revision_id": "revision.glossary.af3c97f39637206078253284",
       "path": "entries/detection/fmea-estimate-of-discovering-a-failure-or-its-cause/revision.glossary.af3c97f39637206078253284.json"
