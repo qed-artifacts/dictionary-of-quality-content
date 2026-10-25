@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.functional-suitability.software-functions-meet-needs",
+  "revision_id": "revision.glossary.e7dae15a50a4f1d0a941bf56",
+  "headword": "Functional suitability",
+  "scope_label": "software functions meeting stated and implied needs in specified use",
+  "definition": "In software quality, functional suitability is how well a product's functions serve stated and reasonably implied user needs under specified conditions.",
+  "explanation": [
+    "It includes whether needed tasks are covered, results are correct, and the functions help users complete those tasks.",
+    "A feature-rich product can still be unsuitable if it omits an essential task or gives the wrong result."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
