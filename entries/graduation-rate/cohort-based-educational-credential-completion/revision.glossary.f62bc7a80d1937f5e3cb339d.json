@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.graduation-rate.educational-cohort",
+  "revision_id": "revision.glossary.f62bc7a80d1937f5e3cb339d",
+  "headword": "Graduation rate",
+  "scope_label": "cohort-based educational credential completion",
+  "definition": "A graduation rate is the proportion of a defined entering student cohort that earns a specified credential within a specified time.",
+  "explanation": [
+    "The cohort, permitted exclusions, credential, and completion window must be stated to interpret the figure.",
+    "Changing the denominator or time window can change the rate even when the same students' records are used."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

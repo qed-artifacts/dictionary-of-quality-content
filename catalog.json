@@ -1312,6 +1312,11 @@
       "path": "entries/grade/named-product-or-component-class-with-specified-performance-characteristics/revision.glossary.eb6bf93cb5384314ccf982ca.json"
     },
     {
+      "object_id": "glossary.graduation-rate.educational-cohort",
+      "revision_id": "revision.glossary.f62bc7a80d1937f5e3cb339d",
+      "path": "entries/graduation-rate/cohort-based-educational-credential-completion/revision.glossary.f62bc7a80d1937f5e3cb339d.json"
+    },
+    {
       "object_id": "glossary.gxp.regulated-good-practices",
       "revision_id": "revision.glossary.69aba2a8bbea5e3be705f8d2",
       "path": "entries/gxp/umbrella-shorthand-for-regulated-good-practice-families/revision.glossary.69aba2a8bbea5e3be705f8d2.json"
