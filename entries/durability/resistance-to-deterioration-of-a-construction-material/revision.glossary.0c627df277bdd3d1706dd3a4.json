@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.durability.construction-material",
+  "revision_id": "revision.glossary.0c627df277bdd3d1706dd3a4",
+  "headword": "Durability",
+  "scope_label": "resistance to deterioration of a construction material",
+  "definition": "For a construction material, durability is its capacity to resist deterioration from use and exposure over a relevant period.",
+  "explanation": [
+    "The expected conditions matter: a material that lasts indoors may weather poorly outdoors.",
+    "Durability concerns performance over time and is distinct from initial strength or hardness."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

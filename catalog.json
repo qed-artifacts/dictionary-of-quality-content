@@ -362,6 +362,11 @@
       "path": "entries/distribution/pattern-of-benefits-and-burdens-across-affected-groups-in-quality-evaluation/revision.glossary.cd349b355bbcabace4095dd4.json"
     },
     {
+      "object_id": "glossary.durability.construction-material",
+      "revision_id": "revision.glossary.0c627df277bdd3d1706dd3a4",
+      "path": "entries/durability/resistance-to-deterioration-of-a-construction-material/revision.glossary.0c627df277bdd3d1706dd3a4.json"
+    },
+    {
       "object_id": "glossary.e-service-quality.digital-service",
       "revision_id": "revision.glossary.422b6f7244c01d1e77c79f40",
       "path": "entries/e-service-quality/service-delivered-through-a-digital-interface/revision.glossary.422b6f7244c01d1e77c79f40.json"
