@@ -757,6 +757,11 @@
       "path": "entries/measurement-quality/fitness-of-a-measurement-system-and-result-for-intended-use/revision.glossary.9d47b53da3605ad1d3ed06ca.json"
     },
     {
+      "object_id": "glossary.measurement-result.quantity-value-and-context",
+      "revision_id": "revision.glossary.8176f2767b1fd5a0ee27e14f",
+      "path": "entries/measurement-result/metrological-result-of-measuring-a-quantity/revision.glossary.8176f2767b1fd5a0ee27e14f.json"
+    },
+    {
       "object_id": "glossary.measurement-scale.value-representation",
       "revision_id": "revision.glossary.6c8c6856ec4aa7f5eb16d9a8",
       "path": "entries/measurement-scale/representation-of-measurement-values-and-permitted-comparisons/revision.glossary.6c8c6856ec4aa7f5eb16d9a8.json"
