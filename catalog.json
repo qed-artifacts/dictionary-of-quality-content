@@ -2027,6 +2027,11 @@
       "path": "entries/system-quality/quality-of-a-software-intensive-computer-system/revision.glossary.a64660b4ca84751f9d4e04fe.json"
     },
     {
+      "object_id": "glossary.t-test.mean-hypothesis-test",
+      "revision_id": "revision.glossary.419a9806a5a026258a425b4a",
+      "path": "entries/t-test/t-statistic-hypothesis-test-for-a-mean-or-mean-difference/revision.glossary.419a9806a5a026258a425b4a.json"
+    },
+    {
       "object_id": "glossary.tampering.common-cause-overadjustment",
       "revision_id": "revision.glossary.a1959c2c71c290271191679e",
       "path": "entries/tampering/overadjustment-of-a-stable-process-in-statistical-process-control/revision.glossary.a1959c2c71c290271191679e.json"
