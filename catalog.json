@@ -97,6 +97,11 @@
       "path": "entries/authority/delegated-decision-and-resource-power-in-project-governance/revision.glossary.11a240bce8354e5b35ec99f8.json"
     },
     {
+      "object_id": "glossary.average-outgoing-quality.rectifying-sampling",
+      "revision_id": "revision.glossary.95a15177915228edecc93399",
+      "path": "entries/average-outgoing-quality/expected-outgoing-nonconforming-fraction-under-rectifying-sampling/revision.glossary.95a15177915228edecc93399.json"
+    },
+    {
       "object_id": "glossary.benchmark.evaluation-comparison",
       "revision_id": "revision.glossary.31db9589c3bffd0e1996238d",
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
