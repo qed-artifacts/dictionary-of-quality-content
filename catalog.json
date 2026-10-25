@@ -822,6 +822,11 @@
       "path": "entries/data-provenance/origin-and-processing-history-of-data/revision.glossary.eb55aa2205ebe0d6a7ca5011.json"
     },
     {
+      "object_id": "glossary.data-quality-dimensions.aspects-of-data-fitness",
+      "revision_id": "revision.glossary.9a312a47d7253fc272e6dc74",
+      "path": "entries/data-quality-dimensions/assessment-of-data-for-a-stated-use/revision.glossary.9a312a47d7253fc272e6dc74.json"
+    },
+    {
       "object_id": "glossary.data-quality.fit-for-use",
       "revision_id": "revision.glossary.20822f46d856544c0ef487ee",
       "path": "entries/data-quality/suitability-of-data-for-a-specified-use/revision.glossary.20822f46d856544c0ef487ee.json"
