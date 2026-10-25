@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.institutional-effectiveness.higher-education-mission",
+  "revision_id": "revision.glossary.25ff767277fb9810b1f18ea9",
+  "headword": "Institutional effectiveness",
+  "scope_label": "higher-education achievement of mission-linked goals",
+  "definition": "In higher education, institutional effectiveness concerns how well an institution achieves goals consistent with its mission across its programs and services.",
+  "explanation": [
+    "It is examined through planned outcomes, evidence of performance, and decisions about improvement and resources.",
+    "Success in one program alone cannot establish effectiveness across the whole institution."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
