@@ -2837,6 +2837,11 @@
       "path": "entries/sound-quality/perceived-product-sound/revision.glossary.5b53fef1553887aa26ca570b.json"
     },
     {
+      "object_id": "glossary.source-diversity.journalism-voices",
+      "revision_id": "revision.glossary.f3dc8b2d7734e1870bf223c6",
+      "path": "entries/source-diversity/journalism-sourcing/revision.glossary.f3dc8b2d7734e1870bf223c6.json"
+    },
+    {
       "object_id": "glossary.source.evidence-origin",
       "revision_id": "revision.glossary.172606d37365ddb64a193cf3",
       "path": "entries/source/origin-of-information-used-for-a-claim/revision.glossary.172606d37365ddb64a193cf3.json"
