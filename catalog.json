@@ -542,6 +542,11 @@
       "path": "entries/consumer-surplus/buyer-benefit-expressed-as-willingness-to-pay-gap/revision.glossary.b1d0ced6767d4ad3fe1bd70b.json"
     },
     {
+      "object_id": "glossary.consumer-test.sensory-product-evaluation",
+      "revision_id": "revision.glossary.dd9b967edca42bc67946ef01",
+      "path": "entries/consumer-test/sensory-product-evaluation/revision.glossary.dd9b967edca42bc67946ef01.json"
+    },
+    {
       "object_id": "glossary.containment.immediate-impact-limitation",
       "revision_id": "revision.glossary.99af0cbea4cdfe42f9b883b5",
       "path": "entries/containment/immediate-limitation-of-a-detected-quality-problem-s-impact/revision.glossary.99af0cbea4cdfe42f9b883b5.json"
