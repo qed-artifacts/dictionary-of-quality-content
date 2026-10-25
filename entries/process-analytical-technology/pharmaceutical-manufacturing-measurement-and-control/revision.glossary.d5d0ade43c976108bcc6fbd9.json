@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.process-analytical-technology.pharmaceutical-process-monitoring",
+  "revision_id": "revision.glossary.d5d0ade43c976108bcc6fbd9",
+  "headword": "Process analytical technology",
+  "scope_label": "pharmaceutical manufacturing measurement and control",
+  "definition": "Process analytical technology (PAT) is an approach to designing, monitoring, and controlling pharmaceutical manufacturing through timely measurement of material and process attributes relevant to product quality.",
+  "explanation": [
+    "Measurements taken during processing can help reveal variation early enough to guide control of the process.",
+    "PAT is broader than a single sensor or test: it joins measurement with process understanding and control."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
