@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.desirability.favorable-outcome-appraisal",
+  "revision_id": "revision.glossary.e3e6cbc2d7c26c7b9316c875",
+  "headword": "Desirability",
+  "scope_label": "favorable appraisal of an outcome under specified aims or values",
+  "definition": "Desirability is how favorable an outcome appears under a person's aims or values.",
+  "explanation": [
+    "It can change with whose perspective is taken and which goals or circumstances matter.",
+    "Some decision models represent subjective desirability numerically, but a number is not required for an ordinary desirability judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
