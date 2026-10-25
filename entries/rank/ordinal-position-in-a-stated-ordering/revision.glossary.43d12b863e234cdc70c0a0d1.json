@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.rank.ordinal-position",
+  "revision_id": "revision.glossary.43d12b863e234cdc70c0a0d1",
+  "headword": "Rank",
+  "scope_label": "ordinal position in a stated ordering",
+  "definition": "A rank is an item's position in an ordering made under a stated comparison rule.",
+  "explanation": [
+    "Ranks show which items come before others, but the gap between positions does not by itself measure the size of the underlying difference.",
+    "For example, first and second place may be much closer in performance than second and third place."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
