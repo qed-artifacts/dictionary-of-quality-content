@@ -2,6 +2,11 @@
   "schema": "qed-glossary-public-catalog-v1",
   "entries": [
     {
+      "object_id": "glossary.acceptability.health-care",
+      "revision_id": "revision.glossary.bd7b24c9a4abc04a56999a68",
+      "path": "entries/acceptability/people-s-appraisal-of-how-health-care-treats-and-involves-them/revision.glossary.bd7b24c9a4abc04a56999a68.json"
+    },
+    {
       "object_id": "glossary.acceptable-range.specification",
       "revision_id": "revision.glossary.b35e9af379e874f968636315",
       "path": "entries/acceptable-range/permitted-interval-for-an-engineering-characteristic/revision.glossary.b35e9af379e874f968636315.json"
