@@ -347,6 +347,11 @@
       "path": "entries/cost-of-quality/costs-of-achieving-and-failing-to-achieve-quality/revision.glossary.bc597a94a3cb8d4e04d8e7d8.json"
     },
     {
+      "object_id": "glossary.cost.organizational-resources",
+      "revision_id": "revision.glossary.f0f485e98d298a34d7ea8b4c",
+      "path": "entries/cost/organizational-spending-for-an-activity-or-option/revision.glossary.f0f485e98d298a34d7ea8b4c.json"
+    },
+    {
       "object_id": "glossary.coverage.requirement-traceability",
       "revision_id": "revision.glossary.e1f1a6b434b21ed6d481974d",
       "path": "entries/coverage/requirement-traceability-coverage-in-a-defined-design-set/revision.glossary.e1f1a6b434b21ed6d481974d.json"
