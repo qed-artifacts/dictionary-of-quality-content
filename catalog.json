@@ -1402,6 +1402,11 @@
       "path": "entries/statistical-process-control/statistical-monitoring-of-process-behavior/revision.glossary.c25e7cd6d41d95e25e23e461.json"
     },
     {
+      "object_id": "glossary.statistical-quality-control.quality-methods",
+      "revision_id": "revision.glossary.ca0349e8756487034b30c315",
+      "path": "entries/statistical-quality-control/statistical-methods-for-quality-analysis-and-improvement/revision.glossary.ca0349e8756487034b30c315.json"
+    },
+    {
       "object_id": "glossary.supplier-evaluation.capability-and-performance",
       "revision_id": "revision.glossary.57d2490fde4334cae7ec2672",
       "path": "entries/supplier-evaluation/assessment-of-supplier-capability-and-performance-for-a-purchasing-relationship/revision.glossary.57d2490fde4334cae7ec2672.json"

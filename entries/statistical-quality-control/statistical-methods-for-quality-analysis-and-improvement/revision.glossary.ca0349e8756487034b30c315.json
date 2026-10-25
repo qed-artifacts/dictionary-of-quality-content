@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.statistical-quality-control.quality-methods",
+  "revision_id": "revision.glossary.ca0349e8756487034b30c315",
+  "headword": "Statistical quality control",
+  "scope_label": "statistical methods for quality analysis and improvement",
+  "definition": "Statistical quality control is the use of statistical methods to understand variation and support decisions about the quality of processes and outputs.",
+  "explanation": [
+    "It can include process control, acceptance sampling, and designed experiments.",
+    "The methods provide evidence and decision rules; the phrase does not mean that every output has been inspected."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
