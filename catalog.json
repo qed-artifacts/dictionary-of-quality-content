@@ -722,6 +722,11 @@
       "path": "entries/life-cycle/pharmaceutical-product-life-cycle/revision.glossary.955e794da08c9406e8765360.json"
     },
     {
+      "object_id": "glossary.maintainability.engineered-item",
+      "revision_id": "revision.glossary.a924b9f0bec9b4878baf10d3",
+      "path": "entries/maintainability/ability-to-maintain-or-restore-an-engineered-item/revision.glossary.a924b9f0bec9b4878baf10d3.json"
+    },
+    {
       "object_id": "glossary.maintenance-task.rcm-chosen-action",
       "revision_id": "revision.glossary.4bd48800acaada98005ab5d2",
       "path": "entries/maintenance-task/specified-action-selected-within-reliability-centered-maintenance/revision.glossary.4bd48800acaada98005ab5d2.json"
