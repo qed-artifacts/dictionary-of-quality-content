@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-of-life-inventory-qoli.importance-weighted-satisfaction",
+  "revision_id": "revision.glossary.ac1ffdfcec132d2f14cb66e6",
+  "headword": "Quality of Life Inventory (QOLI)",
+  "scope_label": "named positive-psychology self-report instrument",
+  "definition": "The Quality of Life Inventory (QOLI) is a self-report instrument that combines how important life areas are to a person with how satisfied the person is in those areas.",
+  "explanation": [
+    "It produces an individualized profile of perceived life satisfaction. Its named instrument and scoring method should not be confused with every measure of quality of life."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
