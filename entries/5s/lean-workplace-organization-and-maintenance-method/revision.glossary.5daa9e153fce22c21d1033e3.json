@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.5s.lean-workplace-organization",
+  "revision_id": "revision.glossary.5daa9e153fce22c21d1033e3",
+  "headword": "5S",
+  "scope_label": "Lean workplace organization and maintenance method",
+  "definition": "5S is a Lean method for organizing and maintaining a workplace through five practices: sort, set in order, shine, standardize, and sustain.",
+  "explanation": [
+    "The practices remove unneeded items, locate needed ones, keep the area clean, make arrangements consistent, and maintain them over time.",
+    "A one-time cleanup is incomplete without standards and sustained use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
