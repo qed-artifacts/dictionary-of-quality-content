@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.scrap.prevent-original-use",
+  "revision_id": "revision.glossary.916a2b447fb754b5a055ea9e",
+  "headword": "Scrap",
+  "scope_label": "disposition preventing a nonconforming output's original use",
+  "definition": "In quality management, to scrap a nonconforming product or service is to dispose of it so it cannot be used for its originally intended purpose.",
+  "explanation": [
+    "Scrap is a disposition of the affected output, rather than work to make that output conform.",
+    "It prevents the original use; it does not by itself correct the cause of the nonconformity."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
