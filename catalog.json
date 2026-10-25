@@ -927,6 +927,11 @@
       "path": "entries/response-surface/modeled-expected-response-over-combinations-of-input-levels/revision.glossary.c5edd37c9cd8d49b0e9a2763.json"
     },
     {
+      "object_id": "glossary.right.human-rights-instrument",
+      "revision_id": "revision.glossary.8e0b677885728239f7083e38",
+      "path": "entries/right/protected-claim-or-freedom-in-a-human-rights-instrument/revision.glossary.8e0b677885728239f7083e38.json"
+    },
+    {
       "object_id": "glossary.risk-assessment.hazard-decision",
       "revision_id": "revision.glossary.e2754134753ec68b8cf6a45f",
       "path": "entries/risk-assessment/hazard-focused-assessment-for-a-decision/revision.glossary.e2754134753ec68b8cf6a45f.json"
