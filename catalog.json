@@ -2577,6 +2577,11 @@
       "path": "entries/version/identified-state-of-an-information-item-in-configuration-control/revision.glossary.6d29f1677659700f1588687e.json"
     },
     {
+      "object_id": "glossary.visual-management.visible-work-status-and-response",
+      "revision_id": "revision.glossary.ef106a13499056afbe2ae6f5",
+      "path": "entries/visual-management/visible-process-signals-and-response-in-lean-work-management/revision.glossary.ef106a13499056afbe2ae6f5.json"
+    },
+    {
       "object_id": "glossary.voice-of-the-customer.qfd-input",
       "revision_id": "revision.glossary.ebcf6c087b27aa2847576356",
       "path": "entries/voice-of-the-customer/customer-evidence-used-in-qfd-inquiry/revision.glossary.ebcf6c087b27aa2847576356.json"
