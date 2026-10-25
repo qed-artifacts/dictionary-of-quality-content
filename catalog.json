@@ -482,6 +482,11 @@
       "path": "entries/distribution/pattern-of-benefits-and-burdens-across-affected-groups-in-quality-evaluation/revision.glossary.cd349b355bbcabace4095dd4.json"
     },
     {
+      "object_id": "glossary.dmaic.existing-process-improvement",
+      "revision_id": "revision.glossary.fcb7e77971a79847281f4949",
+      "path": "entries/dmaic/five-stage-six-sigma-process-improvement-method/revision.glossary.fcb7e77971a79847281f4949.json"
+    },
+    {
       "object_id": "glossary.durability.construction-material",
       "revision_id": "revision.glossary.0c627df277bdd3d1706dd3a4",
       "path": "entries/durability/resistance-to-deterioration-of-a-construction-material/revision.glossary.0c627df277bdd3d1706dd3a4.json"
