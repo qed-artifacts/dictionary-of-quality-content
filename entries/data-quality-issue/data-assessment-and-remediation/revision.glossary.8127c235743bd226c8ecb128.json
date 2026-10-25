@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-quality-issue.defect-in-recorded-data",
+  "revision_id": "revision.glossary.8127c235743bd226c8ecb128",
+  "headword": "Data quality issue",
+  "scope_label": "data assessment and remediation",
+  "definition": "A data quality issue is a defect or suspected defect in recorded data that may impair a stated use.",
+  "explanation": [
+    "Missing, incorrect, or inconsistent values are common examples. An unusual value is a reason to investigate, not proof that the value is wrong."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
