@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.material-quality.construction-material-fitness",
+  "revision_id": "revision.glossary.9bdbb73fadcc912a75d4b54c",
+  "headword": "Material quality",
+  "scope_label": "construction materials",
+  "definition": "In construction, material quality is how well a material's relevant properties meet the requirements for its intended use.",
+  "explanation": [
+    "Strength or moisture content may matter for a particular material; inspection and traceability help identify unsuitable supplies before installation."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
