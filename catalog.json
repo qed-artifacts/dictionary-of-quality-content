@@ -887,6 +887,11 @@
       "path": "entries/fairness/justifiability-of-treatment-process-or-outcome/revision.glossary.4413a753b238a6649bdd357f.json"
     },
     {
+      "object_id": "glossary.fault-tolerance.required-function-during-fault",
+      "revision_id": "revision.glossary.8b889f941f915a4e99ea15ef",
+      "path": "entries/fault-tolerance/continued-required-function-despite-specified-component-faults/revision.glossary.8b889f941f915a4e99ea15ef.json"
+    },
+    {
       "object_id": "glossary.fault-tree-analysis.top-event-logic-model",
       "revision_id": "revision.glossary.f51e10e1881d0711b927324b",
       "path": "entries/fault-tree-analysis/top-down-logical-analysis-of-a-specified-undesired-event/revision.glossary.f51e10e1881d0711b927324b.json"
