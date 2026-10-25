@@ -452,6 +452,11 @@
       "path": "entries/house-of-quality/customer-to-design-planning-matrix-used-in-qfd/revision.glossary.763d052416375fa13b6cfd2a.json"
     },
     {
+      "object_id": "glossary.impact.program-evaluation-change",
+      "revision_id": "revision.glossary.a170a4396fb2cd3677959077",
+      "path": "entries/impact/consequential-change-attributed-to-a-program/revision.glossary.a170a4396fb2cd3677959077.json"
+    },
+    {
       "object_id": "glossary.incoming-inspection.received-goods-check",
       "revision_id": "revision.glossary.08d57a930edb4568ac464a6a",
       "path": "entries/incoming-inspection/check-of-purchased-parts-or-materials-after-receipt/revision.glossary.08d57a930edb4568ac464a6a.json"
