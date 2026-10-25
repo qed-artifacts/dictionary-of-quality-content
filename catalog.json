@@ -62,6 +62,11 @@
       "path": "entries/appraisal-cost/quality-related-spending-to-evaluate-conformity-or-performance/revision.glossary.d28fbccfb04e771e74578602.json"
     },
     {
+      "object_id": "glossary.appropriateness.clinical-care",
+      "revision_id": "revision.glossary.4ed44a7fff390695b0cf1a43",
+      "path": "entries/appropriateness/fit-of-clinical-care-to-the-patient-s-condition-and-evidence/revision.glossary.4ed44a7fff390695b0cf1a43.json"
+    },
+    {
       "object_id": "glossary.assessment.information-for-decision",
       "revision_id": "revision.glossary.f2af66a34ead0ca5c77e0eba",
       "path": "entries/assessment/purpose-bound-examination/revision.glossary.f2af66a34ead0ca5c77e0eba.json"
