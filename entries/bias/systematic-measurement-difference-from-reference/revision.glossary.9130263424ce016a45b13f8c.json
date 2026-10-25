@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.bias.measurement-systematic-difference",
+  "revision_id": "revision.glossary.9130263424ce016a45b13f8c",
+  "headword": "Bias",
+  "scope_label": "systematic measurement difference from reference",
+  "definition": "In measurement, bias is a systematic difference between measured results and the quantity or reference value they are meant to represent.",
+  "explanation": [
+    "Repeated readings can agree closely with one another yet still be shifted from the reference.",
+    "Bias concerns the direction and size of that shift; precision concerns agreement among repeated readings."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
