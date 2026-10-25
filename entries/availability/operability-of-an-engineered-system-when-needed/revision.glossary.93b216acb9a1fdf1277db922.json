@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.availability.engineered-system",
+  "revision_id": "revision.glossary.93b216acb9a1fdf1277db922",
+  "headword": "Availability",
+  "scope_label": "operability of an engineered system when needed",
+  "definition": "For an engineered system, availability is the probability or proportion of time that it is operable when needed under stated conditions.",
+  "explanation": [
+    "It can be estimated from uptime or from how often the system works when called upon; those calculations answer related but different questions.",
+    "State the observation period and operating conditions before comparing availability results."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
