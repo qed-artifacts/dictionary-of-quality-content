@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.decision-criterion.rule-for-comparing-options",
+  "revision_id": "revision.glossary.7f5e1323bbb6c38a2b0cd004",
+  "headword": "Decision criterion",
+  "scope_label": "rule used to compare and select among options",
+  "definition": "A decision criterion is a stated basis or rule for comparing options and choosing among them.",
+  "explanation": [
+    "It connects the decision maker's aims to the outcomes expected from each option.",
+    "Choosing expected value, robustness, or a minimum reliability requirement can lead to different preferred options from the same evidence."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
