@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.dependability.system-operating-quality",
+  "revision_id": "revision.glossary.6249cf312480bd2bb1b65874",
+  "headword": "Dependability",
+  "scope_label": "time-related operating quality of an engineered system",
+  "definition": "In systems engineering, dependability concerns a system's capacity to provide acceptable service over time under stated conditions.",
+  "explanation": [
+    "Depending on the framework, it can bring together reliability, availability, maintainability, and continuity.",
+    "A probability of failure-free operation captures only one part of this broader appraisal."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
