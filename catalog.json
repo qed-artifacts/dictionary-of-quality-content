@@ -1417,6 +1417,11 @@
       "path": "entries/perceived-quality/person-s-appraisal-of-product-or-service-quality/revision.glossary.0cbd37f2acc3d6f2af482b56.json"
     },
     {
+      "object_id": "glossary.performance-efficiency.software-time-resources-capacity",
+      "revision_id": "revision.glossary.83effd6c85cda1e14cf95966",
+      "path": "entries/performance-efficiency/software-performance-relative-to-resources-under-stated-conditions/revision.glossary.83effd6c85cda1e14cf95966.json"
+    },
+    {
       "object_id": "glossary.performance-level.rubric-category",
       "revision_id": "revision.glossary.1afc181128877218ac1e685e",
       "path": "entries/performance-level/degree-of-demonstrated-performance-in-a-rubric/revision.glossary.1afc181128877218ac1e685e.json"
