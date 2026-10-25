@@ -967,6 +967,11 @@
       "path": "entries/reliability/test-score-consistency-and-engineered-item-performance/revision.glossary.4ee64845069e84c0f36eb1c3.json"
     },
     {
+      "object_id": "glossary.reproducibility.measurement",
+      "revision_id": "revision.glossary.5ab47db804b2e13cbbe8398c",
+      "path": "entries/reproducibility/agreement-of-measurement-results-under-changed-conditions/revision.glossary.5ab47db804b2e13cbbe8398c.json"
+    },
+    {
       "object_id": "glossary.requirement.cross-domain",
       "revision_id": "revision.glossary.62d5505c354c23c8f91e5065",
       "path": "entries/requirement/quality-management-and-technical-specifications/revision.glossary.62d5505c354c23c8f91e5065.json"
