@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.intrinsic-value.value-in-itself",
+  "revision_id": "revision.glossary.cd4227923216213d034c3baa",
+  "headword": "Intrinsic value",
+  "scope_label": "axiological value grounded in what something is",
+  "definition": "In axiology, intrinsic value is value something has in virtue of what it is itself, rather than value derived from something outside it.",
+  "explanation": [
+    "The claim concerns the ground of value; valuing something as an end rather than a means is related but conceptually distinct.",
+    "Whether pleasure, nature, or another subject actually has intrinsic value requires a separate argument."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
