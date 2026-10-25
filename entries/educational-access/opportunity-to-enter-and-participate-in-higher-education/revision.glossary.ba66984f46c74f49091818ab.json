@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.educational-access.higher-education-opportunity",
+  "revision_id": "revision.glossary.ba66984f46c74f49091818ab",
+  "headword": "Educational access",
+  "scope_label": "opportunity to enter and participate in higher education",
+  "definition": "In higher education, educational access is a person's practical opportunity to enter and participate in a program.",
+  "explanation": [
+    "Admissions rules, prior preparation, resources, and support can all affect that opportunity.",
+    "An available place or a transparent application process alone does not establish fair access when people face unequal barriers."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
