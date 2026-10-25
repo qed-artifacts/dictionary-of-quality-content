@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.coherence.argument-integration",
+  "revision_id": "revision.glossary.096bb3015daae77b6db906c7",
+  "headword": "Coherence",
+  "scope_label": "fit among parts of an argument",
+  "definition": "In argumentation, coherence is the intelligible fit among an account's claims, reasons, and inferential links.",
+  "explanation": [
+    "A reader should be able to follow how the parts belong together, including any unstated premises needed to connect them.",
+    "An argument can be coherent yet unpersuasive if its premises lack credible evidence or its support is insufficient."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
