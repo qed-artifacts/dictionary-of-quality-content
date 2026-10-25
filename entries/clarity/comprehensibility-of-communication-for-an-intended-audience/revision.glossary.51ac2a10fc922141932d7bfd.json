@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.clarity.audience-comprehension",
+  "revision_id": "revision.glossary.51ac2a10fc922141932d7bfd",
+  "headword": "Clarity",
+  "scope_label": "comprehensibility of communication for an intended audience",
+  "definition": "In communication, clarity is the ease with which an intended audience can understand a message and how its parts fit together.",
+  "explanation": [
+    "Word choice, structure, and needed background can all affect clarity for that audience.",
+    "A clear account can still be inaccurate or incomplete; those are separate qualities."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
