@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.surveillance.continuing-process-monitoring",
+  "revision_id": "revision.glossary.25a3ed6469ad4866b5c963aa",
+  "headword": "Surveillance",
+  "scope_label": "continuing or periodic assessment of a process in quality management",
+  "definition": "In quality management, surveillance is continuing observation or periodic assessment of a process to see whether it still performs to a specified standard.",
+  "explanation": [
+    "It looks for changes or emerging problems after a process has been put in use.",
+    "A surveillance check observes the process over time; it is not a one-time demonstration that every output conforms."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
