@@ -2582,6 +2582,11 @@
       "path": "entries/reference-level/comparison-point-for-model-performance-results/revision.glossary.f95fb748e507db321f96b96d.json"
     },
     {
+      "object_id": "glossary.reference-material.metrology",
+      "revision_id": "revision.glossary.dc82abf5cd2cc8f2a03e365b",
+      "path": "entries/reference-material/material-fit-for-a-specified-measurement-or-examination-use/revision.glossary.dc82abf5cd2cc8f2a03e365b.json"
+    },
+    {
       "object_id": "glossary.regulatory-compliance.applicable-rules",
       "revision_id": "revision.glossary.a264262a7c43bbf7ce70b807",
       "path": "entries/regulatory-compliance/applicable-binding-rules/revision.glossary.a264262a7c43bbf7ce70b807.json"
