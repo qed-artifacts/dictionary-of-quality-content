@@ -1097,6 +1097,11 @@
       "path": "entries/functional-suitability/software-functions-meeting-stated-and-implied-needs-in-specified-use/revision.glossary.e7dae15a50a4f1d0a941bf56.json"
     },
     {
+      "object_id": "glossary.functioning.health-related-activity",
+      "revision_id": "revision.glossary.47ca5d365df0614c7347ac4f",
+      "path": "entries/functioning/physical-and-social-activity-in-health-assessment/revision.glossary.47ca5d365df0614c7347ac4f.json"
+    },
+    {
       "object_id": "glossary.gage-repeatability-and-reproducibility.measurement-variation-study",
       "revision_id": "revision.glossary.6648eb67a34a8ce798dc5219",
       "path": "entries/gage-repeatability-and-reproducibility/industrial-measurement-system-variation-study/revision.glossary.6648eb67a34a8ce798dc5219.json"
