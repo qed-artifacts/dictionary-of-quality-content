@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.customer-effort-score.reported-service-effort",
+  "revision_id": "revision.glossary.e3e5717a06a1a5c7995d07b5",
+  "headword": "Customer effort score",
+  "scope_label": "customer-reported effort in a specified service interaction",
+  "definition": "Customer effort score is a survey-based metric summarizing how much effort customers report needing to complete a specified interaction with an organization.",
+  "explanation": [
+    "A useful score states the question, response scale, interaction, population, and method for combining responses.",
+    "Less reported effort may indicate an easier interaction, but the score alone does not establish overall service quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
