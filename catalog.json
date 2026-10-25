@@ -3392,6 +3392,11 @@
       "path": "entries/unit-of-analysis/entity-level-about-which-a-study-draws-conclusions/revision.glossary.db8467d3f11a6c7ae6889498.json"
     },
     {
+      "object_id": "glossary.upper-control-limit.control-chart-upper-boundary",
+      "revision_id": "revision.glossary.fc3b9027163bbac057dee269",
+      "path": "entries/upper-control-limit/statistical-process-control/revision.glossary.fc3b9027163bbac057dee269.json"
+    },
+    {
       "object_id": "glossary.use-value.direct-use-benefit",
       "revision_id": "revision.glossary.aa430b869f350fe627cb4a76",
       "path": "entries/use-value/direct-use-or-experience-in-benefit-cost-analysis/revision.glossary.aa430b869f350fe627cb4a76.json"
