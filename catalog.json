@@ -352,6 +352,11 @@
       "path": "entries/characteristic/descriptive-feature-of-an-object/revision.glossary.aca3b6a3e0f323a5c349110e.json"
     },
     {
+      "object_id": "glossary.check-sheet.structured-data-collection",
+      "revision_id": "revision.glossary.5ddd9db0bd5c7eadf6da9bca",
+      "path": "entries/check-sheet/structured-recording-of-observations-for-quality-analysis/revision.glossary.5ddd9db0bd5c7eadf6da9bca.json"
+    },
+    {
       "object_id": "glossary.checklist.task-items",
       "revision_id": "revision.glossary.8fa325fad3a70765d0a27cb6",
       "path": "entries/checklist/task-guidance-and-verification-list/revision.glossary.8fa325fad3a70765d0a27cb6.json"
