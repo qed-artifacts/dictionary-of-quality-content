@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.social-inclusion.effective-participation",
+  "revision_id": "revision.glossary.c9a0e45219d97195f41ec0c5",
+  "headword": "Social inclusion",
+  "scope_label": "public and educational participation",
+  "definition": "Social inclusion is the opportunity for people, including those usually excluded, to participate meaningfully in social life and decisions that affect them.",
+  "explanation": [
+    "It concerns access to resources and institutions, as well as whether people can contribute and are treated as participants once present."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
