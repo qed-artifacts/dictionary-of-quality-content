@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-enhancement-plan-qep.sacscoc-student-outcomes-plan",
+  "revision_id": "revision.glossary.fe82be0a7b331307ce995a55",
+  "headword": "Quality Enhancement Plan (QEP)",
+  "scope_label": "SACSCOC higher-education accreditation, 2024 edition",
+  "definition": "Under SACSCOC's 2024 accreditation framework, a Quality Enhancement Plan is an institution's focused plan to improve specified student learning or success outcomes as part of reaffirmation review.",
+  "explanation": [
+    "The topic arises from institutional planning and requires broad support, committed resources, and a way to assess results. The term here names a particular accreditation instrument, not every plan for improving educational quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
