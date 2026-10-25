@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.continuity-of-care.coherent-care-over-time",
+  "revision_id": "revision.glossary.6eab0a3beb03394d807a5f6a",
+  "headword": "Continuity of care",
+  "scope_label": "coherence of a patient's care across time and settings",
+  "definition": "Continuity of care is the extent to which a person's care remains connected and coherent over time and across providers or settings.",
+  "explanation": [
+    "Relevant information and plans should carry across transitions so that each episode can build on what came before.",
+    "Coordination is work used to achieve continuity; continuity describes a quality of the care the person receives."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
