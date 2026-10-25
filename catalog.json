@@ -2207,6 +2207,11 @@
       "path": "entries/reference-level/comparison-point-for-model-performance-results/revision.glossary.f95fb748e507db321f96b96d.json"
     },
     {
+      "object_id": "glossary.regulatory-compliance.applicable-rules",
+      "revision_id": "revision.glossary.a264262a7c43bbf7ce70b807",
+      "path": "entries/regulatory-compliance/applicable-binding-rules/revision.glossary.a264262a7c43bbf7ce70b807.json"
+    },
+    {
       "object_id": "glossary.relationship-matrix.hoq-body",
       "revision_id": "revision.glossary.f85dc2b887068ef8c68292a4",
       "path": "entries/relationship-matrix/customer-to-technical-grid-in-a-house-of-quality/revision.glossary.f85dc2b887068ef8c68292a4.json"

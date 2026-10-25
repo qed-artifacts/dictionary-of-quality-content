@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.regulatory-compliance.applicable-rules",
+  "revision_id": "revision.glossary.a264262a7c43bbf7ce70b807",
+  "headword": "Regulatory compliance",
+  "scope_label": "applicable binding rules",
+  "definition": "Regulatory compliance is meeting the binding regulatory requirements that apply to a specified product, service, activity, or organization.",
+  "explanation": [
+    "The judgment depends on the jurisdiction, the rule, and the part of the operation to which it applies.",
+    "Compliance with a rule does not, by itself, establish overall quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
