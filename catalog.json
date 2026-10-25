@@ -772,6 +772,11 @@
       "path": "entries/degradation/deterioration-of-an-item-s-performance-over-life-units/revision.glossary.d65f1b1272c649ff98b86f4d.json"
     },
     {
+      "object_id": "glossary.deliberative-quality.public-news-discourse",
+      "revision_id": "revision.glossary.d4ccc5b064adfdbd6099416c",
+      "path": "entries/deliberative-quality/political-news-discourse/revision.glossary.d4ccc5b064adfdbd6099416c.json"
+    },
+    {
       "object_id": "glossary.dependability.system-operating-quality",
       "revision_id": "revision.glossary.6249cf312480bd2bb1b65874",
       "path": "entries/dependability/time-related-operating-quality-of-an-engineered-system/revision.glossary.6249cf312480bd2bb1b65874.json"
