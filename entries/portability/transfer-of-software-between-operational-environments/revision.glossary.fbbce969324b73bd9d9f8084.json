@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.portability.software-environment-transfer",
+  "revision_id": "revision.glossary.fbbce969324b73bd9d9f8084",
+  "headword": "Portability",
+  "scope_label": "transfer of software between operational environments",
+  "definition": "In software quality, portability is how effectively and efficiently a product or component can be moved to another operating environment.",
+  "explanation": [
+    "The environments may differ in hardware, software, or conditions of use; adaptation and installation may be part of the move.",
+    "Portability concerns moving the product or component, not merely sending data between systems."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
