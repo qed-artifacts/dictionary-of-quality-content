@@ -1387,6 +1387,11 @@
       "path": "entries/hypothesis-test/statistical-test-of-a-specified-null-claim/revision.glossary.95987bf375ef9f9e91a40dfd.json"
     },
     {
+      "object_id": "glossary.identity-strength-quality-and-purity.drug-regulatory-attributes",
+      "revision_id": "revision.glossary.aaa5f85c25ce0fd8e50aef3d",
+      "path": "entries/identity-strength-quality-and-purity/distinct-represented-properties-of-a-drug-under-u-s-drug-gmp/revision.glossary.aaa5f85c25ce0fd8e50aef3d.json"
+    },
+    {
       "object_id": "glossary.impact.program-evaluation-change",
       "revision_id": "revision.glossary.a170a4396fb2cd3677959077",
       "path": "entries/impact/consequential-change-attributed-to-a-program/revision.glossary.a170a4396fb2cd3677959077.json"
