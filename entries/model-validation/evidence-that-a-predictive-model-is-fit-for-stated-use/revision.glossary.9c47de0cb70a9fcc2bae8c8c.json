@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.model-validation.predictive-ml-fitness",
+  "revision_id": "revision.glossary.9c47de0cb70a9fcc2bae8c8c",
+  "headword": "Model validation",
+  "scope_label": "evidence that a predictive model is fit for stated use",
+  "definition": "In predictive machine learning, model validation is the evaluation of whether a trained model is sufficiently fit for a specified task and use.",
+  "explanation": [
+    "Methods can include held-out testing or cross-validation to examine performance beyond the data used to fit model parameters.",
+    "A favorable score supports a claim only for the population and conditions the validation design can represent; it does not guarantee future performance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
