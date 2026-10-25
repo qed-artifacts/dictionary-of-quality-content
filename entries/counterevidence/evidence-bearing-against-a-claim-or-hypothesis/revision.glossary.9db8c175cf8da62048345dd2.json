@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.counterevidence.evidence-against-claim",
+  "revision_id": "revision.glossary.9db8c175cf8da62048345dd2",
+  "headword": "Counterevidence",
+  "scope_label": "evidence bearing against a claim or hypothesis",
+  "definition": "Counterevidence is evidence that bears against a specified claim, hypothesis, or interpretation.",
+  "explanation": [
+    "For example, a finding inconsistent with an initial diagnosis can prompt reconsideration.",
+    "How much it changes the conclusion depends on its relevance, quality, and relation to the other evidence; one contrary finding need not settle the question."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
