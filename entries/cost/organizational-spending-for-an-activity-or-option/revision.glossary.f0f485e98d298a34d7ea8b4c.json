@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.cost.organizational-resources",
+  "revision_id": "revision.glossary.f0f485e98d298a34d7ea8b4c",
+  "headword": "Cost",
+  "scope_label": "organizational spending for an activity or option",
+  "definition": "In organizational planning, a cost is an expenditure or resource commitment attributable to an activity, output, or proposed option.",
+  "explanation": [
+    "Costs may be direct or indirect, and an estimate should state whose costs, which activities, and what period it covers.",
+    "An estimated cost differs from an expense already incurred; cost alone does not establish whether an option is worth pursuing."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
