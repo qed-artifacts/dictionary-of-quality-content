@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.artistic-quality.artwork-merit",
+  "revision_id": "revision.glossary.8027cf1bb830148c51ad1387",
+  "headword": "Artistic quality",
+  "scope_label": "artworks and artistic performance",
+  "definition": "Artistic quality is the merit of an artwork or artistic performance in respects relevant to its artistic character.",
+  "explanation": [
+    "Formal and expressive qualities can matter, but novelty alone does not establish artistic merit."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
