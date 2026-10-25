@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.trauma-informed-care.service-approach",
+  "revision_id": "revision.glossary.df477181fa2ba665fbe40e00",
+  "headword": "Trauma-informed care",
+  "scope_label": "health and social-service delivery",
+  "definition": "Trauma-informed care is an approach to delivering services that recognizes how trauma can affect people and adapts care to support safety, trust, choice, and agency.",
+  "explanation": [
+    "It shapes the way services are provided and is distinct from treatment specifically designed to address trauma-related symptoms."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
