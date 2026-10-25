@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.relevance.evidence-to-claim",
+  "revision_id": "revision.glossary.662c1c3cd80e2b7ab00fa44d",
+  "headword": "Relevance",
+  "scope_label": "bearing of a reason or evidence on a claim",
+  "definition": "In an argument, relevance is the bearing a reason or piece of evidence has on the particular claim it is offered to support.",
+  "explanation": [
+    "A fact can be accurate yet irrelevant if it does not help establish the claim at issue.",
+    "Relevance is distinct from sufficiency: a reason may bear on a claim without providing enough support to settle it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
