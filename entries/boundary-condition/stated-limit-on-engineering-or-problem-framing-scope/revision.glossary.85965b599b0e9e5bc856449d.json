@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.boundary-condition.scope-limit",
+  "revision_id": "revision.glossary.85965b599b0e9e5bc856449d",
+  "headword": "Boundary condition",
+  "scope_label": "stated limit on engineering or problem-framing scope",
+  "definition": "A boundary condition states a limit or assumption within which an engineering task, model, or inquiry is considered.",
+  "explanation": [
+    "It can specify such limits as available resources, time, relevant functions, or whose interests the inquiry includes.",
+    "Changing a boundary condition can change which solutions appear feasible or which concerns the analysis addresses."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
