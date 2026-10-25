@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.risk-avoidance.activity-withdrawal",
+  "revision_id": "revision.glossary.220a28fb1bbf0e78f86629c2",
+  "headword": "Risk avoidance",
+  "scope_label": "organizational risk treatment",
+  "definition": "Risk avoidance is deciding not to start, or to stop, an activity that would create a specified unwanted risk.",
+  "explanation": [
+    "It removes exposure from that activity, but may forgo its benefits or leave other risks to manage."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

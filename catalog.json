@@ -2352,6 +2352,11 @@
       "path": "entries/risk-assessment/hazard-focused-assessment-for-a-decision/revision.glossary.e2754134753ec68b8cf6a45f.json"
     },
     {
+      "object_id": "glossary.risk-avoidance.activity-withdrawal",
+      "revision_id": "revision.glossary.220a28fb1bbf0e78f86629c2",
+      "path": "entries/risk-avoidance/organizational-risk-treatment/revision.glossary.220a28fb1bbf0e78f86629c2.json"
+    },
+    {
       "object_id": "glossary.risk-management.organized-response",
       "revision_id": "revision.glossary.4b68edb58719d7c70ca990fa",
       "path": "entries/risk-management/organized-response-to-risks-affecting-objectives/revision.glossary.4b68edb58719d7c70ca990fa.json"
