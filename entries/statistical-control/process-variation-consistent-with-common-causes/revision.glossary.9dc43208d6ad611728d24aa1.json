@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.statistical-control.process-state",
+  "revision_id": "revision.glossary.9dc43208d6ad611728d24aa1",
+  "headword": "Statistical control",
+  "scope_label": "process variation consistent with common causes",
+  "definition": "A process is in statistical control when its observed variation is consistent with common causes and shows no supported signal of a special cause under the chosen monitoring rules.",
+  "explanation": [
+    "Points beyond control limits or a nonrandom pattern can prompt investigation of a possible process change.",
+    "Statistical control does not by itself show that the process outputs meet their specifications."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
