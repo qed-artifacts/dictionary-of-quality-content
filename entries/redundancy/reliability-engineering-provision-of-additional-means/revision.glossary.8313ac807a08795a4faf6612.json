@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.redundancy.additional-means-for-reliability",
+  "revision_id": "revision.glossary.8313ac807a08795a4faf6612",
+  "headword": "Redundancy",
+  "scope_label": "reliability engineering provision of additional means",
+  "definition": "In reliability engineering, redundancy is the provision of additional means to perform a function if a primary means fails.",
+  "explanation": [
+    "The added means may be spare components, alternative paths, or enough time to repeat an operation.",
+    "Its reliability benefit depends on the arrangement and failure behavior; extra parts alone are not a guarantee."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

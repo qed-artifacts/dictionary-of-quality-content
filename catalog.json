@@ -1842,6 +1842,11 @@
       "path": "entries/recovery/organizational-response-to-a-service-failure/revision.glossary.2b0a50d872e2bc1909347449.json"
     },
     {
+      "object_id": "glossary.redundancy.additional-means-for-reliability",
+      "revision_id": "revision.glossary.8313ac807a08795a4faf6612",
+      "path": "entries/redundancy/reliability-engineering-provision-of-additional-means/revision.glossary.8313ac807a08795a4faf6612.json"
+    },
+    {
       "object_id": "glossary.reference-level.comparison",
       "revision_id": "revision.glossary.f95fb748e507db321f96b96d",
       "path": "entries/reference-level/comparison-point-for-model-performance-results/revision.glossary.f95fb748e507db321f96b96d.json"
