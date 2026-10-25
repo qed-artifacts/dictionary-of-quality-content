@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.aggregation-rule.combining-components",
+  "revision_id": "revision.glossary.29757eb43e5745e68cb93439",
+  "headword": "Aggregation rule",
+  "scope_label": "combining multiple component values for an evaluation",
+  "definition": "An aggregation rule specifies how several component values are combined into a summary value or judgment.",
+  "explanation": [
+    "It may use a sum, mean, weighting scheme, minimum, or another stated procedure; the choice affects the result.",
+    "State whether a strong result on one component may offset a weak result on another."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
