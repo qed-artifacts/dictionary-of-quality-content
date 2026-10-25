@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.risk-response.selected-risk-action",
+  "revision_id": "revision.glossary.280d7f3dd87287b71dfbd875",
+  "headword": "Risk response",
+  "scope_label": "organizational risk treatment and response planning",
+  "definition": "A risk response is a selected action or strategy for addressing an identified risk.",
+  "explanation": [
+    "Depending on the risk, a response may avoid, reduce, transfer, or accept it; responses to opportunities can differ.",
+    "A response plan states how the choice will be carried out and checked for effectiveness."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

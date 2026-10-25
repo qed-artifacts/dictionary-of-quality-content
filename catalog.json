@@ -1962,6 +1962,11 @@
       "path": "entries/risk-priority-number/fmea-product-of-severity-occurrence-and-detection-ratings/revision.glossary.0325e93385778d75395e0a83.json"
     },
     {
+      "object_id": "glossary.risk-response.selected-risk-action",
+      "revision_id": "revision.glossary.280d7f3dd87287b71dfbd875",
+      "path": "entries/risk-response/organizational-risk-treatment-and-response-planning/revision.glossary.280d7f3dd87287b71dfbd875.json"
+    },
+    {
       "object_id": "glossary.risk-treatment.selected-risk-response",
       "revision_id": "revision.glossary.2c716453cacedafc84c9804f",
       "path": "entries/risk-treatment/selecting-and-implementing-responses-to-assessed-risks/revision.glossary.2c716453cacedafc84c9804f.json"
