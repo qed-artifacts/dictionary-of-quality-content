@@ -842,6 +842,11 @@
       "path": "entries/data-uniqueness/absence-of-unintended-duplicates-for-entities-or-events-meant-to-appear-once/revision.glossary.97214239e9678179dcafa37a.json"
     },
     {
+      "object_id": "glossary.data-validity.conformity-to-data-rules",
+      "revision_id": "revision.glossary.d5ad4d6a9c4746dd6096cc63",
+      "path": "entries/data-validity/data-quality-conformity-to-specified-definitions-and-rules/revision.glossary.d5ad4d6a9c4746dd6096cc63.json"
+    },
+    {
       "object_id": "glossary.dataset-quality.collection-fitness-for-use",
       "revision_id": "revision.glossary.f424ce1ae23ca11c9d8732b4",
       "path": "entries/dataset-quality/dataset-assessment-for-a-stated-analysis/revision.glossary.f424ce1ae23ca11c9d8732b4.json"

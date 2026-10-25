@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-validity.conformity-to-data-rules",
+  "revision_id": "revision.glossary.d5ad4d6a9c4746dd6096cc63",
+  "headword": "Data validity",
+  "scope_label": "data-quality conformity to specified definitions and rules",
+  "definition": "In data-quality management, data validity is the extent to which values or records conform to applicable data definitions and rules.",
+  "explanation": [
+    "A rule may specify an allowed format, range, or relationship between fields.",
+    "A validly formatted record can still misstate the world; validity in this sense does not by itself establish factual accuracy."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
