@@ -1917,6 +1917,11 @@
       "path": "entries/poka-yoke/production-design-or-device-preventing-a-predictable-mistake-from-producing-a-defect/revision.glossary.d9e27cd1ed7748e5a5ac3c0e.json"
     },
     {
+      "object_id": "glossary.policy-quality.public-policy-design-and-effects",
+      "revision_id": "revision.glossary.549ed69472ef96ae53eb7b31",
+      "path": "entries/policy-quality/public-policy-design-implementation-and-effects/revision.glossary.549ed69472ef96ae53eb7b31.json"
+    },
+    {
       "object_id": "glossary.policy.organizational-decision-guide",
       "revision_id": "revision.glossary.23d5ef517a25ea57c72d7eb5",
       "path": "entries/policy/standing-organizational-guide-to-decisions-and-action/revision.glossary.23d5ef517a25ea57c72d7eb5.json"
