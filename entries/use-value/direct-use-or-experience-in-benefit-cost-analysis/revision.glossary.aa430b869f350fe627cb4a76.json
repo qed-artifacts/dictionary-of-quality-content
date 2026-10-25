@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.use-value.direct-use-benefit",
+  "revision_id": "revision.glossary.aa430b869f350fe627cb4a76",
+  "headword": "Use value",
+  "scope_label": "direct use or experience in benefit-cost analysis",
+  "definition": "In benefit-cost analysis, use value is the value a person derives from directly using or experiencing a good, service, or resource.",
+  "explanation": [
+    "It concerns the user's own benefit from that experience, which may be expressed through willingness to pay.",
+    "It is not identical to a market price, which need not capture the full value of a use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

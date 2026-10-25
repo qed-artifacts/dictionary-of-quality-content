@@ -2392,6 +2392,11 @@
       "path": "entries/unit-of-analysis/entity-level-about-which-a-study-draws-conclusions/revision.glossary.db8467d3f11a6c7ae6889498.json"
     },
     {
+      "object_id": "glossary.use-value.direct-use-benefit",
+      "revision_id": "revision.glossary.aa430b869f350fe627cb4a76",
+      "path": "entries/use-value/direct-use-or-experience-in-benefit-cost-analysis/revision.glossary.aa430b869f350fe627cb4a76.json"
+    },
+    {
       "object_id": "glossary.use.purposeful-application",
       "revision_id": "revision.glossary.bb57799cf22583d417036053",
       "path": "entries/use/application-of-an-object-method-or-finding-for-a-purpose/revision.glossary.bb57799cf22583d417036053.json"
