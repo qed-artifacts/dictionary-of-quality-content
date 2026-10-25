@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.reputation.organizational-public-regard",
+  "revision_id": "revision.glossary.d12e7c5f5e82f68b4b2ea3e9",
+  "headword": "Reputation",
+  "scope_label": "organizational public regard",
+  "definition": "An organization's reputation is how an audience regards it, including what the organization is known for and the esteem attached to it.",
+  "explanation": [
+    "Being widely recognized is different from being well regarded; the audience and the attributes at issue should be named."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
