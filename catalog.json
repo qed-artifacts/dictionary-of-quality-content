@@ -797,6 +797,11 @@
       "path": "entries/direct-observation/recording-observable-behavior-or-events-by-watching-them/revision.glossary.30c13e0014f365211b4fd89a.json"
     },
     {
+      "object_id": "glossary.disability-adjusted-life-year.health-loss",
+      "revision_id": "revision.glossary.d4e291898882a4cd6feb46d5",
+      "path": "entries/disability-adjusted-life-year/population-health-loss-from-premature-mortality-and-nonfatal-conditions/revision.glossary.d4e291898882a4cd6feb46d5.json"
+    },
+    {
       "object_id": "glossary.disposition.issue-outcome",
       "revision_id": "revision.glossary.dcf2e0fea7734c6101fc7c8b",
       "path": "entries/disposition/recorded-treatment-or-outcome-of-a-reviewed-issue/revision.glossary.dcf2e0fea7734c6101fc7c8b.json"

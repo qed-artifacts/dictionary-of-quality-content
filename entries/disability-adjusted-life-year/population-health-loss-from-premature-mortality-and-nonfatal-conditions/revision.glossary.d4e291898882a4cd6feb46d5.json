@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.disability-adjusted-life-year.health-loss",
+  "revision_id": "revision.glossary.d4e291898882a4cd6feb46d5",
+  "headword": "Disability-adjusted life year",
+  "scope_label": "population health loss from premature mortality and nonfatal conditions",
+  "definition": "A disability-adjusted life year is a unit of health loss combining years lost to premature death with time lived in less than full health, weighted by severity.",
+  "explanation": [
+    "DALYs can be added across conditions or populations to summarize a burden of disease.",
+    "The result depends on the reference life expectancy and disability weights used; it is not a direct rating of care quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
