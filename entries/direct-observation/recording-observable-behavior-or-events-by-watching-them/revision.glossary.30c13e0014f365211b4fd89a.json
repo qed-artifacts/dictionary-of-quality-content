@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.direct-observation.behavior-as-seen",
+  "revision_id": "revision.glossary.30c13e0014f365211b4fd89a",
+  "headword": "Direct observation",
+  "scope_label": "recording observable behavior or events by watching them",
+  "definition": "Direct observation is a method of recording behaviors or events by watching them as they occur.",
+  "explanation": [
+    "A recording scheme states in advance which observable actions count and how they will be coded.",
+    "The observer can record an action directly, while a conclusion about an unseen state such as motivation requires inference."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
