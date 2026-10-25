@@ -1757,6 +1757,11 @@
       "path": "entries/portability/transfer-of-software-between-operational-environments/revision.glossary.fbbce969324b73bd9d9f8084.json"
     },
     {
+      "object_id": "glossary.potency.biological-medicine-activity",
+      "revision_id": "revision.glossary.1caa269e2d3c2db0a8ac4e2d",
+      "path": "entries/potency/biological-activity-of-a-biological-medicine/revision.glossary.1caa269e2d3c2db0a8ac4e2d.json"
+    },
+    {
       "object_id": "glossary.practical-significance.decision-relevant-effect",
       "revision_id": "revision.glossary.af738f62dc2bb68e99cca945",
       "path": "entries/practical-significance/real-world-importance-of-a-statistical-difference-for-a-decision/revision.glossary.af738f62dc2bb68e99cca945.json"

@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.potency.biological-medicine-activity",
+  "revision_id": "revision.glossary.1caa269e2d3c2db0a8ac4e2d",
+  "headword": "Potency",
+  "scope_label": "biological activity of a biological medicine",
+  "definition": "For a biological medicine, potency is its capacity to produce a specified biological activity, assessed by an appropriate test.",
+  "explanation": [
+    "Potency and the quantity of active material are assessed separately; amount alone need not establish the required activity.",
+    "A potency result needs the assay and acceptance criteria to be interpreted for a particular product."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
