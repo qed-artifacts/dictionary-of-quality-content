@@ -2892,6 +2892,11 @@
       "path": "entries/triangulation/empirical-research-comparison-of-distinct-evidence-streams/revision.glossary.9eebb897e7208ec7c51c82a6.json"
     },
     {
+      "object_id": "glossary.true-value.metrology-quantity-value",
+      "revision_id": "revision.glossary.1a285eee4c581e2ee80fbc09",
+      "path": "entries/true-value/metrology/revision.glossary.1a285eee4c581e2ee80fbc09.json"
+    },
+    {
       "object_id": "glossary.trustworthiness.system-critical-requirements",
       "revision_id": "revision.glossary.683354823f08a299ebb2cff4",
       "path": "entries/trustworthiness/grounds-for-relying-on-a-system-to-meet-critical-requirements/revision.glossary.683354823f08a299ebb2cff4.json"
