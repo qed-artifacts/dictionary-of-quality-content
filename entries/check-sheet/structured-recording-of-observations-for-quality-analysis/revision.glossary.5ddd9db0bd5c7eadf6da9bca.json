@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.check-sheet.structured-data-collection",
+  "revision_id": "revision.glossary.5ddd9db0bd5c7eadf6da9bca",
+  "headword": "Check sheet",
+  "scope_label": "structured recording of observations for quality analysis",
+  "definition": "A check sheet is a structured form for recording observations or occurrences according to defined categories.",
+  "explanation": [
+    "Its categories and collection conditions should be specified before use so the resulting data can be interpreted.",
+    "A check sheet records data for later analysis; a checklist instead prompts actions to complete."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
