@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.visual-management.visible-work-status-and-response",
+  "revision_id": "revision.glossary.ef106a13499056afbe2ae6f5",
+  "headword": "Visual management",
+  "scope_label": "visible process signals and response in lean work management",
+  "definition": "Visual management uses visible signals and displays to make a process's status, expected condition, and deviations easy for people doing the work to see.",
+  "explanation": [
+    "A display may show whether work is on schedule, supplies are available, or an action has an owner.",
+    "Its purpose includes timely response when a deviation appears; displaying information without acting on it does not complete that management practice."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
