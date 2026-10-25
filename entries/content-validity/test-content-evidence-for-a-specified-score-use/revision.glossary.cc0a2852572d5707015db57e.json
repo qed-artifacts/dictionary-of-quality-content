@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.content-validity.test-domain-coverage",
+  "revision_id": "revision.glossary.cc0a2852572d5707015db57e",
+  "headword": "Content validity",
+  "scope_label": "test-content evidence for a specified score use",
+  "definition": "Content validity concerns whether a test's items and tasks adequately represent the domain it is meant to assess for a specified interpretation and use.",
+  "explanation": [
+    "Important parts of the domain should be covered without letting irrelevant material dominate.",
+    "Reviewing content supplies one kind of validity evidence; it does not establish that every proposed use of the scores is warranted."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
