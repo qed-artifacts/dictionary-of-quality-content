@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.expected-value.probability-weighted-outcome",
+  "revision_id": "revision.glossary.34216abf7d12ede5b4bce646",
+  "headword": "Expected value",
+  "scope_label": "probability-weighted average of numerical outcomes",
+  "definition": "Expected value is the probability-weighted average of the numerical values assigned to possible outcomes.",
+  "explanation": [
+    "For discrete outcomes, multiply each outcome's value by its probability and add the products.",
+    "It is a model-based average, not a prediction that any one outcome will equal that number; expected utility uses a utility scale rather than necessarily monetary values."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
