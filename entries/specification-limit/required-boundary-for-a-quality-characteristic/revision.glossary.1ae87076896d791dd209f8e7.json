@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.specification-limit.acceptability-boundary",
+  "revision_id": "revision.glossary.1ae87076896d791dd209f8e7",
+  "headword": "Specification limit",
+  "scope_label": "required boundary for a quality characteristic",
+  "definition": "A specification limit is a stated boundary for acceptable values of a specified characteristic.",
+  "explanation": [
+    "An upper limit, lower limit, or both may be set by a customer or another applicable requirement.",
+    "A specification limit judges an output against a requirement; a control limit instead helps assess process behavior."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
