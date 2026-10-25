@@ -287,6 +287,11 @@
       "path": "entries/checklist/task-guidance-and-verification-list/revision.glossary.8fa325fad3a70765d0a27cb6.json"
     },
     {
+      "object_id": "glossary.citizen-satisfaction.public-service-appraisal",
+      "revision_id": "revision.glossary.5cb7a3fd2824e6a16dd437b6",
+      "path": "entries/citizen-satisfaction/citizens-subjective-appraisal-of-public-services/revision.glossary.5cb7a3fd2824e6a16dd437b6.json"
+    },
+    {
       "object_id": "glossary.claim.supportable-assertion",
       "revision_id": "revision.glossary.1b2229ee3e47ad0c83b3178a",
       "path": "entries/claim/assertion-offered-for-assessment/revision.glossary.1b2229ee3e47ad0c83b3178a.json"
