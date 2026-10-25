@@ -1462,6 +1462,11 @@
       "path": "entries/resilience/organizational-response-to-disruption/revision.glossary.d8a7dd5deec0ecac31f93d11.json"
     },
     {
+      "object_id": "glossary.resource.means-for-an-aim",
+      "revision_id": "revision.glossary.8e7b8a997eec9cb9f0e38776",
+      "path": "entries/resource/usable-means-for-carrying-out-work-or-achieving-an-aim/revision.glossary.8e7b8a997eec9cb9f0e38776.json"
+    },
+    {
       "object_id": "glossary.response-surface.expected-response-model",
       "revision_id": "revision.glossary.c5edd37c9cd8d49b0e9a2763",
       "path": "entries/response-surface/modeled-expected-response-over-combinations-of-input-levels/revision.glossary.c5edd37c9cd8d49b0e9a2763.json"
