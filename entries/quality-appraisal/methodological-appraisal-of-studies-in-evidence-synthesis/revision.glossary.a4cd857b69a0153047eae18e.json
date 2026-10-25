@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-appraisal.evidence-synthesis",
+  "revision_id": "revision.glossary.a4cd857b69a0153047eae18e",
+  "headword": "Quality appraisal",
+  "scope_label": "methodological appraisal of studies in evidence synthesis",
+  "definition": "In evidence synthesis, quality appraisal is a structured assessment of the methodological strengths and limitations of the studies used to support a finding.",
+  "explanation": [
+    "The criteria should fit the study methods, and the appraisal helps interpret how much confidence to place in the synthesized finding.",
+    "A polished report alone does not show that the underlying study methods were sound."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

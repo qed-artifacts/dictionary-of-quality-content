@@ -2372,6 +2372,11 @@
       "path": "entries/quality-adjusted-price/economic-price-comparison/revision.glossary.8320e75595247bc1bb6d9320.json"
     },
     {
+      "object_id": "glossary.quality-appraisal.evidence-synthesis",
+      "revision_id": "revision.glossary.a4cd857b69a0153047eae18e",
+      "path": "entries/quality-appraisal/methodological-appraisal-of-studies-in-evidence-synthesis/revision.glossary.a4cd857b69a0153047eae18e.json"
+    },
+    {
       "object_id": "glossary.quality-assessment.evidence-examination",
       "revision_id": "revision.glossary.ac5299ba6343086ddf088526",
       "path": "entries/quality-assessment/examination-of-quality-against-a-stated-basis/revision.glossary.ac5299ba6343086ddf088526.json"
