@@ -1417,6 +1417,11 @@
       "path": "entries/loss-function/numerical-cost-assigned-to-supervised-prediction-outcomes/revision.glossary.807952bba247773a756cc0b4.json"
     },
     {
+      "object_id": "glossary.lot.acceptance-sampling",
+      "revision_id": "revision.glossary.f50c47706f49f878b2ca90b5",
+      "path": "entries/lot/defined-product-quantity-for-sampling-decision/revision.glossary.f50c47706f49f878b2ca90b5.json"
+    },
+    {
       "object_id": "glossary.maintainability.engineered-item",
       "revision_id": "revision.glossary.a924b9f0bec9b4878baf10d3",
       "path": "entries/maintainability/ability-to-maintain-or-restore-an-engineered-item/revision.glossary.a924b9f0bec9b4878baf10d3.json"
