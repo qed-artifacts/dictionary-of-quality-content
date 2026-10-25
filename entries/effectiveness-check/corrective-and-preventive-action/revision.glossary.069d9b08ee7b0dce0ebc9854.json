@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.effectiveness-check.capa-result-confirmation",
+  "revision_id": "revision.glossary.069d9b08ee7b0dce0ebc9854",
+  "headword": "Effectiveness check",
+  "scope_label": "corrective and preventive action",
+  "definition": "In corrective and preventive action, an effectiveness check examines whether an implemented action produced the intended improvement or prevented recurrence.",
+  "explanation": [
+    "It uses planned evidence after implementation; confirming that an action was carried out is a separate check."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
