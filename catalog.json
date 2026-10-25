@@ -1777,6 +1777,11 @@
       "path": "entries/opportunity-cost/value-sacrificed-when-resources-are-used-one-way-rather-than-another/revision.glossary.a90786b09d57ea9c13676e92.json"
     },
     {
+      "object_id": "glossary.opportunity-exploitation.project-upside-response",
+      "revision_id": "revision.glossary.391f9f713577048ae9f45fc9",
+      "path": "entries/opportunity-exploitation/project-risk-management/revision.glossary.391f9f713577048ae9f45fc9.json"
+    },
+    {
       "object_id": "glossary.opportunity.favorable-project-risk",
       "revision_id": "revision.glossary.49f04da02acf4bad8572940a",
       "path": "entries/opportunity/favorable-uncertainty-in-project-risk-management/revision.glossary.49f04da02acf4bad8572940a.json"
