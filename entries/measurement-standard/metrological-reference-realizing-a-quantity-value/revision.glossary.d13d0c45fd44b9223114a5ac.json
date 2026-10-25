@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.measurement-standard.metrological-reference",
+  "revision_id": "revision.glossary.d13d0c45fd44b9223114a5ac",
+  "headword": "Measurement standard",
+  "scope_label": "metrological reference realizing a quantity value",
+  "definition": "In metrology, a measurement standard is a reference that realizes a specified quantity value with stated uncertainty for use in other measurements.",
+  "explanation": [
+    "It may take the form of an instrument, material, or artifact used to calibrate or compare measuring equipment.",
+    "Here, standard means a measurement reference, not a written rule for how to measure."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

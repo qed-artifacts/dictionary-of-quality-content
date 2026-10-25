@@ -1727,6 +1727,11 @@
       "path": "entries/measurement-scale/representation-of-measurement-values-and-permitted-comparisons/revision.glossary.6c8c6856ec4aa7f5eb16d9a8.json"
     },
     {
+      "object_id": "glossary.measurement-standard.metrological-reference",
+      "revision_id": "revision.glossary.d13d0c45fd44b9223114a5ac",
+      "path": "entries/measurement-standard/metrological-reference-realizing-a-quantity-value/revision.glossary.d13d0c45fd44b9223114a5ac.json"
+    },
+    {
       "object_id": "glossary.measurement-system.metrology",
       "revision_id": "revision.glossary.0017219b1bffffd1a34dc329",
       "path": "entries/measurement-system/arrangement-used-to-obtain-values-in-metrology/revision.glossary.0017219b1bffffd1a34dc329.json"
