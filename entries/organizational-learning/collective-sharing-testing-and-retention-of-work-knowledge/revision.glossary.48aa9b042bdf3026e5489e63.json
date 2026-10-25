@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.organizational-learning.shared-retained-work-knowledge",
+  "revision_id": "revision.glossary.48aa9b042bdf3026e5489e63",
+  "headword": "Organizational learning",
+  "scope_label": "collective sharing, testing, and retention of work knowledge",
+  "definition": "Organizational learning is the development and retention of shared knowledge about an organization's work through experience, inquiry, and feedback.",
+  "explanation": [
+    "People interpret what happened, share what they learned, and test possible changes to their practices.",
+    "A lesson held only in one person's memory may be useful to that person, but the organization has limited means to retain or use it across future work."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
