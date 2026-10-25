@@ -272,6 +272,11 @@
       "path": "entries/care-coordination/alignment-of-services-across-healthcare-participants/revision.glossary.ea5bcd5d26d72589b4eac5fe.json"
     },
     {
+      "object_id": "glossary.case-management-quality.person-centered-coordination",
+      "revision_id": "revision.glossary.082867a1da9020ee8f7105a6",
+      "path": "entries/case-management-quality/health-and-social-care-coordination/revision.glossary.082867a1da9020ee8f7105a6.json"
+    },
+    {
       "object_id": "glossary.catchball.iterative-hoshin-planning",
       "revision_id": "revision.glossary.9a2997495df712acd671e3f6",
       "path": "entries/catchball/iterative-participation-in-hoshin-planning-and-policy-deployment/revision.glossary.9a2997495df712acd671e3f6.json"
