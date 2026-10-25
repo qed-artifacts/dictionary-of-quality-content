@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.type-i-error.reject-true-null",
+  "revision_id": "revision.glossary.ffc24be203aef37b53c4a66f",
+  "headword": "Type I error",
+  "scope_label": "incorrect rejection of a true null hypothesis",
+  "definition": "A Type I error occurs when a hypothesis test rejects a null hypothesis that is in fact true.",
+  "explanation": [
+    "The chosen significance level, α, bounds the probability of this error under the test's stated conditions.",
+    "It differs from a Type II error, which fails to reject a false null hypothesis."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

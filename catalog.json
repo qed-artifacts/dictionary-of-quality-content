@@ -2132,6 +2132,11 @@
       "path": "entries/trustworthiness/grounds-for-relying-on-a-system-to-meet-critical-requirements/revision.glossary.683354823f08a299ebb2cff4.json"
     },
     {
+      "object_id": "glossary.type-i-error.reject-true-null",
+      "revision_id": "revision.glossary.ffc24be203aef37b53c4a66f",
+      "path": "entries/type-i-error/incorrect-rejection-of-a-true-null-hypothesis/revision.glossary.ffc24be203aef37b53c4a66f.json"
+    },
+    {
       "object_id": "glossary.uncertainty.limits-of-knowledge",
       "revision_id": "revision.glossary.2f07ef86252d103df9dec618",
       "path": "entries/uncertainty/limits-on-knowledge-or-prediction/revision.glossary.2f07ef86252d103df9dec618.json"
