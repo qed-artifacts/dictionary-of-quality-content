@@ -2502,6 +2502,11 @@
       "path": "entries/sensory-attribute/food-sensory-analysis/revision.glossary.9ef613f048d21badf775c655.json"
     },
     {
+      "object_id": "glossary.sensory-evaluation.food-systematic-assessment",
+      "revision_id": "revision.glossary.aa05a52ba1ee3a4d04e51dd0",
+      "path": "entries/sensory-evaluation/food-sensory-science/revision.glossary.aa05a52ba1ee3a4d04e51dd0.json"
+    },
+    {
       "object_id": "glossary.sensory-quality.food-perception",
       "revision_id": "revision.glossary.e659073a5fc7e57b89c6768b",
       "path": "entries/sensory-quality/sensory-characteristics-of-food/revision.glossary.e659073a5fc7e57b89c6768b.json"
