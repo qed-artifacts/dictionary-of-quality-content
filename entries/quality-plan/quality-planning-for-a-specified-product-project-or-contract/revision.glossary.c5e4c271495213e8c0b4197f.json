@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-plan.specific-output",
+  "revision_id": "revision.glossary.c5e4c271495213e8c0b4197f",
+  "headword": "Quality plan",
+  "scope_label": "quality planning for a specified product, project, or contract",
+  "definition": "A quality plan states how quality requirements will be addressed for a specified product, project, or contract.",
+  "explanation": [
+    "It identifies the relevant activities and controls and, where needed, who will carry them out and what records will show the result.",
+    "It may be a separate document or part of a broader project plan, depending on the work."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
