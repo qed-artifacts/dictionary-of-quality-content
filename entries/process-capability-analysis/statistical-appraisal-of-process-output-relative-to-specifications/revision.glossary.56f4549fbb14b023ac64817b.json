@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.process-capability-analysis.specification-fit",
+  "revision_id": "revision.glossary.56f4549fbb14b023ac64817b",
+  "headword": "Process capability analysis",
+  "scope_label": "statistical appraisal of process output relative to specifications",
+  "definition": "Process capability analysis examines the distribution of a process's output against specified limits to estimate how consistently the process can produce acceptable results.",
+  "explanation": [
+    "It uses information about process location and variation under stated conditions, commonly after checking whether the process is stable.",
+    "A capability index can summarize that comparison, but its value has meaning only with the chosen limits, data, and assumptions."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

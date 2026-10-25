@@ -937,6 +937,11 @@
       "path": "entries/process-approach/quality-management-of-interrelated-work-toward-intended-results/revision.glossary.23252dbd00c30c1e20857c6e.json"
     },
     {
+      "object_id": "glossary.process-capability-analysis.specification-fit",
+      "revision_id": "revision.glossary.56f4549fbb14b023ac64817b",
+      "path": "entries/process-capability-analysis/statistical-appraisal-of-process-output-relative-to-specifications/revision.glossary.56f4549fbb14b023ac64817b.json"
+    },
+    {
       "object_id": "glossary.process-capability-index.specification",
       "revision_id": "revision.glossary.2d22a146f5b0d924bb6200db",
       "path": "entries/process-capability-index/statistical-index-comparing-process-behavior-with-specification-limits/revision.glossary.2d22a146f5b0d924bb6200db.json"
