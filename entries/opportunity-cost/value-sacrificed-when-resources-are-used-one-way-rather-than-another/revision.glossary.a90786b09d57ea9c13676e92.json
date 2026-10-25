@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.opportunity-cost.best-forgone-alternative",
+  "revision_id": "revision.glossary.a90786b09d57ea9c13676e92",
+  "headword": "Opportunity cost",
+  "scope_label": "value sacrificed when resources are used one way rather than another",
+  "definition": "Opportunity cost is the value of the best available alternative forgone when a resource is used for one purpose rather than another.",
+  "explanation": [
+    "Using staff time, space, or money for one option can give up benefits that the same resources could have produced elsewhere.",
+    "The cost can exist without a cash payment, and its value may be difficult to express precisely in money."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
