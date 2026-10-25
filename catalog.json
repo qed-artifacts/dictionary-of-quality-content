@@ -1342,6 +1342,11 @@
       "path": "entries/root-cause-analysis/investigating-causes-of-a-quality-problem/revision.glossary.bb31940c93d316920791aa7d.json"
     },
     {
+      "object_id": "glossary.root-cause.corrective-action",
+      "revision_id": "revision.glossary.ca6111193fa6a9456b2f0cc2",
+      "path": "entries/root-cause/cause-of-a-nonconformance-targeted-for-corrective-action/revision.glossary.ca6111193fa6a9456b2f0cc2.json"
+    },
+    {
       "object_id": "glossary.rubric.criteria-and-performance-guide",
       "revision_id": "revision.glossary.35c52eb5f14d506b49a9ee40",
       "path": "entries/rubric/structured-guide-for-evaluating-specified-work-or-performance/revision.glossary.35c52eb5f14d506b49a9ee40.json"

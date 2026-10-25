@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.root-cause.corrective-action",
+  "revision_id": "revision.glossary.ca6111193fa6a9456b2f0cc2",
+  "headword": "Root cause",
+  "scope_label": "cause of a nonconformance targeted for corrective action",
+  "definition": "A root cause is a condition or mechanism that produced a defined problem and can be addressed to reduce its recurrence.",
+  "explanation": [
+    "In quality improvement, identifying a root cause connects a nonconformance to a corrective action directed at why it occurred.",
+    "A proposed cause remains a hypothesis until evidence supports the causal link; a problem may have more than one contributing cause."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
