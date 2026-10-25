@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.sensory-quality.food-perception",
+  "revision_id": "revision.glossary.e659073a5fc7e57b89c6768b",
+  "headword": "Sensory quality",
+  "scope_label": "sensory characteristics of food",
+  "definition": "In food assessment, sensory quality is how well a food's perceivable features meet relevant sensory expectations or criteria.",
+  "explanation": [
+    "Appearance, aroma, flavor, and texture may matter; trained panels can describe or compare them under specified test conditions.",
+    "A favorable sensory judgment does not settle the food's safety or nutritional quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
