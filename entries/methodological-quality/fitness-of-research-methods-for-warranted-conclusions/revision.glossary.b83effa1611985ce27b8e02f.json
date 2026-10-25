@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.methodological-quality.study-inference-support",
+  "revision_id": "revision.glossary.b83effa1611985ce27b8e02f",
+  "headword": "Methodological quality",
+  "scope_label": "fitness of research methods for warranted conclusions",
+  "definition": "A study's methodological quality is how well its design, conduct, and analysis support the conclusions it is used to draw.",
+  "explanation": [
+    "Appraisal uses criteria suited to the question and design; in a trial these may include allocation, blinding, and handling of withdrawals.",
+    "Clear reporting helps others judge the methods, but it does not by itself remove bias introduced by a weak design."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
