@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.abnormality.process-departure",
+  "revision_id": "revision.glossary.a5c51288f22a8cc6f59f0bb8",
+  "headword": "Abnormality",
+  "scope_label": "observed process departure in quality control",
+  "definition": "In process control, an abnormality is an observed condition or pattern that departs from the process's expected or specified state.",
+  "explanation": [
+    "A sudden spike in waste can signal a cause that needs investigation.",
+    "The departure identifies something to examine; it does not by itself establish its cause or prove that the whole process has failed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
