@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.reference-level.comparison",
+  "revision_id": "revision.glossary.f95fb748e507db321f96b96d",
+  "headword": "Reference level",
+  "scope_label": "comparison point for model-performance results",
+  "definition": "In performance comparison, a reference level is a stated comparison value that helps interpret a result from a model or measure.",
+  "explanation": [
+    "A shared reference level can make results from different performance measures easier to compare.",
+    "It need not be a target to be achieved or a threshold that triggers an action."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
