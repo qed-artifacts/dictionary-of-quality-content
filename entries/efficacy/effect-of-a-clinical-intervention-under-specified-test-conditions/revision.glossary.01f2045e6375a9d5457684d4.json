@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.efficacy.clinical-intervention-test",
+  "revision_id": "revision.glossary.01f2045e6375a9d5457684d4",
+  "headword": "Efficacy",
+  "scope_label": "effect of a clinical intervention under specified test conditions",
+  "definition": "In clinical research, efficacy is how well an intervention produces its intended effect under specified study conditions.",
+  "explanation": [
+    "An efficacy claim must identify the population, comparison, outcome, and conditions under which the effect was assessed.",
+    "Evidence from a controlled study does not automatically establish how well the intervention works in routine practice."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

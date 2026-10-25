@@ -742,6 +742,11 @@
       "path": "entries/effect/causal-effect-of-a-specified-intervention/revision.glossary.d668e131faa5b385c9f295a6.json"
     },
     {
+      "object_id": "glossary.efficacy.clinical-intervention-test",
+      "revision_id": "revision.glossary.01f2045e6375a9d5457684d4",
+      "path": "entries/efficacy/effect-of-a-clinical-intervention-under-specified-test-conditions/revision.glossary.01f2045e6375a9d5457684d4.json"
+    },
+    {
       "object_id": "glossary.efficiency.useful-output-resource-relation",
       "revision_id": "revision.glossary.c795cdbbf28e24ec967c139c",
       "path": "entries/efficiency/useful-output-relative-to-process-resources/revision.glossary.c795cdbbf28e24ec967c139c.json"
