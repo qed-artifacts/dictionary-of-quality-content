@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.weighting.relative-influence",
+  "revision_id": "revision.glossary.9d9b7e2657f1e8041530629a",
+  "headword": "Weighting",
+  "scope_label": "relative influence of components in a combined result",
+  "definition": "Weighting assigns different relative influence to components used in a combined result or comparison.",
+  "explanation": [
+    "A weight states how much a component contributes under the chosen aggregation rule; it does not make the underlying evidence more trustworthy.",
+    "Changing weights can change a ranking, so the choice and its rationale should be visible."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
