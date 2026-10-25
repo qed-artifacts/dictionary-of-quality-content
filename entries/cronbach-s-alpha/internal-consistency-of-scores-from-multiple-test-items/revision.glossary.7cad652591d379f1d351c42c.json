@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.cronbach-s-alpha.internal-consistency",
+  "revision_id": "revision.glossary.7cad652591d379f1d351c42c",
+  "headword": "Cronbach's alpha",
+  "scope_label": "internal consistency of scores from multiple test items",
+  "definition": "Cronbach's alpha is a coefficient calculated from responses to multiple test items to assess the internal consistency of their scores.",
+  "explanation": [
+    "It uses data from one administration to describe how the item scores vary together.",
+    "Alpha alone does not show that the test measures only one construct or that scores would remain stable across occasions."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
