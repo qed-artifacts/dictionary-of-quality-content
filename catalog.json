@@ -1712,6 +1712,11 @@
       "path": "entries/net-promoter-score/recommendation-likelihood-survey-index/revision.glossary.89f854c3665aa52b451acaa2.json"
     },
     {
+      "object_id": "glossary.news-quality.outlet-coverage",
+      "revision_id": "revision.glossary.255ce82cb48511e563b3779e",
+      "path": "entries/news-quality/news-outlet-coverage/revision.glossary.255ce82cb48511e563b3779e.json"
+    },
+    {
       "object_id": "glossary.noise-factor.robust-design-variation",
       "revision_id": "revision.glossary.7c95d30ee9b20981dcca9802",
       "path": "entries/noise-factor/nonroutine-controlled-variation-considered-in-robust-design/revision.glossary.7c95d30ee9b20981dcca9802.json"

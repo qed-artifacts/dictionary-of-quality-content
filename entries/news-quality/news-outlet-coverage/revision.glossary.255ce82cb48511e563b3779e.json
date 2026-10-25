@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.news-quality.outlet-coverage",
+  "revision_id": "revision.glossary.255ce82cb48511e563b3779e",
+  "headword": "News quality",
+  "scope_label": "news outlet coverage",
+  "definition": "News quality is how well an outlet's coverage helps an audience understand matters of public concern under relevant journalistic standards.",
+  "explanation": [
+    "It concerns the choice and range of topics as well as the context, verification, and diversity within reports; one accurate story cannot establish the quality of an outlet's overall coverage."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
