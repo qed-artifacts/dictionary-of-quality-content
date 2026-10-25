@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.risk-transfer.allocated-consequences",
+  "revision_id": "revision.glossary.8d84f6a64c4498ee67c2dacd",
+  "headword": "Risk transfer",
+  "scope_label": "organizational risk treatment",
+  "definition": "Risk transfer is an arrangement in which another party assumes or shares specified consequences of a risk, often through insurance or a contract.",
+  "explanation": [
+    "It reallocates those consequences; it does not eliminate the underlying event or necessarily transfer every form of loss."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

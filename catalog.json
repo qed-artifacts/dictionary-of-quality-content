@@ -2377,6 +2377,11 @@
       "path": "entries/risk-response/organizational-risk-treatment-and-response-planning/revision.glossary.280d7f3dd87287b71dfbd875.json"
     },
     {
+      "object_id": "glossary.risk-transfer.allocated-consequences",
+      "revision_id": "revision.glossary.8d84f6a64c4498ee67c2dacd",
+      "path": "entries/risk-transfer/organizational-risk-treatment/revision.glossary.8d84f6a64c4498ee67c2dacd.json"
+    },
+    {
       "object_id": "glossary.risk-treatment.selected-risk-response",
       "revision_id": "revision.glossary.2c716453cacedafc84c9804f",
       "path": "entries/risk-treatment/selecting-and-implementing-responses-to-assessed-risks/revision.glossary.2c716453cacedafc84c9804f.json"
