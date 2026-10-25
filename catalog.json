@@ -357,6 +357,11 @@
       "path": "entries/education-quality/evaluation-of-educational-opportunities-processes-and-outcomes/revision.glossary.7c772c25338d5722d5cbaabe.json"
     },
     {
+      "object_id": "glossary.effect.causal-inference",
+      "revision_id": "revision.glossary.d668e131faa5b385c9f295a6",
+      "path": "entries/effect/causal-effect-of-a-specified-intervention/revision.glossary.d668e131faa5b385c9f295a6.json"
+    },
+    {
       "object_id": "glossary.environmental-quality.conditions-for-specified-purposes",
       "revision_id": "revision.glossary.46610ff7c1abba72d7dbacff",
       "path": "entries/environmental-quality/conditions-of-an-environment-relative-to-ecological-or-human-purposes/revision.glossary.46610ff7c1abba72d7dbacff.json"

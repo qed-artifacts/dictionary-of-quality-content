@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.effect.causal-inference",
+  "revision_id": "revision.glossary.d668e131faa5b385c9f295a6",
+  "headword": "Effect",
+  "scope_label": "causal effect of a specified intervention",
+  "definition": "In causal inference, an effect is the difference an intervention makes to an outcome compared with what would have happened under another specified condition.",
+  "explanation": [
+    "State the intervention, outcome, population, and comparison condition to make the effect interpretable.",
+    "An observed change or association alone does not establish that the intervention caused it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
