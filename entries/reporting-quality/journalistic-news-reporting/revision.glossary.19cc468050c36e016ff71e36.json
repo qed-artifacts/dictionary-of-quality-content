@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.reporting-quality.news-reporting",
+  "revision_id": "revision.glossary.19cc468050c36e016ff71e36",
+  "headword": "Reporting quality",
+  "scope_label": "journalistic news reporting",
+  "definition": "In journalism, reporting quality is how well a news account informs its audience under relevant editorial and public-interest standards.",
+  "explanation": [
+    "Context, source transparency, diversity of perspectives, and clear presentation may matter; counting sources alone cannot establish factual accuracy."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
