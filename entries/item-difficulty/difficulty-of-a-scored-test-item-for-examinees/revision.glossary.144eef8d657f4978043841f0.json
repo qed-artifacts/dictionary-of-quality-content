@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.item-difficulty.test-question-challenge",
+  "revision_id": "revision.glossary.144eef8d657f4978043841f0",
+  "headword": "Item difficulty",
+  "scope_label": "difficulty of a scored test item for examinees",
+  "definition": "In testing, item difficulty describes how challenging a particular question is for the examinees or ability range of interest.",
+  "explanation": [
+    "In classical item analysis, it is often reported as the proportion who answer correctly, so a higher reported proportion means an easier item.",
+    "In item response theory, a difficulty parameter locates the item on the modeled ability scale; the two quantities should not be confused."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
