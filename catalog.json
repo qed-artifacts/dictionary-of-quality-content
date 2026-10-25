@@ -1167,6 +1167,11 @@
       "path": "entries/relationship-matrix/customer-to-technical-grid-in-a-house-of-quality/revision.glossary.f85dc2b887068ef8c68292a4.json"
     },
     {
+      "object_id": "glossary.relevance.evidence-to-claim",
+      "revision_id": "revision.glossary.662c1c3cd80e2b7ab00fa44d",
+      "path": "entries/relevance/bearing-of-a-reason-or-evidence-on-a-claim/revision.glossary.662c1c3cd80e2b7ab00fa44d.json"
+    },
+    {
       "object_id": "glossary.reliability-centered-maintenance.failure-informed-action-selection",
       "revision_id": "revision.glossary.5f83c9523e1776e6322bddc8",
       "path": "entries/reliability-centered-maintenance/selection-of-maintenance-actions-from-functions-failure-modes-and-consequences/revision.glossary.5f83c9523e1776e6322bddc8.json"
