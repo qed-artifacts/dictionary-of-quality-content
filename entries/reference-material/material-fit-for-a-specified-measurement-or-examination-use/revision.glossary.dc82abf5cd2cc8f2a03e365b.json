@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.reference-material.metrology",
+  "revision_id": "revision.glossary.dc82abf5cd2cc8f2a03e365b",
+  "headword": "Reference material",
+  "scope_label": "material fit for a specified measurement or examination use",
+  "definition": "In metrology, a reference material is a material shown to be sufficiently uniform and stable for specified properties to serve an identified measurement or examination purpose.",
+  "explanation": [
+    "It can support calibration, checking a method, assigning values to other materials, or quality control; its usefulness depends on the property and intended use.",
+    "A certified reference material additionally has documented property values with stated uncertainty and traceability."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
