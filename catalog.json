@@ -2717,6 +2717,11 @@
       "path": "entries/student-engagement/higher-education/revision.glossary.e7010fad77a902c6cbc1e059.json"
     },
     {
+      "object_id": "glossary.student-experience.higher-education-lived-study",
+      "revision_id": "revision.glossary.4aa0c71c09a351b6ca639d74",
+      "path": "entries/student-experience/higher-education/revision.glossary.4aa0c71c09a351b6ca639d74.json"
+    },
+    {
       "object_id": "glossary.student-success.learning-and-progression-goals",
       "revision_id": "revision.glossary.8c479c9c84f00124387d9c20",
       "path": "entries/student-success/achievement-of-educational-learning-and-progression-goals/revision.glossary.8c479c9c84f00124387d9c20.json"
