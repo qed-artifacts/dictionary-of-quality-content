@@ -1567,6 +1567,11 @@
       "path": "entries/model/selective-conceptual-representation-in-research-and-design/revision.glossary.83de2ad5504163c21faf76ef.json"
     },
     {
+      "object_id": "glossary.modifiability.software-requirement-change",
+      "revision_id": "revision.glossary.77253e2da0c3684474e0bf9c",
+      "path": "entries/modifiability/software-change-in-response-to-requirements/revision.glossary.77253e2da0c3684474e0bf9c.json"
+    },
+    {
       "object_id": "glossary.monitoring.systematic-status-checking",
       "revision_id": "revision.glossary.6b8b88410ab5e075bfe518d3",
       "path": "entries/monitoring/systematic-checking-of-a-process-or-condition-over-time-in-quality-management/revision.glossary.6b8b88410ab5e075bfe518d3.json"

@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.modifiability.software-requirement-change",
+  "revision_id": "revision.glossary.77253e2da0c3684474e0bf9c",
+  "headword": "Modifiability",
+  "scope_label": "software change in response to requirements",
+  "definition": "In software engineering, modifiability is how readily a system can be changed to meet new or revised requirements.",
+  "explanation": [
+    "A modifiable design helps people make such changes without disproportionate effort or unintended effects elsewhere.",
+    "It is related to maintainability, but it does not promise that every change will be simple."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
