@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.public-administration-quality.governance-performance",
+  "revision_id": "revision.glossary.29d0b349251f321e31c22543",
+  "headword": "Public administration quality",
+  "scope_label": "public-sector administration",
+  "definition": "Public administration quality is how well administrative institutions and processes carry out public responsibilities under relevant standards of effectiveness, accountability, and responsiveness.",
+  "explanation": [
+    "Efficient service delivery matters, but speed or low cost alone does not establish good administration if accountability and responsiveness are weak."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
