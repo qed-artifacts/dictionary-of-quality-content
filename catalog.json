@@ -1302,6 +1302,11 @@
       "path": "entries/information-governance/organizational-rules-and-responsibilities-for-information/revision.glossary.3b61908a630b0dc795b55db8.json"
     },
     {
+      "object_id": "glossary.information-integrity.risk-study-inputs",
+      "revision_id": "revision.glossary.45912499791f78fbd5534e8a",
+      "path": "entries/information-integrity/risk-study-evidence/revision.glossary.45912499791f78fbd5534e8a.json"
+    },
+    {
       "object_id": "glossary.information-quality.fit-for-use",
       "revision_id": "revision.glossary.be326c5749a6d90ab0ae597a",
       "path": "entries/information-quality/fitness-of-information-for-a-specified-use/revision.glossary.be326c5749a6d90ab0ae597a.json"
