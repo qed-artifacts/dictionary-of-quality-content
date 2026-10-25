@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.test-retest-reliability.repeat-score-consistency",
+  "revision_id": "revision.glossary.60afc3bfde22a20759d45892",
+  "headword": "Test-retest reliability",
+  "scope_label": "psychological and educational measurement",
+  "definition": "Test-retest reliability concerns the consistency of scores when the same people complete the same assessment again under conditions where the measured attribute is expected to remain stable.",
+  "explanation": [
+    "The interval matters: recall of earlier responses can inflate agreement, while real change in the attribute can reduce it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
