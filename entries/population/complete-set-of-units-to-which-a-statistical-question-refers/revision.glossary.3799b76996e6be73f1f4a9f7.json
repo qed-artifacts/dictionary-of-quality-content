@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.population.statistical-study-units",
+  "revision_id": "revision.glossary.3799b76996e6be73f1f4a9f7",
+  "headword": "Population",
+  "scope_label": "complete set of units to which a statistical question refers",
+  "definition": "In statistics, a population is the complete set of units specified by the question being studied.",
+  "explanation": [
+    "The units may be people, products, events, or measurements, and the boundaries of the set must be stated.",
+    "A sample is a subset used to learn about that population; changing the scope of the question can change which set counts as the population."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
