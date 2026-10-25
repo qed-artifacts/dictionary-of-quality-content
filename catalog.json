@@ -742,6 +742,11 @@
       "path": "entries/customer/recipient-of-a-product-service-or-information-in-quality-management/revision.glossary.9459ac0c3754b319e2f4c6a2.json"
     },
     {
+      "object_id": "glossary.d-value.microbial-decimal-reduction-time",
+      "revision_id": "revision.glossary.777aef207247cb7b19af40e9",
+      "path": "entries/d-value/microbial-inactivation-and-sterilization-kinetics/revision.glossary.777aef207247cb7b19af40e9.json"
+    },
+    {
       "object_id": "glossary.data-cleansing.dataset-problem-remediation",
       "revision_id": "revision.glossary.92a9b2a7f796fb5e3a67b761",
       "path": "entries/data-cleansing/detecting-and-addressing-dataset-quality-problems/revision.glossary.92a9b2a7f796fb5e3a67b761.json"
