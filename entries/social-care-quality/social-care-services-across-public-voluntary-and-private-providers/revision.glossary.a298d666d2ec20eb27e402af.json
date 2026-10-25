@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.social-care-quality.recipient-experience-and-purpose",
+  "revision_id": "revision.glossary.a298d666d2ec20eb27e402af",
+  "headword": "Social care quality",
+  "scope_label": "social care services across public, voluntary and private providers",
+  "definition": "Social care quality is how well support services meet their purposes and serve recipients through their resources, delivery, and immediate effects.",
+  "explanation": [
+    "Recipients' experience belongs in the judgment. Longer-term changes in quality of life matter too, but they must not be attributed to the service without considering outside influences."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
