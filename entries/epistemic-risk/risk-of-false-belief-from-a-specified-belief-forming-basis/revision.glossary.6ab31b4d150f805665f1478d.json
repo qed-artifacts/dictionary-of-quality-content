@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.epistemic-risk.false-belief-basis",
+  "revision_id": "revision.glossary.6ab31b4d150f805665f1478d",
+  "headword": "Epistemic risk",
+  "scope_label": "risk of false belief from a specified belief-forming basis",
+  "definition": "Epistemic risk is the possibility of getting something wrong in forming or relying on a belief.",
+  "explanation": [
+    "The relevant risk depends on the claim and the way the belief is formed: a belief may happen to be true even though its basis could easily have led to error.",
+    "In this sense, reducing risk means seeking more dependable ways of arriving at the truth, not merely counting how often a belief turns out true."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
