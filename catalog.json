@@ -637,6 +637,11 @@
       "path": "entries/performance-level/degree-of-demonstrated-performance-in-a-rubric/revision.glossary.1afc181128877218ac1e685e.json"
     },
     {
+      "object_id": "glossary.performance.actual-functioning",
+      "revision_id": "revision.glossary.40073bdfa5a2213cbdb9d263",
+      "path": "entries/performance/actual-functioning-or-results-under-specified-conditions/revision.glossary.40073bdfa5a2213cbdb9d263.json"
+    },
+    {
       "object_id": "glossary.preference.comparative-favoring",
       "revision_id": "revision.glossary.7b32cb3949aa06d79eb7f39a",
       "path": "entries/preference/comparative-favoring-in-evaluative-choice/revision.glossary.7b32cb3949aa06d79eb7f39a.json"

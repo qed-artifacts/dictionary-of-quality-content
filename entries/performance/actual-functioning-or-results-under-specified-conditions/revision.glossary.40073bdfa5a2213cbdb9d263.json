@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.performance.actual-functioning",
+  "revision_id": "revision.glossary.40073bdfa5a2213cbdb9d263",
+  "headword": "Performance",
+  "scope_label": "actual functioning or results under specified conditions",
+  "definition": "Performance is what a person, process, product, or system actually does or achieves under stated conditions.",
+  "explanation": [
+    "Describe the function or result, the conditions, and the time period when comparing performance.",
+    "Capability concerns what can be done; judging whether actual performance is good requires a relevant standard."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
