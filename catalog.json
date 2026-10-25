@@ -1282,6 +1282,11 @@
       "path": "entries/population/complete-set-of-units-to-which-a-statistical-question-refers/revision.glossary.3799b76996e6be73f1f4a9f7.json"
     },
     {
+      "object_id": "glossary.practical-significance.decision-relevant-effect",
+      "revision_id": "revision.glossary.af738f62dc2bb68e99cca945",
+      "path": "entries/practical-significance/real-world-importance-of-a-statistical-difference-for-a-decision/revision.glossary.af738f62dc2bb68e99cca945.json"
+    },
+    {
       "object_id": "glossary.precision.measurement",
       "revision_id": "revision.glossary.7a33b289c3fe7cdf1a838d40",
       "path": "entries/precision/agreement-among-repeated-measurement-results/revision.glossary.7a33b289c3fe7cdf1a838d40.json"
