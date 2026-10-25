@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-lineage.origin-movement-transformation",
+  "revision_id": "revision.glossary.3dd06ef9499279d94a6e3cc2",
+  "headword": "Data lineage",
+  "scope_label": "metadata tracing data movement and transformation",
+  "definition": "Data lineage is metadata showing where data came from and how it moved and changed through systems or processes.",
+  "explanation": [
+    "It may describe the path at a broad system level or in detail down to particular fields and transformation rules.",
+    "Lineage helps investigate surprising results and data-quality problems, but a known path does not by itself prove that the original data were correct."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

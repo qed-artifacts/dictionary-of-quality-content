@@ -482,6 +482,11 @@
       "path": "entries/data-drift/input-feature-distribution-change-in-machine-learning-monitoring/revision.glossary.5e1471a3ba294b0ef78ff252.json"
     },
     {
+      "object_id": "glossary.data-lineage.origin-movement-transformation",
+      "revision_id": "revision.glossary.3dd06ef9499279d94a6e3cc2",
+      "path": "entries/data-lineage/metadata-tracing-data-movement-and-transformation/revision.glossary.3dd06ef9499279d94a6e3cc2.json"
+    },
+    {
       "object_id": "glossary.data-provenance.data-origin-and-processing",
       "revision_id": "revision.glossary.eb55aa2205ebe0d6a7ca5011",
       "path": "entries/data-provenance/origin-and-processing-history-of-data/revision.glossary.eb55aa2205ebe0d6a7ca5011.json"
