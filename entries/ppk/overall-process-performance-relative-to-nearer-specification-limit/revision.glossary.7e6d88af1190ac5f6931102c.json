@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.ppk.overall-process-performance-centering",
+  "revision_id": "revision.glossary.7e6d88af1190ac5f6931102c",
+  "headword": "Ppk",
+  "scope_label": "overall process performance relative to nearer specification limit",
+  "definition": "Ppk is a process performance index relating the process average's distance from the nearer specification limit to the overall variation in observed output.",
+  "explanation": [
+    "Unlike Pp, it reflects how far the process is off center as well as its spread.",
+    "Its interpretation still depends on the process's stability, output distribution, and specified limits."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
