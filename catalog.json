@@ -602,6 +602,11 @@
       "path": "entries/hazard-analysis-and-critical-control-points/preventive-food-safety-control-system/revision.glossary.44cfad379573813c561237de.json"
     },
     {
+      "object_id": "glossary.hazard.potential-source-of-harm",
+      "revision_id": "revision.glossary.d8d9ef597a005bb298756579",
+      "path": "entries/hazard/potential-source-of-harm-in-risk-assessment/revision.glossary.d8d9ef597a005bb298756579.json"
+    },
+    {
       "object_id": "glossary.healthcare-quality.care-delivery",
       "revision_id": "revision.glossary.5e0e1a17caba7e01c76b8ed7",
       "path": "entries/healthcare-quality/quality-of-care-and-its-delivery/revision.glossary.5e0e1a17caba7e01c76b8ed7.json"
