@@ -97,6 +97,11 @@
       "path": "entries/change-request/proposal-initiating-formal-change-control/revision.glossary.d97146e30f155a9a33ba1917.json"
     },
     {
+      "object_id": "glossary.change.state-difference",
+      "revision_id": "revision.glossary.f6310ab3fbfc04ba5ad27d18",
+      "path": "entries/change/difference-between-states-in-project-or-evaluation-work/revision.glossary.f6310ab3fbfc04ba5ad27d18.json"
+    },
+    {
       "object_id": "glossary.characteristic.descriptive-feature",
       "revision_id": "revision.glossary.aca3b6a3e0f323a5c349110e",
       "path": "entries/characteristic/descriptive-feature-of-an-object/revision.glossary.aca3b6a3e0f323a5c349110e.json"

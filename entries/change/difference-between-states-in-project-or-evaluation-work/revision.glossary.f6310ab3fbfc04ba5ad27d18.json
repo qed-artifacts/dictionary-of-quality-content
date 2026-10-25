@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.change.state-difference",
+  "revision_id": "revision.glossary.f6310ab3fbfc04ba5ad27d18",
+  "headword": "Change",
+  "scope_label": "difference between states in project or evaluation work",
+  "definition": "In project and evaluation work, a change is a difference between an earlier and a later state of a specified subject.",
+  "explanation": [
+    "For planned organizational change, state the starting condition, intended condition, and what actually became different.",
+    "A delivered project output can enable change without showing that the intended outcome occurred."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
