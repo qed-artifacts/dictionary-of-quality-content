@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.floor-effect.lower-scale-limit",
+  "revision_id": "revision.glossary.1b57c1ec35df2a3324c71b32",
+  "headword": "Floor effect",
+  "scope_label": "lower-end limit in health-status measurement",
+  "definition": "A floor effect occurs when a measure's lower limit prevents it from distinguishing values or changes below that limit.",
+  "explanation": [
+    "When many respondents receive the lowest available score, their underlying states may still differ even though the instrument reports the same value.",
+    "A low score alone does not establish a floor effect; the concern is lost discrimination at the lower end of the scale."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
