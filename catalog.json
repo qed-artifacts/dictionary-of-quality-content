@@ -2,6 +2,11 @@
   "schema": "qed-glossary-public-catalog-v1",
   "entries": [
     {
+      "object_id": "glossary.acceptable-range.specification",
+      "revision_id": "revision.glossary.b35e9af379e874f968636315",
+      "path": "entries/acceptable-range/permitted-interval-for-an-engineering-characteristic/revision.glossary.b35e9af379e874f968636315.json"
+    },
+    {
       "object_id": "glossary.acceptance-criterion.decision-rule",
       "revision_id": "revision.glossary.09c8e7feaf5a1ea6793202bc",
       "path": "entries/acceptance-criterion/specified-acceptance-decision/revision.glossary.09c8e7feaf5a1ea6793202bc.json"
