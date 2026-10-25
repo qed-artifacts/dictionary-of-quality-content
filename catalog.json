@@ -417,6 +417,11 @@
       "path": "entries/inspection/determining-conformity-to-specified-requirements/revision.glossary.b38c7b254c48662e25788d8e.json"
     },
     {
+      "object_id": "glossary.intended-use.specified-purpose",
+      "revision_id": "revision.glossary.577c82ef8469b89a8b60f402",
+      "path": "entries/intended-use/stated-users-purpose-and-conditions-for-a-designed-product/revision.glossary.577c82ef8469b89a8b60f402.json"
+    },
+    {
       "object_id": "glossary.interaction.factor-dependent-effect",
       "revision_id": "revision.glossary.b8137ef5c682e1eb3d7ce80e",
       "path": "entries/interaction/factor-dependent-effect-in-a-designed-experiment/revision.glossary.b8137ef5c682e1eb3d7ce80e.json"

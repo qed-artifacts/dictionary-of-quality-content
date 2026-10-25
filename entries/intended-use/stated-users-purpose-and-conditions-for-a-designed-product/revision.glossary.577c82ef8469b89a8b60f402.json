@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.intended-use.specified-purpose",
+  "revision_id": "revision.glossary.577c82ef8469b89a8b60f402",
+  "headword": "Intended use",
+  "scope_label": "stated users, purpose and conditions for a designed product",
+  "definition": "An intended use is a use for which a product is designed or represented as suitable, with its users, purpose, and conditions stated.",
+  "explanation": [
+    "It gives design and validation a defined question: can the product serve those users under those conditions?",
+    "A foreseeable misuse may still call for risk assessment, but its foreseeability alone does not make it an intended use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
