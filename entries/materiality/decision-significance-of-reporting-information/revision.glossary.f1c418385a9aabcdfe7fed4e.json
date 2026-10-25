@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.materiality.reporting-decision-significance",
+  "revision_id": "revision.glossary.f1c418385a9aabcdfe7fed4e",
+  "headword": "Materiality",
+  "scope_label": "decision significance of reporting information",
+  "definition": "In reporting, materiality is the significance of information, an omission, or a misstatement to decisions by the report's intended users.",
+  "explanation": [
+    "A matter may be material because of its nature, size, or surrounding circumstances.",
+    "The judgment depends on the report and its users; the term supplies no universal numerical cutoff."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
