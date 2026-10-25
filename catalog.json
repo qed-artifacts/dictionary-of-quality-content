@@ -2442,6 +2442,11 @@
       "path": "entries/quality-of-life-assessment/health-and-social-care-assessment/revision.glossary.8f0d69b41bad305d68ce0d9e.json"
     },
     {
+      "object_id": "glossary.quality-of-life-inventory-qoli.importance-weighted-satisfaction",
+      "revision_id": "revision.glossary.ac1ffdfcec132d2f14cb66e6",
+      "path": "entries/quality-of-life-inventory-qoli/named-positive-psychology-self-report-instrument/revision.glossary.ac1ffdfcec132d2f14cb66e6.json"
+    },
+    {
       "object_id": "glossary.quality-of-life.lived-appraisal",
       "revision_id": "revision.glossary.c851f057c1250c090b6d3a69",
       "path": "entries/quality-of-life/person-centered-appraisal-of-life-circumstances/revision.glossary.c851f057c1250c090b6d3a69.json"
