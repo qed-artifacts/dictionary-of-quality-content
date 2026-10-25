@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.revision.document-version",
+  "revision_id": "revision.glossary.9950c2253fe94592034cb591",
+  "headword": "Revision",
+  "scope_label": "changed version of a controlled document",
+  "definition": "In document control, a revision is a changed version of a document identified in relation to an earlier version.",
+  "explanation": [
+    "Record what changed and which version applies; an annotation or proposed change is not necessarily a released revision.",
+    "A revision identifier distinguishes versions, but it does not itself prove that the new version was reviewed or approved."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
