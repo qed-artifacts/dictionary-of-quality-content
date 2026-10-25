@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.communication-quality.contextual-message-effectiveness",
+  "revision_id": "revision.glossary.8849c0750fcfebaad9e8a43e",
+  "headword": "Communication quality",
+  "scope_label": "interpersonal and organizational communication",
+  "definition": "Communication quality is how well a message or exchange serves the relevant goals of its participants in its setting.",
+  "explanation": [
+    "Clarity, responsiveness, timing, and sensitivity to the audience may matter; sending more messages does not by itself make communication better."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
