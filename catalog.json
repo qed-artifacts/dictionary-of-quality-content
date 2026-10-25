@@ -277,6 +277,11 @@
       "path": "entries/defect/nonconformity-related-to-intended-or-specified-use/revision.glossary.d8c7490ad4d66fea7f15f7c8.json"
     },
     {
+      "object_id": "glossary.design-for-quality.prevention-in-design",
+      "revision_id": "revision.glossary.984ce0d7822258e1a6fa4f0d",
+      "path": "entries/design-for-quality/anticipating-quality-concerns-in-product-and-process-design/revision.glossary.984ce0d7822258e1a6fa4f0d.json"
+    },
+    {
       "object_id": "glossary.design-for-six-sigma.new-design-approach",
       "revision_id": "revision.glossary.ef47e5b0d8cef066f2b1755e",
       "path": "entries/design-for-six-sigma/structured-quality-focused-design-of-new-or-substantially-redesigned-offerings/revision.glossary.ef47e5b0d8cef066f2b1755e.json"
