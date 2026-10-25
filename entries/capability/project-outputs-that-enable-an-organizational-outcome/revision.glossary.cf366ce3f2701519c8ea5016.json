@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.capability.project-enabled-ability",
+  "revision_id": "revision.glossary.cf366ce3f2701519c8ea5016",
+  "headword": "Capability",
+  "scope_label": "project outputs that enable an organizational outcome",
+  "definition": "In project management, a capability is the combined ability created by completed outputs that lets an organization pursue an intended outcome.",
+  "explanation": [
+    "A new system and trained staff, for example, may create a capability before its intended benefit occurs.",
+    "Having the capability does not itself show that the organization has used it or achieved the benefit."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
