@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.aesthetic-quality.aesthetic-characteristic",
+  "revision_id": "revision.glossary.79086d2a907d3f32c9c87e06",
+  "headword": "Aesthetic quality",
+  "scope_label": "a characteristic ascribed in aesthetic attention",
+  "definition": "An aesthetic quality is a characteristic ascribed to something when attending to its aesthetic character.",
+  "explanation": [
+    "Rhythmic, balanced, and beautiful name different kinds of aesthetic qualities; some describe character, while others appraise it.",
+    "Identifying one such quality does not by itself establish the object's overall aesthetic merit."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
