@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.service-encounter-quality.particular-interaction",
+  "revision_id": "revision.glossary.299ecfc961ef39a77c283c6a",
+  "headword": "Service encounter quality",
+  "scope_label": "particular provider-recipient interaction",
+  "definition": "Service encounter quality is how well a particular interaction between a service provider and recipient meets the relevant needs and expectations of that encounter.",
+  "explanation": [
+    "It can involve both what was delivered and how the interaction occurred; one encounter should not stand in for the quality of the whole service."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
