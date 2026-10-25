@@ -1872,6 +1872,11 @@
       "path": "entries/norm-referenced-interpretation/interpretation-of-assessment-scores/revision.glossary.c180fac935d319b1d26fda8c.json"
     },
     {
+      "object_id": "glossary.objective-evidence.checkable-claim-support",
+      "revision_id": "revision.glossary.8f2a523b26844cc21adab4da",
+      "path": "entries/objective-evidence/checkable-data-bearing-on-existence-or-truth-in-quality-management/revision.glossary.8f2a523b26844cc21adab4da.json"
+    },
+    {
       "object_id": "glossary.objectivity.journalistic-inquiry",
       "revision_id": "revision.glossary.c02b0e1b4f729e81dab8931c",
       "path": "entries/objectivity/journalistic-reporting-and-inquiry/revision.glossary.c02b0e1b4f729e81dab8931c.json"
