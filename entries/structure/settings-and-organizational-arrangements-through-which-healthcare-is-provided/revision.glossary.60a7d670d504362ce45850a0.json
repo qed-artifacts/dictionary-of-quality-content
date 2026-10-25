@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.structure.healthcare-quality-arrangements",
+  "revision_id": "revision.glossary.60a7d670d504362ce45850a0",
+  "headword": "Structure",
+  "scope_label": "settings and organizational arrangements through which healthcare is provided",
+  "definition": "In healthcare quality assessment, structure means the settings, personnel capabilities, and organizational arrangements through which care is provided.",
+  "explanation": [
+    "It includes features such as facilities, clinician qualifications, and administrative systems.",
+    "Structure describes the conditions for care; process describes the care delivered, and outcome describes its effects."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
