@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.causal-claim.factor-and-outcome-relation",
+  "revision_id": "revision.glossary.50ffc9f3cdb9301eca6edf80",
+  "headword": "Causal claim",
+  "scope_label": "empirical inference about causes",
+  "definition": "A causal claim asserts that a factor helps bring about a specified outcome, beyond merely occurring alongside it.",
+  "explanation": [
+    "A clear claim names the factor, outcome, and conditions of interest. Supporting it requires a justified account of the causal process or comparison; association alone is insufficient."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
