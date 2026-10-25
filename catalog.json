@@ -592,6 +592,11 @@
       "path": "entries/data-quality/suitability-of-data-for-a-specified-use/revision.glossary.20822f46d856544c0ef487ee.json"
     },
     {
+      "object_id": "glossary.decision-criterion.rule-for-comparing-options",
+      "revision_id": "revision.glossary.7f5e1323bbb6c38a2b0cd004",
+      "path": "entries/decision-criterion/rule-used-to-compare-and-select-among-options/revision.glossary.7f5e1323bbb6c38a2b0cd004.json"
+    },
+    {
       "object_id": "glossary.decision-quality.choice-process",
       "revision_id": "revision.glossary.419516573f24b8a421d36354",
       "path": "entries/decision-quality/appraisal-of-a-choice-under-uncertainty/revision.glossary.419516573f24b8a421d36354.json"
