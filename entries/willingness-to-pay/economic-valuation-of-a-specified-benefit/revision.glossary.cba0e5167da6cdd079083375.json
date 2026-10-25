@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.willingness-to-pay.benefit-tradeoff",
+  "revision_id": "revision.glossary.cba0e5167da6cdd079083375",
+  "headword": "Willingness to pay",
+  "scope_label": "economic valuation of a specified benefit",
+  "definition": "Willingness to pay is the most money or purchasing power a person would give up to obtain a specified benefit under stated conditions.",
+  "explanation": [
+    "It expresses a tradeoff against other possible uses of that person's resources.",
+    "The stated amount depends on the benefit, circumstances, and resources available; it is not a context-free measure of the benefit's worth."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
