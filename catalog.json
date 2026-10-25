@@ -1877,6 +1877,11 @@
       "path": "entries/quality-target-product-profile/prospective-quality-characteristics-for-a-pharmaceutical-product/revision.glossary.93c3e1dccf3e1a650b826b97.json"
     },
     {
+      "object_id": "glossary.quality-tools.quality-analysis-and-improvement-methods",
+      "revision_id": "revision.glossary.4357d685fa1148f66c211147",
+      "path": "entries/quality-tools/methods-and-representations-used-in-quality-control-planning-and-improvement/revision.glossary.4357d685fa1148f66c211147.json"
+    },
+    {
       "object_id": "glossary.quality-trilogy.juran-three-processes",
       "revision_id": "revision.glossary.4c683325da11b7d87bcf439c",
       "path": "entries/quality-trilogy/juran-s-quality-management-model/revision.glossary.4c683325da11b7d87bcf439c.json"
