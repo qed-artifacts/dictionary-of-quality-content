@@ -622,6 +622,11 @@
       "path": "entries/gage-repeatability-and-reproducibility/industrial-measurement-system-variation-study/revision.glossary.6648eb67a34a8ce798dc5219.json"
     },
     {
+      "object_id": "glossary.good-manufacturing-practice.pharmaceutical",
+      "revision_id": "revision.glossary.3333897e4a8331382f999879",
+      "path": "entries/good-manufacturing-practice/pharmaceutical-manufacturing-requirements-and-controls/revision.glossary.3333897e4a8331382f999879.json"
+    },
+    {
       "object_id": "glossary.goodness.evaluative",
       "revision_id": "revision.glossary.07e706622cccd8a1477c1ce5",
       "path": "entries/goodness/cross-domain-evaluative-sense/revision.glossary.07e706622cccd8a1477c1ce5.json"
