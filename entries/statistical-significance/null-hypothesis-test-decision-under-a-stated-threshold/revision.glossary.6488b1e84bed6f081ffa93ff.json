@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.statistical-significance.null-rejection-rule",
+  "revision_id": "revision.glossary.6488b1e84bed6f081ffa93ff",
+  "headword": "Statistical significance",
+  "scope_label": "null-hypothesis test decision under a stated threshold",
+  "definition": "A result is statistically significant under a specified hypothesis test when its data meet the stated rule for rejecting the null hypothesis.",
+  "explanation": [
+    "A common rule compares the p-value with a chosen significance level, such as 0.05, under the test's assumptions.",
+    "Statistical significance does not establish that an effect is large, important in practice, or caused by the factor under study."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

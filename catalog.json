@@ -1992,6 +1992,11 @@
       "path": "entries/statistical-quality-control/statistical-methods-for-quality-analysis-and-improvement/revision.glossary.ca0349e8756487034b30c315.json"
     },
     {
+      "object_id": "glossary.statistical-significance.null-rejection-rule",
+      "revision_id": "revision.glossary.6488b1e84bed6f081ffa93ff",
+      "path": "entries/statistical-significance/null-hypothesis-test-decision-under-a-stated-threshold/revision.glossary.6488b1e84bed6f081ffa93ff.json"
+    },
+    {
       "object_id": "glossary.structure.healthcare-quality-arrangements",
       "revision_id": "revision.glossary.60a7d670d504362ce45850a0",
       "path": "entries/structure/settings-and-organizational-arrangements-through-which-healthcare-is-provided/revision.glossary.60a7d670d504362ce45850a0.json"
