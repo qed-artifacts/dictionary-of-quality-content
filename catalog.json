@@ -282,6 +282,11 @@
       "path": "entries/configuration-management/identified-components-and-controlled-change-in-evolving-software-systems/revision.glossary.7b9df6a7b738b1c1132e0f40.json"
     },
     {
+      "object_id": "glossary.configuration.software-component-selection",
+      "revision_id": "revision.glossary.785117324cd9cf54e1acd366",
+      "path": "entries/configuration/identified-selection-and-versions-of-software-system-components/revision.glossary.785117324cd9cf54e1acd366.json"
+    },
+    {
       "object_id": "glossary.conformance-quality.design-match",
       "revision_id": "revision.glossary.6ef5a63c41a2b28587d2091c",
       "path": "entries/conformance-quality/realized-product-or-service-against-design-requirements/revision.glossary.6ef5a63c41a2b28587d2091c.json"
