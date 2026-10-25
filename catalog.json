@@ -827,6 +827,11 @@
       "path": "entries/data-quality-dimensions/assessment-of-data-for-a-stated-use/revision.glossary.9a312a47d7253fc272e6dc74.json"
     },
     {
+      "object_id": "glossary.data-quality-issue.defect-in-recorded-data",
+      "revision_id": "revision.glossary.8127c235743bd226c8ecb128",
+      "path": "entries/data-quality-issue/data-assessment-and-remediation/revision.glossary.8127c235743bd226c8ecb128.json"
+    },
+    {
       "object_id": "glossary.data-quality.fit-for-use",
       "revision_id": "revision.glossary.20822f46d856544c0ef487ee",
       "path": "entries/data-quality/suitability-of-data-for-a-specified-use/revision.glossary.20822f46d856544c0ef487ee.json"
