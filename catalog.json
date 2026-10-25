@@ -1307,6 +1307,11 @@
       "path": "entries/property/descriptive-feature-of-an-assessed-object/revision.glossary.23ae1b1eba23155e5dc99941.json"
     },
     {
+      "object_id": "glossary.protocol.planned-test-procedure",
+      "revision_id": "revision.glossary.995038f0bdc5450f0416aa1b",
+      "path": "entries/protocol/preapproved-plan-for-a-specified-test/revision.glossary.995038f0bdc5450f0416aa1b.json"
+    },
+    {
       "object_id": "glossary.provenance.traceable-history",
       "revision_id": "revision.glossary.5d2cb2b2df149b3f9c67c517",
       "path": "entries/provenance/traceable-origin-and-history-of-an-item/revision.glossary.5d2cb2b2df149b3f9c67c517.json"
