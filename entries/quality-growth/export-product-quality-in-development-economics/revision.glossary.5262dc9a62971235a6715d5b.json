@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-growth.export-product-quality-change",
+  "revision_id": "revision.glossary.5262dc9a62971235a6715d5b",
+  "headword": "Quality growth",
+  "scope_label": "export-product quality in development economics",
+  "definition": "In export analysis, quality growth is an increase over time in the estimated quality of goods within a product category.",
+  "explanation": [
+    "It concerns changes in product quality, which can differ from growth in the amount sold or in total economic output. Its reported rate depends on the study's quality measure and comparison period."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
