@@ -1607,6 +1607,11 @@
       "path": "entries/research-quality/merit-of-inquiry-and-its-outputs-for-a-stated-purpose/revision.glossary.b05ec08bfc0b7be413517f23.json"
     },
     {
+      "object_id": "glossary.residual-risk.after-controls",
+      "revision_id": "revision.glossary.43638de1473a1252d20f1b29",
+      "path": "entries/residual-risk/risk-remaining-after-selected-controls/revision.glossary.43638de1473a1252d20f1b29.json"
+    },
+    {
       "object_id": "glossary.resilience.organizational-disruption",
       "revision_id": "revision.glossary.d8a7dd5deec0ecac31f93d11",
       "path": "entries/resilience/organizational-response-to-disruption/revision.glossary.d8a7dd5deec0ecac31f93d11.json"
