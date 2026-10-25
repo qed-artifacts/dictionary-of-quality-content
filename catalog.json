@@ -1617,6 +1617,11 @@
       "path": "entries/lot/defined-product-quantity-for-sampling-decision/revision.glossary.f50c47706f49f878b2ca90b5.json"
     },
     {
+      "object_id": "glossary.lower-control-limit.control-chart-lower-boundary",
+      "revision_id": "revision.glossary.73f496c5310754c91aa9ab91",
+      "path": "entries/lower-control-limit/statistical-process-control/revision.glossary.73f496c5310754c91aa9ab91.json"
+    },
+    {
       "object_id": "glossary.ltpd.sampling-poor-lot-point",
       "revision_id": "revision.glossary.b16c0cd96736938e1f465ef1",
       "path": "entries/ltpd/lot-tolerance-percent-defective-in-acceptance-sampling/revision.glossary.b16c0cd96736938e1f465ef1.json"
