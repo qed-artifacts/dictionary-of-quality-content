@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.cp.potential-process-capability",
+  "revision_id": "revision.glossary.143487ce6a5adf638bd1dc58",
+  "headword": "Cp",
+  "scope_label": "potential process capability index using within-process variation",
+  "definition": "Cp is a process capability index comparing the width between two specification limits with the process's within-process spread.",
+  "explanation": [
+    "It indicates potential fit to those limits if the process is centered; it does not use the process mean.",
+    "Interpretation requires a stable process, a suitable variation estimate, and attention to the distribution and specification limits."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
