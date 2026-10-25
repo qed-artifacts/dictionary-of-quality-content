@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.patient-reported-outcome-measure.patient-health-report",
+  "revision_id": "revision.glossary.a7f14e258dc801b104f239a7",
+  "headword": "Patient-reported outcome measure",
+  "scope_label": "structured patient report of health outcome",
+  "definition": "A patient-reported outcome measure (PROM) is a structured instrument for recording a patient's own report of health or functioning, such as symptoms or ability to carry out daily activities.",
+  "explanation": [
+    "It concerns an outcome experienced by the patient, without substituting a clinician's assessment for the patient's response.",
+    "Some PROMs apply across conditions; others concern a particular disease, and repeated use can show change over time."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
