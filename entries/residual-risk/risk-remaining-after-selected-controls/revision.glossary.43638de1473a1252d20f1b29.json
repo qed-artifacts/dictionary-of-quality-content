@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.residual-risk.after-controls",
+  "revision_id": "revision.glossary.43638de1473a1252d20f1b29",
+  "headword": "Residual risk",
+  "scope_label": "risk remaining after selected controls",
+  "definition": "Residual risk is the risk that remains after measures to reduce or control an identified risk have been applied.",
+  "explanation": [
+    "Its acceptability depends on the harm, context, and decision rule rather than on the mere fact that controls were used.",
+    "Controls can reduce a risk without eliminating it and may introduce new risks that also need assessment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
