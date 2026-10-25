@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.scalability.computing-growing-workload",
+  "revision_id": "revision.glossary.1b1053e9e37bee3655751219",
+  "headword": "Scalability",
+  "scope_label": "software and computing workload growth",
+  "definition": "In computing, scalability is a system's ability to handle a growing workload while maintaining required performance.",
+  "explanation": [
+    "Growth may involve more users, larger datasets, or more complex tasks.",
+    "A scalability claim should name what grows, the conditions, and the level of performance that must be sustained."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
