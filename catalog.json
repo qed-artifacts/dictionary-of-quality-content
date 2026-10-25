@@ -722,6 +722,11 @@
       "path": "entries/data-quality/suitability-of-data-for-a-specified-use/revision.glossary.20822f46d856544c0ef487ee.json"
     },
     {
+      "object_id": "glossary.data-relevance.purpose-dependent",
+      "revision_id": "revision.glossary.a0f94702bda70ac8f2a0a320",
+      "path": "entries/data-relevance/data-quality-and-use/revision.glossary.a0f94702bda70ac8f2a0a320.json"
+    },
+    {
       "object_id": "glossary.data-timeliness.fit-for-time-of-use",
       "revision_id": "revision.glossary.1af6b0a53dadbb8abd70dbc7",
       "path": "entries/data-timeliness/data-and-information-quality/revision.glossary.1af6b0a53dadbb8abd70dbc7.json"
