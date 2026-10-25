@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.use.purposeful-application",
+  "revision_id": "revision.glossary.bb57799cf22583d417036053",
+  "headword": "Use",
+  "scope_label": "application of an object, method, or finding for a purpose",
+  "definition": "Use is the application of an object, method, or finding for a purpose by someone in a setting.",
+  "explanation": [
+    "To judge whether something works in use, identify its users, purpose, and conditions.",
+    "Intended use states what was planned; actual use describes what people do."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
