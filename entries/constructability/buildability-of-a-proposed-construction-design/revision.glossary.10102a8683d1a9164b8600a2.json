@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.constructability.built-project",
+  "revision_id": "revision.glossary.10102a8683d1a9164b8600a2",
+  "headword": "Constructability",
+  "scope_label": "buildability of a proposed construction design",
+  "definition": "In construction, constructability is the degree to which a proposed project can be built as designed using workable methods and resources.",
+  "explanation": [
+    "Reviewing the design early can reveal site, sequencing, coordination, or method problems before construction begins.",
+    "A project's eventual usefulness is a separate question from whether its design can be built."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

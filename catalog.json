@@ -207,6 +207,11 @@
       "path": "entries/construct/conceptual-vocabulary-in-design-research/revision.glossary.ec4c58623aeff39d23039d3f.json"
     },
     {
+      "object_id": "glossary.constructability.built-project",
+      "revision_id": "revision.glossary.10102a8683d1a9164b8600a2",
+      "path": "entries/constructability/buildability-of-a-proposed-construction-design/revision.glossary.10102a8683d1a9164b8600a2.json"
+    },
+    {
       "object_id": "glossary.construction-quality.project-requirements",
       "revision_id": "revision.glossary.0332039b2810b53de08ff1f2",
       "path": "entries/construction-quality/project-work-and-built-asset-against-applicable-requirements/revision.glossary.0332039b2810b53de08ff1f2.json"
