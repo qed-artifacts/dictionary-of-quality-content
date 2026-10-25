@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.utility.decision-preference-representation",
+  "revision_id": "revision.glossary.3ca824a73d873cf754ce9ddb",
+  "headword": "Utility",
+  "scope_label": "numerical representation of preferences in decision theory",
+  "definition": "In decision theory, utility is a numerical representation of how a decision maker ranks outcomes or choices under a specified model of preferences.",
+  "explanation": [
+    "A utility function assigns numbers so the model can compare alternatives, including uncertain ones when probabilities are also specified.",
+    "Utility numbers are model-dependent; they need not equal money or express a universal measure of human well-being."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -3597,6 +3597,11 @@
       "path": "entries/use/application-of-an-object-method-or-finding-for-a-purpose/revision.glossary.bb57799cf22583d417036053.json"
     },
     {
+      "object_id": "glossary.utility.decision-preference-representation",
+      "revision_id": "revision.glossary.3ca824a73d873cf754ce9ddb",
+      "path": "entries/utility/numerical-representation-of-preferences-in-decision-theory/revision.glossary.3ca824a73d873cf754ce9ddb.json"
+    },
+    {
       "object_id": "glossary.v-model.software-development",
       "revision_id": "revision.glossary.c40da450b39f5e2302f36ef7",
       "path": "entries/v-model/software-development-and-testing-lifecycle-representation/revision.glossary.c40da450b39f5e2302f36ef7.json"
