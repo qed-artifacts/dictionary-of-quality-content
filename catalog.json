@@ -552,6 +552,11 @@
       "path": "entries/critical-to-quality/assessable-characteristic-consequential-to-a-customer-need/revision.glossary.0cb44f33217090bdb3309ff7.json"
     },
     {
+      "object_id": "glossary.customer-experience.service-journey-responses",
+      "revision_id": "revision.glossary.0b006ced9760288193c5247d",
+      "path": "entries/customer-experience/customer-responses-to-service-interactions-across-a-journey/revision.glossary.0b006ced9760288193c5247d.json"
+    },
+    {
       "object_id": "glossary.customer-focus.quality-management-orientation",
       "revision_id": "revision.glossary.73f9316f0193ef351d4ce048",
       "path": "entries/customer-focus/quality-management-orientation-toward-customer-needs-and-requirements/revision.glossary.73f9316f0193ef351d4ce048.json"
