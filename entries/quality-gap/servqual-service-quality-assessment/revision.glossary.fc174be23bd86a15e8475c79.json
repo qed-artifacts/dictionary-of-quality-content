@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-gap.servqual-expectation-performance-mismatch",
+  "revision_id": "revision.glossary.fc174be23bd86a15e8475c79",
+  "headword": "Quality gap",
+  "scope_label": "SERVQUAL service-quality assessment",
+  "definition": "In service-quality assessment, a quality gap is a mismatch between what customers expect and what they perceive a service delivered.",
+  "explanation": [
+    "The SERVQUAL framework compares expectation and performance ratings and also identifies organizational gaps that may contribute to the mismatch. A difference score indicates a discrepancy; it does not by itself establish its cause."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
