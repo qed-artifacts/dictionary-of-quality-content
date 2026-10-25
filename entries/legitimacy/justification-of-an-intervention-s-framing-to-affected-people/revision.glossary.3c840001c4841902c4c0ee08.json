@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.legitimacy.systems-intervention",
+  "revision_id": "revision.glossary.3c840001c4841902c4c0ee08",
+  "headword": "Legitimacy",
+  "scope_label": "justification of an intervention's framing to affected people",
+  "definition": "In participatory systems work, legitimacy concerns whether an intervention's aims, boundaries, and decisions can be justified to people affected by it.",
+  "explanation": [
+    "Ask who sets the aims, whose interests count, and who can question the framing.",
+    "Technical expertise or a desired result alone does not settle whether the affected parties were treated justifiably."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
