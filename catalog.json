@@ -52,6 +52,11 @@
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
     },
     {
+      "object_id": "glossary.burden.affected-party-cost",
+      "revision_id": "revision.glossary.7ba35f7fb72e7021a50efa6a",
+      "path": "entries/burden/adverse-load-borne-by-an-affected-party-in-an-evaluation/revision.glossary.7ba35f7fb72e7021a50efa6a.json"
+    },
+    {
       "object_id": "glossary.calibration.indication-reference-relation",
       "revision_id": "revision.glossary.dd9aa40a09f8e58a0fc29676",
       "path": "entries/calibration/metrological-relation-between-reference-values-and-indications/revision.glossary.dd9aa40a09f8e58a0fc29676.json"
