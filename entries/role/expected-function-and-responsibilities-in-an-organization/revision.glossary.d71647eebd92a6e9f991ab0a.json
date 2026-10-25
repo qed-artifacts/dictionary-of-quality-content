@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.role.organizational-expected-function",
+  "revision_id": "revision.glossary.d71647eebd92a6e9f991ab0a",
+  "headword": "Role",
+  "scope_label": "expected function and responsibilities in an organization",
+  "definition": "An organizational role is a defined part a person or group is expected to play in carrying out work.",
+  "explanation": [
+    "It may specify tasks, responsibilities, relationships, and decision authority.",
+    "A person can hold several roles, and a role is distinct from the particular person currently filling it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
