@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.stakeholder-value.valued-project-concern",
+  "revision_id": "revision.glossary.5fbf0cdfdf92a327388687e7",
+  "headword": "Stakeholder value",
+  "scope_label": "what a stakeholder values in project planning",
+  "definition": "In project planning, a stakeholder value is something a person or group regards as important in relation to a proposed project or decision.",
+  "explanation": [
+    "Different stakeholders may assign different importance to the same concern.",
+    "Identifying a value can guide a decision, but it does not show that the completed project delivered a benefit."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
