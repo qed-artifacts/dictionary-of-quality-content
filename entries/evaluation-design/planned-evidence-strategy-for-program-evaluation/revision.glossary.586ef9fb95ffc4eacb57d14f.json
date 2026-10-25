@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.evaluation-design.program-evaluation-plan",
+  "revision_id": "revision.glossary.586ef9fb95ffc4eacb57d14f",
+  "headword": "Evaluation design",
+  "scope_label": "planned evidence strategy for program evaluation",
+  "definition": "An evaluation design is the planned arrangement of questions, evidence, methods, and analysis used to assess a specified program.",
+  "explanation": [
+    "The choices depend on the evaluation's purpose, including whether it seeks to understand implementation or effects.",
+    "An experimental comparison is one possible design; a design label alone does not guarantee a sound conclusion."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
