@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.fault-tolerance.required-function-during-fault",
+  "revision_id": "revision.glossary.8b889f941f915a4e99ea15ef",
+  "headword": "Fault tolerance",
+  "scope_label": "continued required function despite specified component faults",
+  "definition": "Fault tolerance is a system's ability to keep providing a required function when a specified component fault occurs.",
+  "explanation": [
+    "Redundant parts or alternate operating modes can help the system continue working after one part fails.",
+    "A fault-tolerance claim must name the faults and minimum performance it covers; it does not promise operation under every possible failure."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
