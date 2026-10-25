@@ -2157,6 +2157,11 @@
       "path": "entries/purpose/intended-end-or-use-guiding-an-activity-or-judgment/revision.glossary.8073ec08fc4233a45dfbe157.json"
     },
     {
+      "object_id": "glossary.qfd-matrix-cascade.linked-planning-matrices",
+      "revision_id": "revision.glossary.21a45db3e8c11e27e76cdac2",
+      "path": "entries/qfd-matrix-cascade/quality-function-deployment-planning/revision.glossary.21a45db3e8c11e27e76cdac2.json"
+    },
+    {
       "object_id": "glossary.qualification.pharmaceutical-equipment-suitability",
       "revision_id": "revision.glossary.5b2b8fa30beba1431e14d0a3",
       "path": "entries/qualification/documented-suitability-of-pharmaceutical-equipment/revision.glossary.5b2b8fa30beba1431e14d0a3.json"
