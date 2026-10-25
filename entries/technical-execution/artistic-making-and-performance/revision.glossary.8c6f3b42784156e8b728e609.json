@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.technical-execution.artistic-making-skill",
+  "revision_id": "revision.glossary.8c6f3b42784156e8b728e609",
+  "headword": "Technical execution",
+  "scope_label": "artistic making and performance",
+  "definition": "In artistic making or performance, technical execution is how a maker or performer carries out the practical skills and operations involved in realizing a work.",
+  "explanation": [
+    "The relevant skills depend on the medium and aim; technical polish alone does not decide artistic merit, and some art does not require conventional craft proficiency."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
