@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.unit-of-analysis.research-claim-level",
+  "revision_id": "revision.glossary.db8467d3f11a6c7ae6889498",
+  "headword": "Unit of analysis",
+  "scope_label": "entity level about which a study draws conclusions",
+  "definition": "In a study, the unit of analysis is the kind of entity about which the analysis draws a conclusion, such as a person or project team.",
+  "explanation": [
+    "Choosing the unit determines the level at which cases are compared and findings are stated.",
+    "A study of the same setting can ask different questions of individuals and teams, so the unit should be explicit when interpreting a result."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
