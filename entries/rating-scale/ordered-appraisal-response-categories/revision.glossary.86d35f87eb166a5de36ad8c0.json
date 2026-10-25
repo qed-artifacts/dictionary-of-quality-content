@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.rating-scale.ordered-response",
+  "revision_id": "revision.glossary.86d35f87eb166a5de36ad8c0",
+  "headword": "Rating scale",
+  "scope_label": "ordered appraisal response categories",
+  "definition": "A rating scale is a set of ordered response categories or anchored levels used to express an appraisal of a specified attribute.",
+  "explanation": [
+    "A person might select one of several levels of agreement or performance.",
+    "The selected level is a rating; numerical labels alone do not show that the distance between neighboring levels is equal."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
