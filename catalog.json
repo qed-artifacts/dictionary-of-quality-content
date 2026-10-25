@@ -12,6 +12,11 @@
       "path": "entries/acceptance-sampling/sample-based-lot-acceptance-decision/revision.glossary.67b0a0658d913b2134cdd402.json"
     },
     {
+      "object_id": "glossary.accessibility.healthcare-services",
+      "revision_id": "revision.glossary.799ef244d02f5d99aa7e9b04",
+      "path": "entries/accessibility/ease-of-obtaining-appropriate-health-services/revision.glossary.799ef244d02f5d99aa7e9b04.json"
+    },
+    {
       "object_id": "glossary.accountability.answerability-relation",
       "revision_id": "revision.glossary.ced97e0378d7d464eec911b3",
       "path": "entries/accountability/answerability-for-conduct-or-results-to-an-evaluating-party/revision.glossary.ced97e0378d7d464eec911b3.json"
