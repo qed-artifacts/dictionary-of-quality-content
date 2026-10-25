@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.output.project-deliverable",
+  "revision_id": "revision.glossary.659370d4f08e82ce7b5f6bb5",
+  "headword": "Output",
+  "scope_label": "tangible or intangible project deliverable",
+  "definition": "In project work, an output is a tangible or intangible item delivered by an activity.",
+  "explanation": [
+    "An output can enable a later change, but the delivered item is distinct from that change and any benefit that follows.",
+    "Name what was delivered and to whom; delivery alone does not show that it was adopted or useful."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
