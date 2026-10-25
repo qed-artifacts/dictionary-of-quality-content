@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.pp.overall-process-performance-spread",
+  "revision_id": "revision.glossary.ffdf01d770d809d768b1582c",
+  "headword": "Pp",
+  "scope_label": "overall process spread against two-sided specifications",
+  "definition": "Pp is a process performance index that compares the width between two specification limits with the overall spread of observed process output.",
+  "explanation": [
+    "It describes whether the spread could fit between the limits if centered, but does not account for where the process average lies.",
+    "Interpret it with checks on process stability and the output distribution."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
