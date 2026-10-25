@@ -602,6 +602,11 @@
       "path": "entries/failure-mode/specified-way-an-item-or-process-fails/revision.glossary.56fe111c7eec1c0d75a2f7b3.json"
     },
     {
+      "object_id": "glossary.failure-rate.reliability-hazard",
+      "revision_id": "revision.glossary.4275507d3e852de360f23906",
+      "path": "entries/failure-rate/conditional-time-to-failure-rate-for-a-nonrepairable-item/revision.glossary.4275507d3e852de360f23906.json"
+    },
+    {
       "object_id": "glossary.failure.required-function",
       "revision_id": "revision.glossary.db9e9cbc860ad572d93bc2a6",
       "path": "entries/failure/loss-of-an-item-s-required-function/revision.glossary.db9e9cbc860ad572d93bc2a6.json"
