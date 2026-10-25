@@ -1007,6 +1007,11 @@
       "path": "entries/process-capability/stable-process-fit-to-specification-limits/revision.glossary.26e1b8c406d691dd3ceaa1bb.json"
     },
     {
+      "object_id": "glossary.process-control.quality-requirements",
+      "revision_id": "revision.glossary.05565399db9572f9b851d7f7",
+      "path": "entries/process-control/keeping-a-process-within-specified-operational-boundaries/revision.glossary.05565399db9572f9b851d7f7.json"
+    },
+    {
       "object_id": "glossary.process-measure.process-objective",
       "revision_id": "revision.glossary.95da87989900084a7a7af27d",
       "path": "entries/process-measure/measure-for-a-specified-process-objective/revision.glossary.95da87989900084a7a7af27d.json"
