@@ -1612,6 +1612,11 @@
       "path": "entries/nonconformity/failure-to-fulfill-an-applicable-requirement/revision.glossary.617397708409669dc921b1f5.json"
     },
     {
+      "object_id": "glossary.objectivity.journalistic-inquiry",
+      "revision_id": "revision.glossary.c02b0e1b4f729e81dab8931c",
+      "path": "entries/objectivity/journalistic-reporting-and-inquiry/revision.glossary.c02b0e1b4f729e81dab8931c.json"
+    },
+    {
       "object_id": "glossary.observation.behavioral-record",
       "revision_id": "revision.glossary.e40ebf45d64ce0d82f7fd0f4",
       "path": "entries/observation/recorded-behavior-in-behavioral-research/revision.glossary.e40ebf45d64ce0d82f7fd0f4.json"

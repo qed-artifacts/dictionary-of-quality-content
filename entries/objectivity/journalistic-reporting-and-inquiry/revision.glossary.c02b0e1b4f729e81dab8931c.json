@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.objectivity.journalistic-inquiry",
+  "revision_id": "revision.glossary.c02b0e1b4f729e81dab8931c",
+  "headword": "Objectivity",
+  "scope_label": "journalistic reporting and inquiry",
+  "definition": "In journalism, objectivity is a disciplined effort to make reporting answerable to evidence and critical scrutiny rather than a reporter's unchecked preferences.",
+  "explanation": [
+    "It involves checking claims, considering counterevidence and relevant perspectives, and correcting mistakes.",
+    "It does not require reporters to have no standpoint or guarantee that every account is complete."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
