@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.cost-utility-analysis.health-economic-evaluation",
+  "revision_id": "revision.glossary.5a44323b9b6bc559e9dedac4",
+  "headword": "Cost-utility analysis",
+  "scope_label": "health economic comparison using preference-weighted outcomes",
+  "definition": "In health economics, cost-utility analysis compares alternatives' costs with health outcomes expressed in preference-weighted units, commonly quality-adjusted life-years.",
+  "explanation": [
+    "It can express the added cost of an option in relation to the added quality-adjusted life-years it is expected to produce.",
+    "The result depends partly on how health-state utility is measured, so the outcome unit and comparison must be stated."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
