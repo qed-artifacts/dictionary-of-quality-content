@@ -122,6 +122,11 @@
       "path": "entries/appropriateness/fit-of-clinical-care-to-the-patient-s-condition-and-evidence/revision.glossary.4ed44a7fff390695b0cf1a43.json"
     },
     {
+      "object_id": "glossary.artistic-quality.artwork-merit",
+      "revision_id": "revision.glossary.8027cf1bb830148c51ad1387",
+      "path": "entries/artistic-quality/artworks-and-artistic-performance/revision.glossary.8027cf1bb830148c51ad1387.json"
+    },
+    {
       "object_id": "glossary.assessment.information-for-decision",
       "revision_id": "revision.glossary.f2af66a34ead0ca5c77e0eba",
       "path": "entries/assessment/purpose-bound-examination/revision.glossary.f2af66a34ead0ca5c77e0eba.json"
