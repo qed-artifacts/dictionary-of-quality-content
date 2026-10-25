@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.error-prevention.block-mistakes-before-output",
+  "revision_id": "revision.glossary.49d3cf807995e2f115bccb18",
+  "headword": "Error prevention",
+  "scope_label": "designing processes or controls to stop foreseeable mistakes",
+  "definition": "Error prevention is the use of process or product design to stop a foreseeable mistake before it produces an incorrect result.",
+  "explanation": [
+    "A mistake-proofing device may make the wrong action impossible or reveal it in time for correction.",
+    "Checking a completed result for defects is a later control and does not, by itself, prevent the original error."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
