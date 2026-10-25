@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.authenticity.aesthetic-practice",
+  "revision_id": "revision.glossary.b32ed72d640b4f8ebea97177",
+  "headword": "Authenticity",
+  "scope_label": "genuineness in aesthetic and artistic practice",
+  "definition": "In aesthetic practice, authenticity is an appraisal that a work, performance, or experience is genuine in a respect that matters to that practice.",
+  "explanation": [
+    "The relevant respect may concern its origins, recognizable features, or the maker's expression; these are distinct accounts rather than one universal test.",
+    "An authenticity claim should state the respect and practice at issue. Authenticity alone does not settle overall merit, and its standards can be applied unfairly."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
