@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.social-service-quality.social-care-experience",
+  "revision_id": "revision.glossary.9f7559428d048f7ab6b8d2ff",
+  "headword": "Social service quality",
+  "scope_label": "social care and support services",
+  "definition": "Social service quality is how well social care and support services respond to the needs and goals of the people they serve.",
+  "explanation": [
+    "People's experience of access, coordination, and support matters, but a satisfaction rating alone cannot establish the quality of the service or its outcomes."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
