@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.liking.food-sensory-response",
+  "revision_id": "revision.glossary.56bf6dac9a0892829320f544",
+  "headword": "Liking",
+  "scope_label": "favorable sensory response to food",
+  "definition": "In food sensory evaluation, liking is a person's favorable response to the experience of a food.",
+  "explanation": [
+    "It can be assessed after tasting a product and may differ between people or testing conditions.",
+    "Liking differs from preference: someone may enjoy a food but choose another because of price, availability, or other concerns."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
