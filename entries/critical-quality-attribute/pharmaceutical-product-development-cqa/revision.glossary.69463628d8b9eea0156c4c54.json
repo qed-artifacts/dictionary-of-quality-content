@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.critical-quality-attribute.pharmaceutical",
+  "revision_id": "revision.glossary.69463628d8b9eea0156c4c54",
+  "headword": "Critical quality attribute",
+  "scope_label": "pharmaceutical product-development CQA",
+  "definition": "In pharmaceutical development, a critical quality attribute is a material or product characteristic whose acceptable range or distribution matters for the intended product quality.",
+  "explanation": [
+    "Examples may include purity, strength, drug release, or sterility, depending on the product.",
+    "Risk assessment and experimentation help identify which candidate attributes need control as product knowledge develops."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
