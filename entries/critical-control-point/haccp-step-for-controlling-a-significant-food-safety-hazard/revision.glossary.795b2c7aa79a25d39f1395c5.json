@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.critical-control-point.food-safety-haccp",
+  "revision_id": "revision.glossary.795b2c7aa79a25d39f1395c5",
+  "headword": "Critical control point",
+  "scope_label": "HACCP step for controlling a significant food-safety hazard",
+  "definition": "In food-safety HACCP, a critical control point is a step where control is necessary to prevent, eliminate, or reduce a significant hazard to an acceptable level.",
+  "explanation": [
+    "A HACCP plan identifies the point, a limit for the control, and how that limit will be monitored.",
+    "Not every routine production check is a critical control point; the designation depends on the hazard and the control available at that step."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -377,6 +377,11 @@
       "path": "entries/criterion/evaluative-basis-or-consideration/revision.glossary.a8e93785e84cad52415a19a9.json"
     },
     {
+      "object_id": "glossary.critical-control-point.food-safety-haccp",
+      "revision_id": "revision.glossary.795b2c7aa79a25d39f1395c5",
+      "path": "entries/critical-control-point/haccp-step-for-controlling-a-significant-food-safety-hazard/revision.glossary.795b2c7aa79a25d39f1395c5.json"
+    },
+    {
       "object_id": "glossary.critical-limit.haccp-hazard-boundary",
       "revision_id": "revision.glossary.0853dfd5cc4b0d4d5bdbc9e1",
       "path": "entries/critical-limit/hazard-control-boundary-at-a-food-safety-haccp-critical-control-point/revision.glossary.0853dfd5cc4b0d4d5bdbc9e1.json"
