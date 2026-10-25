@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.originality.artistic-novelty",
+  "revision_id": "revision.glossary.e0c9196aeef24459c3c3bce3",
+  "headword": "Originality",
+  "scope_label": "novelty or difference in an artwork",
+  "definition": "In art, originality is the extent to which a work differs in significant ways from earlier work or familiar conventions.",
+  "explanation": [
+    "It may concern the work's features or how they are combined; difference alone does not establish artistic merit.",
+    "Original is also used as praise, so an appraisal should say whether it claims novelty, value, or both."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
