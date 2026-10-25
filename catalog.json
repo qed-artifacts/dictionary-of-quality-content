@@ -997,6 +997,11 @@
       "path": "entries/pharmaceutical-quality-system/ich-q10-model-for-pharmaceutical-quality-management/revision.glossary.4b536af3c576c9e13f62b1de.json"
     },
     {
+      "object_id": "glossary.poka-yoke.production-mistake-proofing",
+      "revision_id": "revision.glossary.d9e27cd1ed7748e5a5ac3c0e",
+      "path": "entries/poka-yoke/production-design-or-device-preventing-a-predictable-mistake-from-producing-a-defect/revision.glossary.d9e27cd1ed7748e5a5ac3c0e.json"
+    },
+    {
       "object_id": "glossary.precision.measurement",
       "revision_id": "revision.glossary.7a33b289c3fe7cdf1a838d40",
       "path": "entries/precision/agreement-among-repeated-measurement-results/revision.glossary.7a33b289c3fe7cdf1a838d40.json"

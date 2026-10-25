@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.poka-yoke.production-mistake-proofing",
+  "revision_id": "revision.glossary.d9e27cd1ed7748e5a5ac3c0e",
+  "headword": "Poka-yoke",
+  "scope_label": "production design or device preventing a predictable mistake from producing a defect",
+  "definition": "In production, poka-yoke is a design feature or device that prevents an inadvertent mistake from producing a defect.",
+  "explanation": [
+    "It changes the task or equipment so a particular error is blocked or made harder to carry forward.",
+    "It addresses a specified error path; it does not guarantee that every kind of defect is prevented."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
