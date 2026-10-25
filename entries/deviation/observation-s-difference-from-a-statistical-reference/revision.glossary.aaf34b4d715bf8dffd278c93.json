@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.deviation.statistical-difference-from-reference",
+  "revision_id": "revision.glossary.aaf34b4d715bf8dffd278c93",
+  "headword": "Deviation",
+  "scope_label": "observation's difference from a statistical reference",
+  "definition": "In statistics, a deviation is the difference between an observed value and a specified reference value, often the mean of a data set.",
+  "explanation": [
+    "A signed deviation preserves direction; its absolute value gives the size of the difference without direction.",
+    "A deviation from a mean is not, by itself, evidence that a requirement was violated; that requires a separate decision rule."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

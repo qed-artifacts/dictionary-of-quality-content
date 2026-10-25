@@ -572,6 +572,11 @@
       "path": "entries/detection/fmea-estimate-of-discovering-a-failure-or-its-cause/revision.glossary.af3c97f39637206078253284.json"
     },
     {
+      "object_id": "glossary.deviation.statistical-difference-from-reference",
+      "revision_id": "revision.glossary.aaf34b4d715bf8dffd278c93",
+      "path": "entries/deviation/observation-s-difference-from-a-statistical-reference/revision.glossary.aaf34b4d715bf8dffd278c93.json"
+    },
+    {
       "object_id": "glossary.dimension.evaluative-framework",
       "revision_id": "revision.glossary.976ad39acfd64cf40727dbef",
       "path": "entries/dimension/aspect-in-an-evaluative-framework/revision.glossary.976ad39acfd64cf40727dbef.json"
