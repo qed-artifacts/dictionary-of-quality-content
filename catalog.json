@@ -2972,6 +2972,11 @@
       "path": "entries/time-horizon/period-considered-in-a-decision-or-evaluation/revision.glossary.d7c0fc9ca1b88c6a1d36ac21.json"
     },
     {
+      "object_id": "glossary.time-to-degree.higher-education-duration",
+      "revision_id": "revision.glossary.732ba256f5e6e0758fcdffe1",
+      "path": "entries/time-to-degree/higher-education/revision.glossary.732ba256f5e6e0758fcdffe1.json"
+    },
+    {
       "object_id": "glossary.time-to-failure.elapsed-time-first-failure",
       "revision_id": "revision.glossary.e60ce84bdfde6d241899bfd4",
       "path": "entries/time-to-failure/elapsed-operating-or-exposure-time-until-an-item-s-specified-failure/revision.glossary.e60ce84bdfde6d241899bfd4.json"
