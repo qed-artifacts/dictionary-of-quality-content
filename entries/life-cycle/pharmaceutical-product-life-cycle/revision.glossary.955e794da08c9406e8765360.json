@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.life-cycle.pharmaceutical-product",
+  "revision_id": "revision.glossary.955e794da08c9406e8765360",
+  "headword": "Life cycle",
+  "scope_label": "pharmaceutical product life cycle",
+  "definition": "For a pharmaceutical product, the life cycle spans its initial development, marketing, and eventual discontinuation.",
+  "explanation": [
+    "Knowledge about the product and its manufacturing process can grow across those phases.",
+    "A decision made during development may need review when later evidence or changes affect the product."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
