@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.dataset-quality.collection-fitness-for-use",
+  "revision_id": "revision.glossary.f424ce1ae23ca11c9d8732b4",
+  "headword": "Dataset quality",
+  "scope_label": "dataset assessment for a stated analysis",
+  "definition": "Dataset quality is how well a specified collection of data is suited to a stated use.",
+  "explanation": [
+    "Assessment can consider coverage, accuracy, completeness, coding, and access. A clean dataset may still omit the people, period, or variables needed to answer the question."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

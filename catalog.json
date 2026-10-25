@@ -752,6 +752,11 @@
       "path": "entries/data-timeliness/data-and-information-quality/revision.glossary.1af6b0a53dadbb8abd70dbc7.json"
     },
     {
+      "object_id": "glossary.dataset-quality.collection-fitness-for-use",
+      "revision_id": "revision.glossary.f424ce1ae23ca11c9d8732b4",
+      "path": "entries/dataset-quality/dataset-assessment-for-a-stated-analysis/revision.glossary.f424ce1ae23ca11c9d8732b4.json"
+    },
+    {
       "object_id": "glossary.decision-criterion.rule-for-comparing-options",
       "revision_id": "revision.glossary.7f5e1323bbb6c38a2b0cd004",
       "path": "entries/decision-criterion/rule-used-to-compare-and-select-among-options/revision.glossary.7f5e1323bbb6c38a2b0cd004.json"
