@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.ceiling-effect.measurement-upper-limit",
+  "revision_id": "revision.glossary.1f6570e4ff9e87f37c25919f",
+  "headword": "Ceiling effect",
+  "scope_label": "upper-limit compression in a score scale",
+  "definition": "A ceiling effect occurs when a measure's upper limit prevents it from distinguishing higher levels of the attribute it is meant to assess.",
+  "explanation": [
+    "When many people score at or near the maximum, genuine differences or later improvement may be hidden.",
+    "The effect depends on the instrument and population; a high score alone does not establish how far beyond the scale's limit someone might be."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
