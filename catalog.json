@@ -1297,6 +1297,11 @@
       "path": "entries/product-quality/quality-of-a-product-for-intended-use/revision.glossary.4cbb4cd38111eda961b3df7a.json"
     },
     {
+      "object_id": "glossary.product-specification.product-conformity-requirements",
+      "revision_id": "revision.glossary.2ff7ef6c3186fe9f1feabc0c",
+      "path": "entries/product-specification/documented-requirements-for-deciding-product-conformity/revision.glossary.2ff7ef6c3186fe9f1feabc0c.json"
+    },
+    {
       "object_id": "glossary.property.descriptive-feature",
       "revision_id": "revision.glossary.23ae1b1eba23155e5dc99941",
       "path": "entries/property/descriptive-feature-of-an-assessed-object/revision.glossary.23ae1b1eba23155e5dc99941.json"
