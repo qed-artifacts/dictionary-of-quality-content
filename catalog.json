@@ -1767,6 +1767,11 @@
       "path": "entries/service-recovery/response-to-a-service-failure/revision.glossary.b310ff76b66e17ea02143a40.json"
     },
     {
+      "object_id": "glossary.service-reliability.dependable-delivery",
+      "revision_id": "revision.glossary.52242e1031d390457c61323c",
+      "path": "entries/service-reliability/dependable-delivery-of-a-promised-service/revision.glossary.52242e1031d390457c61323c.json"
+    },
+    {
       "object_id": "glossary.seven-tools-of-quality.traditional-quality-toolkit",
       "revision_id": "revision.glossary.87aff92ccee650d2792d5977",
       "path": "entries/seven-tools-of-quality/traditional-basic-quality-tool-grouping/revision.glossary.87aff92ccee650d2792d5977.json"
