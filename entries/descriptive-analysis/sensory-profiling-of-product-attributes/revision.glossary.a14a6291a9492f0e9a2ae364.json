@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.descriptive-analysis.sensory-profiling",
+  "revision_id": "revision.glossary.a14a6291a9492f0e9a2ae364",
+  "headword": "Descriptive analysis",
+  "scope_label": "sensory profiling of product attributes",
+  "definition": "In sensory science, descriptive analysis uses assessors to identify and rate product attributes so products can be described and compared.",
+  "explanation": [
+    "Panel members align the meanings of the attributes and the rating scales before evaluating the product set.",
+    "The resulting profile describes perceived qualities; it does not itself say whether consumers like the products."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
