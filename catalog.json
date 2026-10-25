@@ -1017,6 +1017,11 @@
       "path": "entries/time-horizon/period-considered-in-a-decision-or-evaluation/revision.glossary.d7c0fc9ca1b88c6a1d36ac21.json"
     },
     {
+      "object_id": "glossary.time.evaluation-temporal-reference",
+      "revision_id": "revision.glossary.8ac45ede6024744552607bbe",
+      "path": "entries/time/temporal-reference-of-an-observation-or-evaluative-claim/revision.glossary.8ac45ede6024744552607bbe.json"
+    },
+    {
       "object_id": "glossary.top-event.fault-tree-outcome",
       "revision_id": "revision.glossary.b5e38110737042b070c7afb5",
       "path": "entries/top-event/specified-unwanted-outcome-in-fault-tree-analysis/revision.glossary.b5e38110737042b070c7afb5.json"
