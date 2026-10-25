@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.good-manufacturing-practice.pharmaceutical",
+  "revision_id": "revision.glossary.3333897e4a8331382f999879",
+  "headword": "Good manufacturing practice",
+  "scope_label": "pharmaceutical manufacturing requirements and controls",
+  "definition": "In pharmaceuticals, good manufacturing practice (GMP) is the body of applicable requirements and controls for consistently making and handling medicines to required quality standards.",
+  "explanation": [
+    "It addresses manufacturing methods, facilities, equipment, and other controls rather than relying only on testing finished products.",
+    "The specific obligations depend on the product and jurisdiction; GMP is a practice framework, not a guarantee that every unit is free of defects."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
