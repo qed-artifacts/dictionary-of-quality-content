@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.construct-validity.test-score-inference",
+  "revision_id": "revision.glossary.14ebd89c1df188c13ad5c234",
+  "headword": "Construct validity",
+  "scope_label": "test-score interpretation concerning an intended construct",
+  "definition": "Construct validity concerns how well evidence supports interpreting test scores as reflecting a specified construct for a stated population and use.",
+  "explanation": [
+    "The evidence can address the test's content, the behavior of scores, and their relationships with other variables.",
+    "Validity belongs to the proposed interpretation and use of the scores; it is not a permanent certificate attached to the test."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
