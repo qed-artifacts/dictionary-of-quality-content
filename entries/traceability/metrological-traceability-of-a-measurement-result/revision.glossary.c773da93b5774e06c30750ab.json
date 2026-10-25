@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.traceability.metrology",
+  "revision_id": "revision.glossary.c773da93b5774e06c30750ab",
+  "headword": "Traceability",
+  "scope_label": "metrological traceability of a measurement result",
+  "definition": "In metrology, traceability is the property of a measurement result that allows it to be related to a stated reference through a documented chain of comparisons.",
+  "explanation": [
+    "Each link in the chain contributes uncertainty that must be accounted for.",
+    "Traceability identifies how a result is connected to a reference; it does not alone show that the result is sufficiently accurate for a particular use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
