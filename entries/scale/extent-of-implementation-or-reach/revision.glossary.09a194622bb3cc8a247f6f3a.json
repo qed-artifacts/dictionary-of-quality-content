@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.scale.implementation-reach",
+  "revision_id": "revision.glossary.09a194622bb3cc8a247f6f3a",
+  "headword": "Scale",
+  "scope_label": "extent of implementation or reach",
+  "definition": "In implementation, scale is the extent of an activity's reach across people, sites, units, or area.",
+  "explanation": [
+    "Moving from a local pilot to broader coverage increases scale; state the unit and time period used to describe that increase.",
+    "A larger scale does not by itself show that the activity works equally well in each setting."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
