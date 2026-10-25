@@ -3162,6 +3162,11 @@
       "path": "entries/sensitivity/sensitivity-of-a-diagnostic-test-for-a-target-condition/revision.glossary.052a88b660590b7a21820537.json"
     },
     {
+      "object_id": "glossary.sensory-acceptability.consumer-sensory-response",
+      "revision_id": "revision.glossary.67aee07ecceb53e375333836",
+      "path": "entries/sensory-acceptability/consumer-sensory-evaluation/revision.glossary.67aee07ecceb53e375333836.json"
+    },
+    {
       "object_id": "glossary.sensory-attribute.food-perceived-characteristic",
       "revision_id": "revision.glossary.9ef613f048d21badf775c655",
       "path": "entries/sensory-attribute/food-sensory-analysis/revision.glossary.9ef613f048d21badf775c655.json"
