@@ -1107,6 +1107,11 @@
       "path": "entries/documented-information/controlled-management-system-information-and-records/revision.glossary.566a7b15743c5c31dd982053.json"
     },
     {
+      "object_id": "glossary.due-process.us-constitutional-protection",
+      "revision_id": "revision.glossary.19b02ae60e87f7df3cd26093",
+      "path": "entries/due-process/u-s-constitutional-protection-against-government-deprivation/revision.glossary.19b02ae60e87f7df3cd26093.json"
+    },
+    {
       "object_id": "glossary.durability.construction-material",
       "revision_id": "revision.glossary.0c627df277bdd3d1706dd3a4",
       "path": "entries/durability/resistance-to-deterioration-of-a-construction-material/revision.glossary.0c627df277bdd3d1706dd3a4.json"
