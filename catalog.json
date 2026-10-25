@@ -137,6 +137,11 @@
       "path": "entries/analyzability/software-maintainability-subcharacteristic-in-iso-iec-25010-2011/revision.glossary.89a389c4f91b30b09eff29c3.json"
     },
     {
+      "object_id": "glossary.appearance-quality.visible-product-features",
+      "revision_id": "revision.glossary.bc7643e07a3c89121d5c6b16",
+      "path": "entries/appearance-quality/visible-qualities-of-a-product/revision.glossary.bc7643e07a3c89121d5c6b16.json"
+    },
+    {
       "object_id": "glossary.appraisal-cost.assessing-conformity",
       "revision_id": "revision.glossary.d28fbccfb04e771e74578602",
       "path": "entries/appraisal-cost/quality-related-spending-to-evaluate-conformity-or-performance/revision.glossary.d28fbccfb04e771e74578602.json"
