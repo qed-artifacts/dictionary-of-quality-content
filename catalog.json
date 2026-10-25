@@ -2372,6 +2372,11 @@
       "path": "entries/replicability/empirical-research/revision.glossary.69f00d284ad2ff7bd8c0199c.json"
     },
     {
+      "object_id": "glossary.reporting-quality.news-reporting",
+      "revision_id": "revision.glossary.19cc468050c36e016ff71e36",
+      "path": "entries/reporting-quality/journalistic-news-reporting/revision.glossary.19cc468050c36e016ff71e36.json"
+    },
+    {
       "object_id": "glossary.reproducibility-conditions.measurement-variation",
       "revision_id": "revision.glossary.43763cb4ebb54d4a03a3eef6",
       "path": "entries/reproducibility-conditions/measurement-precision/revision.glossary.43763cb4ebb54d4a03a3eef6.json"
