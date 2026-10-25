@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.item-discrimination.trait-separation",
+  "revision_id": "revision.glossary.9e52e189638c81b9ef7799ca",
+  "headword": "Item discrimination",
+  "scope_label": "separation of examinees by a measured trait",
+  "definition": "In testing, item discrimination is how well a test item distinguishes people at different levels of the trait the test intends to measure.",
+  "explanation": [
+    "Its value depends on how higher and lower trait levels are established and on the group being assessed.",
+    "The term describes a measurement property, not unfair treatment of a protected group."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

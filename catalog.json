@@ -1342,6 +1342,11 @@
       "path": "entries/item-difficulty/difficulty-of-a-scored-test-item-for-examinees/revision.glossary.144eef8d657f4978043841f0.json"
     },
     {
+      "object_id": "glossary.item-discrimination.trait-separation",
+      "revision_id": "revision.glossary.9e52e189638c81b9ef7799ca",
+      "path": "entries/item-discrimination/separation-of-examinees-by-a-measured-trait/revision.glossary.9e52e189638c81b9ef7799ca.json"
+    },
+    {
       "object_id": "glossary.judgment.reasoned-conclusion",
       "revision_id": "revision.glossary.dcd4d62dbe787344eb6ebc76",
       "path": "entries/judgment/conclusion-drawn-from-information/revision.glossary.dcd4d62dbe787344eb6ebc76.json"
