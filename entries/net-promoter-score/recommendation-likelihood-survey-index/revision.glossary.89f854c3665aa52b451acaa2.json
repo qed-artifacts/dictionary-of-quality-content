@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.net-promoter-score.recommendation-response-index",
+  "revision_id": "revision.glossary.89f854c3665aa52b451acaa2",
+  "headword": "Net promoter score",
+  "scope_label": "recommendation-likelihood survey index",
+  "definition": "Net promoter score (NPS) is the percentage of survey respondents rating their likelihood to recommend at 9 or 10, minus the percentage rating it from 0 through 6, on a 0-to-10 scale.",
+  "explanation": [
+    "Ratings of 7 or 8 count in the respondent total but in neither percentage being subtracted.",
+    "The score summarizes stated willingness to recommend; it does not alone show actual recommendations or overall product or service quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
