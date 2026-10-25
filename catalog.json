@@ -567,6 +567,11 @@
       "path": "entries/metrological-traceability/property-of-a-measurement-result-related-to-a-reference/revision.glossary.41e96ff97d3c072b35f80c83.json"
     },
     {
+      "object_id": "glossary.model.selective-representation",
+      "revision_id": "revision.glossary.83de2ad5504163c21faf76ef",
+      "path": "entries/model/selective-conceptual-representation-in-research-and-design/revision.glossary.83de2ad5504163c21faf76ef.json"
+    },
+    {
       "object_id": "glossary.multi-criteria-decision-analysis.alternative-comparison",
       "revision_id": "revision.glossary.c198ee4b3a61835aa9d35a09",
       "path": "entries/multi-criteria-decision-analysis/structured-comparison-using-multiple-relevant-criteria/revision.glossary.c198ee4b3a61835aa9d35a09.json"
