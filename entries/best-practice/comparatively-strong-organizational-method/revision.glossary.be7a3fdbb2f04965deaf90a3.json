@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.best-practice.contextual-superior-method",
+  "revision_id": "revision.glossary.be7a3fdbb2f04965deaf90a3",
+  "headword": "Best practice",
+  "scope_label": "comparatively strong organizational method",
+  "definition": "A best practice is a method judged especially effective for a specified purpose compared with available alternatives.",
+  "explanation": [
+    "The label may reflect recognition by peer organizations and evidence of improved performance.",
+    "It is a comparative claim whose usefulness depends on the setting; the label does not guarantee that copying the method elsewhere will work."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
