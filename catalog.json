@@ -97,6 +97,11 @@
       "path": "entries/aggregation-rule/combining-multiple-component-values-for-an-evaluation/revision.glossary.29757eb43e5745e68cb93439.json"
     },
     {
+      "object_id": "glossary.alignment.ai-intended-behavior",
+      "revision_id": "revision.glossary.00c04bba394cc0baa74aab96",
+      "path": "entries/alignment/ai-system-behavior-relative-to-human-aims-and-constraints/revision.glossary.00c04bba394cc0baa74aab96.json"
+    },
+    {
       "object_id": "glossary.alternative.decision-option",
       "revision_id": "revision.glossary.e4b1393b254f8f05cb4af93c",
       "path": "entries/alternative/possible-action-in-a-framed-decision/revision.glossary.e4b1393b254f8f05cb4af93c.json"
