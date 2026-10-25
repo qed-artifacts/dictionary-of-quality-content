@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.moment-of-truth.service-encounter",
+  "revision_id": "revision.glossary.c8e03e8cdc6d75b089749b27",
+  "headword": "Moment of truth",
+  "scope_label": "customer encounter in service delivery",
+  "definition": "In service management, a moment of truth is an encounter at which a customer experiences a provider's service and forms an impression of it.",
+  "explanation": [
+    "It can arise in booking, delivery, or recovery from a problem, rather than only at the main point of service.",
+    "Such encounters can influence satisfaction and future choice, though one contact need not determine the whole relationship."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

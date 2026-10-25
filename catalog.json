@@ -1982,6 +1982,11 @@
       "path": "entries/modifiability/software-change-in-response-to-requirements/revision.glossary.77253e2da0c3684474e0bf9c.json"
     },
     {
+      "object_id": "glossary.moment-of-truth.service-encounter",
+      "revision_id": "revision.glossary.c8e03e8cdc6d75b089749b27",
+      "path": "entries/moment-of-truth/customer-encounter-in-service-delivery/revision.glossary.c8e03e8cdc6d75b089749b27.json"
+    },
+    {
       "object_id": "glossary.monitoring.systematic-status-checking",
       "revision_id": "revision.glossary.6b8b88410ab5e075bfe518d3",
       "path": "entries/monitoring/systematic-checking-of-a-process-or-condition-over-time-in-quality-management/revision.glossary.6b8b88410ab5e075bfe518d3.json"
