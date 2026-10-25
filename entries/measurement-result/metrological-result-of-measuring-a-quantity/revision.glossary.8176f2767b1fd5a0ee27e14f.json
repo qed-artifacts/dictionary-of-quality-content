@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.measurement-result.quantity-value-and-context",
+  "revision_id": "revision.glossary.8176f2767b1fd5a0ee27e14f",
+  "headword": "Measurement result",
+  "scope_label": "metrological result of measuring a quantity",
+  "definition": "A measurement result is the value or set of values attributed to a specified quantity by measurement, together with information needed to interpret it.",
+  "explanation": [
+    "It commonly includes a reported value and its measurement uncertainty.",
+    "The result records what the measurement supports; deciding whether it meets a requirement is a separate judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
