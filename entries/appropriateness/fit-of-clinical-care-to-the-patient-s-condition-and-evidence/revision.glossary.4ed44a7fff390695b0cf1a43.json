@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.appropriateness.clinical-care",
+  "revision_id": "revision.glossary.4ed44a7fff390695b0cf1a43",
+  "headword": "Appropriateness",
+  "scope_label": "fit of clinical care to the patient's condition and evidence",
+  "definition": "In clinical care, appropriateness concerns whether a proposed service or intervention fits a patient's condition and circumstances in light of evidence about its likely effects.",
+  "explanation": [
+    "The relevant patient group, clinical indication, and available alternatives affect that judgment.",
+    "Care can be delivered skillfully yet still be inappropriate if the intervention is not indicated for that patient."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
