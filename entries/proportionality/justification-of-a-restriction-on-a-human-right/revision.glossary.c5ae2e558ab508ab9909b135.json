@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.proportionality.human-rights-restriction",
+  "revision_id": "revision.glossary.c5ae2e558ab508ab9909b135",
+  "headword": "Proportionality",
+  "scope_label": "justification of a restriction on a human right",
+  "definition": "In human-rights review, proportionality concerns whether a restriction on a right is justified by a legitimate aim in light of the burden it imposes.",
+  "explanation": [
+    "The reviewer asks whether the interference is necessary and whether the competing rights and interests have been fairly balanced.",
+    "The precise test depends on the right and legal system; proportionality is not simply a numerical ratio."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
