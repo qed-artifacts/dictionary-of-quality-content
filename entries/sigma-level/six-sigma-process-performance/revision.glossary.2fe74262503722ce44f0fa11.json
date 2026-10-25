@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.sigma-level.defect-rate-index",
+  "revision_id": "revision.glossary.2fe74262503722ce44f0fa11",
+  "headword": "Sigma level",
+  "scope_label": "Six Sigma process performance",
+  "definition": "In Six Sigma practice, a sigma level is a process-performance index derived from its rate of defects per defined opportunity; a higher level indicates fewer such defects under the chosen calculation.",
+  "explanation": [
+    "The defect and opportunity definitions, observation period, and conversion convention matter, so the level alone does not say which improvement is most valuable."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
