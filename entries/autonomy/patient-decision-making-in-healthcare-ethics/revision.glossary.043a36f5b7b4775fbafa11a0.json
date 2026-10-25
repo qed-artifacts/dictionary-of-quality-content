@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.autonomy.patient-decision-making",
+  "revision_id": "revision.glossary.043a36f5b7b4775fbafa11a0",
+  "headword": "Autonomy",
+  "scope_label": "patient decision-making in healthcare ethics",
+  "definition": "In healthcare ethics, autonomy is a person's authority to make decisions about their own care in light of their values and informed understanding.",
+  "explanation": [
+    "Respecting autonomy calls for information about the proposed care, material risks, and available alternatives before consent is sought.",
+    "It concerns the person's decision-making role, not a guarantee that every requested treatment is available or appropriate."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
