@@ -1117,6 +1117,11 @@
       "path": "entries/randomization/chance-determined-run-order-in-experimental-design/revision.glossary.cf0ac8c98ea31745db913349.json"
     },
     {
+      "object_id": "glossary.rating-scale.ordered-response",
+      "revision_id": "revision.glossary.86d35f87eb166a5de36ad8c0",
+      "path": "entries/rating-scale/ordered-appraisal-response-categories/revision.glossary.86d35f87eb166a5de36ad8c0.json"
+    },
+    {
       "object_id": "glossary.rating.scale-response",
       "revision_id": "revision.glossary.6715871bf0ab55c77685524b",
       "path": "entries/rating/assigned-level-on-an-itemized-assessment-scale/revision.glossary.6715871bf0ab55c77685524b.json"
