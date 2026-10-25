@@ -997,6 +997,11 @@
       "path": "entries/error-prevention/designing-processes-or-controls-to-stop-foreseeable-mistakes/revision.glossary.49d3cf807995e2f115bccb18.json"
     },
     {
+      "object_id": "glossary.escalation-condition.governed-response-trigger",
+      "revision_id": "revision.glossary.da6944f928fe70fedb2dc968",
+      "path": "entries/escalation-condition/governed-assessment-and-corrective-action-workflow/revision.glossary.da6944f928fe70fedb2dc968.json"
+    },
+    {
       "object_id": "glossary.estimate.statistical-inference",
       "revision_id": "revision.glossary.87633023ef51aaedfeb1898b",
       "path": "entries/estimate/statistical-inference-about-an-unknown-quantity/revision.glossary.87633023ef51aaedfeb1898b.json"

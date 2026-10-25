@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.escalation-condition.governed-response-trigger",
+  "revision_id": "revision.glossary.da6944f928fe70fedb2dc968",
+  "headword": "Escalation condition",
+  "scope_label": "governed assessment and corrective-action workflow",
+  "definition": "An escalation condition is a specified state or event that requires an issue to move to a more authoritative response process.",
+  "explanation": [
+    "In an assessment workflow, persistent failure to correct a nonconformity can be such a trigger; the condition should identify what is observed and who must act next."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
