@@ -2802,6 +2802,11 @@
       "path": "entries/service-quality/service-performance-and-user-experience/revision.glossary.115bb7802c3a2ebf10e88fdf.json"
     },
     {
+      "object_id": "glossary.service-recovery-quality.customer-view-of-failure-response",
+      "revision_id": "revision.glossary.fd39e939bf6a7a620e9e3415",
+      "path": "entries/service-recovery-quality/provider-response-after-service-failure/revision.glossary.fd39e939bf6a7a620e9e3415.json"
+    },
+    {
       "object_id": "glossary.service-recovery.response-to-service-failure",
       "revision_id": "revision.glossary.b310ff76b66e17ea02143a40",
       "path": "entries/service-recovery/response-to-a-service-failure/revision.glossary.b310ff76b66e17ea02143a40.json"

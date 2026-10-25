@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.service-recovery-quality.customer-view-of-failure-response",
+  "revision_id": "revision.glossary.fd39e939bf6a7a620e9e3415",
+  "headword": "Service recovery quality",
+  "scope_label": "provider response after service failure",
+  "definition": "Service recovery quality is how well a provider recognizes and remedies a service failure from the affected customer's standpoint.",
+  "explanation": [
+    "A useful response addresses the immediate problem and its causes where possible. Speed alone is insufficient if the remedy does not meet the customer's need or the failure recurs."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
