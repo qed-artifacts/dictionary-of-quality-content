@@ -472,6 +472,11 @@
       "path": "entries/configuration/identified-selection-and-versions-of-software-system-components/revision.glossary.785117324cd9cf54e1acd366.json"
     },
     {
+      "object_id": "glossary.confirmability.qualitative-research",
+      "revision_id": "revision.glossary.453ec3599aeb1f2548aa34f0",
+      "path": "entries/confirmability/qualitative-research-trustworthiness/revision.glossary.453ec3599aeb1f2548aa34f0.json"
+    },
+    {
       "object_id": "glossary.conformance-quality.design-match",
       "revision_id": "revision.glossary.6ef5a63c41a2b28587d2091c",
       "path": "entries/conformance-quality/realized-product-or-service-against-design-requirements/revision.glossary.6ef5a63c41a2b28587d2091c.json"
