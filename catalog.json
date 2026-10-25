@@ -282,6 +282,11 @@
       "path": "entries/critical-limit/hazard-control-boundary-at-a-food-safety-haccp-critical-control-point/revision.glossary.0853dfd5cc4b0d4d5bdbc9e1.json"
     },
     {
+      "object_id": "glossary.critical-quality-attribute.pharmaceutical",
+      "revision_id": "revision.glossary.69463628d8b9eea0156c4c54",
+      "path": "entries/critical-quality-attribute/pharmaceutical-product-development-cqa/revision.glossary.69463628d8b9eea0156c4c54.json"
+    },
+    {
       "object_id": "glossary.critical-to-quality.consequential-characteristic",
       "revision_id": "revision.glossary.0cb44f33217090bdb3309ff7",
       "path": "entries/critical-to-quality/assessable-characteristic-consequential-to-a-customer-need/revision.glossary.0cb44f33217090bdb3309ff7.json"
