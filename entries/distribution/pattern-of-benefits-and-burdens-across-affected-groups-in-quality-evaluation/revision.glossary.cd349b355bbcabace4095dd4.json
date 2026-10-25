@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.distribution.quality-consequences",
+  "revision_id": "revision.glossary.cd349b355bbcabace4095dd4",
+  "headword": "Distribution",
+  "scope_label": "pattern of benefits and burdens across affected groups in quality evaluation",
+  "definition": "In quality evaluation, distribution is the pattern of who receives benefits or resources and who bears harms or burdens.",
+  "explanation": [
+    "Looking across relevant groups or places can reveal differences concealed by an overall average.",
+    "This sense concerns how consequences are spread among people; a statistical distribution of values is a separate sense."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

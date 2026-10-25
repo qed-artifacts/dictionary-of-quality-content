@@ -287,6 +287,11 @@
       "path": "entries/disposition/recorded-treatment-or-outcome-of-a-reviewed-issue/revision.glossary.dcf2e0fea7734c6101fc7c8b.json"
     },
     {
+      "object_id": "glossary.distribution.quality-consequences",
+      "revision_id": "revision.glossary.cd349b355bbcabace4095dd4",
+      "path": "entries/distribution/pattern-of-benefits-and-burdens-across-affected-groups-in-quality-evaluation/revision.glossary.cd349b355bbcabace4095dd4.json"
+    },
+    {
       "object_id": "glossary.e-service-quality.digital-service",
       "revision_id": "revision.glossary.422b6f7244c01d1e77c79f40",
       "path": "entries/e-service-quality/service-delivered-through-a-digital-interface/revision.glossary.422b6f7244c01d1e77c79f40.json"
