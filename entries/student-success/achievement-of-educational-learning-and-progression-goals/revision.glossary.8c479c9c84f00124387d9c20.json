@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.student-success.learning-and-progression-goals",
+  "revision_id": "revision.glossary.8c479c9c84f00124387d9c20",
+  "headword": "Student success",
+  "scope_label": "achievement of educational learning and progression goals",
+  "definition": "In education, student success is students' progress toward and attainment of relevant learning and progression goals.",
+  "explanation": [
+    "Evidence may include demonstrated learning, persistence, completion, or later placement, depending on the program's aims.",
+    "No single indicator, including graduation rate, captures every student's educational success."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
