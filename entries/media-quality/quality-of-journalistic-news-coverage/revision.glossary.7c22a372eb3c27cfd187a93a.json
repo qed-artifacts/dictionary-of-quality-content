@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.media-quality.journalistic-coverage",
+  "revision_id": "revision.glossary.7c22a372eb3c27cfd187a93a",
+  "headword": "Media quality",
+  "scope_label": "quality of journalistic news coverage",
+  "definition": "For news coverage, media quality is how well the coverage serves relevant informational and public purposes under stated journalistic criteria.",
+  "explanation": [
+    "Those criteria can concern accuracy, context, relevance, and the range of perspectives represented.",
+    "Audience appeal alone does not establish that coverage meets its informational or public purpose."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
