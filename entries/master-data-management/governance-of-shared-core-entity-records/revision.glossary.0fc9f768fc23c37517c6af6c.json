@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.master-data-management.shared-entity-governance",
+  "revision_id": "revision.glossary.0fc9f768fc23c37517c6af6c",
+  "headword": "Master data management",
+  "scope_label": "governance of shared core entity records",
+  "definition": "Master data management is the coordinated governance of shared records for core entities, such as customers or products, so their identities and key attributes remain consistent across an organization.",
+  "explanation": [
+    "It addresses conflicting versions of the same entity in different systems or business units.",
+    "Master data describe enduring entities; transaction data record events such as orders or payments."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
