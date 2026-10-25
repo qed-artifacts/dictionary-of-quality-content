@@ -2622,6 +2622,11 @@
       "path": "entries/specificity/diagnostic-test-classification-of-people-without-the-target-condition/revision.glossary.21f84dd728f001aa22ae7382.json"
     },
     {
+      "object_id": "glossary.stability-testing.pharmaceutical-quality-over-time",
+      "revision_id": "revision.glossary.2ec610f1b21e40362b376464",
+      "path": "entries/stability-testing/pharmaceutical-products/revision.glossary.2ec610f1b21e40362b376464.json"
+    },
+    {
       "object_id": "glossary.stability.statistical-process-control",
       "revision_id": "revision.glossary.5277ba99ce77ee61e515d9be",
       "path": "entries/stability/statistical-stability-of-a-monitored-process/revision.glossary.5277ba99ce77ee61e515d9be.json"
