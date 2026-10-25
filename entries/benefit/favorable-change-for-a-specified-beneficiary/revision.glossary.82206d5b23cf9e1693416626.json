@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.benefit.favorable-change",
+  "revision_id": "revision.glossary.82206d5b23cf9e1693416626",
+  "headword": "Benefit",
+  "scope_label": "favorable change for a specified beneficiary",
+  "definition": "A benefit is a favorable change or consequence for a specified party, judged against a stated purpose or interest.",
+  "explanation": [
+    "A planned output may enable a benefit, but delivering the output does not show that the benefit occurred.",
+    "Name the beneficiary and period: a gain for one group need not be a gain for everyone."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -57,6 +57,11 @@
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
     },
     {
+      "object_id": "glossary.benefit.favorable-change",
+      "revision_id": "revision.glossary.82206d5b23cf9e1693416626",
+      "path": "entries/benefit/favorable-change-for-a-specified-beneficiary/revision.glossary.82206d5b23cf9e1693416626.json"
+    },
+    {
       "object_id": "glossary.burden.affected-party-cost",
       "revision_id": "revision.glossary.7ba35f7fb72e7021a50efa6a",
       "path": "entries/burden/adverse-load-borne-by-an-affected-party-in-an-evaluation/revision.glossary.7ba35f7fb72e7021a50efa6a.json"
