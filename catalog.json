@@ -2982,6 +2982,11 @@
       "path": "entries/study-quality/qualitative-evidence-synthesis/revision.glossary.78b8b820cd01dfd3adb4c5dc.json"
     },
     {
+      "object_id": "glossary.supersession.governing-version-replacement",
+      "revision_id": "revision.glossary.51dbe9c53489f8efef170b68",
+      "path": "entries/supersession/controlled-documents-and-standards/revision.glossary.51dbe9c53489f8efef170b68.json"
+    },
+    {
       "object_id": "glossary.supplier-evaluation.capability-and-performance",
       "revision_id": "revision.glossary.57d2490fde4334cae7ec2672",
       "path": "entries/supplier-evaluation/assessment-of-supplier-capability-and-performance-for-a-purchasing-relationship/revision.glossary.57d2490fde4334cae7ec2672.json"

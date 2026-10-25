@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.supersession.governing-version-replacement",
+  "revision_id": "revision.glossary.51dbe9c53489f8efef170b68",
+  "headword": "Supersession",
+  "scope_label": "controlled documents and standards",
+  "definition": "Supersession is the replacement of an earlier rule, document, or version by a later one for a stated scope.",
+  "explanation": [
+    "The earlier item can remain a historical record; the later item does not necessarily replace other rules that it merely complements."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
