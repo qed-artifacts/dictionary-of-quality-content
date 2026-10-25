@@ -1087,6 +1087,11 @@
       "path": "entries/instrument/tool-used-to-obtain-observations-in-measurement-or-assessment/revision.glossary.0acefc330bec16861a633f17.json"
     },
     {
+      "object_id": "glossary.instrumental-value.means-to-valued-end",
+      "revision_id": "revision.glossary.1d554e8ff9605fed71eac060",
+      "path": "entries/instrumental-value/value-as-a-means-to-another-valued-end/revision.glossary.1d554e8ff9605fed71eac060.json"
+    },
+    {
       "object_id": "glossary.intended-use.specified-purpose",
       "revision_id": "revision.glossary.577c82ef8469b89a8b60f402",
       "path": "entries/intended-use/stated-users-purpose-and-conditions-for-a-designed-product/revision.glossary.577c82ef8469b89a8b60f402.json"
