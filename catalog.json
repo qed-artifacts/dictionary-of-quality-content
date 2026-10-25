@@ -357,6 +357,11 @@
       "path": "entries/defect-opportunity/denominator-unit-in-defects-per-million-opportunities-analysis/revision.glossary.0f711f75245dc0f299b84a8a.json"
     },
     {
+      "object_id": "glossary.defect-rate.quality-measure",
+      "revision_id": "revision.glossary.f9ac1766473b94db9668bcda",
+      "path": "entries/defect-rate/frequency-of-defects-or-defective-units-in-inspected-output/revision.glossary.f9ac1766473b94db9668bcda.json"
+    },
+    {
       "object_id": "glossary.defect.intended-use-nonconformity",
       "revision_id": "revision.glossary.d8c7490ad4d66fea7f15f7c8",
       "path": "entries/defect/nonconformity-related-to-intended-or-specified-use/revision.glossary.d8c7490ad4d66fea7f15f7c8.json"
