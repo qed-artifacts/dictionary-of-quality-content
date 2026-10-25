@@ -287,6 +287,11 @@
       "path": "entries/confidence/strength-of-trust-in-an-evidence-based-estimate-or-conclusion/revision.glossary.a0e823e94981195c02abe3e7.json"
     },
     {
+      "object_id": "glossary.configuration-item.separately-identified-controlled-unit",
+      "revision_id": "revision.glossary.8e250930566e62c1633b92b4",
+      "path": "entries/configuration-item/separately-identified-unit-under-software-configuration-management/revision.glossary.8e250930566e62c1633b92b4.json"
+    },
+    {
       "object_id": "glossary.configuration-management.software-system",
       "revision_id": "revision.glossary.7b9df6a7b738b1c1132e0f40",
       "path": "entries/configuration-management/identified-components-and-controlled-change-in-evolving-software-systems/revision.glossary.7b9df6a7b738b1c1132e0f40.json"
