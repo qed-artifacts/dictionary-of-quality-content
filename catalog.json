@@ -2517,6 +2517,11 @@
       "path": "entries/quality-profile/structured-multi-aspect-representation/revision.glossary.9da218dd0cb422b7c0a87912.json"
     },
     {
+      "object_id": "glossary.quality-record.retained-evidence",
+      "revision_id": "revision.glossary.a51b4d86119b6fb9c3ed9628",
+      "path": "entries/quality-record/retained-quality-management-evidence/revision.glossary.a51b4d86119b6fb9c3ed9628.json"
+    },
+    {
       "object_id": "glossary.quality-requirement.quality-management",
       "revision_id": "revision.glossary.a8a06df340b242937453faba",
       "path": "entries/quality-requirement/quality-management/revision.glossary.a8a06df340b242937453faba.json"
