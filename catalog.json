@@ -2937,6 +2937,11 @@
       "path": "entries/risk-acceptance/organizational-risk-treatment/revision.glossary.e6a80de3ef9d44c867d9a36f.json"
     },
     {
+      "object_id": "glossary.risk-appetite.overall-willingness-to-take-risk",
+      "revision_id": "revision.glossary.f7ede168d4b012680a291d9b",
+      "path": "entries/risk-appetite/organizational-willingness-to-take-risk-for-objectives/revision.glossary.f7ede168d4b012680a291d9b.json"
+    },
+    {
       "object_id": "glossary.risk-assessment.hazard-decision",
       "revision_id": "revision.glossary.e2754134753ec68b8cf6a45f",
       "path": "entries/risk-assessment/hazard-focused-assessment-for-a-decision/revision.glossary.e2754134753ec68b8cf6a45f.json"
