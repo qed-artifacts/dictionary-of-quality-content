@@ -197,6 +197,11 @@
       "path": "entries/capability/project-outputs-that-enable-an-organizational-outcome/revision.glossary.cf366ce3f2701519c8ea5016.json"
     },
     {
+      "object_id": "glossary.care-coordination.aligning-care-participants",
+      "revision_id": "revision.glossary.ea5bcd5d26d72589b4eac5fe",
+      "path": "entries/care-coordination/alignment-of-services-across-healthcare-participants/revision.glossary.ea5bcd5d26d72589b4eac5fe.json"
+    },
+    {
       "object_id": "glossary.certification.management-system",
       "revision_id": "revision.glossary.d47b78e7ab0a35f1f66abe5b",
       "path": "entries/certification/management-system-conformity-assessment/revision.glossary.d47b78e7ab0a35f1f66abe5b.json"

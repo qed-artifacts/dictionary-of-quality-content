@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.care-coordination.aligning-care-participants",
+  "revision_id": "revision.glossary.ea5bcd5d26d72589b4eac5fe",
+  "headword": "Care coordination",
+  "scope_label": "alignment of services across healthcare participants",
+  "definition": "Care coordination is the deliberate alignment of care activities among the people and services involved in a patient's care.",
+  "explanation": [
+    "It includes sharing relevant information and arranging how one service connects with the next, especially when the patient moves between settings.",
+    "Its aim is that the parts of care work together for the patient rather than proceed as disconnected episodes."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
