@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.model-drift.deployed-ml-behavior-change",
+  "revision_id": "revision.glossary.df1756a86814694397e93b39",
+  "headword": "Model drift",
+  "scope_label": "material change in deployed predictive-model behavior or performance",
+  "definition": "In deployed machine learning, model drift is a material change over time in a model's output behavior or predictive performance relative to a stated baseline.",
+  "explanation": [
+    "A shift in input data may contribute to drift, but a changed input distribution alone is data drift and does not prove that the model's behavior has changed.",
+    "Monitor outputs and outcome-based measures when available, then investigate a detected change before deciding what response is needed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
