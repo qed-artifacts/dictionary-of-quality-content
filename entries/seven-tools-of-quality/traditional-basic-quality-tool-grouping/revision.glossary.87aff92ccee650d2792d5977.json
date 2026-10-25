@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.seven-tools-of-quality.traditional-quality-toolkit",
+  "revision_id": "revision.glossary.87aff92ccee650d2792d5977",
+  "headword": "Seven tools of quality",
+  "scope_label": "traditional basic quality-tool grouping",
+  "definition": "The seven tools of quality are a traditional group of simple methods for displaying process information and investigating quality problems.",
+  "explanation": [
+    "Common members include the check sheet, histogram, Pareto diagram, cause-and-effect diagram, scatter diagram, and control chart.",
+    "The name identifies a toolkit, not seven required stages; published lists differ over whether the remaining tool is a flowchart, run chart, or another display."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
