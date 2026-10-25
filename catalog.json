@@ -227,6 +227,11 @@
       "path": "entries/coherence/fit-among-parts-of-an-argument/revision.glossary.096bb3015daae77b6db906c7.json"
     },
     {
+      "object_id": "glossary.commissioning.building-systems-readiness",
+      "revision_id": "revision.glossary.80e173427349190587f92489",
+      "path": "entries/commissioning/testing-building-systems-before-operational-use/revision.glossary.80e173427349190587f92489.json"
+    },
+    {
       "object_id": "glossary.common-cause-variation.recurring-process-influences",
       "revision_id": "revision.glossary.2bb7cb6521857a13d413a5ce",
       "path": "entries/common-cause-variation/routine-variation-inherent-in-a-process-as-it-currently-operates/revision.glossary.2bb7cb6521857a13d413a5ce.json"
