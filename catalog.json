@@ -222,6 +222,11 @@
       "path": "entries/cleaning-validation/eu-atmp-manufacturing-equipment-cleaning/revision.glossary.38d26a55d484f4d86dabdaf5.json"
     },
     {
+      "object_id": "glossary.coherence.argument-integration",
+      "revision_id": "revision.glossary.096bb3015daae77b6db906c7",
+      "path": "entries/coherence/fit-among-parts-of-an-argument/revision.glossary.096bb3015daae77b6db906c7.json"
+    },
+    {
       "object_id": "glossary.common-cause-variation.recurring-process-influences",
       "revision_id": "revision.glossary.2bb7cb6521857a13d413a5ce",
       "path": "entries/common-cause-variation/routine-variation-inherent-in-a-process-as-it-currently-operates/revision.glossary.2bb7cb6521857a13d413a5ce.json"
