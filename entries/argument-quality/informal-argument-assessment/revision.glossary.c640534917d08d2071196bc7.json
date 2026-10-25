@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.argument-quality.reasons-and-support",
+  "revision_id": "revision.glossary.c640534917d08d2071196bc7",
+  "headword": "Argument quality",
+  "scope_label": "informal argument assessment",
+  "definition": "Argument quality is how well the reasons offered for a claim meet appropriate standards and support that claim.",
+  "explanation": [
+    "In informal logic, relevance, acceptability, and sufficiency are common tests; persuasive effect alone does not show that those tests are met."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
