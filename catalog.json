@@ -842,6 +842,11 @@
       "path": "entries/observation/recorded-behavior-in-behavioral-research/revision.glossary.e40ebf45d64ce0d82f7fd0f4.json"
     },
     {
+      "object_id": "glossary.outcome-measure.health-care-results",
+      "revision_id": "revision.glossary.c1c14378789a953e97c47d44",
+      "path": "entries/outcome-measure/result-measure-in-health-care-quality-assessment/revision.glossary.c1c14378789a953e97c47d44.json"
+    },
+    {
       "object_id": "glossary.outcome.resulting-change",
       "revision_id": "revision.glossary.49f7b83955d07acc9a7bc030",
       "path": "entries/outcome/resulting-condition-or-change-examined-in-evaluation/revision.glossary.49f7b83955d07acc9a7bc030.json"
