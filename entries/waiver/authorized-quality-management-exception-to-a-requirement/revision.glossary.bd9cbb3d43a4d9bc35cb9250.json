@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.waiver.bounded-authorized-exception",
+  "revision_id": "revision.glossary.bd9cbb3d43a4d9bc35cb9250",
+  "headword": "Waiver",
+  "scope_label": "authorized quality-management exception to a requirement",
+  "definition": "In quality management, a waiver is an authorized, bounded exception that permits departure from an otherwise applicable requirement.",
+  "explanation": [
+    "It should identify who authorized the departure, which product or process it covers, and when or after how much production it expires.",
+    "A waiver does not show that the original requirement was met; after it expires, that requirement applies again unless formally changed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
