@@ -847,6 +847,11 @@
       "path": "entries/data-representativeness/dataset-use-for-population-inference/revision.glossary.ac758eec8f5d660f7b6837c8.json"
     },
     {
+      "object_id": "glossary.data-specification-quality.adequacy-of-data-rules",
+      "revision_id": "revision.glossary.aa6493e7cd037ae5dcc1fbb2",
+      "path": "entries/data-specification-quality/data-models-definitions-and-standards/revision.glossary.aa6493e7cd037ae5dcc1fbb2.json"
+    },
+    {
       "object_id": "glossary.data-timeliness.fit-for-time-of-use",
       "revision_id": "revision.glossary.1af6b0a53dadbb8abd70dbc7",
       "path": "entries/data-timeliness/data-and-information-quality/revision.glossary.1af6b0a53dadbb8abd70dbc7.json"
