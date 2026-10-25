@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.impartiality.journalistic-evenhandedness",
+  "revision_id": "revision.glossary.4d614b047933eb5534da9848",
+  "headword": "Impartiality",
+  "scope_label": "journalistic fairness and independence from factional interests",
+  "definition": "In journalism, impartiality is fair treatment of relevant facts and viewpoints without serving a faction's interests.",
+  "explanation": [
+    "It requires independent judgment and attention to interests that could compromise a reporter's work.",
+    "Fair treatment does not require presenting claims with unequal evidence as though they were equally supported."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
