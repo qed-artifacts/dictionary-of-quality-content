@@ -897,6 +897,11 @@
       "path": "entries/robust-design/design-choices-that-reduce-sensitivity-to-anticipated-variation/revision.glossary.f0cdb0e3b75fec61d3745c83.json"
     },
     {
+      "object_id": "glossary.robustness.performance-under-variation",
+      "revision_id": "revision.glossary.f91612381caa572e596734fa",
+      "path": "entries/robustness/performance-sustained-under-specified-variation/revision.glossary.f91612381caa572e596734fa.json"
+    },
+    {
       "object_id": "glossary.rolled-throughput-yield.multistep-first-pass-success",
       "revision_id": "revision.glossary.c7fcc47033748af94b8d0489",
       "path": "entries/rolled-throughput-yield/share-or-estimated-probability-of-passing-all-process-steps-without-defects-or-rework/revision.glossary.c7fcc47033748af94b8d0489.json"
