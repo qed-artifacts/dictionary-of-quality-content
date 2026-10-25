@@ -487,6 +487,11 @@
       "path": "entries/data-lineage/metadata-tracing-data-movement-and-transformation/revision.glossary.3dd06ef9499279d94a6e3cc2.json"
     },
     {
+      "object_id": "glossary.data-profiling.dataset-structure-pattern-inspection",
+      "revision_id": "revision.glossary.a5fd74c1e8ee610f7e3b0365",
+      "path": "entries/data-profiling/systematic-inspection-of-dataset-structure-and-contents/revision.glossary.a5fd74c1e8ee610f7e3b0365.json"
+    },
+    {
       "object_id": "glossary.data-provenance.data-origin-and-processing",
       "revision_id": "revision.glossary.eb55aa2205ebe0d6a7ca5011",
       "path": "entries/data-provenance/origin-and-processing-history-of-data/revision.glossary.eb55aa2205ebe0d6a7ca5011.json"

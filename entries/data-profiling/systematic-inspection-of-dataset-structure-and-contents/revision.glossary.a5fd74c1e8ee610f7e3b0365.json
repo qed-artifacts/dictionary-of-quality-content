@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-profiling.dataset-structure-pattern-inspection",
+  "revision_id": "revision.glossary.a5fd74c1e8ee610f7e3b0365",
+  "headword": "Data profiling",
+  "scope_label": "systematic inspection of dataset structure and contents",
+  "definition": "Data profiling is systematic inspection of a dataset's structure, values, and patterns to understand its contents and identify possible quality issues.",
+  "explanation": [
+    "It can summarize data types, value frequencies, and relationships among fields or tables.",
+    "Profiling reveals conditions that may need investigation; it describes the data rather than automatically repairing suspect records."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
