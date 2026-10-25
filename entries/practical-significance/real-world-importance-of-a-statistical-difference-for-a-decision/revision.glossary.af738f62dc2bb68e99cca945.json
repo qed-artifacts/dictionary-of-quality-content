@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.practical-significance.decision-relevant-effect",
+  "revision_id": "revision.glossary.af738f62dc2bb68e99cca945",
+  "headword": "Practical significance",
+  "scope_label": "real-world importance of a statistical difference for a decision",
+  "definition": "Practical significance is the importance of an observed difference for a real decision in its setting.",
+  "explanation": [
+    "It depends on the size and consequences of the difference, not only on whether a statistical test rejects a null hypothesis.",
+    "With a large sample, a very small difference can be statistically significant while having little practical importance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
