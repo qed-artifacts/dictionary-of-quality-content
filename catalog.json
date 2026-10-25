@@ -2172,6 +2172,11 @@
       "path": "entries/property/descriptive-feature-of-an-assessed-object/revision.glossary.23ae1b1eba23155e5dc99941.json"
     },
     {
+      "object_id": "glossary.protein-quality.nutritional-usability",
+      "revision_id": "revision.glossary.eb16b98130f4221459b86720",
+      "path": "entries/protein-quality/nutrition-and-food-protein-assessment/revision.glossary.eb16b98130f4221459b86720.json"
+    },
+    {
       "object_id": "glossary.protocol.planned-test-procedure",
       "revision_id": "revision.glossary.995038f0bdc5450f0416aa1b",
       "path": "entries/protocol/preapproved-plan-for-a-specified-test/revision.glossary.995038f0bdc5450f0416aa1b.json"

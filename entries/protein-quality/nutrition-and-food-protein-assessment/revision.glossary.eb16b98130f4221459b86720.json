@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.protein-quality.nutritional-usability",
+  "revision_id": "revision.glossary.eb16b98130f4221459b86720",
+  "headword": "Protein quality",
+  "scope_label": "nutrition and food-protein assessment",
+  "definition": "In nutrition, protein quality is how well a food protein supplies usable essential amino acids for the body's needs.",
+  "explanation": [
+    "Assessment considers amino-acid composition and digestibility as well as the amount eaten. Proteins in a mixed diet can complement one another, so a single food's score need not describe the diet as a whole."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
