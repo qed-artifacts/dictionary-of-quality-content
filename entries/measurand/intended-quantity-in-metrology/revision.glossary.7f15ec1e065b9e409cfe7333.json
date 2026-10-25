@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.measurand.intended-quantity",
+  "revision_id": "revision.glossary.7f15ec1e065b9e409cfe7333",
+  "headword": "Measurand",
+  "scope_label": "intended quantity in metrology",
+  "definition": "A measurand is the particular quantity intended to be measured.",
+  "explanation": [
+    "A useful specification identifies the subject and property so the intended quantity is clear.",
+    "The measurement result attributes a value to that quantity; it is not the measurand itself."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
