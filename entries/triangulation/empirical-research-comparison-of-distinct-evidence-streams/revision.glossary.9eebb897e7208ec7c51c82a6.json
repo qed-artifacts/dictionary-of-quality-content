@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.triangulation.multiple-evidence-comparison",
+  "revision_id": "revision.glossary.9eebb897e7208ec7c51c82a6",
+  "headword": "Triangulation",
+  "scope_label": "empirical-research comparison of distinct evidence streams",
+  "definition": "In empirical research, triangulation compares evidence gathered through different methods or observers to examine a question from more than one vantage point.",
+  "explanation": [
+    "Agreement can strengthen a finding, while differences may reveal complementary aspects or a disagreement needing explanation.",
+    "The term does not require three datasets, and agreement by itself does not guarantee that a conclusion is true."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
