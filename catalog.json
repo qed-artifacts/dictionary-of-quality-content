@@ -1537,6 +1537,11 @@
       "path": "entries/item-discrimination/separation-of-examinees-by-a-measured-trait/revision.glossary.9e52e189638c81b9ef7799ca.json"
     },
     {
+      "object_id": "glossary.jidoka.stop-on-abnormality",
+      "revision_id": "revision.glossary.f2186e03fea696b5e5e72a19",
+      "path": "entries/jidoka/production-response-that-stops-and-exposes-abnormal-conditions/revision.glossary.f2186e03fea696b5e5e72a19.json"
+    },
+    {
       "object_id": "glossary.journalism-quality.reporting-standards",
       "revision_id": "revision.glossary.655a3e50f13aba027224c7fd",
       "path": "entries/journalism-quality/professional-reporting/revision.glossary.655a3e50f13aba027224c7fd.json"

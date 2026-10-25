@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.jidoka.stop-on-abnormality",
+  "revision_id": "revision.glossary.f2186e03fea696b5e5e72a19",
+  "headword": "Jidoka",
+  "scope_label": "production response that stops and exposes abnormal conditions",
+  "definition": "In production, jidoka is a practice of stopping work when an abnormal or defective condition appears so it can be addressed before production continues.",
+  "explanation": [
+    "A machine or worker may trigger the stop, making the condition visible for investigation.",
+    "It intervenes at the point of production rather than relying only on inspection after output has moved on."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
