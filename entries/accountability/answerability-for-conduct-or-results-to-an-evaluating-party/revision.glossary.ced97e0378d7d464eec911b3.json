@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.accountability.answerability-relation",
+  "revision_id": "revision.glossary.ced97e0378d7d464eec911b3",
+  "headword": "Accountability",
+  "scope_label": "answerability for conduct or results to an evaluating party",
+  "definition": "Accountability is a relationship in which a person or organization must give an account of its actions or results to another party able to assess it.",
+  "explanation": [
+    "The relationship identifies who answers to whom, for what, and under which rules or possible consequences.",
+    "Having a responsibility is not the whole relationship: accountability also requires an account that another party can examine."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
