@@ -1052,6 +1052,11 @@
       "path": "entries/healthcare-quality/quality-of-care-and-its-delivery/revision.glossary.5e0e1a17caba7e01c76b8ed7.json"
     },
     {
+      "object_id": "glossary.histogram.frequency-by-value-bin",
+      "revision_id": "revision.glossary.5e69ddb9f076e0f186c4c394",
+      "path": "entries/histogram/distribution-display-for-quantitative-observations/revision.glossary.5e69ddb9f076e0f186c4c394.json"
+    },
+    {
       "object_id": "glossary.hoshin-kanri.strategy-deployment",
       "revision_id": "revision.glossary.1127002254cf4ca8e9ddf0b9",
       "path": "entries/hoshin-kanri/strategy-deployment-through-aligned-plans-and-repeated-review/revision.glossary.1127002254cf4ca8e9ddf0b9.json"

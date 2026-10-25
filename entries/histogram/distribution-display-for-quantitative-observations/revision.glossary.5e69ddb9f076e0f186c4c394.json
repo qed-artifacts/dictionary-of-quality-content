@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.histogram.frequency-by-value-bin",
+  "revision_id": "revision.glossary.5e69ddb9f076e0f186c4c394",
+  "headword": "Histogram",
+  "scope_label": "distribution display for quantitative observations",
+  "definition": "A histogram is a graph that groups numerical observations into value intervals and shows how frequently observations fall in each interval.",
+  "explanation": [
+    "The intervals, or bins, follow the variable's numerical scale rather than being sorted by frequency.",
+    "The display helps reveal a distribution's shape and spread, but its appearance can change with bin width, especially for small samples."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
