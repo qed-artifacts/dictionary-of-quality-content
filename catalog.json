@@ -122,6 +122,11 @@
       "path": "entries/capability/project-outputs-that-enable-an-organizational-outcome/revision.glossary.cf366ce3f2701519c8ea5016.json"
     },
     {
+      "object_id": "glossary.certification.management-system",
+      "revision_id": "revision.glossary.d47b78e7ab0a35f1f66abe5b",
+      "path": "entries/certification/management-system-conformity-assessment/revision.glossary.d47b78e7ab0a35f1f66abe5b.json"
+    },
+    {
       "object_id": "glossary.change-control.governed-change",
       "revision_id": "revision.glossary.2dde3fb5c128f8fc2a07eb08",
       "path": "entries/change-control/governed-change-to-a-controlled-product-process-or-system/revision.glossary.2dde3fb5c128f8fc2a07eb08.json"
