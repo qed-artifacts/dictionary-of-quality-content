@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.test.quality-engineering-check",
+  "revision_id": "revision.glossary.d0cf39c2cd487621191035b7",
+  "headword": "Test",
+  "scope_label": "specified examination of an item's response in quality engineering",
+  "definition": "In quality engineering, a test exposes an item to specified conditions and observes its response to assess a characteristic or requirement.",
+  "explanation": [
+    "The conditions, method, and expected result need to be stated for the finding to be interpretable.",
+    "The observed response provides evidence; comparing it with a requirement is a further judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
