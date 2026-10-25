@@ -777,6 +777,11 @@
       "path": "entries/data-cleansing/detecting-and-addressing-dataset-quality-problems/revision.glossary.92a9b2a7f796fb5e3a67b761.json"
     },
     {
+      "object_id": "glossary.data-consistency.related-values-agree",
+      "revision_id": "revision.glossary.e20a5647e62d81c1c2b31abd",
+      "path": "entries/data-consistency/agreement-of-related-values-under-data-rules/revision.glossary.e20a5647e62d81c1c2b31abd.json"
+    },
+    {
       "object_id": "glossary.data-currency.real-world-update-lag",
       "revision_id": "revision.glossary.621f1e3afdfc3eff9a284047",
       "path": "entries/data-currency/data-and-information-quality/revision.glossary.621f1e3afdfc3eff9a284047.json"
