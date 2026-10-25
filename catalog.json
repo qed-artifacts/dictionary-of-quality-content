@@ -427,6 +427,11 @@
       "path": "entries/competitive-assessment/comparison-with-alternatives-in-a-house-of-quality/revision.glossary.b8d3c3144b54f7432ea4c3c2.json"
     },
     {
+      "object_id": "glossary.completeness.required-information-present",
+      "revision_id": "revision.glossary.492d2763493ec943cfef5ec6",
+      "path": "entries/completeness/presence-of-required-data-for-a-specified-use/revision.glossary.492d2763493ec943cfef5ec6.json"
+    },
+    {
       "object_id": "glossary.compliance.applicable-obligations",
       "revision_id": "revision.glossary.3ec8bae070d6b5961618d019",
       "path": "entries/compliance/meeting-applicable-obligations-in-a-governed-activity/revision.glossary.3ec8bae070d6b5961618d019.json"
