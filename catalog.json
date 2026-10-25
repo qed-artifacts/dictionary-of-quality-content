@@ -2027,6 +2027,11 @@
       "path": "entries/value-creation/benefits-realized-through-customer-use-of-a-service-offering/revision.glossary.d3027f0c9892b53336735289.json"
     },
     {
+      "object_id": "glossary.value-proposition.customer-offer",
+      "revision_id": "revision.glossary.2f8314114302ce51f4c5a07d",
+      "path": "entries/value-proposition/customer-facing-statement-of-an-offering-s-benefits/revision.glossary.2f8314114302ce51f4c5a07d.json"
+    },
+    {
       "object_id": "glossary.value-stream-mapping.flow-visualization",
       "revision_id": "revision.glossary.283fef7e03313729c5d90a5f",
       "path": "entries/value-stream-mapping/visual-analysis-of-a-defined-product-or-service-flow/revision.glossary.283fef7e03313729c5d90a5f.json"

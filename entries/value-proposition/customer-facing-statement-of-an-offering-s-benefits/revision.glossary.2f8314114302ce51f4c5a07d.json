@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.value-proposition.customer-offer",
+  "revision_id": "revision.glossary.2f8314114302ce51f4c5a07d",
+  "headword": "Value proposition",
+  "scope_label": "customer-facing statement of an offering's benefits",
+  "definition": "A value proposition states the benefits an offering promises to a specified customer and why that offering merits consideration against available alternatives.",
+  "explanation": [
+    "It should identify the customer, the problem or desired outcome, and the difference the offering is expected to make.",
+    "The statement is a claim about prospective value; evidence of use and results is needed to show whether the benefit was realized."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
