@@ -102,6 +102,11 @@
       "path": "entries/benefit/favorable-change-for-a-specified-beneficiary/revision.glossary.82206d5b23cf9e1693416626.json"
     },
     {
+      "object_id": "glossary.bias.measurement-systematic-difference",
+      "revision_id": "revision.glossary.9130263424ce016a45b13f8c",
+      "path": "entries/bias/systematic-measurement-difference-from-reference/revision.glossary.9130263424ce016a45b13f8c.json"
+    },
+    {
       "object_id": "glossary.boundary-condition.scope-limit",
       "revision_id": "revision.glossary.85965b599b0e9e5bc856449d",
       "path": "entries/boundary-condition/stated-limit-on-engineering-or-problem-framing-scope/revision.glossary.85965b599b0e9e5bc856449d.json"
