@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.noncompensation.multicriteria",
+  "revision_id": "revision.glossary.86fe0c195689614a0ed4c2fc",
+  "headword": "Noncompensation",
+  "scope_label": "limit on trade-offs among evaluative criteria",
+  "definition": "In a multicriteria judgment, noncompensation means that strength on some criteria cannot fully offset a specified shortfall on another.",
+  "explanation": [
+    "A veto threshold is one way to apply such a rule: crossing it can prevent an otherwise favorable overall classification.",
+    "The protected criterion, boundary, and authority for the rule must be stated; the label alone does not determine them."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
