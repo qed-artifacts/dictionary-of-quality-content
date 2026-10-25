@@ -857,6 +857,11 @@
       "path": "entries/incoming-inspection/check-of-purchased-parts-or-materials-after-receipt/revision.glossary.08d57a930edb4568ac464a6a.json"
     },
     {
+      "object_id": "glossary.independence.audit-impartiality",
+      "revision_id": "revision.glossary.710391b88fd26fe928c11313",
+      "path": "entries/independence/auditor-separation-supporting-impartial-judgment/revision.glossary.710391b88fd26fe928c11313.json"
+    },
+    {
       "object_id": "glossary.index.economic-index-number",
       "revision_id": "revision.glossary.dd438b94eebeba3f711deb34",
       "path": "entries/index/economic-index-number-comparing-aggregate-change/revision.glossary.dd438b94eebeba3f711deb34.json"
