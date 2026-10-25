@@ -2802,6 +2802,11 @@
       "path": "entries/root-cause-analysis/investigating-causes-of-a-quality-problem/revision.glossary.bb31940c93d316920791aa7d.json"
     },
     {
+      "object_id": "glossary.root-cause-failure-analysis.equipment-failure-cause-investigation",
+      "revision_id": "revision.glossary.a106c554296437d94324e352",
+      "path": "entries/root-cause-failure-analysis/equipment-and-facility-maintenance/revision.glossary.a106c554296437d94324e352.json"
+    },
+    {
       "object_id": "glossary.root-cause.corrective-action",
       "revision_id": "revision.glossary.ca6111193fa6a9456b2f0cc2",
       "path": "entries/root-cause/cause-of-a-nonconformance-targeted-for-corrective-action/revision.glossary.ca6111193fa6a9456b2f0cc2.json"

@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.root-cause-failure-analysis.equipment-failure-cause-investigation",
+  "revision_id": "revision.glossary.a106c554296437d94324e352",
+  "headword": "Root cause failure analysis",
+  "scope_label": "equipment and facility maintenance",
+  "definition": "Root cause failure analysis is a structured investigation of an equipment or facility failure to find the underlying conditions that produced it.",
+  "explanation": [
+    "The aim is to correct causes that could lead to recurrence, rather than only repair the immediate damage. Conclusions should follow evidence about the particular failure."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
