@@ -2172,6 +2172,11 @@
       "path": "entries/randomization/chance-determined-run-order-in-experimental-design/revision.glossary.cf0ac8c98ea31745db913349.json"
     },
     {
+      "object_id": "glossary.rank.ordinal-position",
+      "revision_id": "revision.glossary.43d12b863e234cdc70c0a0d1",
+      "path": "entries/rank/ordinal-position-in-a-stated-ordering/revision.glossary.43d12b863e234cdc70c0a0d1.json"
+    },
+    {
       "object_id": "glossary.rating-scale.ordered-response",
       "revision_id": "revision.glossary.86d35f87eb166a5de36ad8c0",
       "path": "entries/rating-scale/ordered-appraisal-response-categories/revision.glossary.86d35f87eb166a5de36ad8c0.json"
