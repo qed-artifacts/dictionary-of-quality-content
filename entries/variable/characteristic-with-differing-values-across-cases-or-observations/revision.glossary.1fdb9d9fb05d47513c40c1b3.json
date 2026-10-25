@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.variable.empirical-research-characteristic",
+  "revision_id": "revision.glossary.1fdb9d9fb05d47513c40c1b3",
+  "headword": "Variable",
+  "scope_label": "characteristic with differing values across cases or observations",
+  "definition": "In empirical research, a variable is a characteristic of the subject being studied that can take different values across cases or observations.",
+  "explanation": [
+    "Specify what counts as a case, how the characteristic is observed, and which values it can take.",
+    "The variable is the characteristic; one recorded value is an observation of it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
