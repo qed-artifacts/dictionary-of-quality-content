@@ -22,6 +22,11 @@
       "path": "entries/affected-party/person-or-group-bearing-effects-of-an-activity-or-decision/revision.glossary.d642ef17c4889142df1c5f4f.json"
     },
     {
+      "object_id": "glossary.aggregation-rule.combining-components",
+      "revision_id": "revision.glossary.29757eb43e5745e68cb93439",
+      "path": "entries/aggregation-rule/combining-multiple-component-values-for-an-evaluation/revision.glossary.29757eb43e5745e68cb93439.json"
+    },
+    {
       "object_id": "glossary.appraisal-cost.assessing-conformity",
       "revision_id": "revision.glossary.d28fbccfb04e771e74578602",
       "path": "entries/appraisal-cost/quality-related-spending-to-evaluate-conformity-or-performance/revision.glossary.d28fbccfb04e771e74578602.json"
