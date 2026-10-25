@@ -962,6 +962,11 @@
       "path": "entries/model-performance/predictive-results-on-a-specified-task-and-evaluation-data/revision.glossary.ea7642f1db1a411914e23c51.json"
     },
     {
+      "object_id": "glossary.model-validation.predictive-ml-fitness",
+      "revision_id": "revision.glossary.9c47de0cb70a9fcc2bae8c8c",
+      "path": "entries/model-validation/evidence-that-a-predictive-model-is-fit-for-stated-use/revision.glossary.9c47de0cb70a9fcc2bae8c8c.json"
+    },
+    {
       "object_id": "glossary.model.selective-representation",
       "revision_id": "revision.glossary.83de2ad5504163c21faf76ef",
       "path": "entries/model/selective-conceptual-representation-in-research-and-design/revision.glossary.83de2ad5504163c21faf76ef.json"
