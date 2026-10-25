@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.organizational-leadership.direction-and-alignment",
+  "revision_id": "revision.glossary.1b805d06c82bf472b3c95b44",
+  "headword": "Organizational leadership",
+  "scope_label": "directing and enabling coordinated organizational action",
+  "definition": "Organizational leadership is the activity of setting direction and enabling people and structures to work toward an organization's aims.",
+  "explanation": [
+    "It connects a mission and strategy to decisions about responsibilities, authority, coordination, and support.",
+    "Leadership can be exercised by people without a formal management title; a title alone does not establish that someone is leading effectively."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
