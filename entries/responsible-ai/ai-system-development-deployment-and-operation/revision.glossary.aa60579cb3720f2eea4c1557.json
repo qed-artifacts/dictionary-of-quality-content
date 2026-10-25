@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.responsible-ai.development-deployment",
+  "revision_id": "revision.glossary.aa60579cb3720f2eea4c1557",
+  "headword": "Responsible AI",
+  "scope_label": "AI-system development, deployment, and operation",
+  "definition": "Responsible AI is the practice of developing, deploying, and operating AI systems with explicit attention to their benefits, risks, and effects on people.",
+  "explanation": [
+    "It calls for examining data and model limitations, testing relevant performance and fairness, making system behavior understandable where needed, and monitoring effects in use.",
+    "The label alone does not show that a system meets any particular requirement; the responsibilities and evidence must be specified."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
