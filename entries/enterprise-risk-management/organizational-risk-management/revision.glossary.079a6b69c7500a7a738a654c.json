@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.enterprise-risk-management.organization-wide-risk-coordination",
+  "revision_id": "revision.glossary.079a6b69c7500a7a738a654c",
+  "headword": "Enterprise risk management",
+  "scope_label": "organizational risk management",
+  "definition": "Enterprise risk management is a coordinated approach to identifying, assessing, and responding to risks across an organization in light of its objectives.",
+  "explanation": [
+    "It considers significant risks together and connects their management to organizational decisions. Coordination does not remove uncertainty or make all risks equally important."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
