@@ -937,6 +937,11 @@
       "path": "entries/food-safety/adverse-health-effect-assurance-for-food-used-as-intended/revision.glossary.aea846d205bcb7be7f56d0b2.json"
     },
     {
+      "object_id": "glossary.framework.organized-concepts-and-relations",
+      "revision_id": "revision.glossary.96abfc651495ec1688ce8139",
+      "path": "entries/framework/organized-conceptual-structure-for-analysis-or-evaluation/revision.glossary.96abfc651495ec1688ce8139.json"
+    },
+    {
       "object_id": "glossary.gage-repeatability-and-reproducibility.measurement-variation-study",
       "revision_id": "revision.glossary.6648eb67a34a8ce798dc5219",
       "path": "entries/gage-repeatability-and-reproducibility/industrial-measurement-system-variation-study/revision.glossary.6648eb67a34a8ce798dc5219.json"
