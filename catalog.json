@@ -1107,6 +1107,11 @@
       "path": "entries/scale/extent-of-implementation-or-reach/revision.glossary.09a194622bb3cc8a247f6f3a.json"
     },
     {
+      "object_id": "glossary.scope.project-plan",
+      "revision_id": "revision.glossary.7cf64240f4ce3650c23611ca",
+      "path": "entries/scope/boundary-of-an-approved-project-plan/revision.glossary.7cf64240f4ce3650c23611ca.json"
+    },
+    {
       "object_id": "glossary.sensitivity-analysis.decision-model",
       "revision_id": "revision.glossary.65b877869793139cdac33596",
       "path": "entries/sensitivity-analysis/dependence-of-modeled-results-on-uncertain-inputs-or-assumptions/revision.glossary.65b877869793139cdac33596.json"
