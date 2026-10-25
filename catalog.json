@@ -127,6 +127,11 @@
       "path": "entries/appropriateness/fit-of-clinical-care-to-the-patient-s-condition-and-evidence/revision.glossary.4ed44a7fff390695b0cf1a43.json"
     },
     {
+      "object_id": "glossary.argument-quality.reasons-and-support",
+      "revision_id": "revision.glossary.c640534917d08d2071196bc7",
+      "path": "entries/argument-quality/informal-argument-assessment/revision.glossary.c640534917d08d2071196bc7.json"
+    },
+    {
       "object_id": "glossary.artistic-quality.artwork-merit",
       "revision_id": "revision.glossary.8027cf1bb830148c51ad1387",
       "path": "entries/artistic-quality/artworks-and-artistic-performance/revision.glossary.8027cf1bb830148c51ad1387.json"
