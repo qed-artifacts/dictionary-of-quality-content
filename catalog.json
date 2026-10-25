@@ -1812,6 +1812,11 @@
       "path": "entries/sample/selected-units-or-observations-from-a-defined-population/revision.glossary.4d1a1c2f2cb36a744affadce.json"
     },
     {
+      "object_id": "glossary.sampling-error.estimate-population-difference",
+      "revision_id": "revision.glossary.ace52adf15d743fe8d89dd9b",
+      "path": "entries/sampling-error/sample-estimate-difference-arising-from-sampling-variation/revision.glossary.ace52adf15d743fe8d89dd9b.json"
+    },
+    {
       "object_id": "glossary.sampling-plan.lot-acceptance",
       "revision_id": "revision.glossary.6ed197b77dae6cacadc84195",
       "path": "entries/sampling-plan/lot-acceptance-inspection-decision/revision.glossary.6ed197b77dae6cacadc84195.json"
