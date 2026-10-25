@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.purity.pharmaceutical-substance",
+  "revision_id": "revision.glossary.212b5c6e611d806138d07a2d",
+  "headword": "Purity",
+  "scope_label": "impurity control for a pharmaceutical substance",
+  "definition": "For a pharmaceutical substance, purity is the extent to which the material is free of relevant impurities under specified tests.",
+  "explanation": [
+    "Which impurities matter and what limits apply depend on the substance, its manufacturing process, and the intended product.",
+    "Purity is distinct from identity or potency: knowing what a substance is or how strongly it acts does not show what unwanted substances it contains."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
