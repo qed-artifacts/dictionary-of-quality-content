@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.customer-experience.service-journey-responses",
+  "revision_id": "revision.glossary.0b006ced9760288193c5247d",
+  "headword": "Customer experience",
+  "scope_label": "customer responses to service interactions across a journey",
+  "definition": "Customer experience is the customer's overall cognitive, emotional, and behavioral response to interactions with a provider.",
+  "explanation": [
+    "It can form before, during, and after a service encounter, including the search for information and later recollection.",
+    "When a customer uses several channels, the experience spans their connected touchpoints rather than a single transaction."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
