@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-granularity.level-of-detail",
+  "revision_id": "revision.glossary.a9ebd771f8ae9a4b7d9e26a5",
+  "headword": "Data granularity",
+  "scope_label": "data analysis",
+  "definition": "Data granularity is the level of detail at which data are recorded or made available for analysis.",
+  "explanation": [
+    "An individual transaction has finer granularity than a daily total; aggregation can expose broad trends while hiding variation within the group."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
