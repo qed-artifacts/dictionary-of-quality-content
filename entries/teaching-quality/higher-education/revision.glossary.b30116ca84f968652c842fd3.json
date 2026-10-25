@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.teaching-quality.higher-education-instructional-merit",
+  "revision_id": "revision.glossary.b30116ca84f968652c842fd3",
+  "headword": "Teaching quality",
+  "scope_label": "higher education",
+  "definition": "In higher education, teaching quality is how well teaching practices support the intended learning in a particular course or setting.",
+  "explanation": [
+    "Relevant evidence may concern clarity, interaction, assignments, assessment, and learning; a single student rating does not settle the judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
