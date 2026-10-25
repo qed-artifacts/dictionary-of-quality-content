@@ -602,6 +602,11 @@
       "path": "entries/corroboration/additional-evidence-supporting-a-particular-claim/revision.glossary.c3064ac566f77c405169df0c.json"
     },
     {
+      "object_id": "glossary.cost-analysis.decision-relevant-costs",
+      "revision_id": "revision.glossary.e0c4465c573551e0bd046df6",
+      "path": "entries/cost-analysis/resource-costs-in-decision-evaluation/revision.glossary.e0c4465c573551e0bd046df6.json"
+    },
+    {
       "object_id": "glossary.cost-of-poor-quality.failure-costs",
       "revision_id": "revision.glossary.ff617e91a07ae021810a11ea",
       "path": "entries/cost-of-poor-quality/costs-attributable-to-defects-and-other-quality-failures/revision.glossary.ff617e91a07ae021810a11ea.json"
