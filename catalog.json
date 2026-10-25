@@ -127,6 +127,11 @@
       "path": "entries/batch-release/eu-advanced-therapy-medicinal-product-manufacture/revision.glossary.3ba057a418bdeca5ed6a3396.json"
     },
     {
+      "object_id": "glossary.bathtub-curve.failure-rate-over-age",
+      "revision_id": "revision.glossary.df40ffdf912640d57ab66389",
+      "path": "entries/bathtub-curve/schematic-reliability-hazard-rate-pattern/revision.glossary.df40ffdf912640d57ab66389.json"
+    },
+    {
       "object_id": "glossary.benchmark.evaluation-comparison",
       "revision_id": "revision.glossary.31db9589c3bffd0e1996238d",
       "path": "entries/benchmark/evaluation-comparison-reference/revision.glossary.31db9589c3bffd0e1996238d.json"
