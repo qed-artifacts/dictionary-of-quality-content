@@ -1937,6 +1937,11 @@
       "path": "entries/publication-bias/result-dependent-publication-of-research-findings/revision.glossary.de494c52ea97308c0072e6cb.json"
     },
     {
+      "object_id": "glossary.purity.pharmaceutical-substance",
+      "revision_id": "revision.glossary.212b5c6e611d806138d07a2d",
+      "path": "entries/purity/impurity-control-for-a-pharmaceutical-substance/revision.glossary.212b5c6e611d806138d07a2d.json"
+    },
+    {
       "object_id": "glossary.purpose.intended-end",
       "revision_id": "revision.glossary.8073ec08fc4233a45dfbe157",
       "path": "entries/purpose/intended-end-or-use-guiding-an-activity-or-judgment/revision.glossary.8073ec08fc4233a45dfbe157.json"
