@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.exchange-value.commodity-relation",
+  "revision_id": "revision.glossary.cf1ed4a7baf3d517d924a17d",
+  "headword": "Exchange value",
+  "scope_label": "commodity relation in political economy",
+  "definition": "In political economy, exchange value is what a commodity can obtain in exchange relative to other commodities.",
+  "explanation": [
+    "It concerns a relation of exchange, whereas use value concerns what the commodity can do for someone who uses it.",
+    "The term does not by itself state an item's personal usefulness or ethical worth."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
