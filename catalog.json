@@ -1762,6 +1762,11 @@
       "path": "entries/service-quality/service-performance-and-user-experience/revision.glossary.115bb7802c3a2ebf10e88fdf.json"
     },
     {
+      "object_id": "glossary.service-recovery.response-to-service-failure",
+      "revision_id": "revision.glossary.b310ff76b66e17ea02143a40",
+      "path": "entries/service-recovery/response-to-a-service-failure/revision.glossary.b310ff76b66e17ea02143a40.json"
+    },
+    {
       "object_id": "glossary.seven-tools-of-quality.traditional-quality-toolkit",
       "revision_id": "revision.glossary.87aff92ccee650d2792d5977",
       "path": "entries/seven-tools-of-quality/traditional-basic-quality-tool-grouping/revision.glossary.87aff92ccee650d2792d5977.json"

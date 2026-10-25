@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.service-recovery.response-to-service-failure",
+  "revision_id": "revision.glossary.b310ff76b66e17ea02143a40",
+  "headword": "Service recovery",
+  "scope_label": "response to a service failure",
+  "definition": "Service recovery is the action a provider takes to address a service failure and its effects on the people receiving the service.",
+  "explanation": [
+    "It may involve correcting the immediate problem, making amends, and learning why the failure occurred so it is less likely to recur.",
+    "Recovery can begin before a customer complains; handling a complaint is only one possible route into it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
