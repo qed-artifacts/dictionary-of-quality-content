@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.waste.lean-non-value-adding-activity",
+  "revision_id": "revision.glossary.87b261bd37a37d08db915e9d",
+  "headword": "Waste",
+  "scope_label": "non-value-adding activity in Lean improvement",
+  "definition": "In Lean improvement, waste is an activity that uses resources without creating value for the intended recipient.",
+  "explanation": [
+    "Waiting caused by missing information, equipment, or supplies is one possible form.",
+    "Whether an activity is waste depends on the value sought and the process being examined; time or cost alone does not settle the judgment."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
