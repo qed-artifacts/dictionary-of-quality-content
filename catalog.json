@@ -807,6 +807,11 @@
       "path": "entries/fault-tree-analysis/top-down-logical-analysis-of-a-specified-undesired-event/revision.glossary.f51e10e1881d0711b927324b.json"
     },
     {
+      "object_id": "glossary.fault-tree.top-event-logic-model",
+      "revision_id": "revision.glossary.10cc5d2c109c1001a7f484bd",
+      "path": "entries/fault-tree/top-down-logic-model-of-an-undesired-system-event/revision.glossary.10cc5d2c109c1001a7f484bd.json"
+    },
+    {
       "object_id": "glossary.fault.item-unable-to-perform-function",
       "revision_id": "revision.glossary.eb50fa091b270185b1c97c66",
       "path": "entries/fault/nonfunctional-item-state-in-fault-tree-reliability-analysis/revision.glossary.eb50fa091b270185b1c97c66.json"
