@@ -742,6 +742,11 @@
       "path": "entries/definition/reader-facing-account-of-a-term-s-meaning-in-a-stated-sense/revision.glossary.d043f10f6aa8c9465ecf363a.json"
     },
     {
+      "object_id": "glossary.degradation.performance-deterioration",
+      "revision_id": "revision.glossary.d65f1b1272c649ff98b86f4d",
+      "path": "entries/degradation/deterioration-of-an-item-s-performance-over-life-units/revision.glossary.d65f1b1272c649ff98b86f4d.json"
+    },
+    {
       "object_id": "glossary.dependability.system-operating-quality",
       "revision_id": "revision.glossary.6249cf312480bd2bb1b65874",
       "path": "entries/dependability/time-related-operating-quality-of-an-engineered-system/revision.glossary.6249cf312480bd2bb1b65874.json"
