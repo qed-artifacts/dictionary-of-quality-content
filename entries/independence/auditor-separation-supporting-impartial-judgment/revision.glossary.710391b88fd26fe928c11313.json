@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.independence.audit-impartiality",
+  "revision_id": "revision.glossary.710391b88fd26fe928c11313",
+  "headword": "Independence",
+  "scope_label": "auditor separation supporting impartial judgment",
+  "definition": "In auditing, independence is the auditor's separation from the activity under review and from interests that could compromise impartial judgment.",
+  "explanation": [
+    "Practical arrangements should keep auditors free of bias and conflicts of interest; internal auditors should be separate from the function audited where practicable.",
+    "Independence supports credible conclusions but does not replace sound evidence or competent analysis."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
