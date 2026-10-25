@@ -3072,6 +3072,11 @@
       "path": "entries/risk-response/organizational-risk-treatment-and-response-planning/revision.glossary.280d7f3dd87287b71dfbd875.json"
     },
     {
+      "object_id": "glossary.risk-threshold.action-boundary",
+      "revision_id": "revision.glossary.c8f3cab61a4443f2168bb447",
+      "path": "entries/risk-threshold/organizational-risk-decision-rule/revision.glossary.c8f3cab61a4443f2168bb447.json"
+    },
+    {
       "object_id": "glossary.risk-tolerance.acceptable-residual-exposure",
       "revision_id": "revision.glossary.8b4158e18a8c189b43a69d06",
       "path": "entries/risk-tolerance/readiness-to-bear-specified-residual-risk/revision.glossary.8b4158e18a8c189b43a69d06.json"
