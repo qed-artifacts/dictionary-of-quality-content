@@ -392,6 +392,11 @@
       "path": "entries/common-cause-variation/routine-variation-inherent-in-a-process-as-it-currently-operates/revision.glossary.2bb7cb6521857a13d413a5ce.json"
     },
     {
+      "object_id": "glossary.common-cause.ordinary-process-influence",
+      "revision_id": "revision.glossary.96004428a166897fb8feb72f",
+      "path": "entries/common-cause/statistical-process-control/revision.glossary.96004428a166897fb8feb72f.json"
+    },
+    {
       "object_id": "glossary.communication-quality.contextual-message-effectiveness",
       "revision_id": "revision.glossary.8849c0750fcfebaad9e8a43e",
       "path": "entries/communication-quality/interpersonal-and-organizational-communication/revision.glossary.8849c0750fcfebaad9e8a43e.json"
