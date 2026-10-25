@@ -177,6 +177,11 @@
       "path": "entries/assessment/purpose-bound-examination/revision.glossary.f2af66a34ead0ca5c77e0eba.json"
     },
     {
+      "object_id": "glossary.attestation.formal-factual-assertion",
+      "revision_id": "revision.glossary.bd6505be406553ed1fb5ea54",
+      "path": "entries/attestation/formal-signed-assertion-about-specified-facts/revision.glossary.bd6505be406553ed1fb5ea54.json"
+    },
+    {
       "object_id": "glossary.attribute.descriptive-property",
       "revision_id": "revision.glossary.1dac55a96f4c671e6612e196",
       "path": "entries/attribute/descriptive-property-of-an-object/revision.glossary.1dac55a96f4c671e6612e196.json"
