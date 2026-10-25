@@ -1097,6 +1097,11 @@
       "path": "entries/recovery/organizational-response-to-a-service-failure/revision.glossary.2b0a50d872e2bc1909347449.json"
     },
     {
+      "object_id": "glossary.reference-level.comparison",
+      "revision_id": "revision.glossary.f95fb748e507db321f96b96d",
+      "path": "entries/reference-level/comparison-point-for-model-performance-results/revision.glossary.f95fb748e507db321f96b96d.json"
+    },
+    {
       "object_id": "glossary.relationship-matrix.hoq-body",
       "revision_id": "revision.glossary.f85dc2b887068ef8c68292a4",
       "path": "entries/relationship-matrix/customer-to-technical-grid-in-a-house-of-quality/revision.glossary.f85dc2b887068ef8c68292a4.json"
