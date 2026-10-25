@@ -127,6 +127,11 @@
       "path": "entries/authority/delegated-decision-and-resource-power-in-project-governance/revision.glossary.11a240bce8354e5b35ec99f8.json"
     },
     {
+      "object_id": "glossary.autonomy.patient-decision-making",
+      "revision_id": "revision.glossary.043a36f5b7b4775fbafa11a0",
+      "path": "entries/autonomy/patient-decision-making-in-healthcare-ethics/revision.glossary.043a36f5b7b4775fbafa11a0.json"
+    },
+    {
       "object_id": "glossary.average-outgoing-quality-limit.aoq-curve-maximum",
       "revision_id": "revision.glossary.22c3bb1ca73ebabf1cba4ff6",
       "path": "entries/average-outgoing-quality-limit/maximum-expected-outgoing-nonconforming-fraction-for-rectifying-sampling-plan/revision.glossary.22c3bb1ca73ebabf1cba4ff6.json"
