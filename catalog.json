@@ -2272,6 +2272,11 @@
       "path": "entries/recoverability/software-and-system-restoration-after-interruption-or-failure/revision.glossary.4678c70c688672d6ed6c8ddf.json"
     },
     {
+      "object_id": "glossary.recovery-time-objective.service-continuity",
+      "revision_id": "revision.glossary.84f6e694aedd116a0be27e02",
+      "path": "entries/recovery-time-objective/digital-service-continuity/revision.glossary.84f6e694aedd116a0be27e02.json"
+    },
+    {
       "object_id": "glossary.recovery.service-failure",
       "revision_id": "revision.glossary.2b0a50d872e2bc1909347449",
       "path": "entries/recovery/organizational-response-to-a-service-failure/revision.glossary.2b0a50d872e2bc1909347449.json"
