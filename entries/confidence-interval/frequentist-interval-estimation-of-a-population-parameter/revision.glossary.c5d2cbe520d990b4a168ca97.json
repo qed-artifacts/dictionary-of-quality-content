@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.confidence-interval.repeated-sampling-coverage",
+  "revision_id": "revision.glossary.c5d2cbe520d990b4a168ca97",
+  "headword": "Confidence interval",
+  "scope_label": "frequentist interval estimation of a population parameter",
+  "definition": "A confidence interval is an interval calculated from sample data by a method designed to capture a specified population parameter at a stated rate across repeated samples.",
+  "explanation": [
+    "For example, under the method's assumptions, a 95% confidence-interval procedure covers the fixed parameter in about 95% of repeated applications.",
+    "The stated percentage describes the procedure's long-run coverage, not the probability that the fixed parameter lies in one already calculated interval."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
