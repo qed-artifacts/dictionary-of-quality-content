@@ -2257,6 +2257,11 @@
       "path": "entries/reproducibility/agreement-of-measurement-results-under-changed-conditions/revision.glossary.5ab47db804b2e13cbbe8398c.json"
     },
     {
+      "object_id": "glossary.reputation.organizational-public-regard",
+      "revision_id": "revision.glossary.d12e7c5f5e82f68b4b2ea3e9",
+      "path": "entries/reputation/organizational-public-regard/revision.glossary.d12e7c5f5e82f68b4b2ea3e9.json"
+    },
+    {
       "object_id": "glossary.requirement.cross-domain",
       "revision_id": "revision.glossary.62d5505c354c23c8f91e5065",
       "path": "entries/requirement/quality-management-and-technical-specifications/revision.glossary.62d5505c354c23c8f91e5065.json"
