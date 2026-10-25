@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.model-quality.predictive-ml-fitness",
+  "revision_id": "revision.glossary.e145fbdd45e6cc18ac89521f",
+  "headword": "Model quality",
+  "scope_label": "predictive machine-learning model in intended use",
+  "definition": "For a predictive machine-learning model, model quality is how well it meets the requirements of its intended task and use under stated data and operating conditions.",
+  "explanation": [
+    "Relevant evidence may include prediction performance, reliability, interpretability, and constraints specific to that use.",
+    "A strong test score does not establish continuing quality after the data or operating conditions change."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
