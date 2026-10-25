@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.policy-quality.public-policy-design-and-effects",
+  "revision_id": "revision.glossary.549ed69472ef96ae53eb7b31",
+  "headword": "Policy quality",
+  "scope_label": "public policy design, implementation and effects",
+  "definition": "Policy quality is how well a public policy's aims, design, implementation, and effects meet the standards relevant to the problem it addresses.",
+  "explanation": [
+    "A policy can be formally adopted yet work poorly in practice. The judgment should consider conflicting aims and who benefits or bears costs, not just whether officials carried out the plan."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
