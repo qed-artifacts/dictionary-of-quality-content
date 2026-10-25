@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.alignment.ai-intended-behavior",
+  "revision_id": "revision.glossary.00c04bba394cc0baa74aab96",
+  "headword": "Alignment",
+  "scope_label": "AI-system behavior relative to human aims and constraints",
+  "definition": "In AI, alignment concerns how well a system's behavior follows the human aims, instructions, and constraints specified for its use.",
+  "explanation": [
+    "An AI system can perform a task capably yet still produce outputs that conflict with intended safety or preference requirements.",
+    "An alignment claim needs to identify whose aims matter, the use conditions, and the behavior used to test the claim."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
