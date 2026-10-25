@@ -842,6 +842,11 @@
       "path": "entries/evaluation/reasoned-appraisal-of-a-subject/revision.glossary.0eb7bd85ec9db86c23fdc290.json"
     },
     {
+      "object_id": "glossary.evidence-hierarchy.claim-specific-ranking",
+      "revision_id": "revision.glossary.759fc20ec32f253a9072569b",
+      "path": "entries/evidence-hierarchy/ranking-evidence-designs-for-a-specified-kind-of-inference/revision.glossary.759fc20ec32f253a9072569b.json"
+    },
+    {
       "object_id": "glossary.evidence-quality.claim-warrant",
       "revision_id": "revision.glossary.8b63f2698c145eb7499e579e",
       "path": "entries/evidence-quality/warrant-of-a-body-of-evidence-for-a-specified-conclusion/revision.glossary.8b63f2698c145eb7499e579e.json"
