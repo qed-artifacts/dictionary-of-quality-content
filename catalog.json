@@ -492,6 +492,11 @@
       "path": "entries/dmaic/five-stage-six-sigma-process-improvement-method/revision.glossary.fcb7e77971a79847281f4949.json"
     },
     {
+      "object_id": "glossary.document-control.governed-work-documents",
+      "revision_id": "revision.glossary.675aa21901dbdf45d679c66d",
+      "path": "entries/document-control/governing-approval-access-and-revision-of-work-documents/revision.glossary.675aa21901dbdf45d679c66d.json"
+    },
+    {
       "object_id": "glossary.durability.construction-material",
       "revision_id": "revision.glossary.0c627df277bdd3d1706dd3a4",
       "path": "entries/durability/resistance-to-deterioration-of-a-construction-material/revision.glossary.0c627df277bdd3d1706dd3a4.json"
