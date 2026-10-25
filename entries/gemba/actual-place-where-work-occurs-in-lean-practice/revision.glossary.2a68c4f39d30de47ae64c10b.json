@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.gemba.actual-workplace",
+  "revision_id": "revision.glossary.2a68c4f39d30de47ae64c10b",
+  "headword": "Gemba",
+  "scope_label": "actual place where work occurs in Lean practice",
+  "definition": "In Lean practice, gemba is the place where the work being examined actually happens.",
+  "explanation": [
+    "It may be a production floor or another work area where a process is carried out.",
+    "A gemba walk is a visit to observe conditions and improvement opportunities there; the walk is an activity, while gemba names the place."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

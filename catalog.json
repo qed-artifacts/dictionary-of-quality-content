@@ -682,6 +682,11 @@
       "path": "entries/gage-repeatability-and-reproducibility/industrial-measurement-system-variation-study/revision.glossary.6648eb67a34a8ce798dc5219.json"
     },
     {
+      "object_id": "glossary.gemba.actual-workplace",
+      "revision_id": "revision.glossary.2a68c4f39d30de47ae64c10b",
+      "path": "entries/gemba/actual-place-where-work-occurs-in-lean-practice/revision.glossary.2a68c4f39d30de47ae64c10b.json"
+    },
+    {
       "object_id": "glossary.good-manufacturing-practice.pharmaceutical",
       "revision_id": "revision.glossary.3333897e4a8331382f999879",
       "path": "entries/good-manufacturing-practice/pharmaceutical-manufacturing-requirements-and-controls/revision.glossary.3333897e4a8331382f999879.json"
