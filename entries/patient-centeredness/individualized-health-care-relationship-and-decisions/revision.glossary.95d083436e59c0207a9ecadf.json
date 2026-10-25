@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.patient-centeredness.individual-experience-and-participation",
+  "revision_id": "revision.glossary.95d083436e59c0207a9ecadf",
+  "headword": "Patient-centeredness",
+  "scope_label": "individualized health-care relationship and decisions",
+  "definition": "In health care, patient-centeredness is the extent to which care responds to a patient's individual circumstances, experience, needs, and preferences.",
+  "explanation": [
+    "It includes understanding how the person experiences illness, sharing relevant information, and involving the person in decisions about care.",
+    "Its components can vary by setting, so a single behavior does not by itself establish that care is patient-centered."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
