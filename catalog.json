@@ -2617,6 +2617,11 @@
       "path": "entries/security/protection-and-authorized-use-of-organizational-information/revision.glossary.1659a3d712b79b5c108624e0.json"
     },
     {
+      "object_id": "glossary.selective-reporting.result-dependent-omission",
+      "revision_id": "revision.glossary.7bc5116908c7677c7236d114",
+      "path": "entries/selective-reporting/empirical-study-results/revision.glossary.7bc5116908c7677c7236d114.json"
+    },
+    {
       "object_id": "glossary.sensitivity-analysis.decision-model",
       "revision_id": "revision.glossary.65b877869793139cdac33596",
       "path": "entries/sensitivity-analysis/dependence-of-modeled-results-on-uncertain-inputs-or-assumptions/revision.glossary.65b877869793139cdac33596.json"
