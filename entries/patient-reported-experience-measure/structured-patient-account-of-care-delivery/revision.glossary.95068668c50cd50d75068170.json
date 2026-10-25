@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.patient-reported-experience-measure.care-delivery-report",
+  "revision_id": "revision.glossary.95068668c50cd50d75068170",
+  "headword": "Patient-reported experience measure",
+  "scope_label": "structured patient account of care delivery",
+  "definition": "A patient-reported experience measure (PREM) is a structured instrument for recording a patient's account of what happened during health care delivery.",
+  "explanation": [
+    "It can ask about communication, access, coordination, or respect, and concerns care experience rather than the patient's health outcome.",
+    "Responses can reveal problems in a service or care pathway, but their meaning depends on the setting and people surveyed."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

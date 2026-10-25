@@ -1677,6 +1677,11 @@
       "path": "entries/patient-centeredness/individualized-health-care-relationship-and-decisions/revision.glossary.95d083436e59c0207a9ecadf.json"
     },
     {
+      "object_id": "glossary.patient-reported-experience-measure.care-delivery-report",
+      "revision_id": "revision.glossary.95068668c50cd50d75068170",
+      "path": "entries/patient-reported-experience-measure/structured-patient-account-of-care-delivery/revision.glossary.95068668c50cd50d75068170.json"
+    },
+    {
       "object_id": "glossary.patient-reported-outcome-measure.patient-health-report",
       "revision_id": "revision.glossary.a7f14e258dc801b104f239a7",
       "path": "entries/patient-reported-outcome-measure/structured-patient-report-of-health-outcome/revision.glossary.a7f14e258dc801b104f239a7.json"
