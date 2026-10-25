@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.patient-safety.harm-from-care",
+  "revision_id": "revision.glossary.cc94197b2bff16b297c0b46a",
+  "headword": "Patient safety",
+  "scope_label": "preventing harm arising from health care",
+  "definition": "Patient safety concerns protecting patients from harm caused by the health care they receive.",
+  "explanation": [
+    "It is a dimension of care quality that calls for attention to errors, hazardous conditions, and injuries arising during care.",
+    "A patient who was not harmed in one encounter may still have been exposed to a risk that the care system should examine."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
