@@ -2292,6 +2292,11 @@
       "path": "entries/testing/product-or-component-assessment-in-quality-engineering/revision.glossary.1b469a3b1fee5b2af84851f9.json"
     },
     {
+      "object_id": "glossary.threat.reliability-security-risk-source",
+      "revision_id": "revision.glossary.0bf056ad87ccdd15a72af179",
+      "path": "entries/threat/potential-risk-source-in-reliability-and-security/revision.glossary.0bf056ad87ccdd15a72af179.json"
+    },
+    {
       "object_id": "glossary.threshold.decision-boundary",
       "revision_id": "revision.glossary.31f335605b14e5b55e1694b8",
       "path": "entries/threshold/decision-and-classification-boundary/revision.glossary.31f335605b14e5b55e1694b8.json"
