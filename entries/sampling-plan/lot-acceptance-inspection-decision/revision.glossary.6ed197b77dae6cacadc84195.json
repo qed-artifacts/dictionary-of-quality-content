@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.sampling-plan.lot-acceptance",
+  "revision_id": "revision.glossary.6ed197b77dae6cacadc84195",
+  "headword": "Sampling plan",
+  "scope_label": "lot-acceptance inspection decision",
+  "definition": "In acceptance sampling, a sampling plan specifies how a sample from a lot will be inspected and how its results determine whether to accept the lot.",
+  "explanation": [
+    "A single-sample plan states a sample size and the maximum number of nonconforming units allowed for acceptance.",
+    "Its decision rule carries risks of rejecting a satisfactory lot or accepting an unsatisfactory one."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
