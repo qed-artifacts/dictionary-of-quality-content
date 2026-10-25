@@ -1632,6 +1632,11 @@
       "path": "entries/responsiveness/timely-helpful-response-in-service-delivery/revision.glossary.5216b80b38836caec8088317.json"
     },
     {
+      "object_id": "glossary.review.quality-management-examination",
+      "revision_id": "revision.glossary.cc64fab621b7355566b021a0",
+      "path": "entries/review/quality-management-examination-of-performance-and-evidence/revision.glossary.cc64fab621b7355566b021a0.json"
+    },
+    {
       "object_id": "glossary.revision.document-version",
       "revision_id": "revision.glossary.9950c2253fe94592034cb591",
       "path": "entries/revision/changed-version-of-a-controlled-document/revision.glossary.9950c2253fe94592034cb591.json"
