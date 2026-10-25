@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.pdsa-cycle.iterative-change-test",
+  "revision_id": "revision.glossary.94711df234435d8d5bf0a498",
+  "headword": "PDSA cycle",
+  "scope_label": "quality improvement",
+  "definition": "A PDSA cycle is a repeated method for testing and refining a change: plan it, do it, study what happened, and act on what was learned.",
+  "explanation": [
+    "A small test can inform the next cycle before wider adoption; merely completing the four labels does not establish improvement."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

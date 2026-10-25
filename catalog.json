@@ -1737,6 +1737,11 @@
       "path": "entries/pdca-cycle/plan-do-check-act-improvement-loop/revision.glossary.b84e12c60a74801a6318e928.json"
     },
     {
+      "object_id": "glossary.pdsa-cycle.iterative-change-test",
+      "revision_id": "revision.glossary.94711df234435d8d5bf0a498",
+      "path": "entries/pdsa-cycle/quality-improvement/revision.glossary.94711df234435d8d5bf0a498.json"
+    },
+    {
       "object_id": "glossary.peer-review.academic-evaluation",
       "revision_id": "revision.glossary.aeb712b57aba7b9dc4d2d51c",
       "path": "entries/peer-review/academic-evaluation-by-knowledgeable-peers/revision.glossary.aeb712b57aba7b9dc4d2d51c.json"
