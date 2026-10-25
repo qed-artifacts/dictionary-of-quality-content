@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-level.service-quality-degree",
+  "revision_id": "revision.glossary.140f5de67ca813ac8d73e490",
+  "headword": "Quality level",
+  "scope_label": "degree of service quality relative to stated expectations or standards",
+  "definition": "In service management, a quality level is the degree of service quality achieved or sought relative to customer expectations and service standards.",
+  "explanation": [
+    "Calling a level high or low requires stating the features being assessed and the basis for comparison.",
+    "An economically optimal quality level is a separate business judgment about costs and benefits, not a universal target."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

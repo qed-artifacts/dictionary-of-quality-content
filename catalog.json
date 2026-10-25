@@ -2047,6 +2047,11 @@
       "path": "entries/quality-judgment/cross-domain-evaluative-conclusion/revision.glossary.29dd77c42f034e9cc44e0591.json"
     },
     {
+      "object_id": "glossary.quality-level.service-quality-degree",
+      "revision_id": "revision.glossary.140f5de67ca813ac8d73e490",
+      "path": "entries/quality-level/degree-of-service-quality-relative-to-stated-expectations-or-standards/revision.glossary.140f5de67ca813ac8d73e490.json"
+    },
+    {
       "object_id": "glossary.quality-loss-function.target-deviation-model",
       "revision_id": "revision.glossary.dfbdfe6eff764f7aa5f2c5da",
       "path": "entries/quality-loss-function/modeled-loss-associated-with-a-quality-characteristic-departing-from-a-target/revision.glossary.dfbdfe6eff764f7aa5f2c5da.json"
