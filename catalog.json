@@ -1107,6 +1107,11 @@
       "path": "entries/quality-characteristic/quality-management/revision.glossary.004af21739048327f19558a6.json"
     },
     {
+      "object_id": "glossary.quality-circle.employee-improvement-group",
+      "revision_id": "revision.glossary.ee65986898484452edb4de1e",
+      "path": "entries/quality-circle/recurring-employee-group-examining-its-own-work-for-quality-improvement/revision.glossary.ee65986898484452edb4de1e.json"
+    },
+    {
       "object_id": "glossary.quality-claim.quality-management",
       "revision_id": "revision.glossary.242e1030a18f0e8eed32d28e",
       "path": "entries/quality-claim/assertion-about-an-object-s-quality/revision.glossary.242e1030a18f0e8eed32d28e.json"
