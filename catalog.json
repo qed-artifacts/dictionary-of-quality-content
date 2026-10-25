@@ -57,6 +57,11 @@
       "path": "entries/accuracy/closeness-of-a-measurement-result-to-a-reference-value/revision.glossary.35aab25a4ea0fe41413bc10e.json"
     },
     {
+      "object_id": "glossary.adequacy.sufficiency-for-purpose",
+      "revision_id": "revision.glossary.c873ec9dd1af279f2a51e7b8",
+      "path": "entries/adequacy/purpose-relative-sufficiency-of-evidence-analysis-or-other-object/revision.glossary.c873ec9dd1af279f2a51e7b8.json"
+    },
+    {
       "object_id": "glossary.advanced-product-quality-planning.automotive-planning",
       "revision_id": "revision.glossary.1d97908aeb9f76bef757b640",
       "path": "entries/advanced-product-quality-planning/automotive-oriented-product-and-production-process-planning/revision.glossary.1d97908aeb9f76bef757b640.json"
