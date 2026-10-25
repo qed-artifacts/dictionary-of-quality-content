@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.standing.consideration-in-judgment",
+  "revision_id": "revision.glossary.759679ef4b35f864f0249164",
+  "headword": "Standing",
+  "scope_label": "recognized claim to consideration in an evaluative decision",
+  "definition": "In an evaluative decision, standing is a recognized basis for a person's or group's interests or claims to be considered.",
+  "explanation": [
+    "Being affected by a decision can give someone a reason to be heard, without giving that person sole authority over the result.",
+    "Legal standing is a separate, more specific question about who may bring a matter before a court."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
