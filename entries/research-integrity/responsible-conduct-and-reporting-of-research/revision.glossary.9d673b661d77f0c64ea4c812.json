@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.research-integrity.responsible-research-conduct",
+  "revision_id": "revision.glossary.9d673b661d77f0c64ea4c812",
+  "headword": "Research integrity",
+  "scope_label": "responsible conduct and reporting of research",
+  "definition": "Research integrity is responsible conduct and truthful reporting of inquiry so that its methods, evidence, and conclusions can be trusted.",
+  "explanation": [
+    "It calls for sound methods, honest handling of data, and transparency about relevant limitations.",
+    "When people take part in research, respecting their rights and welfare is also part of responsible conduct; avoiding fabrication alone is insufficient."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
