@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.design-quality.architecture",
+  "revision_id": "revision.glossary.bba5a66fbe0f0b9cd9910e2e",
+  "headword": "Design quality",
+  "scope_label": "architectural design appraisal",
+  "definition": "In architecture, design quality is how well a proposed design addresses relevant functional, technical, experiential, and contextual aims.",
+  "explanation": [
+    "Judgment considers the design as a whole and the criteria relevant to its setting and intended users.",
+    "A low price or compliance with one requirement alone does not settle the quality of the design."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
