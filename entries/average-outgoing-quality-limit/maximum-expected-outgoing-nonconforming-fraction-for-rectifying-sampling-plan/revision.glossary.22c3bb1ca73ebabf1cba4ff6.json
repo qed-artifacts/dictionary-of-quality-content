@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.average-outgoing-quality-limit.aoq-curve-maximum",
+  "revision_id": "revision.glossary.22c3bb1ca73ebabf1cba4ff6",
+  "headword": "Average outgoing quality limit",
+  "scope_label": "maximum expected outgoing nonconforming fraction for rectifying sampling plan",
+  "definition": "The average outgoing quality limit (AOQL) is the highest average outgoing quality predicted for a rectifying sampling plan across possible incoming quality levels.",
+  "explanation": [
+    "It is the peak of the plan's AOQ curve when rejected lots are inspected and nonconforming units are replaced as assumed.",
+    "AOQL describes a maximum long-run expectation under that plan, not a guarantee about every outgoing lot."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
