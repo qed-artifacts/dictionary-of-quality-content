@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-uniqueness.no-unintended-duplicates",
+  "revision_id": "revision.glossary.97214239e9678179dcafa37a",
+  "headword": "Data uniqueness",
+  "scope_label": "absence of unintended duplicates for entities or events meant to appear once",
+  "definition": "Data uniqueness is the extent to which an entity or event meant to appear once is represented without unintended duplicate records or identifiers.",
+  "explanation": [
+    "The uniqueness rule depends on what is identified: customer IDs may need to be distinct even though different customers can share a name.",
+    "Uniqueness checks require a stated entity and comparison rule; repeated values are not automatically errors."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
