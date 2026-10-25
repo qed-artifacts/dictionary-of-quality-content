@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.gap-model-of-service-quality.provider-and-customer-gaps",
+  "revision_id": "revision.glossary.8b15acdff83d3b54a6012b4a",
+  "headword": "Gap model of service quality",
+  "scope_label": "service-quality model of four provider gaps and a customer experience gap",
+  "definition": "The gap model of service quality explains differences between customers' expectations and perceived service through gaps in what a provider understands, specifies, delivers, and communicates.",
+  "explanation": [
+    "The expectations-versus-perceived-performance difference is the final gap; four provider-side gaps are proposed contributors.",
+    "The framework helps locate a possible service problem, but a particular gap must be investigated rather than assumed from a low rating alone."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
