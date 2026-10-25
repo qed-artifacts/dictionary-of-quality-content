@@ -662,6 +662,11 @@
       "path": "entries/legitimacy/justification-of-an-intervention-s-framing-to-affected-people/revision.glossary.3c840001c4841902c4c0ee08.json"
     },
     {
+      "object_id": "glossary.life-cycle.pharmaceutical-product",
+      "revision_id": "revision.glossary.955e794da08c9406e8765360",
+      "path": "entries/life-cycle/pharmaceutical-product-life-cycle/revision.glossary.955e794da08c9406e8765360.json"
+    },
+    {
       "object_id": "glossary.maintenance-task.rcm-chosen-action",
       "revision_id": "revision.glossary.4bd48800acaada98005ab5d2",
       "path": "entries/maintenance-task/specified-action-selected-within-reliability-centered-maintenance/revision.glossary.4bd48800acaada98005ab5d2.json"
