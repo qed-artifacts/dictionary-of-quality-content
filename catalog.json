@@ -402,6 +402,11 @@
       "path": "entries/content-validity/test-content-evidence-for-a-specified-score-use/revision.glossary.cc0a2852572d5707015db57e.json"
     },
     {
+      "object_id": "glossary.contestability.ability-to-challenge-decision",
+      "revision_id": "revision.glossary.eb1cd905f253652df8b11ef6",
+      "path": "entries/contestability/ability-to-challenge-and-seek-review-of-a-consequential-decision/revision.glossary.eb1cd905f253652df8b11ef6.json"
+    },
+    {
       "object_id": "glossary.context.interpretive-circumstances",
       "revision_id": "revision.glossary.6c38d22ab76b8493fe676203",
       "path": "entries/context/circumstances-relevant-to-interpreting-or-judging-an-object-or-action/revision.glossary.6c38d22ab76b8493fe676203.json"
