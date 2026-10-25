@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.value-added.customer-usable-transformation",
+  "revision_id": "revision.glossary.8c6e23dd99dff8333ae6d8b0",
+  "headword": "Value-added",
+  "scope_label": "customer-useful transformation in process analysis",
+  "definition": "In process analysis, a value-added activity transforms an input into an output that an internal or external customer can use.",
+  "explanation": [
+    "The question is whether the step contributes to the output the customer needs, not merely whether it consumes labor or raises cost.",
+    "A necessary supporting step may still be classified separately from direct value-adding transformation in a particular process model."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
