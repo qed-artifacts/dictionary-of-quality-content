@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.student-engagement.higher-education-learning-participation",
+  "revision_id": "revision.glossary.e7010fad77a902c6cbc1e059",
+  "headword": "Student engagement",
+  "scope_label": "higher education",
+  "definition": "In higher education, student engagement is students' active participation in learning activities and interactions that matter for their education.",
+  "explanation": [
+    "It can include working through challenging material, collaborating with peers, and discussing learning with faculty; attendance alone captures only a small part of it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
