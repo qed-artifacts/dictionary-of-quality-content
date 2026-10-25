@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.property.descriptive-feature",
+  "revision_id": "revision.glossary.23ae1b1eba23155e5dc99941",
+  "headword": "Property",
+  "scope_label": "descriptive feature of an assessed object",
+  "definition": "A property is a feature that an object has or can be described as having.",
+  "explanation": [
+    "A property's observed value can vary between objects or over time; identifying the property does not yet judge whether its value is good.",
+    "In this sense, property means a characteristic, not legal ownership."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

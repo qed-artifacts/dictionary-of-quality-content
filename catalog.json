@@ -627,6 +627,11 @@
       "path": "entries/product-quality/quality-of-a-product-for-intended-use/revision.glossary.4cbb4cd38111eda961b3df7a.json"
     },
     {
+      "object_id": "glossary.property.descriptive-feature",
+      "revision_id": "revision.glossary.23ae1b1eba23155e5dc99941",
+      "path": "entries/property/descriptive-feature-of-an-assessed-object/revision.glossary.23ae1b1eba23155e5dc99941.json"
+    },
+    {
       "object_id": "glossary.provenance.traceable-history",
       "revision_id": "revision.glossary.5d2cb2b2df149b3f9c67c517",
       "path": "entries/provenance/traceable-origin-and-history-of-an-item/revision.glossary.5d2cb2b2df149b3f9c67c517.json"
