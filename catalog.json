@@ -727,6 +727,11 @@
       "path": "entries/dimension/aspect-in-an-evaluative-framework/revision.glossary.976ad39acfd64cf40727dbef.json"
     },
     {
+      "object_id": "glossary.direct-observation.behavior-as-seen",
+      "revision_id": "revision.glossary.30c13e0014f365211b4fd89a",
+      "path": "entries/direct-observation/recording-observable-behavior-or-events-by-watching-them/revision.glossary.30c13e0014f365211b4fd89a.json"
+    },
+    {
       "object_id": "glossary.disposition.issue-outcome",
       "revision_id": "revision.glossary.dcf2e0fea7734c6101fc7c8b",
       "path": "entries/disposition/recorded-treatment-or-outcome-of-a-reviewed-issue/revision.glossary.dcf2e0fea7734c6101fc7c8b.json"
