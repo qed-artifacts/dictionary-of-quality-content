@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.recoverability.software-restoration-after-failure",
+  "revision_id": "revision.glossary.4678c70c688672d6ed6c8ddf",
+  "headword": "Recoverability",
+  "scope_label": "software and system restoration after interruption or failure",
+  "definition": "In software reliability, recoverability is a system's ability after interruption or failure to restore affected data and return to a desired operational state.",
+  "explanation": [
+    "Assess it against specified failure scenarios, acceptable data loss, and restoration time.",
+    "Having a backup alone does not establish that the full system can recover."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
