@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.sensory-profile.food-attribute-pattern",
+  "revision_id": "revision.glossary.678d5909a6f76e799e5d42bd",
+  "headword": "Sensory profile",
+  "scope_label": "food descriptive sensory analysis",
+  "definition": "A food's sensory profile is an organized description of its perceived attributes and their intensities obtained through a specified sensory assessment.",
+  "explanation": [
+    "It shows how the food is perceived on those attributes; consumer liking requires a separate judgment or test."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -2507,6 +2507,11 @@
       "path": "entries/sensory-evaluation/food-sensory-science/revision.glossary.aa05a52ba1ee3a4d04e51dd0.json"
     },
     {
+      "object_id": "glossary.sensory-profile.food-attribute-pattern",
+      "revision_id": "revision.glossary.678d5909a6f76e799e5d42bd",
+      "path": "entries/sensory-profile/food-descriptive-sensory-analysis/revision.glossary.678d5909a6f76e799e5d42bd.json"
+    },
+    {
       "object_id": "glossary.sensory-quality.food-perception",
       "revision_id": "revision.glossary.e659073a5fc7e57b89c6768b",
       "path": "entries/sensory-quality/sensory-characteristics-of-food/revision.glossary.e659073a5fc7e57b89c6768b.json"
