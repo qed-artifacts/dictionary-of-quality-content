@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.rigor.research-methodology",
+  "revision_id": "revision.glossary.0df558539415c99aa7172a47",
+  "headword": "Rigor",
+  "scope_label": "research methods, with systematic reviews as exemplar",
+  "definition": "In research, rigor is disciplined care in designing, conducting, analyzing, interpreting, and reporting a study so its conclusions are warranted by the method and evidence.",
+  "explanation": [
+    "Its demands depend on the research question and approach; transparent reporting lets others inspect what was done and where the conclusions are limited."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
