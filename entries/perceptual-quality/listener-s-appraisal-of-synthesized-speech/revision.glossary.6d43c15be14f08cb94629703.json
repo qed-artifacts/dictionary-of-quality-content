@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.perceptual-quality.synthetic-speech-listening",
+  "revision_id": "revision.glossary.6d43c15be14f08cb94629703",
+  "headword": "Perceptual quality",
+  "scope_label": "listener's appraisal of synthesized speech",
+  "definition": "For synthesized speech, perceptual quality is a listener's appraisal of how well the speech they hear matches relevant expectations or requirements.",
+  "explanation": [
+    "Listeners can attend to features such as naturalness and intelligibility as well as overall sound.",
+    "An instrumental score can help assess the signal, but it does not by itself express every aspect of the listening experience."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
