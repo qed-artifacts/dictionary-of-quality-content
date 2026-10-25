@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.coverage-interval.metrology-measurand-range",
+  "revision_id": "revision.glossary.e30796187793a500b08274d0",
+  "headword": "Coverage interval",
+  "scope_label": "metrology",
+  "definition": "In metrology, a coverage interval is a range assigned to a measurand with a stated probability of covering its true quantity values, given the available information.",
+  "explanation": [
+    "It expresses measurement uncertainty as an interval; it should not automatically be read as a statistical confidence interval."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

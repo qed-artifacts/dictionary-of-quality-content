@@ -637,6 +637,11 @@
       "path": "entries/counterevidence/evidence-bearing-against-a-claim-or-hypothesis/revision.glossary.9db8c175cf8da62048345dd2.json"
     },
     {
+      "object_id": "glossary.coverage-interval.metrology-measurand-range",
+      "revision_id": "revision.glossary.e30796187793a500b08274d0",
+      "path": "entries/coverage-interval/metrology/revision.glossary.e30796187793a500b08274d0.json"
+    },
+    {
       "object_id": "glossary.coverage.requirement-traceability",
       "revision_id": "revision.glossary.e1f1a6b434b21ed6d481974d",
       "path": "entries/coverage/requirement-traceability-coverage-in-a-defined-design-set/revision.glossary.e1f1a6b434b21ed6d481974d.json"
