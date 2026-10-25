@@ -1422,6 +1422,11 @@
       "path": "entries/observation/recorded-behavior-in-behavioral-research/revision.glossary.e40ebf45d64ce0d82f7fd0f4.json"
     },
     {
+      "object_id": "glossary.operating-characteristic-curve.acceptance-probability",
+      "revision_id": "revision.glossary.6e601b28de2a64d11079a4a5",
+      "path": "entries/operating-characteristic-curve/acceptance-probability-across-lot-quality-levels-for-a-sampling-plan/revision.glossary.6e601b28de2a64d11079a4a5.json"
+    },
+    {
       "object_id": "glossary.opportunity-cost.best-forgone-alternative",
       "revision_id": "revision.glossary.a90786b09d57ea9c13676e92",
       "path": "entries/opportunity-cost/value-sacrificed-when-resources-are-used-one-way-rather-than-another/revision.glossary.a90786b09d57ea9c13676e92.json"

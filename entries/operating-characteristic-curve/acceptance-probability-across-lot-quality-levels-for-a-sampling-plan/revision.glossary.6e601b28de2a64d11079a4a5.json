@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.operating-characteristic-curve.acceptance-probability",
+  "revision_id": "revision.glossary.6e601b28de2a64d11079a4a5",
+  "headword": "Operating characteristic curve",
+  "scope_label": "acceptance probability across lot quality levels for a sampling plan",
+  "definition": "In acceptance sampling, an operating characteristic curve shows the probability that a specified sampling plan will accept a lot at each assumed level of lot quality.",
+  "explanation": [
+    "For an attribute plan, the horizontal axis commonly gives the fraction or percentage nonconforming and the vertical axis gives probability of acceptance.",
+    "The curve shows how the plan balances the risks of rejecting satisfactory lots and accepting poor ones; it is a property of the plan, not a quality score for a particular lot."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
