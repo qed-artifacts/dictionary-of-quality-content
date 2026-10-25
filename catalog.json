@@ -2912,6 +2912,11 @@
       "path": "entries/type-ii-error/failure-to-reject-a-false-null-hypothesis/revision.glossary.655400030e45570d75b8c68e.json"
     },
     {
+      "object_id": "glossary.uncertainty-budget.measurement-components",
+      "revision_id": "revision.glossary.701af2af7fa7cc42734daa73",
+      "path": "entries/uncertainty-budget/measurement-uncertainty/revision.glossary.701af2af7fa7cc42734daa73.json"
+    },
+    {
       "object_id": "glossary.uncertainty.limits-of-knowledge",
       "revision_id": "revision.glossary.2f07ef86252d103df9dec618",
       "path": "entries/uncertainty/limits-on-knowledge-or-prediction/revision.glossary.2f07ef86252d103df9dec618.json"

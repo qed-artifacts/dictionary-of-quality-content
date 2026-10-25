@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.uncertainty-budget.measurement-components",
+  "revision_id": "revision.glossary.701af2af7fa7cc42734daa73",
+  "headword": "Uncertainty budget",
+  "scope_label": "measurement uncertainty",
+  "definition": "An uncertainty budget is a documented breakdown of the components contributing to a measurement's uncertainty and how their contributions are combined.",
+  "explanation": [
+    "It records the estimates and assumptions behind the reported uncertainty so they can be reviewed or updated when the measurement process changes."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
