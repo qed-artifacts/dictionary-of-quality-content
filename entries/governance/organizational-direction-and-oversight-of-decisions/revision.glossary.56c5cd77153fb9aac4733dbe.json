@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.governance.organizational-decisions",
+  "revision_id": "revision.glossary.56c5cd77153fb9aac4733dbe",
+  "headword": "Governance",
+  "scope_label": "organizational direction and oversight of decisions",
+  "definition": "In an organization, governance is how authority and accountability are arranged to direct and oversee consequential decisions.",
+  "explanation": [
+    "It determines who may decide what, how choices are reviewed, and who is answerable for them.",
+    "Managing a particular project takes place within those arrangements; it is not the whole of governance."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
