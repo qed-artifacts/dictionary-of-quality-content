@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.procedural-fairness.public-decision-process",
+  "revision_id": "revision.glossary.40459f1cfaf35eedfd5690c5",
+  "headword": "Procedural fairness",
+  "scope_label": "fairness in making a public decision",
+  "definition": "In public decision-making, procedural fairness is fairness in how a decision is reached, including a meaningful opportunity for affected people to be heard and have their views considered.",
+  "explanation": [
+    "It concerns the decision process; whether the outcome favors a particular person is a separate question.",
+    "Timely decisions and clear procedures can matter when delay or uncertainty would undermine that opportunity."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
