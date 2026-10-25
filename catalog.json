@@ -1172,6 +1172,11 @@
       "path": "entries/hazard/potential-source-of-harm-in-risk-assessment/revision.glossary.d8d9ef597a005bb298756579.json"
     },
     {
+      "object_id": "glossary.health-related-quality-of-life.functioning-and-wellbeing",
+      "revision_id": "revision.glossary.8461b4b452bb61b8763fc6aa",
+      "path": "entries/health-related-quality-of-life/health-linked-functioning-and-perceived-well-being/revision.glossary.8461b4b452bb61b8763fc6aa.json"
+    },
+    {
       "object_id": "glossary.healthcare-quality.care-delivery",
       "revision_id": "revision.glossary.5e0e1a17caba7e01c76b8ed7",
       "path": "entries/healthcare-quality/quality-of-care-and-its-delivery/revision.glossary.5e0e1a17caba7e01c76b8ed7.json"

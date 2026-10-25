@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.health-related-quality-of-life.functioning-and-wellbeing",
+  "revision_id": "revision.glossary.8461b4b452bb61b8763fc6aa",
+  "headword": "Health-related quality of life",
+  "scope_label": "health-linked functioning and perceived well-being",
+  "definition": "Health-related quality of life is how a person functions and feels in the physical, mental, and social dimensions of health.",
+  "explanation": [
+    "It includes everyday activities and relationships as well as perceived states such as pain, vitality, and emotional distress.",
+    "Assessment commonly asks the person directly, because others cannot fully observe their experience of well-being."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
