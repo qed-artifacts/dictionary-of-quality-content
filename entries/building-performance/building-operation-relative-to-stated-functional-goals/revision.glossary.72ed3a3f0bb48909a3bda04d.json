@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.building-performance.in-use-function",
+  "revision_id": "revision.glossary.72ed3a3f0bb48909a3bda04d",
+  "headword": "Building performance",
+  "scope_label": "building operation relative to stated functional goals",
+  "definition": "Building performance is how a building functions against stated goals and requirements under its conditions of use.",
+  "explanation": [
+    "Relevant evidence may include energy use and indoor environmental conditions during occupancy.",
+    "Predicted and observed performance can differ because construction quality and occupants' behavior affect the result."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
