@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-of-life-measures.health-related-instruments",
+  "revision_id": "revision.glossary.99ce703a53301a078b10d079",
+  "headword": "Quality of life measures",
+  "scope_label": "health-related quality-of-life measurement",
+  "definition": "Quality of life measures are instruments or indicators used to describe specified aspects of people's perceived health and everyday life.",
+  "explanation": [
+    "Different measures ask about different domains, populations, and experiences. A score must be interpreted in light of what the instrument covers; it cannot alone represent every aspect of a person's life."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
