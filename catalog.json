@@ -677,6 +677,11 @@
       "path": "entries/cost-analysis/resource-costs-in-decision-evaluation/revision.glossary.e0c4465c573551e0bd046df6.json"
     },
     {
+      "object_id": "glossary.cost-benefit-analysis.monetized-alternatives",
+      "revision_id": "revision.glossary.e2a835e117bbb396af89a0af",
+      "path": "entries/cost-benefit-analysis/monetized-appraisal-of-local-public-project-alternatives/revision.glossary.e2a835e117bbb396af89a0af.json"
+    },
+    {
       "object_id": "glossary.cost-effectiveness-analysis.costs-relative-to-outcomes",
       "revision_id": "revision.glossary.78090e5fa4e6e919d43d4bbc",
       "path": "entries/cost-effectiveness-analysis/comparison-of-interventions-for-a-stated-outcome/revision.glossary.78090e5fa4e6e919d43d4bbc.json"
