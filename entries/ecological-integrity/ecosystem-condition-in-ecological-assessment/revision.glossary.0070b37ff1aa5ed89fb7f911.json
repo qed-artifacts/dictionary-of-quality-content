@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.ecological-integrity.ecosystem-condition",
+  "revision_id": "revision.glossary.0070b37ff1aa5ed89fb7f911",
+  "headword": "Ecological integrity",
+  "scope_label": "ecosystem condition in ecological assessment",
+  "definition": "In ecological assessment, ecological integrity is the condition of an ecosystem whose physical, chemical, and living features continue to support its characteristic communities and processes.",
+  "explanation": [
+    "An assessment needs to identify the ecosystem and a suitable reference condition. Relevant features can include species composition, water conditions, habitat continuity, and ecological interactions.",
+    "A forest may retain some tree cover while fragmentation limits wildlife movement; area alone does not establish integrity."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
