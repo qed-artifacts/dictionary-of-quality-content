@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.internal-consistency.psychometric-item-coherence",
+  "revision_id": "revision.glossary.5c9d72b3f7d74d1969e7df1c",
+  "headword": "Internal consistency",
+  "scope_label": "coherence among items in a multi-item measure",
+  "definition": "In psychometrics, internal consistency is how strongly items in a multi-item measure relate as indicators of the intended construct.",
+  "explanation": [
+    "Split-half methods and coefficients such as Cronbach's alpha summarize aspects of that relationship, and test length can affect the result.",
+    "A high internal-consistency estimate provides reliability evidence, not proof that the measure is valid for a particular interpretation or use."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
