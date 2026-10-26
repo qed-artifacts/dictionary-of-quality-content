@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.near-miss.patient-safety-error-without-harm",
+  "revision_id": "revision.glossary.ca78e79f6afd6f73e190e751",
+  "headword": "Near miss",
+  "scope_label": "broad patient-safety error without harm; incident-classification boundary varies",
+  "definition": "In a broad patient-safety use, a near miss is an error that could have harmed a patient but did not, through interception or chance.",
+  "explanation": [
+    "Some incident-classification systems reserve near miss for an incident that never reaches the patient and call one that reaches the patient without harm a no-harm incident.",
+    "Reviewing near misses can reveal hazards before they cause injury."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
