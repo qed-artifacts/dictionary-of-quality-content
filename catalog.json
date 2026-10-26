@@ -182,6 +182,11 @@
       "path": "entries/assessment/purpose-bound-examination/revision.glossary.f2af66a34ead0ca5c77e0eba.json"
     },
     {
+      "object_id": "glossary.assurance.warranted-confidence",
+      "revision_id": "revision.glossary.88dc54e5003377d59966f258",
+      "path": "entries/assurance/systems-engineering-support-for-a-claim/revision.glossary.88dc54e5003377d59966f258.json"
+    },
+    {
       "object_id": "glossary.attestation.formal-factual-assertion",
       "revision_id": "revision.glossary.bd6505be406553ed1fb5ea54",
       "path": "entries/attestation/formal-signed-assertion-about-specified-facts/revision.glossary.bd6505be406553ed1fb5ea54.json"
