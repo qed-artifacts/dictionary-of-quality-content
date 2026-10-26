@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.data-integrity.valid-record-links",
+  "revision_id": "revision.glossary.2d52abe84732be89baf98b59",
+  "headword": "Data integrity",
+  "scope_label": "valid links among related records in relational data",
+  "definition": "In relational data, data integrity is the extent to which required links among records are present and valid.",
+  "explanation": [
+    "For example, an order linked to a customer ID that has no corresponding customer record fails this check.",
+    "This sense concerns relationships among data; it does not by itself cover every aspect of accuracy, security, or protection from alteration."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
