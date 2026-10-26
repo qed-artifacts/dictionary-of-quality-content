@@ -2307,6 +2307,11 @@
       "path": "entries/multivariate-quality-control/statistical-monitoring-of-related-characteristics/revision.glossary.db0402af28ce47c4c07fd720.json"
     },
     {
+      "object_id": "glossary.near-miss.patient-safety-error-without-harm",
+      "revision_id": "revision.glossary.ca78e79f6afd6f73e190e751",
+      "path": "entries/near-miss/broad-patient-safety-error-without-harm-incident-classification-boundary-varies/revision.glossary.ca78e79f6afd6f73e190e751.json"
+    },
+    {
       "object_id": "glossary.need.results-gap",
       "revision_id": "revision.glossary.61ea3c4c62f56427ff18e5ad",
       "path": "entries/need/current-to-required-results-gap-in-needs-assessment/revision.glossary.61ea3c4c62f56427ff18e5ad.json"
