@@ -4,6 +4,7 @@ import { fileURLToPath } from "node:url";
 import { readFileSync } from "node:fs";
 import { validateNavigation } from "./navigation.mjs";
 import { validateRelations } from "./relations.mjs";
+import { validateWorkingRelations } from "./working-relations.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const fail = (message) => { throw new Error(message); };
@@ -73,13 +74,22 @@ try {
   if (error.code !== "ENOENT") throw error;
 }
 let graphCounts = { clusters: 0, relations: 0 };
+let graph = { relations: [] };
 try {
-  const graph = await read('relations/graph.v1.json');
+  graph = await read('relations/graph.v1.json');
   graphCounts = validateRelations(graph, catalog,
     relative => JSON.parse(readFileSync(path.join(root, relative), 'utf8')));
 } catch (error) {
   if (error.code !== 'ENOENT') throw error;
 }
+let workingCounts = { working_relations: 0, predicates: 0 };
+try {
+  const working = await read('relations/studio-working.v1.json');
+  workingCounts = validateWorkingRelations(working, catalog, graph);
+} catch (error) {
+  if (error.code !== 'ENOENT') throw error;
+}
 console.log(JSON.stringify({ status: "valid", current_objects: catalog.entries.length,
   versioned_objects: count, navigation_routes: navigationRoutes,
-  graph_clusters: graphCounts.clusters, graph_relations: graphCounts.relations }));
+  graph_clusters: graphCounts.clusters, graph_relations: graphCounts.relations,
+  ...workingCounts }));
