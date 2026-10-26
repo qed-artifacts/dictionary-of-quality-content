@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.craftsmanship.skilled-making",
+  "revision_id": "revision.glossary.2e23a61ee42f4301ca45fabc",
+  "headword": "Craftsmanship",
+  "scope_label": "quality of skilled making in relation to an object's form and use",
+  "definition": "Craftsmanship is the quality of skilled making shown in how an object's materials, construction, and details serve its intended form and use.",
+  "explanation": [
+    "It can matter in ordinary functional objects as well as art, with practical and aesthetic merits considered together.",
+    "In a vehicle, fit, finish, tactile feel, sound, and ease of use can shape a judgment of craftsmanship."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
