@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.open-science.research-openness-practices",
+  "revision_id": "revision.glossary.0f3a7fb16d77cbad8c798851",
+  "headword": "Open science",
+  "scope_label": "research openness and wider participation",
+  "definition": "Open science is a set of practices that makes scientific knowledge, tools, and processes more accessible and reusable, while opening research to wider participation within justified limits.",
+  "explanation": [
+    "These practices can include sharing publications, data, software, methods, and protocols with enough context to support scrutiny and reuse.",
+    "Open access can support scrutiny, while privacy, security, confidentiality, and rights can justify limits on what is shared."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
