@@ -1737,6 +1737,11 @@
       "path": "entries/intended-use/stated-users-purpose-and-conditions-for-a-designed-product/revision.glossary.577c82ef8469b89a8b60f402.json"
     },
     {
+      "object_id": "glossary.inter-rater-reliability.relative-consistency",
+      "revision_id": "revision.glossary.339a867e80a0013637790bff",
+      "path": "entries/inter-rater-reliability/relative-consistency-among-raters-in-an-empirical-rating-task/revision.glossary.339a867e80a0013637790bff.json"
+    },
+    {
       "object_id": "glossary.interaction.factor-dependent-effect",
       "revision_id": "revision.glossary.b8137ef5c682e1eb3d7ce80e",
       "path": "entries/interaction/factor-dependent-effect-in-a-designed-experiment/revision.glossary.b8137ef5c682e1eb3d7ce80e.json"

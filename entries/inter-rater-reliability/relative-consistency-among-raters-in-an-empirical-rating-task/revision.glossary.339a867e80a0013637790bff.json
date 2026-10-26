@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.inter-rater-reliability.relative-consistency",
+  "revision_id": "revision.glossary.339a867e80a0013637790bff",
+  "headword": "Inter-rater reliability",
+  "scope_label": "relative consistency among raters in an empirical rating task",
+  "definition": "Inter-rater reliability describes how consistently different raters distinguish among the same targets in a specified rating task.",
+  "explanation": [
+    "Raters can rank targets similarly while assigning different values; exact matching concerns inter-rater agreement.",
+    "To interpret a result, identify the raters, what they rated, the kind of ratings, and the statistic used."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
