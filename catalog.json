@@ -417,6 +417,11 @@
       "path": "entries/clarity/comprehensibility-of-communication-for-an-intended-audience/revision.glossary.51ac2a10fc922141932d7bfd.json"
     },
     {
+      "object_id": "glossary.classical-test-theory.true-score-model",
+      "revision_id": "revision.glossary.715210bd2a6c0dd54bd214b2",
+      "path": "entries/classical-test-theory/observed-test-scores-as-true-scores-plus-measurement-error/revision.glossary.715210bd2a6c0dd54bd214b2.json"
+    },
+    {
       "object_id": "glossary.classification.machine-learning",
       "revision_id": "revision.glossary.93ad3a1d685ddbf481b771d5",
       "path": "entries/classification/assignment-to-a-defined-category-in-machine-learning/revision.glossary.93ad3a1d685ddbf481b771d5.json"
