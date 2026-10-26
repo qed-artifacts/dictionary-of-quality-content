@@ -182,6 +182,11 @@
       "path": "entries/assessment-moderation/educational-assessment/revision.glossary.c9894e36ecca758943746c34.json"
     },
     {
+      "object_id": "glossary.assessment-of-student-learning.educational-evidence",
+      "revision_id": "revision.glossary.dac98dd6aa34ee259c645dea",
+      "path": "entries/assessment-of-student-learning/evidence-about-student-learning-relative-to-expectations/revision.glossary.dac98dd6aa34ee259c645dea.json"
+    },
+    {
       "object_id": "glossary.assessment.information-for-decision",
       "revision_id": "revision.glossary.f2af66a34ead0ca5c77e0eba",
       "path": "entries/assessment/purpose-bound-examination/revision.glossary.f2af66a34ead0ca5c77e0eba.json"
