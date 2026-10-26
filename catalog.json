@@ -2817,6 +2817,11 @@
       "path": "entries/quality-of-care/evaluation-of-health-care-services/revision.glossary.94d6fb2fcceec7fa5a092c44.json"
     },
     {
+      "object_id": "glossary.quality-of-experience.user-perception",
+      "revision_id": "revision.glossary.dd8749f4eb03afad8ef545fe",
+      "path": "entries/quality-of-experience/user-experience-of-communications-applications-and-services/revision.glossary.dd8749f4eb03afad8ef545fe.json"
+    },
+    {
       "object_id": "glossary.quality-of-legislation.rule-guidance-and-validity",
       "revision_id": "revision.glossary.b6aa5ea1f851e0029322fe1a",
       "path": "entries/quality-of-legislation/rule-of-law-assessment-of-enacted-rules/revision.glossary.b6aa5ea1f851e0029322fe1a.json"
