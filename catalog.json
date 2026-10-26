@@ -3407,6 +3407,11 @@
       "path": "entries/service-level-indicator/site-reliability-engineering/revision.glossary.452f57f46c54ca8406021a89.json"
     },
     {
+      "object_id": "glossary.service-level-objective.indicator-target",
+      "revision_id": "revision.glossary.70cb6d8627eb0bef3958c29d",
+      "path": "entries/service-level-objective/site-reliability-engineering/revision.glossary.70cb6d8627eb0bef3958c29d.json"
+    },
+    {
       "object_id": "glossary.service-level.service-characteristic-values",
       "revision_id": "revision.glossary.3fdda5859aa98fdeff78f71a",
       "path": "entries/service-level/specified-or-observed-values-of-service-characteristics/revision.glossary.3fdda5859aa98fdeff78f71a.json"
