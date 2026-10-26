@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.biodiversity.living-variety",
+  "revision_id": "revision.glossary.582c7d4d265a0e02caa93f27",
+  "headword": "Biodiversity",
+  "scope_label": "variety of living organisms in a specified ecological setting",
+  "definition": "Biodiversity is variation among living organisms within and across species and ecosystems.",
+  "explanation": [
+    "A count of species describes only one aspect; it does not by itself capture variation within species or among ecosystems.",
+    "A biodiversity claim should identify the place, scale, and aspect of living variety being considered."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
