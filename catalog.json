@@ -3107,6 +3107,11 @@
       "path": "entries/reliability-centered-maintenance/selection-of-maintenance-actions-from-functions-failure-modes-and-consequences/revision.glossary.5f83c9523e1776e6322bddc8.json"
     },
     {
+      "object_id": "glossary.reliability-coefficient.test-scores",
+      "revision_id": "revision.glossary.8e8b998a8255f8c849dbf6de",
+      "path": "entries/reliability-coefficient/psychometric-test-scores/revision.glossary.8e8b998a8255f8c849dbf6de.json"
+    },
+    {
       "object_id": "glossary.reliability.cross-domain",
       "revision_id": "revision.glossary.4ee64845069e84c0f36eb1c3",
       "path": "entries/reliability/test-score-consistency-and-engineered-item-performance/revision.glossary.4ee64845069e84c0f36eb1c3.json"
