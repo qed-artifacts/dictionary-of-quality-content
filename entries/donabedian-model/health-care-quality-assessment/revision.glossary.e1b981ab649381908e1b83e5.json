@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.donabedian-model.healthcare-quality",
+  "revision_id": "revision.glossary.e1b981ab649381908e1b83e5",
+  "headword": "Donabedian model",
+  "scope_label": "health-care quality assessment",
+  "definition": "The Donabedian model is a framework for assessing health-care quality through structure, process, and outcome: the conditions for care, what is done in care, and its effects.",
+  "explanation": [
+    "These dimensions organize different kinds of evidence; a measure from one dimension alone cannot describe every aspect of care quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
