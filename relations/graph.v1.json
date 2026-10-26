@@ -115,6 +115,29 @@
       }
     },
     {
+      "relation_id": "relation.glossary.audit-distinguished-from-inspection",
+      "revision_id": "revision.relation.4adf740d9464864c616ef780",
+      "source": {
+        "object_id": "glossary.audit.management-system",
+        "revision_id": "revision.glossary.9804ad18c63a0fa9ee4a9e15"
+      },
+      "target": {
+        "object_id": "glossary.inspection.requirement-check",
+        "revision_id": "revision.glossary.b38c7b254c48662e25788d8e"
+      },
+      "predicate": "distinguished-from",
+      "scope": "Management-system audit compared with inspection of an object against specified requirements; an audit may use inspection techniques",
+      "label": "distinguished from",
+      "explanation": "Inspection checks whether an object meets specified requirements. A management-system audit systematically examines evidence against stated criteria to evaluate the system. An audit can use inspection techniques, but an individual inspection is not necessarily an audit.",
+      "review": {
+        "owner_editorial": true,
+        "owner_source_attestation": true,
+        "internal_validation": true,
+        "owner_release_authorization": true,
+        "independent_external_review": false
+      }
+    },
+    {
       "relation_id": "relation.glossary.availability-distinguished-from-reliability",
       "revision_id": "revision.relation.b70807d9c8ebd75e3dfebaa2",
       "source": {
@@ -129,6 +152,29 @@
       "scope": "Engineered systems and items under stated operating conditions; reliability's test-score sense is excluded",
       "label": "distinguished from",
       "explanation": "Availability concerns whether a system is operable when needed at a given time; engineered-item reliability concerns performing as required without failure over a stated interval.",
+      "review": {
+        "owner_editorial": true,
+        "owner_source_attestation": true,
+        "internal_validation": true,
+        "owner_release_authorization": true,
+        "independent_external_review": false
+      }
+    },
+    {
+      "relation_id": "relation.glossary.common-cause-variation-distinguished-from-special-cause-variation",
+      "revision_id": "revision.relation.e7cee83c50aecf800feee935",
+      "source": {
+        "object_id": "glossary.common-cause-variation.recurring-process-influences",
+        "revision_id": "revision.glossary.2bb7cb6521857a13d413a5ce"
+      },
+      "target": {
+        "object_id": "glossary.special-cause-variation.nonroutine-process-influence",
+        "revision_id": "revision.glossary.27c008eda48cb03389d4174b"
+      },
+      "predicate": "distinguished-from",
+      "scope": "Statistical process control; source of variation in a process under its current operating conditions",
+      "label": "distinguished from",
+      "explanation": "Common-cause variation comes from recurring influences in a process as it normally operates. Special-cause variation is associated with a specific, nonroutine influence outside that usual pattern. The distinction guides whether to improve the system or investigate a particular event.",
       "review": {
         "owner_editorial": true,
         "owner_source_attestation": true,
