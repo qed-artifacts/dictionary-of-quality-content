@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.adverse-event.patient-harm-from-care",
+  "revision_id": "revision.glossary.fbdf8cc1e1748bb87f620f94",
+  "headword": "Adverse event",
+  "scope_label": "patient harm associated with healthcare management",
+  "definition": "In patient safety, an adverse event is harm caused by health care rather than by the patient's underlying condition alone.",
+  "explanation": [
+    "It can arise from diagnosis, treatment, or other care; whether care caused the harm must be assessed rather than assumed from timing alone.",
+    "A near miss creates a risk of harm but does not meet this harm-based sense of adverse event."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
