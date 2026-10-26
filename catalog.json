@@ -1647,6 +1647,11 @@
       "path": "entries/gxp/umbrella-shorthand-for-regulated-good-practice-families/revision.glossary.69aba2a8bbea5e3be705f8d2.json"
     },
     {
+      "object_id": "glossary.hallucination.generative-ai-error",
+      "revision_id": "revision.glossary.ba6d4dd0bff0f57509ca1dcb",
+      "path": "entries/hallucination/plausible-but-inaccurate-generative-ai-information-response/revision.glossary.ba6d4dd0bff0f57509ca1dcb.json"
+    },
+    {
       "object_id": "glossary.harm.adverse-effect",
       "revision_id": "revision.glossary.fd225afa74fdde4f8ffd6a3b",
       "path": "entries/harm/adverse-effect-on-a-person-or-valued-subject/revision.glossary.fd225afa74fdde4f8ffd6a3b.json"
