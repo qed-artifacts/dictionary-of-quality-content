@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.cost-benefit-analysis.monetized-alternatives",
+  "revision_id": "revision.glossary.e2a835e117bbb396af89a0af",
+  "headword": "Cost-benefit analysis",
+  "scope_label": "monetized appraisal of local public project alternatives",
+  "definition": "For a local public project, cost-benefit analysis compares its expected benefits and costs with those of relevant alternatives, expressing them in money terms to estimate net benefit.",
+  "explanation": [
+    "It identifies whose benefits and costs count and can discount future amounts so they can be compared on a common basis.",
+    "The calculation cannot by itself settle questions about rights or distribution, even when it favors a proposal."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
