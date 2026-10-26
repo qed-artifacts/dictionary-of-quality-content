@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.change-control-system.controlled-change-workflow",
+  "revision_id": "revision.glossary.32d5ca359136a7b6c1e73ab1",
+  "headword": "Change control system",
+  "scope_label": "arrangements for controlled engineering and software changes",
+  "definition": "A change control system is the set of roles, procedures, and records used to identify, evaluate, authorize, and document changes to controlled items or processes.",
+  "explanation": [
+    "It assigns responsibility for reviewing change requests and retains decisions and records of the resulting state.",
+    "A change control process is the sequence followed for a particular change; the system supports consistent control across changes."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
