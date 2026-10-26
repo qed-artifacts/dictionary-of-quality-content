@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.observed-value.measurement-system-result",
+  "revision_id": "revision.glossary.5def1d4d214584a2f5f1e588",
+  "headword": "Observed value",
+  "scope_label": "value obtained for a characteristic by test or measurement",
+  "definition": "In measurement and testing, an observed value is the value obtained for a specified characteristic in a particular test or measurement.",
+  "explanation": [
+    "Repeated measurements of the same item can yield different observed values. The spread of such results helps assess precision.",
+    "One observed value alone does not establish the exact true value of the characteristic."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
