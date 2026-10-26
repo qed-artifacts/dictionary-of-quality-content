@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.management-philosophy.guiding-management-principles",
+  "revision_id": "revision.glossary.aead0f40d5c69547d25ebbd8",
+  "headword": "Management philosophy",
+  "scope_label": "guiding principles for managing quality across an organization",
+  "definition": "A management philosophy is a set of guiding beliefs about what an organization should pursue and how its people should manage work to pursue it.",
+  "explanation": [
+    "In quality management, such a philosophy can shape priorities, leadership practices, employee participation, and the use of evidence for improvement.",
+    "A tool or procedure may put one principle into practice, but it is not the whole philosophy."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
