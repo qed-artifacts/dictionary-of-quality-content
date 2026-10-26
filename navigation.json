@@ -1,0 +1,96 @@
+{
+  "schema": "qed-glossary-public-navigation-v1",
+  "routes": [
+    {
+      "headword": "Criterion validity",
+      "scope_label": "criterion-related evidence for a specified score interpretation or use",
+      "action": "alias",
+      "targets": [
+        {
+          "object_id": "glossary.criterion-related-validity.external-variable-evidence",
+          "revision_id": "revision.glossary.fce2cce7a7bbca4cb661cbb1",
+          "path": "entries/criterion-related-validity/historical-psychometric-validity-terminology/revision.glossary.fce2cce7a7bbca4cb661cbb1.json",
+          "headword": "Criterion-related validity",
+          "scope_label": "historical psychometric validity terminology"
+        }
+      ]
+    },
+    {
+      "headword": "Data completeness",
+      "scope_label": "presence of required values and records for a stated use",
+      "action": "alias",
+      "targets": [
+        {
+          "object_id": "glossary.completeness.required-information-present",
+          "revision_id": "revision.glossary.3dcb0c04373384428c6566b3",
+          "path": "entries/completeness/presence-of-required-data-for-a-specified-use/revision.glossary.3dcb0c04373384428c6566b3.json",
+          "headword": "Completeness",
+          "scope_label": "presence of required data for a specified use"
+        }
+      ]
+    },
+    {
+      "headword": "Data fitness for use",
+      "scope_label": "dataset use for a specified task or decision",
+      "action": "alias",
+      "targets": [
+        {
+          "object_id": "glossary.data-quality.fit-for-use",
+          "revision_id": "revision.glossary.20822f46d856544c0ef487ee",
+          "path": "entries/data-quality/suitability-of-data-for-a-specified-use/revision.glossary.20822f46d856544c0ef487ee.json",
+          "headword": "Data quality",
+          "scope_label": "suitability of data for a specified use"
+        }
+      ]
+    },
+    {
+      "headword": "Error",
+      "scope_label": "measurement difference relative to a reference",
+      "action": "alias",
+      "targets": [
+        {
+          "object_id": "glossary.measurement-error.reference-difference",
+          "revision_id": "revision.glossary.75894b34696c687165345256",
+          "path": "entries/measurement-error/metrological-difference-between-result-and-reference-value/revision.glossary.75894b34696c687165345256.json",
+          "headword": "Measurement error",
+          "scope_label": "metrological difference between result and reference value"
+        }
+      ]
+    },
+    {
+      "headword": "Fitness",
+      "scope_label": "quality-management suitability for a stated use",
+      "action": "disambiguation",
+      "targets": [
+        {
+          "object_id": "glossary.fitness-for-use.user-context",
+          "revision_id": "revision.glossary.8443f1fb951a8ab07aad0d12",
+          "path": "entries/fitness-for-use/suitability-in-a-user-s-context/revision.glossary.8443f1fb951a8ab07aad0d12.json",
+          "headword": "Fitness for use",
+          "scope_label": "suitability in a user’s context"
+        },
+        {
+          "object_id": "glossary.fitness-for-purpose.stated-aim",
+          "revision_id": "revision.glossary.06183caa2a67fb5fbf416f94",
+          "path": "entries/fitness-for-purpose/suitability-for-a-stated-aim/revision.glossary.06183caa2a67fb5fbf416f94.json",
+          "headword": "Fitness for purpose",
+          "scope_label": "suitability for a stated aim"
+        }
+      ]
+    },
+    {
+      "headword": "Lot tolerance percent defective",
+      "scope_label": "attribute acceptance sampling",
+      "action": "alias",
+      "targets": [
+        {
+          "object_id": "glossary.ltpd.sampling-poor-lot-point",
+          "revision_id": "revision.glossary.b16c0cd96736938e1f465ef1",
+          "path": "entries/ltpd/lot-tolerance-percent-defective-in-acceptance-sampling/revision.glossary.b16c0cd96736938e1f465ef1.json",
+          "headword": "LTPD",
+          "scope_label": "lot tolerance percent defective in acceptance sampling"
+        }
+      ]
+    }
+  ]
+}

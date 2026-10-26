@@ -1,6 +1,8 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { readFileSync } from "node:fs";
+import { validateNavigation } from "./navigation.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const fail = (message) => { throw new Error(message); };
@@ -61,4 +63,13 @@ async function walk(directory) {
 try { await walk(entriesRoot); } catch (error) {
   if (error.code !== "ENOENT") throw error;
 }
-console.log(JSON.stringify({ status: "valid", current_objects: catalog.entries.length, versioned_objects: count }));
+let navigationRoutes = 0;
+try {
+  const navigation = await read("navigation.json");
+  navigationRoutes = validateNavigation(navigation, catalog,
+    relative => JSON.parse(readFileSync(path.join(root, relative), "utf8"))).routes;
+} catch (error) {
+  if (error.code !== "ENOENT") throw error;
+}
+console.log(JSON.stringify({ status: "valid", current_objects: catalog.entries.length,
+  versioned_objects: count, navigation_routes: navigationRoutes }));
