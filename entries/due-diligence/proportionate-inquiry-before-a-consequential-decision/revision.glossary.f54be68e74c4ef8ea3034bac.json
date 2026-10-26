@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.due-diligence.proportionate-inquiry",
+  "revision_id": "revision.glossary.f54be68e74c4ef8ea3034bac",
+  "headword": "Due diligence",
+  "scope_label": "proportionate inquiry before a consequential decision",
+  "definition": "Due diligence is a reasonable investigation of relevant facts and risks before making a consequential decision or taking action.",
+  "explanation": [
+    "What counts as reasonable depends on the decision, the available information, and the duties involved.",
+    "In a transaction, the inquiry may reveal both reasons to withdraw and opportunities to pursue; it does not require exhaustive knowledge."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
