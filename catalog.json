@@ -487,6 +487,11 @@
       "path": "entries/completeness/presence-of-required-data-for-a-specified-use/revision.glossary.492d2763493ec943cfef5ec6.json"
     },
     {
+      "object_id": "glossary.completion.educational-requirements",
+      "revision_id": "revision.glossary.bdb87a6bdd80e26855550697",
+      "path": "entries/completion/finishing-a-defined-educational-course-or-program/revision.glossary.bdb87a6bdd80e26855550697.json"
+    },
+    {
       "object_id": "glossary.compliance.applicable-obligations",
       "revision_id": "revision.glossary.3ec8bae070d6b5961618d019",
       "path": "entries/compliance/meeting-applicable-obligations-in-a-governed-activity/revision.glossary.3ec8bae070d6b5961618d019.json"
