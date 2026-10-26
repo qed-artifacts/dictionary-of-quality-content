@@ -1167,6 +1167,11 @@
       "path": "entries/disability-adjusted-life-year/population-health-loss-from-premature-mortality-and-nonfatal-conditions/revision.glossary.d4e291898882a4cd6feb46d5.json"
     },
     {
+      "object_id": "glossary.discourse-quality.argumentative-public-discussion",
+      "revision_id": "revision.glossary.b846765e52cdd85c37f66de1",
+      "path": "entries/discourse-quality/public-deliberation/revision.glossary.b846765e52cdd85c37f66de1.json"
+    },
+    {
       "object_id": "glossary.discriminability.sensory-difference",
       "revision_id": "revision.glossary.0f2b9e17d48886623931d5e5",
       "path": "entries/discriminability/ability-to-distinguish-sensory-stimuli-under-stated-test-conditions/revision.glossary.0f2b9e17d48886623931d5e5.json"
