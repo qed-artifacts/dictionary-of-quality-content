@@ -1,0 +1,72 @@
+{
+  "schema": "qed-glossary-public-relations-v1",
+  "catalog_sha256": "e3820038aef21991f67bcfaf850a8eafa85f8f34c202d9392c118334841638f5",
+  "profile": "glossary-relations-v1",
+  "clusters": [
+    {
+      "cluster_id": "cluster.glossary.assessment-measurement",
+      "revision_id": "revision.cluster.46ff7d2ae1d8e16d867d46c0",
+      "title": "Assessment and measurement",
+      "description": "Terms for gathering, calculating, interpreting, and comparing evidence in quality assessment.",
+      "members": [
+        {
+          "object_id": "glossary.indicator.evaluation-monitoring",
+          "revision_id": "revision.glossary.11aeca0f349b53fd964aa6e7"
+        },
+        {
+          "object_id": "glossary.measure.program-evaluation",
+          "revision_id": "revision.glossary.1650402b8d4d151c5bd0f98a"
+        },
+        {
+          "object_id": "glossary.metric.evaluation-performance",
+          "revision_id": "revision.glossary.44579986770d811aadd859a4"
+        },
+        {
+          "object_id": "glossary.quality-indicator.quality-assessment",
+          "revision_id": "revision.glossary.6b23491c7d734166e0e20506"
+        },
+        {
+          "object_id": "glossary.quality-measure.quality-assessment",
+          "revision_id": "revision.glossary.586805af4185c67d08483974"
+        },
+        {
+          "object_id": "glossary.quality-metric.cross-domain-quantitative",
+          "revision_id": "revision.glossary.13453aba77e2730f0dd814c4"
+        },
+        {
+          "object_id": "glossary.target.results-monitoring",
+          "revision_id": "revision.glossary.f7cffe9d77d8f7a6e5b7793a"
+        },
+        {
+          "object_id": "glossary.threshold.decision-boundary",
+          "revision_id": "revision.glossary.31f335605b14e5b55e1694b8"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "relation_id": "relation.glossary.quality-indicator-is-a-indicator",
+      "revision_id": "revision.relation.136fc35415e2dd5aabe4dc65",
+      "source": {
+        "object_id": "glossary.quality-indicator.quality-assessment",
+        "revision_id": "revision.glossary.6b23491c7d734166e0e20506"
+      },
+      "target": {
+        "object_id": "glossary.indicator.evaluation-monitoring",
+        "revision_id": "revision.glossary.11aeca0f349b53fd964aa6e7"
+      },
+      "predicate": "is-a",
+      "scope": "Quality assessment used for evaluation or monitoring",
+      "label": "is a kind of",
+      "explanation": "A quality indicator used to track or assess quality is an indicator with quality as its focus.",
+      "review": {
+        "owner_editorial": true,
+        "owner_source_attestation": true,
+        "internal_validation": true,
+        "owner_release_authorization": true,
+        "independent_external_review": false
+      }
+    }
+  ]
+}
