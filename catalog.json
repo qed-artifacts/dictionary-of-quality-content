@@ -1452,6 +1452,11 @@
       "path": "entries/expected-value/probability-weighted-average-of-numerical-outcomes/revision.glossary.34216abf7d12ede5b4bce646.json"
     },
     {
+      "object_id": "glossary.experience-quality.product-service-use",
+      "revision_id": "revision.glossary.76c08578c1c220653eb28379",
+      "path": "entries/experience-quality/tourism-visitor-experience/revision.glossary.76c08578c1c220653eb28379.json"
+    },
+    {
       "object_id": "glossary.explainability.ai-output-understanding",
       "revision_id": "revision.glossary.ebd2920cd2c23b9931f3a6f4",
       "path": "entries/explainability/audience-relative-understanding-of-ai-outputs-or-behavior/revision.glossary.ebd2920cd2c23b9931f3a6f4.json"

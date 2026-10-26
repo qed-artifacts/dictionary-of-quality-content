@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.experience-quality.product-service-use",
+  "revision_id": "revision.glossary.76c08578c1c220653eb28379",
+  "headword": "Experience quality",
+  "scope_label": "tourism visitor experience",
+  "definition": "In tourism research, experience quality is a visitor's appraisal of an encounter with a destination or attraction, including its personal and emotional aspects.",
+  "explanation": [
+    "Researchers can assess it separately from satisfaction with the visit and examine how the two are related."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
