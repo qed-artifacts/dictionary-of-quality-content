@@ -46,6 +46,52 @@
   ],
   "relations": [
     {
+      "relation_id": "relation.glossary.accuracy-distinguished-from-precision",
+      "revision_id": "revision.relation.0fae32d16ff8bca6f1110590",
+      "source": {
+        "object_id": "glossary.accuracy.measurement",
+        "revision_id": "revision.glossary.35aab25a4ea0fe41413bc10e"
+      },
+      "target": {
+        "object_id": "glossary.precision.measurement",
+        "revision_id": "revision.glossary.7a33b289c3fe7cdf1a838d40"
+      },
+      "predicate": "distinguished-from",
+      "scope": "Measurement results and repeated measurements under specified conditions",
+      "label": "distinguished from",
+      "explanation": "Accuracy concerns how close a measured result is to an accepted reference value; precision concerns how closely repeated results agree with one another.",
+      "review": {
+        "owner_editorial": true,
+        "owner_source_attestation": true,
+        "internal_validation": true,
+        "owner_release_authorization": true,
+        "independent_external_review": false
+      }
+    },
+    {
+      "relation_id": "relation.glossary.control-limit-distinguished-from-specification-limit",
+      "revision_id": "revision.relation.f9b82ef45d9e9ea8c9f7f088",
+      "source": {
+        "object_id": "glossary.control-limit.process-monitoring",
+        "revision_id": "revision.glossary.2036a2f70c7449019061b2a6"
+      },
+      "target": {
+        "object_id": "glossary.specification-limit.acceptability-boundary",
+        "revision_id": "revision.glossary.1ae87076896d791dd209f8e7"
+      },
+      "predicate": "distinguished-from",
+      "scope": "Statistical process control and acceptability of a specified characteristic",
+      "label": "distinguished from",
+      "explanation": "A control limit is calculated from process data to help assess process behavior; a specification limit states a boundary for acceptable values of a characteristic.",
+      "review": {
+        "owner_editorial": true,
+        "owner_source_attestation": true,
+        "internal_validation": true,
+        "owner_release_authorization": true,
+        "independent_external_review": false
+      }
+    },
+    {
       "relation_id": "relation.glossary.quality-indicator-is-a-indicator",
       "revision_id": "revision.relation.136fc35415e2dd5aabe4dc65",
       "source": {
