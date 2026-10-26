@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.legal-certainty.rule-of-law-guidance",
+  "revision_id": "revision.glossary.7da978fc2b141455db0249fb",
+  "headword": "Legal certainty",
+  "scope_label": "predictable guidance from law",
+  "definition": "In rule-of-law discussions, legal certainty is the degree to which people can identify the rules governing their conduct and reasonably anticipate how those rules will be applied.",
+  "explanation": [
+    "Clear, publicly accessible rules and regular procedures help people rely on the law for guidance.",
+    "Legal certainty does not promise that every case has an unambiguous outcome."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
