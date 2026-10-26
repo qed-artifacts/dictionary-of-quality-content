@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.result.obtained-output-or-finding",
+  "revision_id": "revision.glossary.34fe716bee85eef5791053c8",
+  "headword": "Result",
+  "scope_label": "what an activity or measurement produces or obtains",
+  "definition": "A result is something produced or obtained through an activity, process, observation, or calculation.",
+  "explanation": [
+    "A measurement result may be a value; a project result may be a delivered output or an observed change.",
+    "The result itself does not say whether it is good or satisfies a requirement; that requires interpretation against a stated basis."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
