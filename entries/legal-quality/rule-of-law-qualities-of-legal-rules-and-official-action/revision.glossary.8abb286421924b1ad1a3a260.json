@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.legal-quality.rule-of-law-formal-qualities",
+  "revision_id": "revision.glossary.8abb286421924b1ad1a3a260",
+  "headword": "Legal quality",
+  "scope_label": "rule-of-law qualities of legal rules and official action",
+  "definition": "In a rule-of-law assessment, legal quality concerns how well rules and official acts are publicly knowable, coherent, and capable of guiding conduct without arbitrary exercise of power.",
+  "explanation": [
+    "These formal qualities matter, but they do not alone settle whether a law is just; substantive accounts also examine rights and equality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
