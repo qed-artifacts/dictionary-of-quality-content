@@ -1482,6 +1482,11 @@
       "path": "entries/framework/organized-conceptual-structure-for-analysis-or-evaluation/revision.glossary.96abfc651495ec1688ce8139.json"
     },
     {
+      "object_id": "glossary.function.required-system-action",
+      "revision_id": "revision.glossary.2daf14e96b4924274bdcdf30",
+      "path": "entries/function/required-action-of-an-engineered-system/revision.glossary.2daf14e96b4924274bdcdf30.json"
+    },
+    {
       "object_id": "glossary.functional-suitability.software-functions-meet-needs",
       "revision_id": "revision.glossary.e7dae15a50a4f1d0a941bf56",
       "path": "entries/functional-suitability/software-functions-meeting-stated-and-implied-needs-in-specified-use/revision.glossary.e7dae15a50a4f1d0a941bf56.json"

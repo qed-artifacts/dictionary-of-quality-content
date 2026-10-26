@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.function.required-system-action",
+  "revision_id": "revision.glossary.2daf14e96b4924274bdcdf30",
+  "headword": "Function",
+  "scope_label": "required action of an engineered system",
+  "definition": "In systems and reliability engineering, a function is an action a system or component must perform to achieve a stated objective.",
+  "explanation": [
+    "It identifies what is required of the system, rather than naming the hardware or person assigned to do it.",
+    "A function becomes testable when the required action and conditions of performance are specified."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
