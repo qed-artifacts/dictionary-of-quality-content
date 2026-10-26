@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.image-quality.remote-sensing-fitness",
+  "revision_id": "revision.glossary.a6bb5bbfda265f233af282be",
+  "headword": "Image quality",
+  "scope_label": "image fitness for an intended use",
+  "definition": "Image quality is how well an image's properties support its intended use or interpretation.",
+  "explanation": [
+    "Relevant properties can include detail, fidelity, and the ability to distinguish what matters for the task. An image suitable for one purpose may be inadequate for another.",
+    "In remote sensing, spatial resolution, geometric alignment, and radiometric information can affect which ground features can be identified or compared."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

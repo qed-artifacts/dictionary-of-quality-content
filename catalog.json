@@ -1737,6 +1737,11 @@
       "path": "entries/identity-strength-quality-and-purity/distinct-represented-properties-of-a-drug-under-u-s-drug-gmp/revision.glossary.aaa5f85c25ce0fd8e50aef3d.json"
     },
     {
+      "object_id": "glossary.image-quality.remote-sensing-fitness",
+      "revision_id": "revision.glossary.a6bb5bbfda265f233af282be",
+      "path": "entries/image-quality/image-fitness-for-an-intended-use/revision.glossary.a6bb5bbfda265f233af282be.json"
+    },
+    {
       "object_id": "glossary.impact.program-evaluation-change",
       "revision_id": "revision.glossary.a170a4396fb2cd3677959077",
       "path": "entries/impact/consequential-change-attributed-to-a-program/revision.glossary.a170a4396fb2cd3677959077.json"
