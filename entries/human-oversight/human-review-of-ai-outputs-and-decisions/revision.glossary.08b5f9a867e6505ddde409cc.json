@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.human-oversight.ai-intervention",
+  "revision_id": "revision.glossary.08b5f9a867e6505ddde409cc",
+  "headword": "Human oversight",
+  "scope_label": "human review of AI outputs and decisions",
+  "definition": "In AI use, human oversight is human review of a system's outputs or decisions to bring contextual judgment and identify errors.",
+  "explanation": [
+    "For consequential decisions, people can review an automated recommendation before it is acted on.",
+    "Review can also catch errors after deployment, such as resources misclassified by an automated library system."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
