@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-of-experience.user-perception",
+  "revision_id": "revision.glossary.dd8749f4eb03afad8ef545fe",
+  "headword": "Quality of experience",
+  "scope_label": "user experience of communications applications and services",
+  "definition": "In communications services, quality of experience (QoE) is how pleasing or frustrating an application or service is for its users.",
+  "explanation": [
+    "Expectations and the context of use can affect that experience.",
+    "A network performance measure alone cannot establish how users experience the service."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
