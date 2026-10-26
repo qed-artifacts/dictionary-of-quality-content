@@ -1322,6 +1322,11 @@
       "path": "entries/expected-value/probability-weighted-average-of-numerical-outcomes/revision.glossary.34216abf7d12ede5b4bce646.json"
     },
     {
+      "object_id": "glossary.exposure.hazard-contact",
+      "revision_id": "revision.glossary.2ecca44689c19ef440cca0c1",
+      "path": "entries/exposure/human-exposure-assessment/revision.glossary.2ecca44689c19ef440cca0c1.json"
+    },
+    {
       "object_id": "glossary.expressiveness.artistic-affect",
       "revision_id": "revision.glossary.091388c77c87fdc7350a94ca",
       "path": "entries/expressiveness/perceived-affective-qualities-of-artworks/revision.glossary.091388c77c87fdc7350a94ca.json"
