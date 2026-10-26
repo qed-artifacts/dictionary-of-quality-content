@@ -1977,6 +1977,11 @@
       "path": "entries/maintenance-task/specified-action-selected-within-reliability-centered-maintenance/revision.glossary.4bd48800acaada98005ab5d2.json"
     },
     {
+      "object_id": "glossary.management-philosophy.guiding-management-principles",
+      "revision_id": "revision.glossary.aead0f40d5c69547d25ebbd8",
+      "path": "entries/management-philosophy/guiding-principles-for-managing-quality-across-an-organization/revision.glossary.aead0f40d5c69547d25ebbd8.json"
+    },
+    {
       "object_id": "glossary.management-review.quality-system-governance",
       "revision_id": "revision.glossary.205c2f470465edc40f66e58c",
       "path": "entries/management-review/leadership-review-of-a-quality-management-system/revision.glossary.205c2f470465edc40f66e58c.json"
