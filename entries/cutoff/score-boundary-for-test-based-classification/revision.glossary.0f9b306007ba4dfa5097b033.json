@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.cutoff.test-score-classification",
+  "revision_id": "revision.glossary.0f9b306007ba4dfa5097b033",
+  "headword": "Cutoff",
+  "scope_label": "score boundary for test-based classification",
+  "definition": "In test-based classification, a cutoff is a specified score boundary used to assign results to categories or trigger a decision.",
+  "explanation": [
+    "For example, a proficiency cutoff separates scores reported as meeting a standard from those below it.",
+    "The score scale does not choose the boundary by itself; the cutoff and its consequences require a justified standard-setting decision."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
