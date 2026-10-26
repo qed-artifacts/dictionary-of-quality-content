@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.measurement-system-analysis.variation-study",
+  "revision_id": "revision.glossary.0400ff73b7ef16d5f7a8dfee",
+  "headword": "Measurement system analysis (MSA)",
+  "scope_label": "assessment of a measurement process and its variation",
+  "definition": "Measurement system analysis (MSA) examines whether a measurement process produces results dependable enough for its intended use.",
+  "explanation": [
+    "It investigates variation and error arising from the instrument, method, operators, environment, and use over time. Common checks include bias, stability, repeatability, and reproducibility.",
+    "Gauge repeatability and reproducibility is one part of MSA, not the whole analysis. Before judging variation in what is measured, determine how much of the observed variation the measurement process itself contributes."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

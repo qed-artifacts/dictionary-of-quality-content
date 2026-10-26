@@ -1972,6 +1972,11 @@
       "path": "entries/measurement-standard/metrological-reference-realizing-a-quantity-value/revision.glossary.d13d0c45fd44b9223114a5ac.json"
     },
     {
+      "object_id": "glossary.measurement-system-analysis.variation-study",
+      "revision_id": "revision.glossary.0400ff73b7ef16d5f7a8dfee",
+      "path": "entries/measurement-system-analysis/assessment-of-a-measurement-process-and-its-variation/revision.glossary.0400ff73b7ef16d5f7a8dfee.json"
+    },
+    {
       "object_id": "glossary.measurement-system.metrology",
       "revision_id": "revision.glossary.0017219b1bffffd1a34dc329",
       "path": "entries/measurement-system/arrangement-used-to-obtain-values-in-metrology/revision.glossary.0017219b1bffffd1a34dc329.json"
