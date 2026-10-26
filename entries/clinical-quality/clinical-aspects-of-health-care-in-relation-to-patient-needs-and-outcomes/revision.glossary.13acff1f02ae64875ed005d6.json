@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.clinical-quality.care-performance",
+  "revision_id": "revision.glossary.13acff1f02ae64875ed005d6",
+  "headword": "Clinical quality",
+  "scope_label": "clinical aspects of health care in relation to patient needs and outcomes",
+  "definition": "Clinical quality is how well clinical care uses appropriate knowledge and practices to serve patients' health needs and desired outcomes.",
+  "explanation": [
+    "It includes attention to effective care and patient safety; an observed outcome alone may not show which aspect of care caused it.",
+    "Access and courtesy matter to patients, but they do not by themselves establish clinical quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
