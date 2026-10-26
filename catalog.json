@@ -2907,6 +2907,11 @@
       "path": "entries/quality-policy/organizational-direction-on-quality/revision.glossary.813d3e4bdc4a1f6f67d6e256.json"
     },
     {
+      "object_id": "glossary.quality-premium.price-for-valued-features",
+      "revision_id": "revision.glossary.173abbc893752193ab0ea9bc",
+      "path": "entries/quality-premium/relative-price-of-higher-quality-product-output/revision.glossary.173abbc893752193ab0ea9bc.json"
+    },
+    {
       "object_id": "glossary.quality-profile.multidimensional",
       "revision_id": "revision.glossary.9da218dd0cb422b7c0a87912",
       "path": "entries/quality-profile/structured-multi-aspect-representation/revision.glossary.9da218dd0cb422b7c0a87912.json"

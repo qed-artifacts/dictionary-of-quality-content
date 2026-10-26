@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.quality-premium.price-for-valued-features",
+  "revision_id": "revision.glossary.173abbc893752193ab0ea9bc",
+  "headword": "Quality premium",
+  "scope_label": "relative price of higher-quality product output",
+  "definition": "In product markets with defined quality grades, a quality premium is the higher price of a higher-quality grade relative to a lower-quality comparison grade.",
+  "explanation": [
+    "The grades, price basis, and method of comparison must be specified. A price difference alone does not establish a difference in quality."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
