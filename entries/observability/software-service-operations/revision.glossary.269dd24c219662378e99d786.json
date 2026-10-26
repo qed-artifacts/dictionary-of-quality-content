@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.observability.software-service-state",
+  "revision_id": "revision.glossary.269dd24c219662378e99d786",
+  "headword": "Observability",
+  "scope_label": "software-service operations",
+  "definition": "For a software service, observability is how well its internal state and behavior can be inferred from information it emits while running.",
+  "explanation": [
+    "Related metrics, logs, and traces can help locate causes across components rather than merely flag a symptom.",
+    "More telemetry alone does not ensure observability; it must answer the questions that matter for that service."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
