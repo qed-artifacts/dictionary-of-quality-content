@@ -2222,6 +2222,11 @@
       "path": "entries/minimal-detectable-change/repeated-score-interpretation/revision.glossary.f83b61566779b7349d2b57d7.json"
     },
     {
+      "object_id": "glossary.misinformation.false-or-misleading-information",
+      "revision_id": "revision.glossary.917eaada519fc4a69619916f",
+      "path": "entries/misinformation/false-or-misleading-information-in-news-and-public-communication/revision.glossary.917eaada519fc4a69619916f.json"
+    },
+    {
       "object_id": "glossary.model-drift.deployed-ml-behavior-change",
       "revision_id": "revision.glossary.df1756a86814694397e93b39",
       "path": "entries/model-drift/material-change-in-deployed-predictive-model-behavior-or-performance/revision.glossary.df1756a86814694397e93b39.json"

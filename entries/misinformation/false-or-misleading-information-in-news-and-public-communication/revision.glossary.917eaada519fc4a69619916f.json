@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.misinformation.false-or-misleading-information",
+  "revision_id": "revision.glossary.917eaada519fc4a69619916f",
+  "headword": "Misinformation",
+  "scope_label": "false or misleading information in news and public communication",
+  "definition": "Misinformation is false or misleading information presented or circulated as if it were sound, whether or not the person sharing it intends to deceive.",
+  "explanation": [
+    "Intentional deception is one route; mistaken or uncritical sharing can also spread it.",
+    "Assess the claim against evidence and context rather than relying on a label such as ‘fake news’."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
