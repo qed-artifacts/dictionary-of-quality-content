@@ -1,0 +1,22 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.metric.evaluation-performance",
+  "revision_id": "revision.glossary.44579986770d811aadd859a4",
+  "headword": "Metric",
+  "scope_label": "quantitative evaluation performance metric",
+  "definition": "In quantitative evaluation, a metric specifies what numerical value to obtain and how to obtain it for an aspect of performance.",
+  "explanation": [
+    "The value produced on a particular dataset is its result.",
+    "A separate objective or decision rule says how to interpret that result.",
+    "An indicator in evaluation may be paired with a specified measure or metric.",
+    "In some quality-management uses, metric has a narrower financial or economic scope; the intended field should therefore be stated."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
