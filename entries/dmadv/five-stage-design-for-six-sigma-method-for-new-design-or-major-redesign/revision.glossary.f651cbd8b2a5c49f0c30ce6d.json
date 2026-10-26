@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.dmadv.design-for-six-sigma",
+  "revision_id": "revision.glossary.f651cbd8b2a5c49f0c30ce6d",
+  "headword": "DMADV",
+  "scope_label": "five-stage Design for Six Sigma method for new design or major redesign",
+  "definition": "DMADV is a Design for Six Sigma method whose stages are Define, Measure, Analyze, Design, and Verify.",
+  "explanation": [
+    "It structures the development of a new product or process, or a substantial redesign, around defined needs and a verified design.",
+    "It is a design route; DMAIC is the related sequence typically used to improve an existing process."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

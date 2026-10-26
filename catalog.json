@@ -1162,6 +1162,11 @@
       "path": "entries/distribution/pattern-of-benefits-and-burdens-across-affected-groups-in-quality-evaluation/revision.glossary.cd349b355bbcabace4095dd4.json"
     },
     {
+      "object_id": "glossary.dmadv.design-for-six-sigma",
+      "revision_id": "revision.glossary.f651cbd8b2a5c49f0c30ce6d",
+      "path": "entries/dmadv/five-stage-design-for-six-sigma-method-for-new-design-or-major-redesign/revision.glossary.f651cbd8b2a5c49f0c30ce6d.json"
+    },
+    {
       "object_id": "glossary.dmaic.existing-process-improvement",
       "revision_id": "revision.glossary.fcb7e77971a79847281f4949",
       "path": "entries/dmaic/five-stage-six-sigma-process-improvement-method/revision.glossary.fcb7e77971a79847281f4949.json"
