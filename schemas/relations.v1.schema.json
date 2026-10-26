@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Released glossary relation snapshot",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema", "catalog_sha256", "profile", "clusters", "relations"],
+  "properties": {
+    "schema": {"const": "qed-glossary-public-relations-v1"},
+    "catalog_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "profile": {"const": "glossary-relations-v1"},
+    "clusters": {"type": "array", "items": {"$ref": "#/$defs/cluster"}},
+    "relations": {"type": "array", "items": {"$ref": "#/$defs/relation"}}
+  },
+  "$defs": {
+    "endpoint": {"type": "object", "additionalProperties": false,
+      "required": ["object_id", "revision_id"], "properties": {
+        "object_id": {"type": "string", "pattern": "^glossary\\.[a-z0-9]+([.-][a-z0-9]+)*$"},
+        "revision_id": {"type": "string", "pattern": "^revision\\.glossary\\.[a-f0-9]{24}$"}
+      }},
+    "cluster": {"type": "object", "additionalProperties": false,
+      "required": ["cluster_id", "revision_id", "title", "description", "members"], "properties": {
+        "cluster_id": {"type": "string", "pattern": "^cluster\\.glossary\\.[a-z0-9]+(-[a-z0-9]+)*$"},
+        "revision_id": {"type": "string", "pattern": "^revision\\.cluster\\.[a-f0-9]{24}$"},
+        "title": {"type": "string", "minLength": 1}, "description": {"type": "string", "minLength": 1},
+        "members": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/endpoint"}}
+      }},
+    "relation": {"type": "object", "additionalProperties": false,
+      "required": ["relation_id", "revision_id", "source", "target", "predicate", "scope", "label", "explanation", "review"],
+      "properties": {
+        "relation_id": {"type": "string", "pattern": "^relation\\.glossary\\.[a-z0-9]+(-[a-z0-9]+)*$"},
+        "revision_id": {"type": "string", "pattern": "^revision\\.relation\\.[a-f0-9]{24}$"},
+        "source": {"$ref": "#/$defs/endpoint"}, "target": {"$ref": "#/$defs/endpoint"},
+        "predicate": {"enum": ["is-a", "distinguished-from"]},
+        "scope": {"type": "string", "minLength": 1}, "label": {"type": "string", "minLength": 1},
+        "explanation": {"type": "string", "minLength": 1},
+        "review": {"type": "object", "additionalProperties": false,
+          "required": ["owner_editorial", "owner_source_attestation", "internal_validation", "owner_release_authorization", "independent_external_review"],
+          "properties": {"owner_editorial": {"const": true}, "owner_source_attestation": {"const": true},
+            "internal_validation": {"const": true}, "owner_release_authorization": {"const": true},
+            "independent_external_review": {"type": "boolean"}}}
+      }}
+  }
+}

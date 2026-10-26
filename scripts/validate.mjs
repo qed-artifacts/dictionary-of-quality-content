@@ -3,6 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { readFileSync } from "node:fs";
 import { validateNavigation } from "./navigation.mjs";
+import { validateRelations } from "./relations.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const fail = (message) => { throw new Error(message); };
@@ -71,5 +72,14 @@ try {
 } catch (error) {
   if (error.code !== "ENOENT") throw error;
 }
+let graphCounts = { clusters: 0, relations: 0 };
+try {
+  const graph = await read('relations/graph.v1.json');
+  graphCounts = validateRelations(graph, catalog,
+    relative => JSON.parse(readFileSync(path.join(root, relative), 'utf8')));
+} catch (error) {
+  if (error.code !== 'ENOENT') throw error;
+}
 console.log(JSON.stringify({ status: "valid", current_objects: catalog.entries.length,
-  versioned_objects: count, navigation_routes: navigationRoutes }));
+  versioned_objects: count, navigation_routes: navigationRoutes,
+  graph_clusters: graphCounts.clusters, graph_relations: graphCounts.relations }));

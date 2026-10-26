@@ -12,12 +12,15 @@ Original glossary prose is dedicated to the public domain under [CC0 1.0](LICENS
 
 - catalog.json: current released object pointers.
 - navigation.json: optional, scoped routes to existing released entries. These routes are not additional glossary objects or publications.
+- relations/graph.v1.json: versioned, catalog-pinned snapshot of separately reviewed relation assertions and curated cluster views. These are not additional term objects; an empty snapshot means no relations have cleared their own gates.
 - entries/<headword>/<scope>/<revision-id>.json: machine-readable, immutable release version.
 - entries/<headword>/<scope>/<revision-id>.md: reader-facing rendering of that version.
 - schemas/: public data contracts.
 - scripts/validate.mjs: checks public catalog and entry consistency.
 
 Navigation is exported from current adopted private dispositions with `node scripts/export-navigation.mjs --private-root PRIVATE_DICTIONARY_CHECKOUT`. Run the same command with `--check` before review, then run `node --test scripts/navigation.test.mjs` and `node scripts/validate.mjs`. The exporter omits retire-only decisions and checks each target against the current public catalog. If a target publication changes, regenerate and review the route before deploying a new tagged snapshot. The website displays scope-qualified routes as search suggestions, with no automatic redirect or new entry count.
+
+The private relation CLI exports `relations/graph.v1.json` only from exact-revision approved relation and cluster records. `node scripts/validate.mjs` checks the graph against the current catalog and public entries: endpoint revisions, controlled predicates, canonical symmetric orientation, duplicate claims, taxonomic cycles, and public-safe fields. Run `node --test scripts/relations.test.mjs` as well. Public edges contain only original CC0 reader wording, exact IDs, scope, and actual review labels; original-source warrants stay private. After a term publication changes the catalog, regenerate and review the graph before tagging the next release. Historical tags keep their older graph.
 
 Run node scripts/validate.mjs before proposing a release. A public object records its stable ID, revision ID, bounded scope, original reader text, license scope, and actual review labels. Publication on GitHub is verified against the private release manifest and merged Git commit. No independent external review is implied by owner or internal validation.
 
