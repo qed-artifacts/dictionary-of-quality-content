@@ -1,0 +1,21 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.measurement.metrology-process",
+  "revision_id": "revision.glossary.a543640de8d7d73d74b08081",
+  "headword": "Measurement",
+  "scope_label": "metrology measurement process",
+  "definition": "Measurement uses a defined empirical procedure to obtain a value or set of values for a specified quantity.",
+  "explanation": [
+    "The procedure involves comparison or counting and may include calculations to obtain the result.",
+    "It requires a clear account of what is being measured and how.",
+    "A measurement result reports the attributed value or values with relevant information, generally including measurement uncertainty. Deciding whether it satisfies a requirement is a further step."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
