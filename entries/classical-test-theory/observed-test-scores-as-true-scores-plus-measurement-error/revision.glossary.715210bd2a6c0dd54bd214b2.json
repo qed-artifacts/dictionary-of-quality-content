@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.classical-test-theory.true-score-model",
+  "revision_id": "revision.glossary.715210bd2a6c0dd54bd214b2",
+  "headword": "Classical test theory",
+  "scope_label": "observed test scores as true scores plus measurement error",
+  "definition": "Classical test theory is a measurement framework that models an observed test score as a true score plus error.",
+  "explanation": [
+    "Here, the true score is the expected score across appropriate hypothetical repetitions of the testing procedure, not a directly observed ability.",
+    "The framework helps examine score consistency and measurement error."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
