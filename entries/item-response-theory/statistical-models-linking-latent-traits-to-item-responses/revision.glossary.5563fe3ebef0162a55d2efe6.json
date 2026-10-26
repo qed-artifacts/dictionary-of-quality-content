@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.item-response-theory.latent-trait-models",
+  "revision_id": "revision.glossary.5563fe3ebef0162a55d2efe6",
+  "headword": "Item response theory",
+  "scope_label": "statistical models linking latent traits to item responses",
+  "definition": "Item response theory is a family of statistical models that relates a person's unobserved trait level to the probability of particular responses to test or questionnaire items.",
+  "explanation": [
+    "The models describe properties of individual items, such as where along the trait scale responses change and how sharply they change.",
+    "They can be used for scored questions or rating-scale responses that have no single correct answer."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
