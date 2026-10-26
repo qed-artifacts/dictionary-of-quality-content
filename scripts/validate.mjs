@@ -5,6 +5,7 @@ import { readFileSync } from "node:fs";
 import { validateNavigation } from "./navigation.mjs";
 import { validateRelations } from "./relations.mjs";
 import { validateWorkingRelations } from "./working-relations.mjs";
+import { validateStudioNavigation } from "./studio-navigation.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const fail = (message) => { throw new Error(message); };
@@ -89,7 +90,13 @@ try {
 } catch (error) {
   if (error.code !== 'ENOENT') throw error;
 }
+let studioNavigationCounts = { definition_routes: 0, coverage_targets: 0, studio_assertions: 0 };
+try {
+  studioNavigationCounts = validateStudioNavigation(await read('relations/studio-navigation.v1.json'), catalog);
+} catch (error) {
+  if (error.code !== 'ENOENT') throw error;
+}
 console.log(JSON.stringify({ status: "valid", current_objects: catalog.entries.length,
   versioned_objects: count, navigation_routes: navigationRoutes,
   graph_clusters: graphCounts.clusters, graph_relations: graphCounts.relations,
-  ...workingCounts }));
+  ...workingCounts, ...studioNavigationCounts }));
