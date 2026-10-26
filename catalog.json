@@ -867,6 +867,11 @@
       "path": "entries/customer/recipient-of-a-product-service-or-information-in-quality-management/revision.glossary.9459ac0c3754b319e2f4c6a2.json"
     },
     {
+      "object_id": "glossary.cutoff.test-score-classification",
+      "revision_id": "revision.glossary.0f9b306007ba4dfa5097b033",
+      "path": "entries/cutoff/score-boundary-for-test-based-classification/revision.glossary.0f9b306007ba4dfa5097b033.json"
+    },
+    {
       "object_id": "glossary.d-value.microbial-decimal-reduction-time",
       "revision_id": "revision.glossary.777aef207247cb7b19af40e9",
       "path": "entries/d-value/microbial-inactivation-and-sterilization-kinetics/revision.glossary.777aef207247cb7b19af40e9.json"
