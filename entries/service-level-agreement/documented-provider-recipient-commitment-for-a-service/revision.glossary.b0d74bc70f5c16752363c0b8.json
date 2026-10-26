@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.service-level-agreement.documented-service-commitment",
+  "revision_id": "revision.glossary.b0d74bc70f5c16752363c0b8",
+  "headword": "Service level agreement",
+  "scope_label": "documented provider-recipient commitment for a service",
+  "definition": "A service level agreement (SLA) is a documented agreement between a service provider and a recipient about the service to be provided and the levels of performance expected.",
+  "explanation": [
+    "It can specify scope, indicators, reporting, responsibilities, and what happens if an agreed level is missed.",
+    "An SLA records a commitment; measured service results show whether that commitment was met."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

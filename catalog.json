@@ -3402,6 +3402,11 @@
       "path": "entries/service-integration/health-and-social-care/revision.glossary.e127a6eaaf03801889e0a66d.json"
     },
     {
+      "object_id": "glossary.service-level-agreement.documented-service-commitment",
+      "revision_id": "revision.glossary.b0d74bc70f5c16752363c0b8",
+      "path": "entries/service-level-agreement/documented-provider-recipient-commitment-for-a-service/revision.glossary.b0d74bc70f5c16752363c0b8.json"
+    },
+    {
       "object_id": "glossary.service-level-indicator.service-measurement",
       "revision_id": "revision.glossary.452f57f46c54ca8406021a89",
       "path": "entries/service-level-indicator/site-reliability-engineering/revision.glossary.452f57f46c54ca8406021a89.json"
