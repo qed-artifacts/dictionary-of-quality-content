@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.metrological-comparability.results-on-common-basis",
+  "revision_id": "revision.glossary.2df9cece8aed8e0e42af5e55",
+  "headword": "Metrological comparability",
+  "scope_label": "measurement results",
+  "definition": "Metrological comparability is the property that allows measurement results for quantities of the same kind to be compared when each result is traceable to a common reference.",
+  "explanation": [
+    "A shared reference enables comparison; it does not establish agreement. Comparable results can have substantially different measured values and uncertainties."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

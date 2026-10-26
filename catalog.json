@@ -2087,6 +2087,11 @@
       "path": "entries/metric/quantitative-evaluation-performance-metric/revision.glossary.44579986770d811aadd859a4.json"
     },
     {
+      "object_id": "glossary.metrological-comparability.results-on-common-basis",
+      "revision_id": "revision.glossary.2df9cece8aed8e0e42af5e55",
+      "path": "entries/metrological-comparability/measurement-results/revision.glossary.2df9cece8aed8e0e42af5e55.json"
+    },
+    {
       "object_id": "glossary.metrological-traceability.measurement-result-chain",
       "revision_id": "revision.glossary.41e96ff97d3c072b35f80c83",
       "path": "entries/metrological-traceability/property-of-a-measurement-result-related-to-a-reference/revision.glossary.41e96ff97d3c072b35f80c83.json"
