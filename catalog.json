@@ -1152,6 +1152,11 @@
       "path": "entries/documented-information/controlled-management-system-information-and-records/revision.glossary.566a7b15743c5c31dd982053.json"
     },
     {
+      "object_id": "glossary.donabedian-model.healthcare-quality",
+      "revision_id": "revision.glossary.e1b981ab649381908e1b83e5",
+      "path": "entries/donabedian-model/health-care-quality-assessment/revision.glossary.e1b981ab649381908e1b83e5.json"
+    },
+    {
       "object_id": "glossary.due-process.us-constitutional-protection",
       "revision_id": "revision.glossary.19b02ae60e87f7df3cd26093",
       "path": "entries/due-process/u-s-constitutional-protection-against-government-deprivation/revision.glossary.19b02ae60e87f7df3cd26093.json"
