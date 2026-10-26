@@ -1327,6 +1327,11 @@
       "path": "entries/expected-value/probability-weighted-average-of-numerical-outcomes/revision.glossary.34216abf7d12ede5b4bce646.json"
     },
     {
+      "object_id": "glossary.explainability.ai-output-understanding",
+      "revision_id": "revision.glossary.ebd2920cd2c23b9931f3a6f4",
+      "path": "entries/explainability/audience-relative-understanding-of-ai-outputs-or-behavior/revision.glossary.ebd2920cd2c23b9931f3a6f4.json"
+    },
+    {
       "object_id": "glossary.exposure.hazard-contact",
       "revision_id": "revision.glossary.2ecca44689c19ef440cca0c1",
       "path": "entries/exposure/human-exposure-assessment/revision.glossary.2ecca44689c19ef440cca0c1.json"

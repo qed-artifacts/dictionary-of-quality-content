@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.explainability.ai-output-understanding",
+  "revision_id": "revision.glossary.ebd2920cd2c23b9931f3a6f4",
+  "headword": "Explainability",
+  "scope_label": "audience-relative understanding of AI outputs or behavior",
+  "definition": "For an AI system, explainability is its capacity to provide information that helps a specified audience understand its outputs or behavior.",
+  "explanation": [
+    "An explanation may address the model's general behavior or a particular decision, depending on what its users need to know.",
+    "Its usefulness and limitations must be assessed for that audience and purpose; an explanation that sounds plausible is not automatically adequate."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
