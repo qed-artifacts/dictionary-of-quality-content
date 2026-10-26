@@ -567,6 +567,11 @@
       "path": "entries/consistency/similarity-of-comparable-outputs-in-a-specified-respect/revision.glossary.5ad773fe6e1063336dba5e97.json"
     },
     {
+      "object_id": "glossary.constant-failure-rate.constant-hazard-model",
+      "revision_id": "revision.glossary.31a4368e7833d146d2e65ed8",
+      "path": "entries/constant-failure-rate/time-invariant-conditional-failure-rate-of-surviving-items/revision.glossary.31a4368e7833d146d2e65ed8.json"
+    },
+    {
       "object_id": "glossary.construct-validity.test-score-inference",
       "revision_id": "revision.glossary.14ebd89c1df188c13ad5c234",
       "path": "entries/construct-validity/test-score-interpretation-concerning-an-intended-construct/revision.glossary.14ebd89c1df188c13ad5c234.json"
