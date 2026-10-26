@@ -9,8 +9,19 @@ const revisionId = /^revision\.glossary\.[a-f0-9]{24}$/;
 const studioId = /^edge\.dictionary-v3\.[a-z0-9.-]+$/;
 const nodeId = /^[a-z][a-z0-9-]*\.dictionary-v[23](?:-[a-z0-9-]+)?\.[a-z0-9.-]+$/;
 const token = /^[a-z][a-z0-9]*(?:-[a-z0-9]+)*$/;
-const symmetric = new Set(['distinguished-from', 'associated-with', 'related-to', 'contrasts-with']);
-const claimKey = (a, b, predicate) => [predicate, ...(symmetric.has(predicate) ? [a, b].sort() : [a, b])].join('\0');
+const symmetric = new Set(['distinguished-from', 'associated-with', 'related-to', 'contrasts-with', 'distinct-from']);
+const inverse = new Map([['modeled-by', 'models'], ['informed-by', 'informs'],
+  ['evaluated-by', 'evaluates'], ['required-by', 'requires'], ['measured-by', 'measures'],
+  ['specified-by', 'specifies'], ['component-of', 'includes'], ['is-output-of', 'produces'],
+  ['used-in', 'uses']]);
+const claimKey = (a, b, predicate) => {
+  const normalized = inverse.get(predicate) ??
+    (['distinguished-from', 'contrasts-with', 'distinct-from'].includes(predicate) ? 'contrast' :
+      predicate === 'subtype-of' ? 'is-a' : predicate);
+  const ends = symmetric.has(predicate) ? [a, b].sort() : inverse.has(predicate) ? [b, a] : [a, b];
+  return [normalized, ...ends].join('\0');
+};
+const pairKey = (a, b) => [a, b].sort().join('\0');
 
 export function validateWorkingRelations(snapshot, catalog, reviewed) {
   if (!keys(snapshot, ['schema', 'catalog_sha256', 'standing', 'source_graph_sha256', 'adopted_total', 'holds', 'edges']) ||
@@ -19,13 +30,14 @@ export function validateWorkingRelations(snapshot, catalog, reviewed) {
       snapshot.catalog_sha256 !== catalogHash(catalog) ||
       !/^[a-f0-9]{64}$/.test(snapshot.source_graph_sha256) || !Array.isArray(snapshot.edges) ||
       !Number.isSafeInteger(snapshot.adopted_total) ||
-      !keys(snapshot.holds, ['endpoint_reconciliation', 'unresolved_predicate', 'duplicate_working']) ||
+      !keys(snapshot.holds, ['endpoint_reconciliation', 'unresolved_predicate', 'already_reviewed', 'duplicate_working']) ||
       Object.values(snapshot.holds).some(x => !Number.isSafeInteger(x) || x < 0) ||
       snapshot.adopted_total !== snapshot.edges.length + Object.values(snapshot.holds).reduce((a, b) => a + b, 0)) {
     fail('Invalid or stale Studio working snapshot');
   }
   const catalogMap = new Map(catalog.entries.map(x => [x.object_id, x.revision_id]));
   const reviewedClaims = new Set(reviewed.relations.map(e => claimKey(e.source.object_id, e.target.object_id, e.predicate)));
+  const reviewedPairs = new Set(reviewed.relations.map(e => pairKey(e.source.object_id, e.target.object_id)));
   const ids = new Set();
   const claims = new Set();
   for (const edge of snapshot.edges) {
@@ -46,7 +58,10 @@ export function validateWorkingRelations(snapshot, catalog, reviewed) {
     }
     if (edge.source.object_id === edge.target.object_id) fail('Studio working self edge');
     const key = claimKey(edge.source.object_id, edge.target.object_id, edge.predicate);
-    if (claims.has(key) || reviewedClaims.has(key)) fail(`Duplicate reviewed or working claim: ${edge.edge_id}`);
+    if (claims.has(key) || reviewedClaims.has(key) ||
+        reviewedPairs.has(pairKey(edge.source.object_id, edge.target.object_id))) {
+      fail(`Duplicate reviewed or working claim: ${edge.edge_id}`);
+    }
     claims.add(key);
   }
   if (JSON.stringify(snapshot.edges) !== JSON.stringify([...snapshot.edges].sort((a, b) => a.edge_id.localeCompare(b.edge_id)))) {

@@ -10,9 +10,10 @@ const copy = () => structuredClone(snapshot);
 
 test('adopted working layer remains distinct from reviewed releases', () => {
   const result = validateWorkingRelations(snapshot, catalog, reviewed);
-  assert.equal(result.working_relations, 539);
+  assert.equal(result.working_relations, 505);
   assert.equal(snapshot.adopted_total, 734);
-  assert.deepEqual(snapshot.holds, { endpoint_reconciliation: 31, unresolved_predicate: 156, duplicate_working: 8 });
+  assert.deepEqual(snapshot.holds, { endpoint_reconciliation: 31, unresolved_predicate: 156,
+    already_reviewed: 17, duplicate_working: 25 });
   assert.equal(reviewed.relations.length, 11);
 });
 

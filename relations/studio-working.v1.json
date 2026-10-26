@@ -7,7 +7,8 @@
   "holds": {
     "endpoint_reconciliation": 31,
     "unresolved_predicate": 156,
-    "duplicate_working": 8
+    "already_reviewed": 17,
+    "duplicate_working": 25
   },
   "edges": [
     {
@@ -463,25 +464,6 @@
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "conceptual-ontological",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.0abbf08f4f4cc2b9a90dc0",
-      "source": {
-        "object_id": "glossary.customer-satisfaction.customer-appraisal",
-        "revision_id": "revision.glossary.b1b192f3f3d899e9f4e1d2b9"
-      },
-      "target": {
-        "object_id": "glossary.expectation.customer-service",
-        "revision_id": "revision.glossary.02ce6c824eece25b709499f1"
-      },
-      "source_node_id": "term.dictionary-v3.scope.customer-satisfaction",
-      "target_node_id": "term.dictionary-v3-unfolding.expectation",
-      "predicate": "informed-by",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evidence-provenance",
       "standing": "owner-approved-working-unvalidated",
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
@@ -1360,25 +1342,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.207cf723d90ced127baafe",
-      "source": {
-        "object_id": "glossary.availability.engineered-system",
-        "revision_id": "revision.glossary.93b216acb9a1fdf1277db922"
-      },
-      "target": {
-        "object_id": "glossary.reliability.cross-domain",
-        "revision_id": "revision.glossary.4ee64845069e84c0f36eb1c3"
-      },
-      "source_node_id": "term.dictionary-v3.hardening.availability",
-      "target_node_id": "term.dictionary-v3.reliability",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.20a53619c8d403a5654589",
       "source": {
         "object_id": "glossary.jidoka.stop-on-abnormality",
@@ -1493,25 +1456,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.23d7b3421da8078d9e3a53",
-      "source": {
-        "object_id": "glossary.failure-cost.consequence-of-nonconformity",
-        "revision_id": "revision.glossary.1438879b0d327bed49c24419"
-      },
-      "target": {
-        "object_id": "glossary.cost-of-quality.prevention-and-failure",
-        "revision_id": "revision.glossary.bc597a94a3cb8d4e04d8e7d8"
-      },
-      "source_node_id": "term.dictionary-v3.scope.failure-cost",
-      "target_node_id": "candidate.dictionary-v2.reconciled.bc3f19c338dadf5b6e49",
-      "predicate": "component-of",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "conceptual-ontological",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.24093549671901a9e9aa9d",
       "source": {
         "object_id": "glossary.defect.intended-use-nonconformity",
@@ -1600,25 +1544,6 @@
       "source_node_id": "term.dictionary-v3.scope.validation",
       "target_node_id": "term.dictionary-v3.context",
       "predicate": "bounded-by",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.26e25efb5eb0f01b900417",
-      "source": {
-        "object_id": "glossary.conformity.requirement",
-        "revision_id": "revision.glossary.ad0eec23858c9da95c86ced3"
-      },
-      "target": {
-        "object_id": "glossary.nonconformity.unmet-requirement",
-        "revision_id": "revision.glossary.617397708409669dc921b1f5"
-      },
-      "source_node_id": "term.dictionary-v3.scope.conformity",
-      "target_node_id": "term.dictionary-v3.scope.nonconformity",
-      "predicate": "contrasts-with",
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "evaluative-normative",
@@ -1930,25 +1855,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.2c117cd46e25c755c773b6",
-      "source": {
-        "object_id": "glossary.inspection.requirement-check",
-        "revision_id": "revision.glossary.b38c7b254c48662e25788d8e"
-      },
-      "target": {
-        "object_id": "glossary.quality-control.quality-management",
-        "revision_id": "revision.glossary.dadd877959fe7ace88063983"
-      },
-      "source_node_id": "term.dictionary-v3.scope.inspection",
-      "target_node_id": "candidate.dictionary-v2.reconciled.59ee9d6e5d71185ab4cf",
-      "predicate": "used-in",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "operational-causal",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.2cef6ed4478bece6d8dd17",
       "source": {
         "object_id": "glossary.control-limit.process-monitoring",
@@ -2230,25 +2136,6 @@
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.352b11dd3d6ab99b7cc9a4",
-      "source": {
-        "object_id": "glossary.cost-of-poor-quality.failure-costs",
-        "revision_id": "revision.glossary.ff617e91a07ae021810a11ea"
-      },
-      "target": {
-        "object_id": "glossary.defect.intended-use-nonconformity",
-        "revision_id": "revision.glossary.d8c7490ad4d66fea7f15f7c8"
-      },
-      "source_node_id": "candidate.dictionary-v2.reconciled.02054adcde081220ae3a",
-      "target_node_id": "term.dictionary-v3.scope.defect",
-      "predicate": "informed-by",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evidence-provenance",
       "standing": "owner-approved-working-unvalidated",
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
@@ -2804,25 +2691,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.4589878b0fd6eafb24cfc2",
-      "source": {
-        "object_id": "glossary.accuracy.measurement",
-        "revision_id": "revision.glossary.35aab25a4ea0fe41413bc10e"
-      },
-      "target": {
-        "object_id": "glossary.precision.measurement",
-        "revision_id": "revision.glossary.7a33b289c3fe7cdf1a838d40"
-      },
-      "source_node_id": "term.dictionary-v3.scope.accuracy",
-      "target_node_id": "term.dictionary-v3.scope.precision",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.45b050995b812a8f30009b",
       "source": {
         "object_id": "glossary.availability.engineered-system",
@@ -2873,25 +2741,6 @@
       "source_node_id": "term.dictionary-v3.scope.variation",
       "target_node_id": "term.dictionary-v3.scope.control-chart",
       "predicate": "analyzed-by",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "operational-causal",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.47509bab9ad4cf2d531d9f",
-      "source": {
-        "object_id": "glossary.mean-time-to-repair.corrective-maintenance",
-        "revision_id": "revision.glossary.95025001cb204f19405c0cc9"
-      },
-      "target": {
-        "object_id": "glossary.maintainability.engineered-item",
-        "revision_id": "revision.glossary.a924b9f0bec9b4878baf10d3"
-      },
-      "source_node_id": "term.dictionary-v3.scope.mean-time-to-repair",
-      "target_node_id": "term.dictionary-v3.scope.maintainability",
-      "predicate": "measures",
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "operational-causal",
@@ -3184,25 +3033,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.4f38e17bc85d4a880ef38e",
-      "source": {
-        "object_id": "glossary.correction.detected-nonconformity",
-        "revision_id": "revision.glossary.44e2f31e5f70e3b6b6db5f49"
-      },
-      "target": {
-        "object_id": "glossary.corrective-action.recurrence-prevention",
-        "revision_id": "revision.glossary.2d990225dbcbdab92ae1507f"
-      },
-      "source_node_id": "term.dictionary-v3.scope.correction",
-      "target_node_id": "term.dictionary-v3.scope.corrective-action",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.4ff522c6d8b742205034ee",
       "source": {
         "object_id": "glossary.finding.audit-evidence-against-criteria",
@@ -3386,25 +3216,6 @@
       "source_node_id": "candidate.dictionary-v2.reconciled.02054adcde081220ae3a",
       "target_node_id": "term.dictionary-v3.scope.prevention-cost",
       "predicate": "contrasts-with",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.55bf04034b3c21d9119ddc",
-      "source": {
-        "object_id": "glossary.mean-time-to-failure.nonrepairable-item",
-        "revision_id": "revision.glossary.c2e06f0c48241efcf6d25d4b"
-      },
-      "target": {
-        "object_id": "glossary.mean-time-between-failures.repairable-system",
-        "revision_id": "revision.glossary.2391b9bed6127c8b77c3e924"
-      },
-      "source_node_id": "term.dictionary-v3.scope.mean-time-to-failure",
-      "target_node_id": "term.dictionary-v3.scope.mean-time-between-failures",
-      "predicate": "distinct-from",
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "evaluative-normative",
@@ -3678,25 +3489,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.5ec9daaa3880f2c899117c",
-      "source": {
-        "object_id": "glossary.failure-mode.observable-way-of-failure",
-        "revision_id": "revision.glossary.56fe111c7eec1c0d75a2f7b3"
-      },
-      "target": {
-        "object_id": "glossary.fault-tree-analysis.top-event-logic-model",
-        "revision_id": "revision.glossary.f51e10e1881d0711b927324b"
-      },
-      "source_node_id": "term.dictionary-v3.scope.failure-mode",
-      "target_node_id": "term.dictionary-v3.scope.fault-tree-analysis",
-      "predicate": "modeled-by",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "operational-causal",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.5ecf8ab819d9c66731837a",
       "source": {
         "object_id": "glossary.quality-control.quality-management",
@@ -3883,25 +3675,6 @@
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.648999d8e6500dea902413",
-      "source": {
-        "object_id": "glossary.prevention-cost.avoiding-nonconformity",
-        "revision_id": "revision.glossary.27ea465bb3f58dc7a962d4c9"
-      },
-      "target": {
-        "object_id": "glossary.cost-of-quality.prevention-and-failure",
-        "revision_id": "revision.glossary.bc597a94a3cb8d4e04d8e7d8"
-      },
-      "source_node_id": "term.dictionary-v3.scope.prevention-cost",
-      "target_node_id": "candidate.dictionary-v2.reconciled.bc3f19c338dadf5b6e49",
-      "predicate": "component-of",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "conceptual-ontological",
       "standing": "owner-approved-working-unvalidated",
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
@@ -4305,25 +4078,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.6bfe7ebe3fa970bf1573da",
-      "source": {
-        "object_id": "glossary.appraisal-cost.assessing-conformity",
-        "revision_id": "revision.glossary.d28fbccfb04e771e74578602"
-      },
-      "target": {
-        "object_id": "glossary.cost-of-quality.prevention-and-failure",
-        "revision_id": "revision.glossary.bc597a94a3cb8d4e04d8e7d8"
-      },
-      "source_node_id": "term.dictionary-v3.scope.appraisal-cost",
-      "target_node_id": "candidate.dictionary-v2.reconciled.bc3f19c338dadf5b6e49",
-      "predicate": "component-of",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "conceptual-ontological",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.6cb7aa69456b5b2ac1858c",
       "source": {
         "object_id": "glossary.estimate.statistical-inference",
@@ -4552,25 +4306,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.72ec56fd91b300f103ff11",
-      "source": {
-        "object_id": "glossary.failure.required-function",
-        "revision_id": "revision.glossary.db9e9cbc860ad572d93bc2a6"
-      },
-      "target": {
-        "object_id": "glossary.defect.intended-use-nonconformity",
-        "revision_id": "revision.glossary.d8c7490ad4d66fea7f15f7c8"
-      },
-      "source_node_id": "term.dictionary-v3.scope.failure",
-      "target_node_id": "term.dictionary-v3.scope.defect",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.73819e6d6946a18117ef10",
       "source": {
         "object_id": "glossary.specification-limit.acceptability-boundary",
@@ -4761,25 +4496,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.76adbf227b2aa71e4bc3bd",
-      "source": {
-        "object_id": "glossary.measurement-system-analysis.variation-study",
-        "revision_id": "revision.glossary.0400ff73b7ef16d5f7a8dfee"
-      },
-      "target": {
-        "object_id": "glossary.measurement-system.metrology",
-        "revision_id": "revision.glossary.0017219b1bffffd1a34dc329"
-      },
-      "source_node_id": "term.dictionary-v3.scope.measurement-system-analysis",
-      "target_node_id": "term.dictionary-v3.scope.measurement-system",
-      "predicate": "evaluates",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.77034cd984e9a57910f1d1",
       "source": {
         "object_id": "glossary.evaluation.value-appraisal",
@@ -4852,25 +4568,6 @@
       "direction": "source-to-target",
       "modality": "possible",
       "domain": "conceptual-ontological",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.7857e82c721ad2edf99b53",
-      "source": {
-        "object_id": "glossary.common-cause-variation.recurring-process-influences",
-        "revision_id": "revision.glossary.2bb7cb6521857a13d413a5ce"
-      },
-      "target": {
-        "object_id": "glossary.special-cause-variation.nonroutine-process-influence",
-        "revision_id": "revision.glossary.27c008eda48cb03389d4174b"
-      },
-      "source_node_id": "term.dictionary-v3.scope.common-cause-variation",
-      "target_node_id": "term.dictionary-v3.scope.special-cause-variation",
-      "predicate": "contrasts-with",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
       "standing": "owner-approved-working-unvalidated",
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
@@ -5844,25 +5541,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.91197dfbe5a12bdad00bcc",
-      "source": {
-        "object_id": "glossary.hazard-analysis.food-safety",
-        "revision_id": "revision.glossary.e41d56c02ab6b5c36052d512"
-      },
-      "target": {
-        "object_id": "glossary.risk-assessment.hazard-decision",
-        "revision_id": "revision.glossary.e2754134753ec68b8cf6a45f"
-      },
-      "source_node_id": "term.dictionary-v3.scope.hazard-analysis",
-      "target_node_id": "term.dictionary-v3.scope.risk-assessment",
-      "predicate": "component-of",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "conceptual-ontological",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.91644122f0d90b7ad99168",
       "source": {
         "object_id": "glossary.reproducibility.measurement",
@@ -6046,44 +5724,6 @@
       "source_node_id": "term.dictionary-v3.scope.conformity-assessment",
       "target_node_id": "term.dictionary-v3.evidence",
       "predicate": "uses",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "operational-causal",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.9470e5a1b3cde70ec37b99",
-      "source": {
-        "object_id": "glossary.corrective-action.recurrence-prevention",
-        "revision_id": "revision.glossary.2d990225dbcbdab92ae1507f"
-      },
-      "target": {
-        "object_id": "glossary.root-cause-analysis.verified-cause",
-        "revision_id": "revision.glossary.bb31940c93d316920791aa7d"
-      },
-      "source_node_id": "term.dictionary-v3.scope.corrective-action",
-      "target_node_id": "term.dictionary-v3.scope.root-cause-analysis",
-      "predicate": "informed-by",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evidence-provenance",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.9491f7530779d27c747a70",
-      "source": {
-        "object_id": "glossary.risk-assessment.hazard-decision",
-        "revision_id": "revision.glossary.e2754134753ec68b8cf6a45f"
-      },
-      "target": {
-        "object_id": "glossary.risk-response.selected-risk-action",
-        "revision_id": "revision.glossary.280d7f3dd87287b71dfbd875"
-      },
-      "source_node_id": "term.dictionary-v3.scope.risk-assessment",
-      "target_node_id": "term.dictionary-v3.scope.risk-response",
-      "predicate": "informs",
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "operational-causal",
@@ -6281,25 +5921,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.98172c0475237e53c88932",
-      "source": {
-        "object_id": "glossary.corrective-action.recurrence-prevention",
-        "revision_id": "revision.glossary.2d990225dbcbdab92ae1507f"
-      },
-      "target": {
-        "object_id": "glossary.correction.detected-nonconformity",
-        "revision_id": "revision.glossary.44e2f31e5f70e3b6b6db5f49"
-      },
-      "source_node_id": "term.dictionary-v3.scope.corrective-action",
-      "target_node_id": "term.dictionary-v3.scope.correction",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.98445353832454dd9ceede",
       "source": {
         "object_id": "glossary.quality-control.quality-management",
@@ -6331,25 +5952,6 @@
       "source_node_id": "term.dictionary-v3.measurement",
       "target_node_id": "term.dictionary-v3.evaluation",
       "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.989d43f66ef1729911712c",
-      "source": {
-        "object_id": "glossary.dmaic.existing-process-improvement",
-        "revision_id": "revision.glossary.fcb7e77971a79847281f4949"
-      },
-      "target": {
-        "object_id": "glossary.dmadv.design-for-six-sigma",
-        "revision_id": "revision.glossary.f651cbd8b2a5c49f0c30ce6d"
-      },
-      "source_node_id": "term.dictionary-v3.scope.dmaic",
-      "target_node_id": "term.dictionary-v3.scope.dmadv",
-      "predicate": "contrasts-with",
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "evaluative-normative",
@@ -6490,25 +6092,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.9c23311d48ca41b5a5e463",
-      "source": {
-        "object_id": "glossary.failure-rate.reliability-hazard",
-        "revision_id": "revision.glossary.4275507d3e852de360f23906"
-      },
-      "target": {
-        "object_id": "glossary.defect-rate.quality-measure",
-        "revision_id": "revision.glossary.f9ac1766473b94db9668bcda"
-      },
-      "source_node_id": "term.dictionary-v3.scope.failure-rate",
-      "target_node_id": "term.dictionary-v3.scope.defect-rate",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.9d01d7268fbc27ff87c09c",
       "source": {
         "object_id": "glossary.population.statistical-study-units",
@@ -6581,44 +6164,6 @@
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "evidence-provenance",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.9ec513605ad181f14706e7",
-      "source": {
-        "object_id": "glossary.risk-assessment.hazard-decision",
-        "revision_id": "revision.glossary.e2754134753ec68b8cf6a45f"
-      },
-      "target": {
-        "object_id": "glossary.risk.adverse-outcome",
-        "revision_id": "revision.glossary.1b9756f977ad5670009a81ca"
-      },
-      "source_node_id": "term.dictionary-v3.scope.risk-assessment",
-      "target_node_id": "term.dictionary-v3.scope.risk",
-      "predicate": "evaluates",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.9ec546f098a899ddc7345a",
-      "source": {
-        "object_id": "glossary.control-limit.process-monitoring",
-        "revision_id": "revision.glossary.2036a2f70c7449019061b2a6"
-      },
-      "target": {
-        "object_id": "glossary.specification-limit.acceptability-boundary",
-        "revision_id": "revision.glossary.1ae87076896d791dd209f8e7"
-      },
-      "source_node_id": "term.dictionary-v3.literature.control-limit",
-      "target_node_id": "term.dictionary-v3.literature.specification-limit",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
       "standing": "owner-approved-working-unvalidated",
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
@@ -6870,25 +6415,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.a74120fd16269b3727ef5f",
-      "source": {
-        "object_id": "glossary.specification-limit.acceptability-boundary",
-        "revision_id": "revision.glossary.1ae87076896d791dd209f8e7"
-      },
-      "target": {
-        "object_id": "glossary.control-limit.process-monitoring",
-        "revision_id": "revision.glossary.2036a2f70c7449019061b2a6"
-      },
-      "source_node_id": "term.dictionary-v3.literature.specification-limit",
-      "target_node_id": "term.dictionary-v3.literature.control-limit",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.a798a41c1b35effbdafe61",
       "source": {
         "object_id": "glossary.measurement-error.reference-difference",
@@ -6946,25 +6472,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.aa11d1433aaa5caeb3944d",
-      "source": {
-        "object_id": "glossary.audit.management-system",
-        "revision_id": "revision.glossary.9804ad18c63a0fa9ee4a9e15"
-      },
-      "target": {
-        "object_id": "glossary.inspection.requirement-check",
-        "revision_id": "revision.glossary.b38c7b254c48662e25788d8e"
-      },
-      "source_node_id": "term.dictionary-v3-unfolding.audit",
-      "target_node_id": "term.dictionary-v3.scope.inspection",
-      "predicate": "contrasts-with",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.aad2c396621d239b01a29f",
       "source": {
         "object_id": "glossary.hazard.potential-source-of-harm",
@@ -6980,44 +6487,6 @@
       "direction": "source-to-target",
       "modality": "possible",
       "domain": "operational-causal",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.ab8033cbdefc572cb06200",
-      "source": {
-        "object_id": "glossary.measurement-uncertainty.metrology",
-        "revision_id": "revision.glossary.c9a295b262bf1cdcd5cc9103"
-      },
-      "target": {
-        "object_id": "glossary.measurement-error.reference-difference",
-        "revision_id": "revision.glossary.75894b34696c687165345256"
-      },
-      "source_node_id": "term.dictionary-v3.scope.measurement-uncertainty",
-      "target_node_id": "term.dictionary-v3.scope.measurement-error",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.abf48c212c6f5fc610c00d",
-      "source": {
-        "object_id": "glossary.prevention-cost.avoiding-nonconformity",
-        "revision_id": "revision.glossary.27ea465bb3f58dc7a962d4c9"
-      },
-      "target": {
-        "object_id": "glossary.appraisal-cost.assessing-conformity",
-        "revision_id": "revision.glossary.d28fbccfb04e771e74578602"
-      },
-      "source_node_id": "term.dictionary-v3.scope.prevention-cost",
-      "target_node_id": "term.dictionary-v3.scope.appraisal-cost",
-      "predicate": "contrasts-with",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
       "standing": "owner-approved-working-unvalidated",
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
@@ -7300,25 +6769,6 @@
       "source_node_id": "term.dictionary-v3-unfolding.competence",
       "target_node_id": "term.dictionary-v3.performance",
       "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.b4f6d385dc570af91a2e96",
-      "source": {
-        "object_id": "glossary.calibration.indication-reference-relation",
-        "revision_id": "revision.glossary.dd9aa40a09f8e58a0fc29676"
-      },
-      "target": {
-        "object_id": "glossary.adjustment.change-to-measurement-item",
-        "revision_id": "revision.glossary.4f60bc7f114531b31bf2fce7"
-      },
-      "source_node_id": "term.dictionary-v3-unfolding.calibration",
-      "target_node_id": "term.dictionary-v3.scope.adjustment",
-      "predicate": "contrasts-with",
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "evaluative-normative",
@@ -8561,25 +8011,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.d618e2f7820036df5ffa6a",
-      "source": {
-        "object_id": "glossary.accreditation.educational-recognition",
-        "revision_id": "revision.glossary.ee52e36df7dfb0fc579c7c59"
-      },
-      "target": {
-        "object_id": "glossary.certification.management-system",
-        "revision_id": "revision.glossary.d47b78e7ab0a35f1f66abe5b"
-      },
-      "source_node_id": "term.dictionary-v3-unfolding.accreditation",
-      "target_node_id": "term.dictionary-v3.scope.certification",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.d63ac8d3c45596972b0cbf",
       "source": {
         "object_id": "glossary.failure-mode-and-effects-analysis.prospective-risk",
@@ -8941,25 +8372,6 @@
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
     {
-      "edge_id": "edge.dictionary-v3.professional-quality.e3648ec4857084403d1c0b",
-      "source": {
-        "object_id": "glossary.target.results-monitoring",
-        "revision_id": "revision.glossary.f7cffe9d77d8f7a6e5b7793a"
-      },
-      "target": {
-        "object_id": "glossary.requirement.cross-domain",
-        "revision_id": "revision.glossary.62d5505c354c23c8f91e5065"
-      },
-      "source_node_id": "operation.dictionary-v3.target",
-      "target_node_id": "term.dictionary-v3.requirement",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
       "edge_id": "edge.dictionary-v3.professional-quality.e366bab9c57c6f0fa8c7a1",
       "source": {
         "object_id": "glossary.process-control.quality-requirements",
@@ -9051,25 +8463,6 @@
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "conceptual-ontological",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.e5c200e1f9928d266ce3e1",
-      "source": {
-        "object_id": "glossary.mean-time-to-repair.corrective-maintenance",
-        "revision_id": "revision.glossary.95025001cb204f19405c0cc9"
-      },
-      "target": {
-        "object_id": "glossary.availability.engineered-system",
-        "revision_id": "revision.glossary.93b216acb9a1fdf1277db922"
-      },
-      "source_node_id": "term.dictionary-v3.scope.mean-time-to-repair",
-      "target_node_id": "term.dictionary-v3.hardening.availability",
-      "predicate": "informs",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "operational-causal",
       "standing": "owner-approved-working-unvalidated",
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
@@ -9469,25 +8862,6 @@
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "conceptual-ontological",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.edba73f66c701a19ed1b55",
-      "source": {
-        "object_id": "glossary.reliability.cross-domain",
-        "revision_id": "revision.glossary.4ee64845069e84c0f36eb1c3"
-      },
-      "target": {
-        "object_id": "glossary.availability.engineered-system",
-        "revision_id": "revision.glossary.93b216acb9a1fdf1277db922"
-      },
-      "source_node_id": "term.dictionary-v3.reliability",
-      "target_node_id": "term.dictionary-v3.hardening.availability",
-      "predicate": "distinct-from",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "evaluative-normative",
       "standing": "owner-approved-working-unvalidated",
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
@@ -9944,25 +9318,6 @@
       "direction": "source-to-target",
       "modality": "asserted",
       "domain": "operational-causal",
-      "standing": "owner-approved-working-unvalidated",
-      "scope": "Studio working relation; exact glossary sense and claim have not been validated."
-    },
-    {
-      "edge_id": "edge.dictionary-v3.professional-quality.fb33f0ecc91271a7b8f646",
-      "source": {
-        "object_id": "glossary.certification.management-system",
-        "revision_id": "revision.glossary.d47b78e7ab0a35f1f66abe5b"
-      },
-      "target": {
-        "object_id": "glossary.conformity-assessment.requirement-demonstration",
-        "revision_id": "revision.glossary.55c7fc2e87c57072f65ec5b7"
-      },
-      "source_node_id": "term.dictionary-v3.scope.certification",
-      "target_node_id": "term.dictionary-v3.scope.conformity-assessment",
-      "predicate": "is-output-of",
-      "direction": "source-to-target",
-      "modality": "asserted",
-      "domain": "conceptual-ontological",
       "standing": "owner-approved-working-unvalidated",
       "scope": "Studio working relation; exact glossary sense and claim have not been validated."
     },
