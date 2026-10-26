@@ -2197,6 +2197,11 @@
       "path": "entries/objectivity/journalistic-reporting-and-inquiry/revision.glossary.c02b0e1b4f729e81dab8931c.json"
     },
     {
+      "object_id": "glossary.observability.software-service-state",
+      "revision_id": "revision.glossary.269dd24c219662378e99d786",
+      "path": "entries/observability/software-service-operations/revision.glossary.269dd24c219662378e99d786.json"
+    },
+    {
       "object_id": "glossary.observation.behavioral-record",
       "revision_id": "revision.glossary.e40ebf45d64ce0d82f7fd0f4",
       "path": "entries/observation/recorded-behavior-in-behavioral-research/revision.glossary.e40ebf45d64ce0d82f7fd0f4.json"
