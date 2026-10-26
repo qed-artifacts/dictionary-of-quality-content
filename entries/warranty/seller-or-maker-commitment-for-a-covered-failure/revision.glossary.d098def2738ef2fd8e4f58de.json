@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.warranty.covered-failure-remedy",
+  "revision_id": "revision.glossary.d098def2738ef2fd8e4f58de",
+  "headword": "Warranty",
+  "scope_label": "seller or maker commitment for a covered failure",
+  "definition": "A warranty is a seller’s or maker’s commitment to provide a stated remedy if a product fails under covered conditions.",
+  "explanation": [
+    "Its terms specify what is covered, for how long or under what use conditions, and whether the remedy is repair, replacement, compensation, or another stated response.",
+    "A warranty defines an obligation after a covered problem occurs; it does not establish that the product will not fail."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
