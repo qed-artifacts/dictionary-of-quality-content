@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.instructional-quality.teaching-learning-support",
+  "revision_id": "revision.glossary.8484a673c8c59704430aa167",
+  "headword": "Instructional quality",
+  "scope_label": "K-12 teaching practice",
+  "definition": "In K–12 education, instructional quality is how well teaching practices support specified learning goals for the students concerned.",
+  "explanation": [
+    "It calls for evidence about instruction and learning; the choice of content or a highly rated textbook alone does not establish it."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
