@@ -1797,6 +1797,11 @@
       "path": "entries/interest/stake-in-a-decision-or-outcome/revision.glossary.5d7e91521a81149e676cb716.json"
     },
     {
+      "object_id": "glossary.internal-consistency.psychometric-item-coherence",
+      "revision_id": "revision.glossary.5c9d72b3f7d74d1969e7df1c",
+      "path": "entries/internal-consistency/coherence-among-items-in-a-multi-item-measure/revision.glossary.5c9d72b3f7d74d1969e7df1c.json"
+    },
+    {
       "object_id": "glossary.internal-failure-cost.pre-delivery-nonconformity",
       "revision_id": "revision.glossary.d0edc500b7831c3c4726895e",
       "path": "entries/internal-failure-cost/cost-arising-from-defects-discovered-before-delivery/revision.glossary.d0edc500b7831c3c4726895e.json"
