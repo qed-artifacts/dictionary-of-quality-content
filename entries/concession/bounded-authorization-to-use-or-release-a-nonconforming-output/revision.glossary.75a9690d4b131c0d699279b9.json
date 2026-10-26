@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.concession.nonconforming-output-authorization",
+  "revision_id": "revision.glossary.75a9690d4b131c0d699279b9",
+  "headword": "Concession",
+  "scope_label": "bounded authorization to use or release a nonconforming output",
+  "definition": "In quality management, a concession is permission to use or release a product or service even though it does not meet a specified requirement.",
+  "explanation": [
+    "The permission should identify the departure and its limits, such as quantity, time, or intended use.",
+    "It authorizes that particular exception; it does not make the product or service conforming or waive other requirements."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
