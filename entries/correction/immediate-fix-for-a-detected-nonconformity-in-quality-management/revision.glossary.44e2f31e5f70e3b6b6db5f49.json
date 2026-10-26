@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.correction.detected-nonconformity",
+  "revision_id": "revision.glossary.44e2f31e5f70e3b6b6db5f49",
+  "headword": "Correction",
+  "scope_label": "immediate fix for a detected nonconformity in quality management",
+  "definition": "In quality management, a correction is an action that fixes a detected nonconformity.",
+  "explanation": [
+    "Repairing or reworking the affected output can be a correction.",
+    "Correction addresses the present problem; corrective action addresses its cause to reduce recurrence."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
