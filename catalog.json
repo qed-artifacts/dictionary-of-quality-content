@@ -1237,6 +1237,11 @@
       "path": "entries/e-service-quality/service-delivered-through-a-digital-interface/revision.glossary.422b6f7244c01d1e77c79f40.json"
     },
     {
+      "object_id": "glossary.ecological-integrity.ecosystem-condition",
+      "revision_id": "revision.glossary.0070b37ff1aa5ed89fb7f911",
+      "path": "entries/ecological-integrity/ecosystem-condition-in-ecological-assessment/revision.glossary.0070b37ff1aa5ed89fb7f911.json"
+    },
+    {
       "object_id": "glossary.ecological-validity.real-life-applicability",
       "revision_id": "revision.glossary.94df45d3fccdd57feb06bdd5",
       "path": "entries/ecological-validity/applicability-of-research-findings-to-real-life-situations/revision.glossary.94df45d3fccdd57feb06bdd5.json"
