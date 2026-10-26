@@ -1872,6 +1872,11 @@
       "path": "entries/item-discrimination/separation-of-examinees-by-a-measured-trait/revision.glossary.9e52e189638c81b9ef7799ca.json"
     },
     {
+      "object_id": "glossary.item-response-theory.latent-trait-models",
+      "revision_id": "revision.glossary.5563fe3ebef0162a55d2efe6",
+      "path": "entries/item-response-theory/statistical-models-linking-latent-traits-to-item-responses/revision.glossary.5563fe3ebef0162a55d2efe6.json"
+    },
+    {
       "object_id": "glossary.jidoka.stop-on-abnormality",
       "revision_id": "revision.glossary.f2186e03fea696b5e5e72a19",
       "path": "entries/jidoka/production-response-that-stops-and-exposes-abnormal-conditions/revision.glossary.f2186e03fea696b5e5e72a19.json"
