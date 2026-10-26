@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.effectiveness.intended-results",
+  "revision_id": "revision.glossary.56f2dce344c0a0f83f1a06f0",
+  "headword": "Effectiveness",
+  "scope_label": "attainment of intended results by an action or process",
+  "definition": "Effectiveness is the extent to which an action or process achieves the results it was meant to achieve.",
+  "explanation": [
+    "Judge it by relating the intended results to what happened under the relevant conditions.",
+    "Completing the planned steps alone does not establish that the intended result occurred."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
