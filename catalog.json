@@ -2392,6 +2392,11 @@
       "path": "entries/observed-value/value-obtained-for-a-characteristic-by-test-or-measurement/revision.glossary.5def1d4d214584a2f5f1e588.json"
     },
     {
+      "object_id": "glossary.open-science.research-openness-practices",
+      "revision_id": "revision.glossary.0f3a7fb16d77cbad8c798851",
+      "path": "entries/open-science/research-openness-and-wider-participation/revision.glossary.0f3a7fb16d77cbad8c798851.json"
+    },
+    {
       "object_id": "glossary.operating-characteristic-curve.acceptance-probability",
       "revision_id": "revision.glossary.6e601b28de2a64d11079a4a5",
       "path": "entries/operating-characteristic-curve/acceptance-probability-across-lot-quality-levels-for-a-sampling-plan/revision.glossary.6e601b28de2a64d11079a4a5.json"
