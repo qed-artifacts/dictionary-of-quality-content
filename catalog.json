@@ -3272,6 +3272,11 @@
       "path": "entries/sampling/selection-of-units-or-cases-for-examination/revision.glossary.fe2584780560c5a3f67e4eb2.json"
     },
     {
+      "object_id": "glossary.satisfaction.product-service-appraisal",
+      "revision_id": "revision.glossary.13f2fc92aba394dbb6752964",
+      "path": "entries/satisfaction/appraisal-of-a-product-or-service-experience/revision.glossary.13f2fc92aba394dbb6752964.json"
+    },
+    {
       "object_id": "glossary.scalability.computing-growing-workload",
       "revision_id": "revision.glossary.1b1053e9e37bee3655751219",
       "path": "entries/scalability/software-and-computing-workload-growth/revision.glossary.1b1053e9e37bee3655751219.json"

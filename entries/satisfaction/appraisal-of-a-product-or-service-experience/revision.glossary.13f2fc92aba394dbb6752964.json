@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.satisfaction.product-service-appraisal",
+  "revision_id": "revision.glossary.13f2fc92aba394dbb6752964",
+  "headword": "Satisfaction",
+  "scope_label": "appraisal of a product or service experience",
+  "definition": "In a product or service experience, satisfaction is a person's appraisal of how well the experience met their needs or expectations.",
+  "explanation": [
+    "It reflects the person's perception and can change as needs, expectations, or experience change.",
+    "A satisfaction report alone does not establish that every applicable requirement was met."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
