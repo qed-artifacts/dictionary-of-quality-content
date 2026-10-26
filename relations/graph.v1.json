@@ -69,6 +69,52 @@
       }
     },
     {
+      "relation_id": "relation.glossary.appraisal-cost-distinguished-from-prevention-cost",
+      "revision_id": "revision.relation.cd7d3c8e5a413ca89a6a4502",
+      "source": {
+        "object_id": "glossary.appraisal-cost.assessing-conformity",
+        "revision_id": "revision.glossary.d28fbccfb04e771e74578602"
+      },
+      "target": {
+        "object_id": "glossary.prevention-cost.avoiding-nonconformity",
+        "revision_id": "revision.glossary.27ea465bb3f58dc7a962d4c9"
+      },
+      "predicate": "distinguished-from",
+      "scope": "Quality-cost activities classified by whether they assess conformity or aim to prevent failures",
+      "label": "distinguished from",
+      "explanation": "Appraisal cost is spending to assess whether products, services, or processes meet requirements; prevention cost is spending intended to avert defects or other quality failures.",
+      "review": {
+        "owner_editorial": true,
+        "owner_source_attestation": true,
+        "internal_validation": true,
+        "owner_release_authorization": true,
+        "independent_external_review": false
+      }
+    },
+    {
+      "relation_id": "relation.glossary.availability-distinguished-from-reliability",
+      "revision_id": "revision.relation.b70807d9c8ebd75e3dfebaa2",
+      "source": {
+        "object_id": "glossary.availability.engineered-system",
+        "revision_id": "revision.glossary.93b216acb9a1fdf1277db922"
+      },
+      "target": {
+        "object_id": "glossary.reliability.cross-domain",
+        "revision_id": "revision.glossary.4ee64845069e84c0f36eb1c3"
+      },
+      "predicate": "distinguished-from",
+      "scope": "Engineered systems and items under stated operating conditions; reliability's test-score sense is excluded",
+      "label": "distinguished from",
+      "explanation": "Availability concerns whether a system is operable when needed at a given time; engineered-item reliability concerns performing as required without failure over a stated interval.",
+      "review": {
+        "owner_editorial": true,
+        "owner_source_attestation": true,
+        "internal_validation": true,
+        "owner_release_authorization": true,
+        "independent_external_review": false
+      }
+    },
+    {
       "relation_id": "relation.glossary.control-limit-distinguished-from-specification-limit",
       "revision_id": "revision.relation.f9b82ef45d9e9ea8c9f7f088",
       "source": {
