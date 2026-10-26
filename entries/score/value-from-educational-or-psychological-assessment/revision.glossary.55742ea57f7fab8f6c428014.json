@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.score.psychometric-assessment",
+  "revision_id": "revision.glossary.55742ea57f7fab8f6c428014",
+  "headword": "Score",
+  "scope_label": "value from educational or psychological assessment",
+  "definition": "In educational or psychological assessment, a score is a value produced from a person's responses or performance by a specified scoring rule.",
+  "explanation": [
+    "A raw score may count correct responses. Other scoring rules may weight responses or transform a raw score.",
+    "What the score means depends on the instrument, the comparison used, and the decision for which it is interpreted."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

@@ -3307,6 +3307,11 @@
       "path": "entries/scope/boundary-of-an-approved-project-plan/revision.glossary.7cf64240f4ce3650c23611ca.json"
     },
     {
+      "object_id": "glossary.score.psychometric-assessment",
+      "revision_id": "revision.glossary.55742ea57f7fab8f6c428014",
+      "path": "entries/score/value-from-educational-or-psychological-assessment/revision.glossary.55742ea57f7fab8f6c428014.json"
+    },
+    {
       "object_id": "glossary.scrap.prevent-original-use",
       "revision_id": "revision.glossary.916a2b447fb754b5a055ea9e",
       "path": "entries/scrap/disposition-preventing-a-nonconforming-output-s-original-use/revision.glossary.916a2b447fb754b5a055ea9e.json"
