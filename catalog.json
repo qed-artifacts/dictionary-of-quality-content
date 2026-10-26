@@ -102,6 +102,11 @@
       "path": "entries/advanced-product-quality-planning/automotive-oriented-product-and-production-process-planning/revision.glossary.1d97908aeb9f76bef757b640.json"
     },
     {
+      "object_id": "glossary.adverse-event.patient-harm-from-care",
+      "revision_id": "revision.glossary.fbdf8cc1e1748bb87f620f94",
+      "path": "entries/adverse-event/patient-harm-associated-with-healthcare-management/revision.glossary.fbdf8cc1e1748bb87f620f94.json"
+    },
+    {
       "object_id": "glossary.aesthetic-merit.aesthetic-worth",
       "revision_id": "revision.glossary.d007dd1c4cab3ee2475a570a",
       "path": "entries/aesthetic-merit/worth-of-an-object-considered-aesthetically/revision.glossary.d007dd1c4cab3ee2475a570a.json"
