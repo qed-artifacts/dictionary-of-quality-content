@@ -302,6 +302,11 @@
       "path": "entries/bioavailability/availability-of-an-active-drug-after-administration/revision.glossary.68bfddc6be367512d7f0c184.json"
     },
     {
+      "object_id": "glossary.bioequivalence.comparative-drug-exposure",
+      "revision_id": "revision.glossary.44c5e1bfc425bceed8a5d630",
+      "path": "entries/bioequivalence/comparative-active-drug-availability-from-products/revision.glossary.44c5e1bfc425bceed8a5d630.json"
+    },
+    {
       "object_id": "glossary.boundary-condition.scope-limit",
       "revision_id": "revision.glossary.85965b599b0e9e5bc856449d",
       "path": "entries/boundary-condition/stated-limit-on-engineering-or-problem-framing-scope/revision.glossary.85965b599b0e9e5bc856449d.json"
