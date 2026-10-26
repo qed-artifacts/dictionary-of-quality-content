@@ -3472,6 +3472,11 @@
       "path": "entries/service-level/specified-or-observed-values-of-service-characteristics/revision.glossary.3fdda5859aa98fdeff78f71a.json"
     },
     {
+      "object_id": "glossary.service-quality-gap-model.expectation-perception-and-provider-gaps",
+      "revision_id": "revision.glossary.921dc6c6822cddc96ba346a1",
+      "path": "entries/service-quality-gap-model/service-marketing-and-customer-perceived-quality/revision.glossary.921dc6c6822cddc96ba346a1.json"
+    },
+    {
       "object_id": "glossary.service-quality.customer-experience",
       "revision_id": "revision.glossary.115bb7802c3a2ebf10e88fdf",
       "path": "entries/service-quality/service-performance-and-user-experience/revision.glossary.115bb7802c3a2ebf10e88fdf.json"

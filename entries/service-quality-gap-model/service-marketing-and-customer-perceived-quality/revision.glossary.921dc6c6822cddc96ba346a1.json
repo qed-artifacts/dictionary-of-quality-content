@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.service-quality-gap-model.expectation-perception-and-provider-gaps",
+  "revision_id": "revision.glossary.921dc6c6822cddc96ba346a1",
+  "headword": "Service quality gap model",
+  "scope_label": "service marketing and customer-perceived quality",
+  "definition": "The service quality gap model explains customer-perceived quality through mismatches between expected and perceived service and gaps within the provider's design and delivery process.",
+  "explanation": [
+    "It directs attention to where expectations, specifications, performance, or communications diverge. SERVQUAL is an associated measurement scale, not the whole model."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
