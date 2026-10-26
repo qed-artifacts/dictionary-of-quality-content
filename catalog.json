@@ -2007,6 +2007,11 @@
       "path": "entries/measurement-uncertainty/metrological-uncertainty-associated-with-a-measured-quantity/revision.glossary.c9a295b262bf1cdcd5cc9103.json"
     },
     {
+      "object_id": "glossary.measurement.metrology-process",
+      "revision_id": "revision.glossary.a543640de8d7d73d74b08081",
+      "path": "entries/measurement/metrology-measurement-process/revision.glossary.a543640de8d7d73d74b08081.json"
+    },
+    {
       "object_id": "glossary.mechanism.causal-link-process",
       "revision_id": "revision.glossary.b1e05c31e6077bd8eecef863",
       "path": "entries/mechanism/causal-process-linking-an-antecedent-to-an-effect/revision.glossary.b1e05c31e6077bd8eecef863.json"
