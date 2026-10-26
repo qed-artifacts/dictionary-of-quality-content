@@ -672,6 +672,11 @@
       "path": "entries/convergent-validity/evidence-from-predicted-relations-among-measures-of-related-constructs/revision.glossary.ee7cdc7d51b3d49d833058de.json"
     },
     {
+      "object_id": "glossary.correction.detected-nonconformity",
+      "revision_id": "revision.glossary.44e2f31e5f70e3b6b6db5f49",
+      "path": "entries/correction/immediate-fix-for-a-detected-nonconformity-in-quality-management/revision.glossary.44e2f31e5f70e3b6b6db5f49.json"
+    },
+    {
       "object_id": "glossary.corrective-action.recurrence-prevention",
       "revision_id": "revision.glossary.2d990225dbcbdab92ae1507f",
       "path": "entries/corrective-action/addressing-causes-of-a-detected-nonconformity/revision.glossary.2d990225dbcbdab92ae1507f.json"
