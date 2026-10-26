@@ -69,6 +69,29 @@
       }
     },
     {
+      "relation_id": "relation.glossary.adjustment-distinguished-from-calibration",
+      "revision_id": "revision.relation.2a636514c8be9e123d507c47",
+      "source": {
+        "object_id": "glossary.adjustment.change-to-measurement-item",
+        "revision_id": "revision.glossary.4f60bc7f114531b31bf2fce7"
+      },
+      "target": {
+        "object_id": "glossary.calibration.indication-reference-relation",
+        "revision_id": "revision.glossary.dd9aa40a09f8e58a0fc29676"
+      },
+      "predicate": "distinguished-from",
+      "scope": "Technical metrology; adjustment may be performed during a broader calibration activity",
+      "label": "distinguished from",
+      "explanation": "Adjustment changes a measuring item's indication or output; calibration establishes its relation to reference values under stated conditions. Calibration does not by itself require adjustment.",
+      "review": {
+        "owner_editorial": true,
+        "owner_source_attestation": true,
+        "internal_validation": true,
+        "owner_release_authorization": true,
+        "independent_external_review": false
+      }
+    },
+    {
       "relation_id": "relation.glossary.appraisal-cost-distinguished-from-prevention-cost",
       "revision_id": "revision.relation.cd7d3c8e5a413ca89a6a4502",
       "source": {
@@ -115,6 +138,29 @@
       }
     },
     {
+      "relation_id": "relation.glossary.conformity-distinguished-from-nonconformity",
+      "revision_id": "revision.relation.ceaec20f9d817fad2eb68ab7",
+      "source": {
+        "object_id": "glossary.conformity.requirement",
+        "revision_id": "revision.glossary.ad0eec23858c9da95c86ced3"
+      },
+      "target": {
+        "object_id": "glossary.nonconformity.unmet-requirement",
+        "revision_id": "revision.glossary.617397708409669dc921b1f5"
+      },
+      "predicate": "distinguished-from",
+      "scope": "Whether a specified applicable requirement is fulfilled",
+      "label": "distinguished from",
+      "explanation": "Conformity means an applicable requirement is fulfilled; nonconformity means it is not fulfilled. The judgment must identify the requirement and the object assessed.",
+      "review": {
+        "owner_editorial": true,
+        "owner_source_attestation": true,
+        "internal_validation": true,
+        "owner_release_authorization": true,
+        "independent_external_review": false
+      }
+    },
+    {
       "relation_id": "relation.glossary.control-limit-distinguished-from-specification-limit",
       "revision_id": "revision.relation.f9b82ef45d9e9ea8c9f7f088",
       "source": {
@@ -129,6 +175,52 @@
       "scope": "Statistical process control and acceptability of a specified characteristic",
       "label": "distinguished from",
       "explanation": "A control limit is calculated from process data to help assess process behavior; a specification limit states a boundary for acceptable values of a characteristic.",
+      "review": {
+        "owner_editorial": true,
+        "owner_source_attestation": true,
+        "internal_validation": true,
+        "owner_release_authorization": true,
+        "independent_external_review": false
+      }
+    },
+    {
+      "relation_id": "relation.glossary.correction-distinguished-from-corrective-action",
+      "revision_id": "revision.relation.35ad915a99ca2fa0f9781eff",
+      "source": {
+        "object_id": "glossary.correction.detected-nonconformity",
+        "revision_id": "revision.glossary.44e2f31e5f70e3b6b6db5f49"
+      },
+      "target": {
+        "object_id": "glossary.corrective-action.recurrence-prevention",
+        "revision_id": "revision.glossary.2d990225dbcbdab92ae1507f"
+      },
+      "predicate": "distinguished-from",
+      "scope": "Responses to a detected quality nonconformity; both actions can be part of one response",
+      "label": "distinguished from",
+      "explanation": "A correction fixes a detected nonconformity; corrective action addresses its cause to prevent recurrence. One response may require both.",
+      "review": {
+        "owner_editorial": true,
+        "owner_source_attestation": true,
+        "internal_validation": true,
+        "owner_release_authorization": true,
+        "independent_external_review": false
+      }
+    },
+    {
+      "relation_id": "relation.glossary.dmadv-distinguished-from-dmaic",
+      "revision_id": "revision.relation.11e57fb51e9b8fa4108dfb79",
+      "source": {
+        "object_id": "glossary.dmadv.design-for-six-sigma",
+        "revision_id": "revision.glossary.f651cbd8b2a5c49f0c30ce6d"
+      },
+      "target": {
+        "object_id": "glossary.dmaic.existing-process-improvement",
+        "revision_id": "revision.glossary.fcb7e77971a79847281f4949"
+      },
+      "predicate": "distinguished-from",
+      "scope": "Six Sigma methods; design or major overhaul versus process improvement, with use chosen by project context",
+      "label": "distinguished from",
+      "explanation": "DMADV structures design work through Define, Measure, Analyze, Design, and Verify; DMAIC structures process improvement through Define, Measure, Analyze, Improve, and Control.",
       "review": {
         "owner_editorial": true,
         "owner_source_attestation": true,
