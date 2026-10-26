@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.cultural-competence.responsive-service",
+  "revision_id": "revision.glossary.d68432269ad7fbaadf086811",
+  "headword": "Cultural competence",
+  "scope_label": "responsive public and human services across cultural differences",
+  "definition": "Cultural competence is the capacity of a person or organization to provide services respectfully and effectively across relevant cultural and linguistic differences.",
+  "explanation": [
+    "It calls for understanding the people served and adapting communication and practice to their needs and circumstances.",
+    "A claim of cultural competence should be judged by what the service actually does for those people, not by a training label alone."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
