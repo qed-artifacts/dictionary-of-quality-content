@@ -1497,6 +1497,11 @@
       "path": "entries/fairness/justifiability-of-treatment-process-or-outcome/revision.glossary.4413a753b238a6649bdd357f.json"
     },
     {
+      "object_id": "glossary.family-quality-of-life.shared-family-wellbeing",
+      "revision_id": "revision.glossary.62171a835a6b0ce1c0909adb",
+      "path": "entries/family-quality-of-life/family-and-developmental-disability-support-research/revision.glossary.62171a835a6b0ce1c0909adb.json"
+    },
+    {
       "object_id": "glossary.fault-tolerance.required-function-during-fault",
       "revision_id": "revision.glossary.8b889f941f915a4e99ea15ef",
       "path": "entries/fault-tolerance/continued-required-function-despite-specified-component-faults/revision.glossary.8b889f941f915a4e99ea15ef.json"
