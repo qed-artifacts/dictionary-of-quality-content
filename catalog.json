@@ -2022,6 +2022,11 @@
       "path": "entries/management-philosophy/guiding-principles-for-managing-quality-across-an-organization/revision.glossary.aead0f40d5c69547d25ebbd8.json"
     },
     {
+      "object_id": "glossary.management-response.audit-finding-action",
+      "revision_id": "revision.glossary.261fe73545f18ab507bf7eb4",
+      "path": "entries/management-response/management-action-or-plan-in-answer-to-an-audit-finding/revision.glossary.261fe73545f18ab507bf7eb4.json"
+    },
+    {
       "object_id": "glossary.management-review.quality-system-governance",
       "revision_id": "revision.glossary.205c2f470465edc40f66e58c",
       "path": "entries/management-review/leadership-review-of-a-quality-management-system/revision.glossary.205c2f470465edc40f66e58c.json"

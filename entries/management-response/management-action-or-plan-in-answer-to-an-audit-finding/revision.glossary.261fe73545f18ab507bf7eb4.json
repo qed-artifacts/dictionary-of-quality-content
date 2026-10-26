@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.management-response.audit-finding-action",
+  "revision_id": "revision.glossary.261fe73545f18ab507bf7eb4",
+  "headword": "Management response",
+  "scope_label": "management action or plan in answer to an audit finding",
+  "definition": "In an audit, a management response is the audited organization’s account of action taken or planned in answer to a finding.",
+  "explanation": [
+    "An immediate correction may address a visible problem without eliminating its cause.",
+    "For a nonconformity, the response should connect the finding to cause analysis and corrective action; follow-up evidence is needed to establish whether the action was effective."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
