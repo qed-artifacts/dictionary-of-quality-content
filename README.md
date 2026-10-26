@@ -13,6 +13,8 @@ Original glossary prose is dedicated to the public domain under [CC0 1.0](LICENS
 - catalog.json: current released object pointers.
 - navigation.json: optional, scoped routes to existing released entries. These routes are not additional glossary objects or publications.
 - relations/graph.v1.json: versioned, catalog-pinned snapshot of separately reviewed relation assertions and curated cluster views. These are not additional term objects; an empty snapshot means no relations have cleared their own gates.
+- relations/studio-working.v1.json: owner-approved working semantic relations, kept separate from the reviewed relation history.
+- relations/studio-navigation.v1.json: Studio draft definition-reference routes and a separate Quality-anchored coverage facet. Neither is a validated semantic relation or a claim about the released definition wording.
 - entries/<headword>/<scope>/<revision-id>.json: machine-readable, immutable release version.
 - entries/<headword>/<scope>/<revision-id>.md: reader-facing rendering of that version.
 - schemas/: public data contracts.
@@ -22,6 +24,6 @@ Navigation is exported from current adopted private dispositions with `node scri
 
 The private relation CLI exports `relations/graph.v1.json` only from exact-revision approved relation and cluster records. `node scripts/validate.mjs` checks the graph against the current catalog and public entries: endpoint revisions, controlled predicates, canonical symmetric orientation, duplicate claims, taxonomic cycles, and public-safe fields. Run `node --test scripts/relations.test.mjs` as well. Public edges contain only original CC0 reader wording, exact IDs, scope, and actual review labels; original-source warrants stay private. After a term publication changes the catalog, regenerate and review the graph before tagging the next release. Historical tags keep their older graph.
 
-Run node scripts/validate.mjs before proposing a release. A public object records its stable ID, revision ID, bounded scope, original reader text, license scope, and actual review labels. Publication on GitHub is verified against the private release manifest and merged Git commit. No independent external review is implied by owner or internal validation.
+Run node scripts/validate.mjs before proposing a release. The Studio navigation projection is generated from the private normalized-edge crosswalk by `tools/export-studio-navigation.mjs`; `node --test scripts/studio-navigation.test.mjs` checks its endpoint pins, deduplication, privacy, and separate coverage role. A public object records its stable ID, revision ID, bounded scope, original reader text, license scope, and actual review labels. Publication on GitHub is verified against the private release manifest and merged Git commit. No independent external review is implied by owner or internal validation.
 
 The catalog is the authority for which objects are currently released. Drafts and pending review objects remain in the private publication store.
