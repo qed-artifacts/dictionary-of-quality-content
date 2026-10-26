@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.service-assurance.customer-confidence-in-provider",
+  "revision_id": "revision.glossary.f361e93a2e1147abc86aa497",
+  "headword": "Service assurance",
+  "scope_label": "customer-perceived service quality",
+  "definition": "In SERVQUAL-based service-quality assessment, service assurance refers to the assurance dimension: customers' confidence inspired by a provider's knowledge, courtesy, and competence.",
+  "explanation": [
+    "Applied service-quality studies use this compound for the established assurance dimension, rather than an additional dimension."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}

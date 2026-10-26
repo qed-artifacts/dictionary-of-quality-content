@@ -3662,6 +3662,11 @@
       "path": "entries/sentinel-event/joint-commission-safety-event-classification/revision.glossary.610e09fbf04997904d01b2f4.json"
     },
     {
+      "object_id": "glossary.service-assurance.customer-confidence-in-provider",
+      "revision_id": "revision.glossary.f361e93a2e1147abc86aa497",
+      "path": "entries/service-assurance/customer-perceived-service-quality/revision.glossary.f361e93a2e1147abc86aa497.json"
+    },
+    {
       "object_id": "glossary.service-encounter-quality.particular-interaction",
       "revision_id": "revision.glossary.299ecfc961ef39a77c283c6a",
       "path": "entries/service-encounter-quality/particular-provider-recipient-interaction/revision.glossary.299ecfc961ef39a77c283c6a.json"
