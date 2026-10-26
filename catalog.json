@@ -472,6 +472,11 @@
       "path": "entries/client-centered-care/health-care-service-delivery/revision.glossary.995e94c3e8287223a32f1435.json"
     },
     {
+      "object_id": "glossary.clinical-quality.care-performance",
+      "revision_id": "revision.glossary.13acff1f02ae64875ed005d6",
+      "path": "entries/clinical-quality/clinical-aspects-of-health-care-in-relation-to-patient-needs-and-outcomes/revision.glossary.13acff1f02ae64875ed005d6.json"
+    },
+    {
       "object_id": "glossary.code-compliance.applicable-construction-rules",
       "revision_id": "revision.glossary.9003b2ed6519289780f18a75",
       "path": "entries/code-compliance/conformity-to-applicable-construction-regulatory-provisions/revision.glossary.9003b2ed6519289780f18a75.json"
