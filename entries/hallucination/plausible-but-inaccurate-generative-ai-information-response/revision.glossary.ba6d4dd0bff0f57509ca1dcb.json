@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.hallucination.generative-ai-error",
+  "revision_id": "revision.glossary.ba6d4dd0bff0f57509ca1dcb",
+  "headword": "Hallucination",
+  "scope_label": "plausible but inaccurate generative-AI information response",
+  "definition": "In a generative-AI information response, a hallucination is plausible-sounding content that conflicts with the best available evidence.",
+  "explanation": [
+    "Fluent wording can make the error seem credible, so important factual claims need checking against evidence outside the generated answer.",
+    "In this sense, it is an unintentional output error, not deliberately generated disinformation."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
