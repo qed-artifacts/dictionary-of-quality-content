@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.validation-process.regulated-design-evidence-sequence",
+  "revision_id": "revision.glossary.f1b50a601c210e152bd90474",
+  "headword": "Validation process",
+  "scope_label": "medical-device design validation",
+  "definition": "In medical-device design, a validation process is a planned sequence for gathering and reviewing evidence that the device design meets user needs and its intended uses.",
+  "explanation": [
+    "It identifies intended uses, methods, and acceptance criteria, then records results and resolves discrepancies.",
+    "Verification against design inputs can contribute evidence, but it does not by itself show that the design meets user needs."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
