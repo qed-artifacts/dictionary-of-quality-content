@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.design-output.design-stage-deliverable",
+  "revision_id": "revision.glossary.a1c9098697db37b7bedc5422",
+  "headword": "Design output",
+  "scope_label": "medical-device design-stage deliverable",
+  "definition": "In medical-device design, a design output is a deliverable from a design stage that expresses the device design or how it will be made and checked.",
+  "explanation": [
+    "It may be a specification, drawing, manufacturing instruction, or test protocol. An output from one stage can become an input to the next.",
+    "Teams relate outputs to relevant design inputs and verify them against applicable requirements; producing a document alone does not show that those requirements are met."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
