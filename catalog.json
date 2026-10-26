@@ -1062,6 +1062,11 @@
       "path": "entries/design-space/quality-assuring-combinations-of-pharmaceutical-inputs-and-process-settings/revision.glossary.43dde8f3e08506e78baf302c.json"
     },
     {
+      "object_id": "glossary.design.proposed-solution-specification",
+      "revision_id": "revision.glossary.e69a5e631ae6572f9153eedd",
+      "path": "entries/design/forming-and-specifying-a-proposed-product-or-service-solution/revision.glossary.e69a5e631ae6572f9153eedd.json"
+    },
+    {
       "object_id": "glossary.desirability.favorable-outcome-appraisal",
       "revision_id": "revision.glossary.e3e6cbc2d7c26c7b9316c875",
       "path": "entries/desirability/favorable-appraisal-of-an-outcome-under-specified-aims-or-values/revision.glossary.e3e6cbc2d7c26c7b9316c875.json"
