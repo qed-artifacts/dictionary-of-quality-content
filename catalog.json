@@ -1207,6 +1207,11 @@
       "path": "entries/donabedian-model/health-care-quality-assessment/revision.glossary.e1b981ab649381908e1b83e5.json"
     },
     {
+      "object_id": "glossary.due-diligence.proportionate-inquiry",
+      "revision_id": "revision.glossary.f54be68e74c4ef8ea3034bac",
+      "path": "entries/due-diligence/proportionate-inquiry-before-a-consequential-decision/revision.glossary.f54be68e74c4ef8ea3034bac.json"
+    },
+    {
       "object_id": "glossary.due-process.us-constitutional-protection",
       "revision_id": "revision.glossary.19b02ae60e87f7df3cd26093",
       "path": "entries/due-process/u-s-constitutional-protection-against-government-deprivation/revision.glossary.19b02ae60e87f7df3cd26093.json"
