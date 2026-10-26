@@ -2017,6 +2017,11 @@
       "path": "entries/methodological-quality/fitness-of-research-methods-for-warranted-conclusions/revision.glossary.b83effa1611985ce27b8e02f.json"
     },
     {
+      "object_id": "glossary.metric.evaluation-performance",
+      "revision_id": "revision.glossary.44579986770d811aadd859a4",
+      "path": "entries/metric/quantitative-evaluation-performance-metric/revision.glossary.44579986770d811aadd859a4.json"
+    },
+    {
       "object_id": "glossary.metrological-traceability.measurement-result-chain",
       "revision_id": "revision.glossary.41e96ff97d3c072b35f80c83",
       "path": "entries/metrological-traceability/property-of-a-measurement-result-related-to-a-reference/revision.glossary.41e96ff97d3c072b35f80c83.json"
