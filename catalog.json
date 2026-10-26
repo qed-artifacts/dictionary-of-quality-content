@@ -887,6 +887,11 @@
       "path": "entries/data-granularity/data-analysis/revision.glossary.a9ebd771f8ae9a4b7d9e26a5.json"
     },
     {
+      "object_id": "glossary.data-integrity.valid-record-links",
+      "revision_id": "revision.glossary.2d52abe84732be89baf98b59",
+      "path": "entries/data-integrity/valid-links-among-related-records-in-relational-data/revision.glossary.2d52abe84732be89baf98b59.json"
+    },
+    {
       "object_id": "glossary.data-lineage.origin-movement-transformation",
       "revision_id": "revision.glossary.3dd06ef9499279d94a6e3cc2",
       "path": "entries/data-lineage/metadata-tracing-data-movement-and-transformation/revision.glossary.3dd06ef9499279d94a6e3cc2.json"
