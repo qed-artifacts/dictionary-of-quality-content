@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.sentinel-event.hospital-patient-safety",
+  "revision_id": "revision.glossary.610e09fbf04997904d01b2f4",
+  "headword": "Sentinel event",
+  "scope_label": "Joint Commission safety-event classification",
+  "definition": "In Joint Commission usage, a sentinel event is a safety occurrence that meets its serious-harm criteria or is designated for investigation regardless of that outcome.",
+  "explanation": [
+    "A patient-reaching event can qualify when it causes death, severe harm of any duration, or permanent harm of any severity, apart from the natural course of illness.",
+    "Certain listed events qualify even without these outcomes. They call for prompt investigation and response; reporting them to the Joint Commission is voluntary."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
