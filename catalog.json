@@ -342,6 +342,11 @@
       "path": "entries/causal-hypothesis/empirical-causal-inquiry/revision.glossary.1dd3041bf5654ce8f886471f.json"
     },
     {
+      "object_id": "glossary.cause-and-effect-diagram.proposed-causes",
+      "revision_id": "revision.glossary.b31d6e8ef0f878de6e669cac",
+      "path": "entries/cause-and-effect-diagram/diagram-of-possible-contributors-to-a-specified-effect/revision.glossary.b31d6e8ef0f878de6e669cac.json"
+    },
+    {
       "object_id": "glossary.ceiling-effect.measurement-upper-limit",
       "revision_id": "revision.glossary.1f6570e4ff9e87f37c25919f",
       "path": "entries/ceiling-effect/upper-limit-compression-in-a-score-scale/revision.glossary.1f6570e4ff9e87f37c25919f.json"
