@@ -2202,6 +2202,11 @@
       "path": "entries/multi-criteria-decision-analysis/structured-comparison-using-multiple-relevant-criteria/revision.glossary.c198ee4b3a61835aa9d35a09.json"
     },
     {
+      "object_id": "glossary.multivariate-quality-control.joint-characteristic-monitoring",
+      "revision_id": "revision.glossary.db0402af28ce47c4c07fd720",
+      "path": "entries/multivariate-quality-control/statistical-monitoring-of-related-characteristics/revision.glossary.db0402af28ce47c4c07fd720.json"
+    },
+    {
       "object_id": "glossary.need.results-gap",
       "revision_id": "revision.glossary.61ea3c4c62f56427ff18e5ad",
       "path": "entries/need/current-to-required-results-gap-in-needs-assessment/revision.glossary.61ea3c4c62f56427ff18e5ad.json"
