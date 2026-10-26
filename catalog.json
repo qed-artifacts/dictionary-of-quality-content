@@ -67,6 +67,11 @@
       "path": "entries/accountability/answerability-for-conduct-or-results-to-an-evaluating-party/revision.glossary.ced97e0378d7d464eec911b3.json"
     },
     {
+      "object_id": "glossary.accreditation.educational-recognition",
+      "revision_id": "revision.glossary.ee52e36df7dfb0fc579c7c59",
+      "path": "entries/accreditation/higher-education-institutional-or-program-recognition/revision.glossary.ee52e36df7dfb0fc579c7c59.json"
+    },
+    {
       "object_id": "glossary.accuracy.measurement",
       "revision_id": "revision.glossary.35aab25a4ea0fe41413bc10e",
       "path": "entries/accuracy/closeness-of-a-measurement-result-to-a-reference-value/revision.glossary.35aab25a4ea0fe41413bc10e.json"

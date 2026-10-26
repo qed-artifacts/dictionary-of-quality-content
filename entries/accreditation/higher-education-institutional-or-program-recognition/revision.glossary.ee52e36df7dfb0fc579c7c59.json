@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.accreditation.educational-recognition",
+  "revision_id": "revision.glossary.ee52e36df7dfb0fc579c7c59",
+  "headword": "Accreditation",
+  "scope_label": "higher-education institutional or program recognition",
+  "definition": "In higher education, accreditation is an accreditor's public recognition of an institution or program based on its standards and requirements.",
+  "explanation": [
+    "The recognition applies to the institution or program named by the accreditor; a program’s status does not automatically extend to its whole institution.",
+    "Accreditation can carry findings or monitoring. Name the accreditor and the status before treating the recognition as evidence that every requirement is fully met."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
