@@ -2297,6 +2297,11 @@
       "path": "entries/opportunity-exploitation/project-risk-management/revision.glossary.391f9f713577048ae9f45fc9.json"
     },
     {
+      "object_id": "glossary.opportunity-sharing.joint-upside-risk-response",
+      "revision_id": "revision.glossary.2f8089511a5749078dbd7f2e",
+      "path": "entries/opportunity-sharing/project-response-to-favorable-uncertainty/revision.glossary.2f8089511a5749078dbd7f2e.json"
+    },
+    {
       "object_id": "glossary.opportunity.favorable-project-risk",
       "revision_id": "revision.glossary.49f04da02acf4bad8572940a",
       "path": "entries/opportunity/favorable-uncertainty-in-project-risk-management/revision.glossary.49f04da02acf4bad8572940a.json"
