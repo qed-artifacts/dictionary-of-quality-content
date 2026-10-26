@@ -1,0 +1,20 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.design.proposed-solution-specification",
+  "revision_id": "revision.glossary.e69a5e631ae6572f9153eedd",
+  "headword": "Design",
+  "scope_label": "forming and specifying a proposed product or service solution",
+  "definition": "In quality management, design is the work of devising and specifying a solution for an identified purpose or requirement.",
+  "explanation": [
+    "Its outputs can be plans, specifications, or prototypes that guide making a product or delivering a service.",
+    "A proposed design still needs checking against its inputs and intended use; having a specification alone does not show that the finished object works."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
