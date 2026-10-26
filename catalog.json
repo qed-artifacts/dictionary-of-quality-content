@@ -167,6 +167,11 @@
       "path": "entries/appropriateness/fit-of-clinical-care-to-the-patient-s-condition-and-evidence/revision.glossary.4ed44a7fff390695b0cf1a43.json"
     },
     {
+      "object_id": "glossary.architecture-quality.software-structure",
+      "revision_id": "revision.glossary.1d1e1814a18c2494d85047b7",
+      "path": "entries/architecture-quality/software-architecture-s-support-for-system-requirements/revision.glossary.1d1e1814a18c2494d85047b7.json"
+    },
+    {
       "object_id": "glossary.argument-quality.reasons-and-support",
       "revision_id": "revision.glossary.c640534917d08d2071196bc7",
       "path": "entries/argument-quality/informal-argument-assessment/revision.glossary.c640534917d08d2071196bc7.json"
