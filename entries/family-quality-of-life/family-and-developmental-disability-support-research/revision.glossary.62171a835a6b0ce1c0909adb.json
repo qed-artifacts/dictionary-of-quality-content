@@ -1,0 +1,19 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.family-quality-of-life.shared-family-wellbeing",
+  "revision_id": "revision.glossary.62171a835a6b0ce1c0909adb",
+  "headword": "Family quality of life",
+  "scope_label": "family and developmental-disability support research",
+  "definition": "Family quality of life is how well family members' needs are met and how able they are to enjoy life together and pursue what matters to them.",
+  "explanation": [
+    "It includes family relationships, each member's well-being, available resources, and support. It cannot be inferred from one family member's health or circumstances alone."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
