@@ -1,0 +1,21 @@
+{
+  "schema": "qed-glossary-public-object-v1",
+  "object_id": "glossary.design-science-research.artifact-centered-inquiry",
+  "revision_id": "revision.glossary.d22ab2570e1db729eb8cfec0",
+  "headword": "design science research",
+  "scope_label": "artifact-centered research approach",
+  "definition": "Design science research (DSR) is systematic inquiry that develops or investigates purposeful artifacts in response to a problem or opportunity and seeks warranted knowledge about their design, use, effects, and limits.",
+  "explanation": [
+    "Artifacts may include constructs, models, methods, working systems, or organizational arrangements; they need not be physical products.",
+    "A DSR study connects a stated problem, relevant prior knowledge, design work, and evaluation suited to its claims. Delivering a useful artifact alone does not show what knowledge the research contributes.",
+    "The approach is used in information systems and other applied fields, including operations and project management. Its methods and evaluation criteria vary with the question, setting, and type of artifact."
+  ],
+  "content_license": "CC0-1.0",
+  "review": {
+    "owner_editorial": true,
+    "owner_source_attestation": true,
+    "internal_validation": true,
+    "owner_release_authorization": true,
+    "independent_external_review": false
+  }
+}
